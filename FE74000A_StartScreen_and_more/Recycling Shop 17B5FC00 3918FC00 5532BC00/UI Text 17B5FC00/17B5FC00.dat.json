@@ -1,0 +1,216 @@
+{
+	"header": {
+		"text_amount": 20,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 2608,
+		"offset_strings": 2672,
+		"strings_section_size1": 80,
+		"offset3": 2752,
+		"section_size2": 80,
+		"offset4": 2832,
+		"section_size3": 8,
+		"offset5": 2848,
+		"section_size4": 21,
+		"unk3": 0,
+		"offset6": 2588,
+		"offset7": 2600,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Recycle",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Choose item",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Explanations",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "How to recycle",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Rarity",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Recycl. stones",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Unique items",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Tabu items",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "To recycle simply choose 3 different\nor identical items. These will be used\nto create a new item.\nThe rarity of the new item depends on\nthe 3 items you choose. It will be\ndisplayed before recycling.\nPress \"Yes\" to confirm the recycling process.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Recycling fee and rarity of output item\ndepend on the items you put in.\nA higher rarity of items you put in\nmeans also a higher rarity of the item\nyou get, but also a higher\nrecycling fee.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Recycling stones are meant to be used\nfor recycling and replace normal items\nwith the same rarity.\nUsing recycling stones increases the chance\nof getting rarer items a little\ncompared to normal items.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It is said that some items can only be\nobtained via recycling.\nBy getting such an item, you may\nbe one of very few ones to ever\npossess such rare items...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Some items, such as those that can only\nbe obtained once, can't be\nused for recycling and therefore won't\nappear on the item selection list.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You don't have any\ntems for recycling.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Use 3 items to recylce them\ninto a new one.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Check explanations about the\nrecycle shop.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wanna recycle?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Items with a rarity at ☆5 or\nabove have been selected.\nAre you sure you want to\nrecycle them?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Pay <1\u0006\u0001>{3, gold, +}G?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Recycle again?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageMenu",
+			"recycle"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147484797,
+		2147484798,
+		2147484799,
+		2147484814,
+		2147484816,
+		2147484818,
+		2147484820,
+		2147484833,
+		2147484815,
+		2147484817,
+		2147484819,
+		2147484821,
+		2147484834,
+		2147484811,
+		2147484812,
+		2147484813,
+		2147484806,
+		2147484835,
+		2147484807,
+		2147484823
+	]
+}

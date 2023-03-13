@@ -1,0 +1,77 @@
+{
+	"header": {
+		"text_amount": 2,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 283,
+		"offset_strings": 352,
+		"strings_section_size1": 24,
+		"offset3": 384,
+		"section_size2": 8,
+		"offset4": 400,
+		"section_size3": 16,
+		"offset5": 416,
+		"section_size4": 6,
+		"unk3": 0,
+		"offset6": 266,
+		"offset7": 282,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "None",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When I see messages appearing in\nthe additional contents,<1\"\u0000>\nI feel a sense of\nthe future.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟂뚲㉼➺쏝식⟦DEC3⟧糓툲꼧낾⟦DEBC⟧⟦DFB6⟧쌯⟞닃짙⾵⟐쓙야⟦DD27⟧⟦DEC0⟧⾶⟐닗⾵⟦DDB6⟧⟦DEBC⟧곁쾲봧냈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345664,
+		3503345679
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649
+	]
+}

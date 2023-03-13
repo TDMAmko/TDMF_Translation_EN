@@ -1,0 +1,4472 @@
+{
+	"header": {
+		"text_amount": 552,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 129720,
+		"offset_strings": 129792,
+		"strings_section_size1": 2208,
+		"offset3": 132000,
+		"section_size2": 2208,
+		"offset4": 134208,
+		"section_size3": 8,
+		"offset5": 134224,
+		"section_size4": 553,
+		"unk3": 0,
+		"offset6": 129698,
+		"offset7": 129712,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キバが鋭するどく発達はったつしたコウモリ。\nかむと自分じぶんでもちょっと痛いたいらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "血ちに飢うえた狂暴化きょうぼうかしたコウモリ。\n実じつは血ちを吸すっているのを見みたものはいない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくまの使つかいが呼よび出だすという地獄じごくのコウモリ。\n実じつは呼よび出だしているところを見みたものはいない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キバから電気でんきを発はっするコウモリ。\nごはんを食たべるたびにピリッとくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くちばしが大おおきく発達はったつした飛とべない鳥とり。\n自慢じまんの長ながい脚あしは逃走専用とうそうせんよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "異常気象いじょうきしょうで進化しんかしたおおくちばし。\n火ひを吐はくたびにくちばしをやけどしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "寒さむい場所ばしょで進化しんかしたおおくちばし。\nアイスバーンでの走はしりは魔物まものの中なかでも秀ひいでている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "奇跡きせきの配合はいごうで誕生たんじょうした、レアなおおくちばし。\n輝かがやくくちばしは本物ほんもののプラチナのようで眩まぶしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黒くろさ際立きわだつ、珍めずらしいおおくちばし。\n磨みがくとつややかに光ひかるくちばしが自慢じまん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうみてもブタのようなウサギ。\n知性ちせいが高たかそうで、実じつは猪突猛進ちょとつもうしんタイプである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "滅ほろぼされたぶたばな族ぞくのおんりょうが\nのり移うつった、呪のろわれたぶたばなウサギ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "寒さむさの厳きびしい場所ばしょに生いきるぶたばな族ぞく。\nかき氷ごおりを食たべても頭あたまがキーンとすることはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぶたばなウサギのワザを極きわめた者もの。\n敬意けいいを払はらって「マスター」と呼よばれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ずきんをかぶったぶたばな族ぞく。\n耳みみまでかぶったずきんのせいであまり聞きこえない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極寒ごっかんの地ちに暮くらすぶたばなウサギ。\n遭難用そうなんように常つねに食料しょくりょうを背せ負おっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "祭まつりのにぎわいにつられて現あらわれる白しろいぶたばな。\n白しろいけど、どうみてもブタ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しろぶたうさぎの親方おやかた。\n祭まつりにつられて来きた者ものを血祭ちまつりにする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぶたばな族ぞくの下級戦士かきゅうせんし。\nみんなここから始はじまった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "厳きびしい特訓とっくんを重かさねた\nぶたばな戦士せんしのエリートたち。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ひかりの加か護ごを得えて、\n聖せいなる力ちからを身みに着つけたぶたばな戦士せんし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暗黒あんこくの力ちからに魅み入いられた、ぶたばな戦士せんし。\n光ひかりの力ちからに勝まさる最強さいきょうの力ちからを持もつ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろんこのブタのようなウサギ。\n知性ちせいが高たかそうで、実じつは猪突猛進ちょとつもうしんタイプである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ネズミのような、ブタのようなウサギ。\n知性ちせいが高たかそうで、実じつは猪突猛進ちょとつもうしんタイプである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "きんぴかの、ブタのようなウサギ。\n知性ちせいが高たかそうで、実じつは猪突猛進ちょとつもうしんタイプである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まっくろな、ブタのようなウサギ。\n知性ちせいが高たかそうで、実じつは猪突猛進ちょとつもうしんタイプである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぶたばなの中なかでも幻まぼろしの種族しゅぞくと言いわれている。\nよい子こなぶたばなにプレゼントを届とどけるのが使命しめい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシの影響えいきょうを受うけし\nぶたばなの突然とつぜん種しゅじゃい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真まっ赤かな体からだのぶたウサギ。\nいつも怒おこっていると勘かん違ちがいされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体からだは小ちいさいが大おおきな勇気ゆうきの持もち主ぬし。\nわらの家いえには住すんでいない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全身ぜんしんメタル化かしたぶたウサギ。\nその体からだは持もっている剣けんよりも硬かたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒々どくどくしい色いろで相手あいてを威圧いあつする。\n特殊とくしゅな食たべ物もので育そだつとこうなるらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キノコのような見みた目めの魔物まもの。\n森もりの中なかに潜ひそんで、胞子ほうしをまいて獲物えものを誘さそい出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "猛毒もうどくをもつマタンゴ。\nその肉にくは珍味ちんみだが、食たべると3秒びょうで死しにいたる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "眠気ねむけを誘さそう胞子ほうしは\n薬くすりにも利用りようされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この大おおきさ、キングと呼よばずにいられない。\nキング・オブ・マタンゴ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの1人ひとり。\n見みた目めより重おもく、ジャンプすると地震じしんが起おこる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極寒ごっかんの地ちに生息せいそくするマタンゴ。\n獲物えものを凍こおらせ寄生きせいする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "瘴気しょうきを吸すって成長せいちょうしたマタンゴ。\n一部いちぶの地域ちいきでは珍味扱ちんみあつかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マタンゴにそっくりなモンスター。\nよく見みるとつぶらな瞳ひとみをしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青あおい花はなに擬態ぎたいした巨大きょだいな蝶ちょう。\n珍めずらしい為ため、見みたものは幸しあわせになると言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても美うつくしい黄金色こがねいろの蝶ちょう。\nその昔むかし、乱獲らんかくされて絶滅ぜつめつしそうになったことがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "夜行性やこうせいのチョウ。\n朝あさはあまり元気げんきがない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みるものを惑まどわすはねを持もった魅惑みわくの蝶ちょう。\n惑まどわされ近ちかづくものをその鱗粉りんぷんで虜とりこにしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりのように水色みずいろにかがやく美うつくしい蝶ちょう。\n名前なまえの通とおり冷酷れいこくで容赦ようしゃなく襲おそいかかってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然変異とつぜんへんいで生うまれた巨大きょだいとうもろこし。\nその口くちから吐はく液えきは当然とうぜん、トウモロコシ臭くさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もろこしおばけの中なかでも特とくに長ながく生いきたものが\n変異へんいした姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくの炎ほのおで焼やかれて、生うまれたとうもろこし。\nなぜかほんのりと香こうばしい醤油しょうゆのにおいがする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "春はるの初はじめにだけ、大量たいりょうに発生はっせいする卵型たまごがたのおばけ。\n硫黄いおうの臭においが漂ただようので温泉卵おんせんたまごにちがいない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タマゴおばけがチョコでコーティングされた。\n中身なかみはもちろんおもちゃじゃなくて……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシの影響えいきょうを受うけし\nとうもろこしの突然とつぜん種しゅじゃい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの瘴気しょうきの影響えいきょうで巨大化きょだいかしたイモ虫むし。\n毒々どくどくしいその姿すがたの割わりに、毒どくはなかったりする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの1人ひとり。\nかわいい口調くちょうとは裏腹うらはらにやられたらやり返かえす性格せいかく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "寒さむい地域ちいきで進化しんかした\n氷こおりの皮ひ膚ふを持もつイモ虫むし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "過酷かこくな環境かんきょうで巨大化きょだいかしたイモ虫むし。\nおどけた表情ひょうじょうの割わりには、攻撃的こうげきてきで乱暴者らんぼうもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりを食たべて育そだった珍種ちんしゅのイモ虫むし。\n触さわるとちょっとビリビリする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "湿地帯しっちたいに生息せいそくする巨大きょだいガエル。\n毒どくを吐はくのは親愛しんあいの証あかし…だという説せつがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "熱帯雨林ねったいうりんに生息せいそくする巨大きょだいガエル。\n緑みどりに同化どうかする能力のうりょくを持もつがじっとしていられない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カメのように背中せなかが硬かたく変質へんしつした巨大きょだいガエル。\nお腹なかはぷにぷにして気き持もちいい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その長ながい舌したは、狙ねらった獲物えものを瞬時しゅんじに捕とらえる。\nよく見みると大人おとなになりきれていない気きがする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大昔おおむかしから地底ちていに棲すむといわれるキコリ族ぞく。\n普段ふだんは温厚おんこうだが、オニと呼よばれると怒おこる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キコリ族ぞくに代々伝だいだいつたわる巨大きょだいな斧おのを持もち\n鍛きたえ上あげたその体からだはとても強靭きょうじんで巨大きょだいである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キコリ族ぞくの上級戦士じょうきゅうせんしたち。\n非常ひじょうに短気たんきで、触さわるものみなキズつける。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極寒ごっかんの地ちにすむキコリ族ぞくの戦士せんしたち。\n白しろいひげがトレードマーク。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キコリ族ぞくの上級戦士じょうきゅうせんし。\n激はげしい怒いかりで、常つねに電気でんきを体からだに帯おびている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみに堕おちたキコリ族ぞく。\n過か去この記憶きおくをなくし、ただひたすらに破壊はかいを続つづける。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみから生うまれた飛竜ひりゅう。\n冒険者ぼうけんしゃに恐おそれられる存在そんざい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2ę耀>{3, name, +}の手下てしたの1人ひとり。\n本気ほんきの実力じつりょくは{9, MonsterParameter, +}<2ę耀>{3, name, +}を上回うわまわるとの噂うわさ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないで竜巻たつまきをつくって\n吐はき出だす器用きような飛竜ひりゅう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "発見例はっけんれいがほとんどない、伝説でんせつのドラゴン。\nその輝かがやく姿すがたはあまりに眩まぶしく見みることはできない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪あしき化身けしんと成なり果はてた、凶悪きょうあくなドラゴン。\n元もとは心優こころやさしいドラゴンだが、見みる影かげもない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "死者ししゃの怨念おんねんがとりついたと言いわれている\n巨木きょぼくの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪魔あくまの手てによって蘇よみがえった朽くちた巨木きょぼく。\n地中ちちゅうに伸のばした根ねっこで獲物えものを捕とらえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪悪じゃあくな大地だいちに生はえる、魔物化まものかした木き々ぎ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火山かざんから生うまれた巨大きょだいイノシシ。\n生うまれてから死しぬまで頭あたまは燃もえつづける。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "進化しんかしたラッシュボウの仲間なかま。\n燃もえさかるタテガミは一千度いっせんどを超こえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの世界せかいで適応てきおうしたラッシュボウの仲間なかま。\n氷上ひょうじょうでも突進とっしんできるようにヒヅメがゴムになった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水辺みずべにすむラッシュボウの仲間なかま。\nきれい好ずきで水浴みずあびは毎日欠まいにちかかさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりを帯電たいでんしやすい、ラッシュボウの仲間なかま。\n興奮こうふんすると電気でんきがあふれ出だして、周囲しゅういを焦こがす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サボテンのようなしっぽと体からだをもつ巨大きょだいサソリ。\nサボテンにまぎれて獲物えものに襲おそいかかる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないに炎ほのおを持もつ毒どくサソリ。\n焼やかれたように熱あついハリを飛とばす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷河ひょうがにすむ珍めずらしいサソリ。\nしっぽで刺さされると一瞬いっしゅんで氷漬こおりづけになってしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "何者なにものかのてによって改造かいぞうされた放水ほうすいサソリ。\n燃もえるものを見みると消けす習性しゅうせいがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒どくをもった巨大きょだいエイの魔物まもの。\n得意とくいの回転攻撃かいてんこうげきで目めを回まわすことはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ポイズンレイの仲間なかま。\n全身ぜんしんを覆おおう細こまかいハリを触さわるとマヒしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "眠ねむりガスを噴射ふんしゃする器官きかんをもった巨大きょだいエイ。\n眠ねむれない夜よるは、自分じぶんに噴射ふんしゃすることもある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "触ふれた者ものを死しに至いたらしめる巨大きょだいエイ。\n別名べつめい「海うみの死神しにがみ」と呼よばれ自身じしんは不服ふふく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "石いしでできた巨人きょじん。\nパンチの重おもさはヘビー級きゅう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "永久氷壁えいきゅうひょうへきから生うまれた巨人きょじん。\n1000年ねんはとけない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "常つねに水みずを吹ふきだす巨人きょじん。\n水不足みずぶそくになることがない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "砂漠さばくの守まもり神がみとして\n冒険者ぼうけんしゃの前まえに立たちふさがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サルなどが白骨化はっこつかしたゆうれい。\nゆうれいらしく、せいすいには弱よわい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "怨念おんねんの強つよいゴースト。\n強つよい光ひかりを嫌きらう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2ę耀>{3, name, +}の手下てしたの1人ひとり。\n本人ほんにんは{9, MonsterParameter, +}<2ę耀>{3, name, +}のライバルだと思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの炎ほのおで焼やかれたものがよみがえった姿すがた。\n闇やみの力ちからに操あやつられるように徘徊はいかいしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪神教じゃしんきょうの幹部かんぶのひとり。\nあやつる能力のうりょくで人々ひとびとを意いのままに動うごかす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "下級かきゅうのゴースト。\nご多分たぶんにもれず、せいすいには弱よわい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正体不明しょうたいふめいのゴースト。\n光ひかりさえも届とどかない暗黒あんこくの力ちからを操あやつる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシの影響えいきょうを受うけし\nゴーストの突然とつぜん種しゅじゃい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "知能ちのうの高たかいエイプ族ぞくの戦士せんし。\nおどけて見みえるが、本人ほんにんは極きわめて真剣しんけんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極きわめて高たかい知能ちのうを持もったエイプ族ぞくの魔法使まほうつかい。\nエイプのカリスマ的存在てきそんざい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪神じゃしんを崇あがめるエイプ族ぞくの巫み女こ。\nジャシンのことではないらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりの呪文じゅもんを勉強中べんきょうちゅうのエイプ。\n電気でんきを帯おびているせいか、常つねにハイテンション。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの呪文じゅもんを勉強中べんきょうちゅうのエイプ。実じつはあまり\n寒さむいのは得意とくいではないので着きこんでいる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雨あめの呪文じゅもんを勉強中べんきょうちゅうのエイプ。\n熱心ねっしんすぎて周まわりが見みえないタイプ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "瘴気しょうきの力ちからで狂暴化きょうぼうかした巨大きょだいバチ。\n腕うでを動うごかすとかまいたちが発生はっせいし、少すこし迷惑めいわく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜを自在じざいにあやつり、敵てきを切きり裂さく。\n赤あかい体からだは殺ころし屋やの異名いみょうを持もつ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最もっとも好戦的こうせんてきな巨大きょだいバチ種しゅ。\n狙ねらった獲物えものは逃にがさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりの力ちからを受うけて突然変異とつぜんへんいしたキラービー。\n電気でんきを発はっする触角しょっかくは危険きけん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷結ひょうけつした山やまより生うまれた突然変異とつぜんへんいのキラービー。\n触角しょっかくが触ふれた個所かしょはたちまち凍こおりつく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いたずら妖精ようせいが魔法まほうをかけた、子こどもの抜ぬけた歯は。\n永遠えいえんのアイドルモンスター。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "にゅうしが逃にげ続つづけているうちに\nより硬かたく進化しんかした鉄壁てっぺきな姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黄金おうごんに変かわったにゅうし。\nその姿すがたに皆みなは魅了みりょうされ、血眼ちまなこになって探さがしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黒くろい姿すがたの珍種ちんしゅ。\n虫歯むしばだけど最強さいきょうの防御力ぼうぎょりょく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "虫歯むしばが進化しんかした第二形態だいにけいたい。\n虫歯むしばが進行しんこうしてもなぜか防御力ぼうぎょりょくはアップ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "虫歯むしばが進化しんかした第三形態だいさんけいたい。\n虫歯むしばが進行しんこうしてもなぜか防御力ぼうぎょりょくはアップ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とある女王じょおうの抜ぬけた歯はが魔物まものになった。\n気品きひんがあふれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とある王おうの抜ぬけた歯はが魔物まものになった。\n王冠おうかんをかぶった姿すがたは威厳いげんがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青あおく輝かがやく体からだはジュエルで出で来きている。数多あまたの\n冒険者ぼうけんしゃに狙ねらわれているので毎日気まいにちきが気きでない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "赤あかく輝かがやく、にゅうしの突然変異体とつぜんへんいたい。\nその体からだは美うつくしいルビーで出で来きている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青あおく輝かがやく、にゅうしの突然変異体とつぜんへんいたい。\nその体からだは美うつくしいサファイアで出で来きている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "緑みどりに輝かがやく、にゅうしの突然変異体とつぜんへんいたい。\nその体からだは美うつくしいエメラルドで出で来きている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "紫むらさきに輝かがやく、にゅうしの突然変異体とつぜんへんいたい。\nその体からだは美うつくしいアメジストで出で来きている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黄色きいろに輝かがやく、にゅうしの突然変異体とつぜんへんいたい。\nその体からだは美うつくしいトパーズで出で来きている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "白しろく輝かがやく、上級じょうきゅうのにゅうし。\nその抜ぬけがらですら、高値たかねでやりとりされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダイヤ並なみの硬かたさを誇ほこるにゅうしの進化形しんかけい。\nこの世よで最もっとも硬かたく、すばやいといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青あおく輝かがやく体からだはジュエルで出で来きている。数多あまたの\n冒険者ぼうけんしゃに狙ねらわれているので毎日気まいにちきが気きでない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "春はるの陽気ようきで、ももいろに染そまった特別とくべつなにゅうし。\n見みつけたあなたは超ちょうラッキー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小型こがたのジュエルのは。\n体からだは小ちいさくてもジュエル製せい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "長ながい年月ねんげつを重かさねて大おおきく育そだったきんば。\n一攫千金いっかくせんきんのチャンス到来とうらい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシの歯はがモンスターに\nジョブチェンジじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷山ひょうざんに棲すむ、ヒツジの姿すがたをした魔物まもの。\n突進とっしんに使つかう氷こおりの角つのは、折おれてもすぐに生はえてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの精せいが飼かっているといわれるヒツジ。\n氷こおりの角つのが折おれるまで、突進とっしんをやめない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "険峻けんしゅんな岩山いわやまに棲すむヒツジの姿すがたをした魔物まもの。\n突進とっしんに使つかう角つのは、岩いわでできている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりの精せいが飼かっているといわれるヒツジ。\n角つのから発はっする電気でんきで街まちひとつの電力でんりょくをまかなえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "12年ねんに一度現いちどあらわれる、巨大きょだいなひつじのモンスター。\n倒たおすと一年間いちねんかん、健康けんこうになるという言いい伝つたえがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "実態じったいを持もたない謎なぞの存在そんざい。\n真まっ暗くらい場所ばしょに現あらわれ、じっとしている根暗ねくらなヤツ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "実態じったいを持もたない謎なぞの存在そんざい。\n頭あたまが燃もえていることに気きづいていないらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "実態じったいを持もたない謎なぞの存在そんざい。\n夏なつに現あらわれるとひんやりして気き持もちいい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "実態じったいを持もたない謎なぞの存在そんざい。\n嵐あらしと共ともに現あらわれるレアな魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "レーザー光線こうせんを放はなつミスト。\n危険きけんな存在そんざいだが、輝かがやく姿すがたはとても美うつくしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "炎ほのお、水みず、電気でんきの3つを共存きょうぞんさせる\n本来ほんらいありえない存在そんざい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "寂さびしがり屋やのこぶた。\nすぐに仲間なかまを呼よぶ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しっぽの羽はねでふわふわと飛とぶ、ブタに似にた生いき物もの。\n羽はねが小ちいさい割わりに、逃にげ足あしは速はやい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お金持かねもちな金色きんいろのぶた。\n集あつまる仲間なかまもそれ狙ねらい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくに落おちた罪人ざいにんが変かえられた姿すがたといわれる。\n美お味いしそうな名前なまえだが、とてもまずい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "天使てんしの使つかいとされる白しろいブタ。\nこちらにやましい心こころがあると襲おそいかかってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オオカミの頭あたまとクマの体からだを持もつ巨大きょだいな獣けもの。\n実じつは、オオカミでもクマでもないという噂うわさ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オオカミのスピードとクマのパワーを持もつ獣けもの。\n特性とくせいを活いかした自己流じこりゅうのダンスが得意とくい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからに操あやつられる狂暴きょうぼうな獣けもの。\n悪魔あくまに魂たましいを売うった悪人あくにんが変かえられた姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "化学薬品かがくやくひんによって巨大化きょだいかした植物しょくぶつ。\n実験場所じっけんばしょにそのまま残のこされてはや50年ねん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "化学薬品かがくやくひんを吸すったスイカが成長せいちょうした姿すがた。\n甘あまい香かおりで獲物えものを誘さそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大植物きょだいしょくぶつの亜種あしゅ。\n常つねに眠ねむっており、起おこされるのを極端きょくたんに嫌きらう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マグマの中なかで生いき残のこった古代こだいの生いき物もの。\n一千度超いっせんどちょうの高熱こうねつを吐はき、鉄てつをもドロドロに溶とかす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マグマを食たべ、生いき続つづけてきた古代こだいの生いき物もの。\nマンモス種しゅの中なかでも特とくに荒あらくれ者もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海底深かいていふかくで生いき残のこった古代こだいマンモス。\n鼻はなから噴ふき出だす高圧水流こうあつすいりゅうはちょっと甘あまい味あじがする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇夜やみよでの戦たたかいは無敵むてきと言いわれている\n最強さいきょうのマンモス。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワニのようなあごを持もつ巨大昆虫きょだいこんちゅう。\n知能ちのうも高たかく、覚おぼえた難むずかしい言葉ことばを使つかい倒たおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "絶対零度ぜったいれいどの氷こおりを吐はき出だす。\n夏なつはとても苦手にがて。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの1人ひとり。\n体からだの割わりに小ちいさな羽はねで不自由ふじゆうなく空そらを飛とぶ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "心こころが闇やみに囚とらわれてしまった巨大昆虫きょだいこんちゅう。\nさらに知能ちのうが高たかくなり、使つかう言葉ことばが難むずかしすぎる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底湖ちていこに住すむ巨大きょだいなタコ。ハンマーアンコウと\n意気投合いきとうごうして、ダンジョンをシェアしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大きょだいなキバとたくさんの目めを持もつ凶悪きょうあくなタコ。\nグロテスクだが刺身さしみで頂いただくと意外いがいと美お味いしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全身ぜんしんを金属化きんぞくかしたタコ。\n色々いろいろな武ぶ器きを隠かくしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高貴こうきな生うまれのタコの魔物まもの。\nスミを吐はく姿すがたもとても優雅ゆうがだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいの守護しゅごを担になう存在そんざいであるガーディアン。\nキングより目め立だたないがとても強つよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいの守護しゅごを担になう最強さいきょうの存在そんざい。\n世界せかいのバランスを崩くずす者ものに立たちふさがる絶対王ぜったいおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ポーンが、火ひの精霊せいれいから加か護ごを受うけ、進化しんかした姿すがた。\n燃もえさかる炎ほのおの剣けんを振ふりかざす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真しんの強つよさを求もとめるポーンの姿すがたの1つ。\n他たのガーディアンの姿すがたを借かりる能力のうりょくを得えた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真しんの強つよさを得えたポーンの姿すがたの1つ。\n見みた目めが変かわらないのであまりピンとこない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u001A耀>{4, message}の番人ばんにん。\n洞窟どうくつを荒あらす盗賊とうぞくを機械きかいのように排除はいじょする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ナイトの影かげでありながら、上回うわまわる力ちからを持もつ。\n戦たたかいを求もとめ、ガーディアンを脱退だったいした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ガーディアンの下級兵士かきゅうへいし。\n無限むげんの力ちからを秘ひめている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "勇猛ゆうもうな戦士せんしが辿たどり着ついたガーディアン最後さいごの姿すがた。\nガーディアン・キングをもしのぐ力ちからを秘ひめている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最強闘神さいきょうとうしんとして生うまれ変かわったポーンの姿すがた。\n最強さいきょうの名なはダテじゃない！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "古いにしえの時代じだいに護まもりを命めいじられたガーディアン。\n何なにを護まもって来きたのかは、忘わすれたもよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいの守護しゅごを担になう存在そんざいであるガーディアン。\nとても徳とくのある存在そんざいとして一目いちもく置おかれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "デーモン族ぞくの末裔まつえい。\nいやらしい性格せいかくで、他たの魔物まものからも嫌きらわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "上級じょうきゅうデーモンの末裔まつえい。\nいやらしさも上級じょうきゅう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "昔むかし、妖精ようせいたちを苦くるしめた魔物まもの。\n妖精ようせいたちによって封印ふういんされていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの底そこより現あらわれた魔界まかいの王おう。\n再ふたたび電波人間でんぱにんげんたちの行ゆく手てを阻はばもうとする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "敗やぶれたまおうが、鍛きたえてパワーアップした姿すがた。\nそれでもやっぱり負まけてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "森もりに棲すむようになったあなほりホッグ。\nしっぽをうまく使つかって、跳はねたり、突進とっしんしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体毛たいもうがハリになっている魔物まもの。\n発達はったつした爪つめと前歯まえばを利用りようして、素早すばやく穴あなを掘ほる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火山かざんに生息せいそくするようになった、あなほりホッグ。\n燃もえる鼻はなを膨ふくらませて飛とばす。鼻はなは補充ほじゅうされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないで電気でんきを生成せいせいできる、あなほりホッグ。\n興奮こうふんすると電気でんきを放出ほうしゅつ。ついでに鼻はなも膨ふくらむ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "赤あかい鼻はなが特徴とくちょうのあなほりホッグ。\n近ちかくにはなぜかタマゴが落おちているという。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アカネコ族ぞくの盗賊団とうぞくだん。\n砂漠さばくの暑あつさで弱よわった冒険者ぼうけんしゃの金品きんぴんを奪うばう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アカメネコ族ぞくの盗賊団とうぞくだん。\n街まちや遺跡いせきに忍しのび込こみ、金品きんぴんを奪うばう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クロネコ族ぞくから派遣はけんされた探検家たんけんか。\n手先てさきが器用きようで宝探たからさがしの達人たつじん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつか成なり上あがる為ために下積したづみ中ちゅうのキャット。\nみんなを見返みかえしたいと思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ミドリネコ族ぞくの特殊部隊とくしゅぶたい。\n集団戦法しゅうだんせんぽうで一斉いっせいに襲おそいかかってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの1人ひとり。\n1度ど死しんでいるが、{9, MonsterParameter, +}<2®耀>{3, name, +}の力ちからでよみがえった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2ę耀>{3, name, +}の手下てしたの1人ひとり。\n洞窟どうくつの奥おくに住すんでいるせいか、常つねに空腹くうふく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの渦うずから生うまれたオオワシ。\n死しを象徴しょうちょうする鳥とりとして恐おそれられている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お祭まつり好ずきな魔物まもの。\n楽たのしそうな集あつまりを見みるとダイブして来くる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大おおきく飛翔ひしょうすることで風かぜを巻まき起おこすオオワシ。\n風かぜを起おこしすぎて、自身じしんが巻まき込こまれることも。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "長ながく生いきて魔物まものと化かしたフクロウ。\n気き持もち動うごきに躍動感やくどうかんが生うまれ、踊おどりを好このむ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オウルモスの亜種あしゅフクロウ。\n隠密行動おんみつこうどうを好このむがうまく隠かくれられていない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海うみに出没しゅつぼつする巨大きょだいなタツノオトシゴ。\n圧縮あっしゅくした海水かいすいを噴ふき出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ドラゴンの幼体ようたい。千年せんねんかけてかいりゅうに\n成長せいちょうするといわれているが何なんの根拠こんきょもない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暑あつい場所ばしょを好このむ魔物まもの。\n水みずの代かわりにマグマを養分ようぶんにしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "陸りくと水みずに現あらわれるオトシゴ。\nてっぽうのように勢いきおいよく水みずを口くちから吹ふき出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪あくに染そまりしオトシゴが吹ふき出だすのは\n真まっ黒くろなスミだといわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みるからに危険きけんな巨大きょだいナマコ。\nそのグロテスクさに隠かくれファンもいるらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体からだの突起とっきに毒どくを持もつ巨大きょだいなナマコ。\n見みるからに電気属性でんきぞくせいらしい色いろをしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マイナスの体温たいおんを持もつ巨大きょだいナマコ。\n長期保存ちょうきほぞんできるので食用しょくようとして珍重ちんちょうされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "森もりにすむ奇妙きみょうな巨大きょだいナマコ。その身みは\nアボカドの味あじがするらしいが、試ためす勇気ゆうきはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}の忠実ちゅうじつな家来けらい。\n村むらの畑はたけを荒あらし、作物さくもつを献上けんじょうしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}族ぞくの長おさ。とても強つよい。\n高齢こうれいだが、戦たたかう力ちからは全まったく衰おとろえていない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}たちに畑はたけを荒あらさせた張本人ちょうほんにん。\n怒おこると頭あたまの炎ほのおが大おおきく燃もえ上あがるらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの軍団ぐんだんの下したっ端ぱ。\nパシリとして使つかわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "12年ねんに一度現いちどあらわれる、巨大きょだいなさるのモンスター。\n倒たおすと一年間いちねんかん、健康けんこうになるという言いい伝つたえがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカに生うまれた運命うんめいに逆さからい\n真実しんじつを求もとめる騎き士しとして生いきる、業深ごうふかき戦士せんし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真しんのイカ勇者ゆうしゃにのみ授さずけられる\n鎧よろいを身みにつけて戦たたかう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカせんし族ぞくの天才双子てんさいふたごの兄あに。クールな性格せいかく。\n改名かいめいしているが、本名ほんみょうはファイアいかせんし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカせんし族ぞくの天才双子てんさいふたごの弟おとうと。ナルシスト。\n逆さかさ読よみで「しんせかい」だと自慢じまんしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "戦たたかいに明あけ暮くれた末すえに、狂戦士きょうせんしとなったイカ。\n常つねにイカりに満みち溢あふれている。イカだけに。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全身ぜんしんからカビを放出ほうしゅつする。\nもとはお供そなえ物ものだったらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりにうたれたおまんじゅう。\nさわるとビリッとする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷雲らいうんから生うまれた。\n小ちいさいながら雷かみなりを落おとしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうのひとり。\nとはいえ、分裂ぶんれつすると人数にんずうが合あわなくなってしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "財宝ざいほうに化ばけて冒険者ぼうけんしゃを驚おどろかす。\n危あぶなくなると箱はこに隠かくれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "箱はこを開あけると死しの呪文じゅもんを唱となえてくる。\n生いきた罠わなと呼よばれ、恐おそれられている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "貴重きちょうな宝たからのある洞窟どうくつに潜ひそむと言いわれている\n最凶さいきょうの罠わな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "自分じぶんの宝たからが奪うばわれないように\n全すべての力ちからを振ふり絞しぼって、宝たからを開あけた者ものを襲おそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "箱はこを開あけた者ものを驚おどろかすことに命いのちを懸かけている。\n中なかに何なにが入はいっているかは倒たおしてからのお楽たのしみ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とある海賊かいぞくが遺のこしたジュエルが詰つまっている。\n海賊かいぞくとの約束やくそくで、宝たからを大事だいじに守まもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底湖ちていこを支配しはいする真しんのボス。\nオクトパイダーを上う手まく利用りようしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鋼鉄こうてつの体からだの中なかに闇やみのエネルギーが詰つまっている。\nエネルギーが切きれたら補充ほじゅうが必要ひつよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ハンマーを捨すて、ドリルを手てにいれたアンコウ族ぞく。\n強つよくなったかどうかは疑問ぎもん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからを得えたアンコウ族ぞく。\nハンマーの威力いりょくは倍増ばいぞうしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンコウの中なかでは一番いちばんの速はやさを持もつ。高速こうそくで\n移動いどうする姿すがたはジェット機きのように見みえなくもない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海底かいていの奥深おくふかくに棲すむ古代こだいの竜りゅう。海上かいじょうに姿すがたを現あらわし\n手て当あたり次第しだいに襲おそいかかる乱暴者らんぼうもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの筆頭ひっとう。\nその雄大ゆうだいな姿すがたを見みたものはいないと言いわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷神らいしんの化身けしんとも使つかいとも呼よばれる伝説竜でんせつりゅう。\n放はなつ雷撃らいげきは、相手あいてを一撃いちげきで炭すみにしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇世界やみせかいを支配しはいする巨大きょだいな黒くろい竜りゅう。\n力ちからが増幅ぞうふくする闇やみの中なかで戦たたかうことは自殺行為じさつこうい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりとともに地上ちじょうに落おちてきた幻まぼろしの竜りゅう。\n実体じったいはなく、電気でんきで姿すがたを形成けいせいしているらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大おおきく発達はったつしたシールド状じょうの爪つめが特徴とくちょう。\nカニのくせにヨコ歩あるきはしない派は。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないに毒どくの袋ふくろを持もつ巨大きょだいガニ。\n吐はき出だす泡あわで獲物えものを仕し留とめる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "石いしのように硬かたいこうらを持もつ。\n自慢じまんの爪つめの紋章もんしょうをいつも見みせびらかす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷山ひょうざんのように硬かたく冷つめたいこうらを持もつ。\n巨大きょだいな爪つめですべてを破壊はかいする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきを生成せいせいするこうらを持もつ。\n電気でんきを巨大きょだいな爪つめにまとい攻撃こうげきする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきを発はっする高速こうそくビンタが得意とくい。\n髪かみの毛けはペットの毒どくヘビ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔物まものの中なかで1番ばんセクシーと評判ひょうばん。\nこのセクシーさは、お子様こさまにはわからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ファンキーで派は手で好ずきおばば。\n一体化いったいかしたヘビも黄金おうごんの輝かがやき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大昔おおむかしに封印ふういんされ、ミイラ化かした牛うしの魔物まもの。\nカラカラの体からだを潤うるおす方法ほうほうを探さがしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪あくの組織そしきに改造かいぞうされた牛うしの魔物まもの。\n勇者狩ゆうしゃがりが趣味しゅみ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "超高熱ちょうこうねつの突進攻撃とっしんこうげきを得意とくいとする。\n包帯ほうたいが燃もえないのは永遠えいえんの謎なぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その昔むかし、勇者ゆうしゃと一緒いっしょに戦たたかった一族いちぞくの末裔まつえい。\n新あらたな勇者ゆうしゃの誕生たんじょうを静しずかに待まっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "混沌こんとんの中なかから生うまれたと言いわれている。\n強つよい魔力まりょくを持もっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "じゃあくのまじょが、オーブの力ちからにより\n精霊せいれいを超こえるほどの力ちからを得えた姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカ族ぞくの英雄えいゆうが、激はげしい修行しゅぎょうの末すえに\n悟さとりの境地きょうちに達たっし、最強闘神さいきょうとうしんとなった姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカ族ぞくの英雄えいゆうの若わかかりし頃ころ。まだこの頃ころは\n下したっ端ぱで、先輩せんぱいに怒おこられてばかりいた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカ族ぞくの英雄えいゆうの出世しゅっせしたばかりの頃ころ。\nこの頃ころに、姿焼十腕流すがたやじゅうわんりゅうの免許皆伝めんきょかいでんを得える。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イカ族ぞくの存亡そんぼうを賭かけた戦たたかいで\n反乱軍はんらんぐんを率ひきい、勝利しょうりに導みちびいた英雄えいゆう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最強闘神さいきょうとうしんとなったゲソパラディンに\nサムライの魂たましいが宿やどった姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "自慢じまんの白しろい歯はを見みせつけてくる。\n歯はの手て入いれは毎日欠まいにちかかさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "異常気象いじょうきしょうで異常発達いじょうはったつしたコブダイ。\nその赤あかい目めは狂気きょうきの証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その頭蓋ずがいで旅人たびびとの船ふねを一瞬いっしゅんで粉々こなごなにしてしまう。\nよく巨大きょだいイカやタコとケンカしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "飛とび出でた目めが特徴的とくちょうてきなサメ。\n目めはチャームポイントと自じ負ふしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メタリックなボディーのサメ。\n好このむ曲きょくもメタリック。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "目玉めだまだけでなく模様もようまで特徴的とくちょうてきなシャーク。\nデメキンシャークとは違ちがうと自じ負ふしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪神教じゃしんきょうの教祖きょうそ。\n様々さまざまな秘術ひじゅつ・禁術きんじゅつを研究けんきゅうしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの神かみを信仰しんこうする祈祷師きとうし。力ちからを持もつものを\n裁さばいて消けせば平和へいわになると考かんがえている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "触手しょくしゅのような物ものには毒どくをふくんでいる。\nエグイ攻撃こうげきをするが憎にくめない顔かおをしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "触さわるとベタベタする不ぶ気き味みな生いき物もの。\nキンチャク仲間なかまの中なかでも特とくに粘ねばり強づよい性格せいかく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきを体内たいないで生成せいせいすることができる魔物まもの。\n作つくりすぎた電撃でんげきは体外たいがいに出だす為ためとばす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても強つよい毒どくをもっている魔物まもの。\n笑顔えがおで猛毒もうどくを飛とばしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3つの角つのを持もつ、馬うまに似にた生いき物もの。\n気きに入いらないとすぐに足あしげにしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "遺跡いせきの奥おくで「{5, ItemData, +}<2؊耀>{3, name, +}」を守まもる番人ばんにん。\n自分じぶんがかぶとをかぶれないことを少すこし気きにしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "別名べつめい、「あかくつしたホース」。\n素早すばやい動うごきで相手あいてを蹴け散ちらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0014耀>{4, message}8人衆にんしゅうの1人ひとり。\n攻撃こうげきだけでなく、防御ぼうぎょもできる技巧派ぎこうは。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "漆黒しっこくの体からだに赤あかいたてがみを持もった一角獣いっかくじゅう。\nその恐おそろしいいななきは邪気じゃきを呼よび寄よせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "漆黒しっこくの体からだに白しろいたてがみを持もった一角獣いっかくじゅう。\n死しに近ちかづいたものだけがその姿すがたを見みれるという。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暗雲あんうんの塊かたまりの魔物まもの。降ふらす雨あめに\n濡ぬれると良よくない事ことが起おきると言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの塊かたまりの魔物まもの。\n吹雪ふぶきの日ひに突然現とつぜんあらわれる謎なぞの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体中からだじゅうに圧縮あっしゅくした炎ほのおのブロックを\nまとった魔物まもの。ブロックが壊こわれると爆発ばくはつする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたゆきの塊かたまりの魔物まもの。ふわふわぼーっと\n漂ただようかと思おもえば突然長とつぜんながい腕うでを振ふり下おろしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "燃もえたぎる血液けつえきが流ながれる、恐おそろしいキメラ。\nその体からだに普通ふつうの武ぶ器きでは傷きずひとつ付つけられない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いろんな獣けものが合体がったいして生うまれた凶悪きょうあくな魔物まもの。\n野獣やじゅうの頭あたまと、しっぽのヘビは仲なかが悪わるい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "強靭きょうじんなアゴで何なんでも噛かみ砕くだいて丸まるのみにしてしまう。\nいつも腹はらを空すかして獲物えものを探さがしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いろんな獣けものが合体がったいする瞬間しゅんかんに落雷らくらいを受うけた変異種へんいしゅ。\nシッポのヘビがプラグと間違まちがえられた事ことがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "冒険者ぼうけんしゃを影かげから驚おどろかす魔物まもの。\n脅おどかすポーズが基本きほん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ひの魔法まほうを操あやつる。\n呪文じゅもんを使つかってたまに自分じぶんの服ふくを燃もやすことがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "道化師どうけしのような顔かおをしている。\nおどけて相手あいてが油断ゆだんした隙すきに攻撃こうげきをしかける。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "強力きょうりょくな魔法まほうを使つかえるエリート。\nレベルは高たかいが、レパートリーは少すくない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔法まほうに精通せいつうしたキツネの魔物まもの。\n暗闇くらやみでいきなりこの顔かおと出で会あうとかなり怖こわい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりの魔法まほうを操あやつる。\n充電じゅうでんしたいときは便利べんり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの魔法まほうを操あやつる。\n暑あつい夏なつには重宝ちょうほうされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大地だいちのエネルギーを魔法まほうに変かえて操あやつる。\n周囲しゅういにはマイナスイオンが満みちている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "前歯まえばが折おれたのは仲間なかまをかばった時ときに\n折おれたらしいが、本当ほんとうは転ころんで折おれたのかも。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨人族きょじんぞくで最強さいきょうの力ちからを秘ひめている。触ふれたものを\nみんな破壊はかいしてしまう姿すがたからこの名ながついた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青あおい肌はだの巨人きょじん。\n巨体きょたいだが水泳すいえいが得意とくい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "狂暴きょうぼうな巨人きょじんらしい色いろをしたトロル。ふんどしには\nこだわりがあり、何着なんちゃくも持もっているらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりのように冷ひえ切きった体からだの巨人きょじん。\n表面ひょうめんがツルツルなので気きを抜ぬくと滑すべる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その名なの通とおりひかり輝かがやく巨人きょじん。\nその眩まばゆい体からだを目めくらましに使つかう。ずるい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシの影響えいきょうを受うけし\nトロルの突然とつぜん種しゅじゃい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "敵てきをどこまでも追おいかけて来くる魔物まもの。\n4つの目めで逃にげる敵てきを逃のがさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よつめシャークと同おなじ種族しゅぞくの水生すいせいモンスター。\n色いろは赤あかいが、よつめシャークより格下かくした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黒光くろびかりするサメ肌はだにすりすりされると\nたちまち粉々こなごなにすり下おろされてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないから勢いきおいよく吐はき出だしたつまきを起おこす。\n時々ときどき、うっかりエサまで遠とおざけてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2ę耀>{3, name, +}の手下てしたの1人ひとり。\n巨大きょだいなシールドで敵てきの攻撃こうげきから仲間なかまを守まもる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大きょだいな盾たてですべてをはじく鉄壁てっぺきの騎き士し。\n寝ねる時ときですらシールドは手離てばなさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉄壁てっぺきの防御ぼうぎょを誇ほこる魔物まもの。\n変形へんけいする盾たてを持もっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "深紅しんくの鎧よろいで身みを固かためた屈強くっきょうな炎ほのおの騎き士し。\nその昔むかし、神器じんぎを守まもる任務にんむについていたといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鏡かがみのように磨みがき上あげられた鎧よろいをまとった魔物まもの。\n手てでさわって指紋しもんを残のこす者ものはゆるさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくの炎ほのおで鍛きたえた鎧よろいを身みにまとう戦士せんし。\nその着心地きごこちは地獄並じごくなみに蒸むし暑あつい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "草くさで作つくられた人形にんぎょうに魂たましいが宿やどった。\nくるっと回まわっていつもダンスを踊おどっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お花はなで作つくられた人形にんぎょうに魂たましいが宿やどった。\n顔かおの素材そざいは球根きゅうこん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "枯かれ葉はで作つくられた人形にんぎょうに魂たましいが宿やどった。\nよくみると切せつない顔かおをしている気きがする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小ちいさめのかぼちゃで作つくった人形にんぎょうに魂たましいが宿やどった。\n暗くらくなると顔かおの中なかが光ひかって神秘的しんぴてき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お花はなで作つくられた人形にんぎょうに天使てんしが宿やどった。\nおはなドールと仲なかがいい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すさまじいブレスを吐はく巨大きょだいな竜りゅう。\nその息いきは街まちをまるごと吹ふき飛とばしてしまうほど。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずを操あやつる巨大竜きょだいりゅう。腹はらの中なかに大量たいりょうの水みずを貯たくわえられる。\nその強つよさゆえ、水みずの神かみに最もっとも近ちかい存在そんざい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "無念むねんのうちに息絶いきたえた竜りゅうの怨霊おんりょう。\nこの世よにかなりの未練みれんがある為ため、成仏じょうぶつしない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "竜族りゅうぞくの中なかでも最強さいきょうと呼よばれている伝説竜でんせつりゅう。\nこの世よに復活ふっかつすべく、受うけた傷きずを癒いやし中ちゅう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "竜族りゅうぞくの中なかでも最強さいきょうと呼よばれている伝説竜でんせつりゅう。\nこの世よに復活ふっかつする日ひは近ちかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土つちの化身けしん。\nとても長生ながいきなので物知ものしりなドラゴン。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "伝説でんせつの龍りゅう。全すべての大地だいちと神経しんけいがつながっていて\n他ほかの場所ばしょでのできごとも全すべて知しっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2耀>{4, message}に住すむドラゴンたちの長おさ。\nとても威厳いげんがあり、とてもエラい存在そんざい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりをエネルギー源げんとする竜りゅう。\n落雷らくらいで割われた岩いわから生うまれた、らしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ある伝説でんせつの竜りゅうを模もして造つくられたロボット。\n第二だいにの伝説でんせつにはなれなかったようだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タマゴが大好だいすきな大蛇だいじゃ。\n頭あたまに乗のっているタマゴは何なにがあっても落おとさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体中からだじゅうに立派りっぱな角つのが生はえている魔物まもの。\n気きに入いらない敵てきは突つき上あげて攻撃こうげきする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大おおきな体からだで転ころがって敵てきを攻撃こうげきする。\n体からだの割わりにはとても機敏きびんな動うごきの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その神々こうごうしさゆえ、神かみと崇あがめられた魔物まもの。\nいまだに神かみと思おもってるから少すこしツンとしてる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "泥どろから生うまれた魔物まもの。\nじめじめした所ところで生うまれたせいか、暗くらい性格せいかく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やみのオーブに触ふれたことで\n変化へんかし始はじめたドローンの姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔まの力ちからを得えて、覚醒かくせいし始はじめたドローンの第だい2形態けいたい。\n胸むねに邪悪じゃあくな魔眼まがんが開ひらき始はじめている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "新あらたに現あらわれた、氷こおりの化身けしん。\n周囲しゅういにあるものを全すべて凍こおらせてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "千里せんりを見渡みわたす目めを持もつ、火ひの化身けしん。\n近ちかづくだけで丸まるこげになるほど、高熱こうねつ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "吹雪ふぶきを呼よび、大雪おおゆきを降ふらせる凶鳥きょうちょう。\n大昔おおむかし、氷河期ひょうがきを起おこしたという伝説でんせつがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "心優こころやさしい森もりの主ぬしだが、村人むらびとによる森林伐採しんりんばっさいに怒おこり\n最近さいきんはちょっと冷静れいせいさを失うしなっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極寒ごっかんの地ちに棲すむ森もりの番人ばんにん。\n頭あたまに積つもった雪ゆきが重おもくて肩かたこりに悩なやまされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この世よに未練みれんがある怨霊おんりょうに取とりつかれた木き。\n生なっている毒どくりんごを食たべれば即座そくざにあの世よ行いき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一時的いちじてきに衣替ころもがえした森もりの番人ばんにん。\n一年いちねんに一度いちどなのでおもいっきりキラめいている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鼻はなが花はなのようなシャレたモグラ。\nいつもご機嫌きげんにハナを回まわしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花はなが満開まんかいの時ときにとても元気げんき。\n春はるはみんなでぴょんぴょん跳はねだす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ネズミではなく、もぐらの魔物まもの。\n名前なまえにネズミと付つくのは体からだの色いろがネズミ色いろだから。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体毛たいもうが黄金色こがねいろに輝かがやくリッチなはなもぐら。\nはなもぐらにはいつも羨うらやましがられている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "春先はるさきになると見みかけるようになる、はなもぐら。\n花はなのような鼻先はなさきはサクラではないようだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろんこ洞窟どうくつにすむモグラたちのお父とうさん。\nみんな仲良なかよしで、よく一緒いっしょに出歩であるいている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "飴あめのような美お味いしそうなもぐら。\n思おもわず舐なめたくなるが甘あまくはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜを自在じざいに操あやつる魔法少女まほうしょうじょ。\n風かぜの化身けしんが分身ぶんしんとして生うみ出だしたといわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの化身けしん。全すべての事象じしょうは\nデスティニーによって決きまっていると思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "常つねに上うえから獲物えものを狙ねらっている魔物まもの。\n下したを見みすぎて首くびが曲まがってしまった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黄色きいろい目めが特徴とくちょうの魔物まもの。\n視力しりょくが良よく、かなり遠とおくの小ちいさな獲物えものも逃のがさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "極寒ごっかんの地ちに生息せいそくする魔物まもの。\n空そらから遭難者そうなんしゃを探さがし、弱よわっている所ところを襲おそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "用途ようとは不明ふめいだが、常つねにどろを転ころがして丸まるめている。\n丸まるめているのはどろなので安心あんしんしよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "溶岩ようがんを転ころがして丸まるめている。\nやけどしないようにすごい速はやさで丸まるめている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきを転ころがして丸まるくしている。\n雪玉ゆきだまは何度なんども転ころがした為ため、氷状態こおりじょうたいになっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ファイヤーころがしが進化しんかしたモンスター。\n転ころがしているのは隕石いんせきではとのウワサ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずの化身けしん。\n粋いきな性格せいかくなので小ちいさいことは気きにしない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "美うつくしい白しろい甲羅こうらをもつ魔物まもの。\n歩あるいた軌跡きせきは光ひかり輝かがやいていると言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "湖全体みずうみぜんたいから養分ようぶんを吸すい取とって生いきている巨大きょだいカメ。\n場ばの天候てんこうをあやつり、雨あめを降ふらすこともできる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大きょだいな魔物まものの背中せなかなどに寄生きせいする生いき物もの。\n硬かたいカラの中なかに電気でんきをため込こむ習性しゅうせいがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大きょだいな魔物まものの背中せなかなどに寄生きせいする生いき物もの。\n硬かたいカラの中なかに何なにが棲すんでいるかは不明ふめい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2Ē耀>{3, name, +}の甲羅こうらから分離ぶんりしたモンスター。\n身みを挺ていして闇やみの攻撃こうげきから主人しゅじんを守まもる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "踊おどりが好すきな魔物まもの。副作用ふくさようで良よくない効果こうかが\n起おきるので、みんな踊おどってほしくないと思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巨大きょだいな魔物まものの背中せなかなどに寄生きせいする生いき物もの。\n硬かたいカラの中なかに電気でんきをため込こむ習性しゅうせいがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "機械きかいの体からだに炎ほのおの魂たましいが宿やどる巨人きょじん。知能ちのうが高たかい。\n戦闘結果せんとうけっかをすべて数値計算すうちけいさんできるらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u0013耀>{4, message}を住すみ処かにする氷こおりの巨人きょじん。\nわがままであらくれ者ものだが、なぜか手下てしたが多おおい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりの化身けしん。雲くもを発生はっせいさせて、雷かみなりを呼よぶことで\n無限むげんのエネルギーを供給きょうきゅうしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とてもぷにぷにしてそうな体からだの持もち主ぬし。\n柔やわらかそうな体からだに釣つられてさわると、やけどする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2ę耀>{3, name, +}のお気きに入いりペット。\n呼よべばすぐ来くるところが萌もえポインツ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずを体内たいないに貯蔵ちょぞうしている。\n1ヵ月げつは水みずがなくても耐たえられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お金かねや宝石ほうせきが大好だいすきな魔物まもの。\n肥こえているのは良よいものをいつも食たべているから。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ガスと空気くうきを体内たいないに吸すい込こみ、電気でんきを作つくり出だせる。\n作つくった電気でんきを蓄たくわえてエネルギーにしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきを体からだにため込こんだ、雪ゆきだるまのような魔物まもの。\n大量たいりょうに吸すい込こんだ雪ゆきを吐はき出だし、吹雪ふぶきを起おこす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゆきだるま界かいの王おう。気きに入いらないことがあると\nなんでも凍こおらせてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみを吸収きゅうしゅうして膨ふくれてしまった。\n触ふれてみようとうっかり近ちかづくと吸すい込こまれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チョコが大好だいすきな魔物まもの。好すきなあまり\n体からだをチョコでコーティングしてしまった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イチゴの姿すがたをしたゴースト。\n成仏じょうぶつできなかったイチゴ、というわけではない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "夜よな夜よな、子こどもの枕元まくらもとに現あらわれて\n寝ねている口くちにクリームを塗ぬりたくるゆうれい。　",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あやまってチョコレートの海うみに落おちて死しんだものが\n亡霊ぼうれいとなって現あらわれた姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くさったイチゴのなれの果はて。\n食たべてもらえなかったことを恨うらんでいる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くさったイチゴの中なかでも\n最上級さいじょうきゅうにくさりきったいちご。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正月しょうがつになると村むらに現あらわれて\nいたずらをするもちのおばけ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正月しょうがつになると村むらに現あらわれて\nいたずらをするかまぼこのおばけ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たくさんのキャンディが1つになったおばけ。\nいろんなキャンディが混まじって味あじはカオス。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プチトマトの姿すがたをしたゴースト。\n来世らいせではショートケーキのいちごになりたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "腐くさったタケノコの魔物まもの。\n実じつはフォークが本体ほんたいで、タケノコは操あやつられている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "炎ほのおの魔人まじんに操あやつられているタケノコのゾンビ。\n実じつは、持もっている巨大きょだいカマが魔人まじん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくから呼よび出だされた魔界まかいのタケノコ。\nタケノコ自体じたいは普通ふつうのタケノコ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "天国てんごくから舞まい降おりた堕天使だてんしのひとり。\nタケノコ自体じたいは普通ふつうのタケノコ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正月しょうがつになると突然現とつぜんあらわれるタケノコのまもの。\n非常ひじょうに珍めずらしいので、めでたいとされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくから来きた死者ししゃが乗のり移うつっている。\n普通ふつうのタケノコが見みた目めにまで影響えいきょうが出でている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた炎ほのおの巨人きょじん。\nその硬かたい体からだからはルビーが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた水みずの巨人きょじん。\nその硬かたい体からだからはサファイアが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた風かぜの巨人きょじん。\nその硬かたい体からだからはエメラルドが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた闇やみの巨人きょじん。\nその硬かたい体からだからはアメジストが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた雷かみなりの巨人きょじん。\nその硬かたい体からだからはトパーズが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた氷こおりの巨人きょじん。\nその硬かたい体からだからは金きんが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた白銀はくぎんの巨人きょじん。\nその硬かたい体からだからはプラチナが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた光ひかりの巨人きょじん。\nその硬かたい体からだからはダイヤが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル原石げんせきから生うまれた巨人きょじん。\nその硬かたい体からだからはジュエルが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "甘あまい見みた目めと甘あまい香かおりで冒険者ぼうけんしゃを誘さそい、狩かる。\n中身なかみは獰猛どうもうなハンターである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ホールケーキのような姿すがたをしたスイーツな魔物まもの。\n見みた目めは甘あまったるいが実際じっさいは、こすっ辛からい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チョコケーキのような姿すがたをしたスイーツ族ぞくの一人ひとり。\n甘あまさだけではなく、ほろ苦にがさも兼かね備そなえている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみを支配しはいする王おう。\nペンギンロードに敗やぶれ、闇やみに堕おとされた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かつて伝説でんせつの装備そうびで世界せかいを救すくった勇者ゆうしゃ。\n小ちいさなペンギンから成長せいちょうし装備そうびが着きれなくなった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ペンギン族ぞくでも珍めずらしく異文化いぶんかを好このむ変かわり者もの。\n戦たたかいをダンスだと思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ドクロを背せ負おったら体からだの一部いちぶになった。\n本体ほんたいは実じつはナメクジ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かぼちゃを背せ負おったら体からだの一部いちぶになった。\n実じつはちょっとオシャレしたかったナメクジ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "背せ負おったドクロが実じつはジュエルだった。\n思おもいのほか重おもくて移動いどうが大変たいへんなナメクジ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ドクロを背せ負おったら体からだの一部いちぶになった。\n実じつはドクロが溶岩石ようがんせきで全身ぜんしん火傷やけどなナメクジ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "バケツを背せ負おったら体からだの一部いちぶになった。\n急きゅうな塩水しおみずにもこれで安心あんしん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "滅ほろぼされてしまったとある国くにの元王子もとおうじ。\n今いまはただのカエルだが、心こころは王子おうじのまま。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "誇ほこり高たかきカエルの戦士せんし。\nその跳躍ちょうやくの高たかさを生いかした一撃いちげきは当あたると痛いたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "素早すばやい動うごきで相手あいてを翻弄ほんろうする。\n長ながい舌したは一度いちどつかんだ獲物えものを離はなさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2耀>{4, message}に住すむ子供こどもドラゴン。\n操あやつられていただけで、心根こころねはとても優やさしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いたずら好ずきの子供こどもドラゴン。\nよく叱しかられているが、こりない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきを生うみ出だす子供こどもドラゴン。\n電気でんきを適度てきどに放出ほうしゅつしないと大変たいへんなことになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりのように冷つめたい子供こどもドラゴン。\n吐はいた息いきは、バナナを一瞬いっしゅんで凍こおらせ釘くぎが打うてる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "岩いわのように硬かたい子供こどもドラゴン。\nお日ひさまの陽ひを浴あびてお昼寝ひるねするのが好すき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かつて何なんだったのかわからないいきもの。\nわかるのはその身みにまとった憎にくしみの強つよさだけ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "意識いしきをもすべて飲のみ込こまれた、完全かんぜんなる悪あくの化身けしん。\n誰だれの呼よびかけにも、応こたえることはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "恨うらみが溜たまりに溜たまったとうがらしのなれの果はて。\nその辛からさも、数百倍すうひゃくばいは増ましたという。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "成長せいちょうしすぎたとうがらしのおばけ。\nにおいだけで、目めや鼻はなを刺激しげきする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みた目通めどおり、耳みみが大おおきなネズミ。\n強つよい好敵手こうてきしゅを探さがして幾千里いくせんり。すばしっこい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "腕うでと精神せいしんを磨みがいた進化系しんかけいねずみみ。\n礼儀れいぎにこだわるあまり頭あたまが固かたいと言いわれがち。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずを使つかった技わざに特化とっかしたねずみみ。\n修行中しゅぎょうちゅうはよく水みずをかぶって風か邪ぜをひいていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みた目通めどおり、毒どくをまき散ちらすクラゲ。\n体からだは透明とうめい。見みた目めの色いろは体内たいないの毒どくの色いろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても熟じゅくしすぎ、今いまにも爆発ばくはつしそうなパイン。\n発酵はっこうしかけていて、ほのかにいい香かおり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "爆発ばくはつを避さけるため自みずから凍こおる道みちを選えらんだパイン。\n夏なつに輪わ切ぎりにして食たべると、ひんやりおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然変異とつぜんへんいでトゲが直接ちょくせつはえてしまったクリ。\n焼やくととてもおいしいが調理ちょうりが困難こんなん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "調理ちょうりを失敗しっぱいされてお怒いかりのクリ。\nくろこげなので、炭すみくさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "調理中ちょうりちゅうに心こころまで燃もえ滾たぎって飛とび出だしたクリ。\nお前まえならもっとウマくなると熱弁ねつべんが絶たえない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの魔人まじん。風かぜを発生はっせいさせ、嵐あらしを巻まき起おこす。\n近隣きんりんに多大ただいな迷惑めいわくをかけることしばしば。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おばけに操あやつられ、凶暴化きょうぼうかしたトラ。\nトラ自身じしんは気きづかず、気力きりょくを吸すわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "凶悪きょうあくすぎるおばけに操あやつられたトラ。\n気力きりょくを吸すわれ過すぎて、空腹くうふくでイライラ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "神かみの使つかいに操あやつられているトラ。\n結局けっきょくは、気力きりょくを吸すわれてイライラ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雹ひょうの日ひに現あらわれると伝つたわる白しろい魔物まもの。\n上うえの住人じゅうにんには気き付づいていない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくの門もんを守まもるトラ。\nどこでも一緒いっしょでお互たがいイライラしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "にゅうしが順調じゅんちょうに成長せいちょうした普通ふつうの歯は。\n突つき刺ささると抜ぬけるのが大変たいへん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "豊ゆたかな土と地ちで育そだった巨大きょだいにゅうし。\n一緒いっしょにすり潰つぶしてくれる相方募集中あいかたぼしゅうちゅう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "豊ゆたかな土と地ちで育そだった巨大きょだいきんば。\n数多あまたの追手おってから逃のがれ続つづけて成長せいちょうした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "何なにかに触ふれると丸まるくなる性質せいしつが過敏かびんになり\n常つねに丸まるくなる事ことを運命うんめいづけられたモンスター。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だんごボーイが氷こおり漬づけになって進化しんかした。\nつるっつる滑すべって転ころがっていく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だんごボーイの突然とつぜん変異へんい種しゅ。\n硬かたいトゲは触ふれるものすべて突つき刺さす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "じごくのじょおうがやみのオーブの力ちからを得えて\n変身へんしんした、地ちの獄ごく最凶さいきょうのドラゴン。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高たかい戦闘力せんとうりょくを有ゆうする水生すいせいモンスター。\nぷるっぷるの唇くちびるがチャームポイント。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高たかい戦闘力せんとうりょくを有ゆうする水生すいせいモンスター。\nその鋭するどいまなざしは侵入者しんにゅうしゃを見逃みのがさない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高たかい戦闘力せんとうりょくを有ゆうする水生すいせいモンスター。\nメイクはもちろんウォータープルーフ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鮮あざやかな色いろをしたモンスター。\nオシャレの流行りゅうこうには気きを使つかう方ほう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪あしき闇やみに染そまったチョウの変異種へんいしゅ。\nまき散ちらす鱗粉りんぷんで周囲しゅういを闇やみに染そめる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜを巻まき起おこす巨大きょだいな蝶ちょう。\n羽はねが動うごく度たびに何なにかが吹ふき飛とんでしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "天てんの御使みつかいとされている巨大きょだいな蝶ちょう。\nだがひどい凶暴性きょうぼうせいが備そなわっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "質実剛健しつじつごうけんなトカゲの戦士せんし。\n見みた目以上めいじょうに素早すばやい動うごきで重おもい攻撃こうげきを繰くり出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきを操あやつるトカゲの戦士せんし。\n色いろのコントラストが結構目けっこうめに痛いたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずを操あやつるトカゲの戦士せんし。\n水みずの中なかでも呼吸こきゅうができる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "スピアを自在じざいに操あやつる水生すいせいモンスター。\n狙ねらった獲物えものは逃にがさず貫つらぬく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "任務にんむ遂行すいこうのためならば誰だれであれ\n容赦ようしゃなく排除はいじょする水生すいせいモンスター。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪あくに染そまったはぐれモンスター。\n指し示じされるのが嫌きらいで自分じぶん優先ゆうせん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぢゃらす軍ぐんを率ひきいて王国おうこくの支配しはいを狙ねらう大魔導師だいまどうし。\nせなかがかゆくなる呪のろいはワシのとっておきじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本気ほんきを出だしたときのワシの姿すがたじゃ！\nどうじゃ、すごいオナラ…いや、オーラじゃろう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みなさん、わたしがでんぢゃらすじーさんです。\n冗談じょうだんです。パスカル先生せんせいです、よろしく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちょっと本気ほんきになったパスカル先生せんせいです。\n給食きゅうしょくをつまみ食ぐいしたのは誰だれですかっ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本気ほんきの本気ほんきになったパスカル先生せんせいです。\n威厳いげんがありすぎて体からだが全部見ぜんぶみえないでしょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然変異とつぜんへんいで巨大化きょだいかしたコウモリ。\n大おおきな体からだで相手あいてを威圧いあつする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "丸々まるまるとした体からだにオレンジ色いろが目め立だつワーム。\n何な故ぜだか美お味いしそうに見みえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マグマから産うまれたと言いわれる飛龍ひりゅう。\nその熱風ねっぷうは何なにもかもを灰はいにしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないにため込こんだ水分すいぶんを圧縮あっしゅくし\n強力きょうりょくなブレスを吐はく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "銀色ぎんいろの大おおきな体からだを持もったラッシュボウの仲間なかま。\n一度怒いちどおこらせてしまったら手てに負おえない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "金色こんじきの体からだを持もった巨大きょだいなサソリ。\nここまで大おおきく育そだった個体こたいは珍めずらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "墓石ぼせきで作つくられた魔まの巨人きょじん。\n人々ひとびとの恨うらみや悲かなしみが渦巻うずまいている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全すべての魔法まほうを極きわめた伝説でんせつのエイブ。\nこの世よの全すべての事柄ことがらを把握はあくしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきをまとった巨大昆虫きょだいこんちゅう。\nある時とき、雷かみなりに打うたれたことで突然変異とつぜんへんいした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かつて英雄えいゆうだったガーディアンが悪あくに染そまった姿すがた。\n意い思しもなく闇やみの中なかを彷徨さまよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ギンネコ族ぞくの親衛隊しんえいたい。\n選えらばれしエリートのみで構成こうせいされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "山火事やまかじを生いき延のびたフクロウがモンスターになった。\n羽はばたくたびに火ひの粉こが散ちる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地獄じごくの炎ほのおを抱かかえたウッキー。\n抑おさえ切きれない衝動しょうどうでいつも暴あばれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火山かざんから産うまれたモンスター。\n振ふりまく火ひの粉こは意外いがいと熱あつくない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "竜りゅうたちの中なかで特とくに長生ながいきしたものが王おうとなる\nという言いい伝つたえがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "独自どくじの美意識びいしきを持もつおばば。\n若わかい娘むすめにも負まけていられない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黄金おうごんに輝かがやく体からだと雷いかずちの角つのを持もった一角獣いっかくじゅう。\n自分じぶんより美うつくしい者ものはいないと思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからに飲のみ込こまれてしまったビースト。\n我われを忘わすれて襲おそい掛かかってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みた目めに反はんして心優こころやさしい巨人きょじん。\n花はなに水みずをやるのが日課にっか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "捨すてられた人形にんぎょうに魂たましいが宿やどった。\n元もとの持もち主ぬしを探さがして彷徨さまよっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ついに復活ふっかつした最強さいきょうの伝説竜でんせつりゅう。\nその力ちからは精霊せいれいの力ちからを超こえるともいわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "獲物えものを捕とらえるときは大おおきなくちばしで\n一気いっきに丸飲まるのみしてしまう火ひの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきから生うまれた漆黒しっこくの巨人きょじん。\nその硬かたい体からだからはオニキスが採とれるといわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正義せいぎを司つかさどる白銀はくぎんの騎き士し。\n絶対的力ぜったいてきちからを目めにして異論いろんを唱となえる者ものはいない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "背せ負おったドクロは氷こおりで出で来きている。\n氷こおりを溶とかさないため体温たいおんがすごく低ひくい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "より強つよくなるために毒どくを備そなえた戦士せんし。\n派は手でな体からだの色いろは警告色けいこくしょくという。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真まっ白しろに輝かがやく体からだを持もつ子供こどもドラゴン。\n真まっ暗くらな場所ばしょは苦手にがて。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真まっ黒くろに熟じゅくしたとうがらし。\nナスと間違まちがえると怒おこり出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "漆黒しっこくのねずみ騎き士し。\n真しんの正義せいぎのためには犠牲ぎせいもいとわない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みた目め通どおり、電気でんきをまき散ちらすクラゲ。\nしかし水みずの中なかで使つかうと自分じぶんも感電かんでんしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だんごボーイ界かいのアイドル。\n人気にんきになる前まえはただのボーイだった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アビスの新あらたな姿すがた。\n以前いぜんとは比くらべ物ものにならない強つよさ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "コイせんしの中なかでも美うつくしい姿すがたをした者もの。\n紅白こうはくの模様もようによってさらに格かくが別わけられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみを操あやつるトカゲの戦士せんし。\n背後はいごからの奇襲きしゅうが得意とくい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりを操あやつるトカゲの戦士せんし。\n極寒ごっかんの土と地ちでも凍こごえずに行動こうどう出で来きる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正義せいぎのために戦たたかうモンスター。\nその雷いかずちは罪つみを裁さばき悪あくを浄化じょうかする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゾンビになってしまったホワイトベアの姿すがた。\n夜よな夜よな寝ねずにダンスの練習れんしゅうをしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "12年ねんに一度現いちどあらわれる、巨大きょだいなにわとりのモンスター。\n倒たおすと一年間いちねんかん、健康けんこうになるという言いい伝つたえがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体内たいないにチョコをため込こんでいるモンスター。\nなめるとほんのり甘あまい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マロンケーキの姿すがたをしたモンスター。\n冒険者ぼうけんしゃを狩かるつもりが狩かられていることもしばしば。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ケーキは甘あまい物ものだと思おもっていると痛いたい目めに遭あう。\n近ちかくにいるだけで刺激しげきを感かんじる恐おそろしいモンスター。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "名なもなき僧侶そうりょ。\n真しんの聖職者せいしょくしゃとなるため修行しゅぎょうを積つんでいる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "賭かけ出だしの僧侶そうりょ。\n修行しゅぎょうを積つみ、回復能力かいふくのうりょくを備そなえた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一人前いちにんまえの僧侶そうりょ。\n他者たしゃを裁さばく雷かみなりの力ちからを操あやつる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高位こういの僧侶そうりょ。\n風かぜの加か護ごにより誰だれよりも早はやく行動出来こうどうできる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "真実しんじつを求もとめた結果けっか、死しに囚とらわれてしまった僧侶そうりょ。\n死者ししゃとともに奈落ならくの底そこへといざなう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "六天魔神ろくてんまじんの一人ひとり、アグニホースの別べつの姿すがた。\n体内たいないのマグマを急速きゅうそくに冷ひやすことで状態じょうたいが変化へんかした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ひを司つかさどる六天魔神ろくてんまじんの一人ひとり。\nマグマの力ちからを自在じざいに操あやつる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "遺跡いせきから発掘はっくつされた謎なぞの兵器へいき。\n何なにかを守まもっていたものだと思おもわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土つちを司つかさどる六天魔神ろくてんまじんの一人ひとり。\n炭鉱たんこうの奥おくで地底人達ちていじんたちを働はたらかせていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雷かみなりを司つかさどる六天魔神ろくてんまじんの一人ひとり。\nジャシン復活ふっかつの儀式ぎしきを行おこなっていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "漆黒しっこくの鎧よろいを身みにまとったモンスター。\nその体からだはどんな剣つるぎも跳はね返かえす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜを司つかさどる六天魔神ろくてんまじんの一人ひとり。\n村むらに疫病えきびょうを流は行やらせていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜのしもべのモンスター。\nつむじ風かぜとともに現あらわれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずを司つかさどる六天魔神ろくてんまじんの一人ひとり。\nジャシン復活ふっかつの儀式ぎしきを行おこなっていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ヘビの力ちからを宿やどした少女しょうじょ。\n頭あたまのヘビには個別こべつに名前なまえがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりを司つかさどる六天魔神ろくてんまじんの一人ひとり。\n大おおきな顎あごでどんな鉱石こうせきも噛かみ砕くだく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鉱石こうせきを食たべて成長せいちょうするモンスター。\nブレードは毎日まいにちの手て入いれがかかせない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カネコのにせもの。口調くちょうがちょっとおかしい。\n本当ほんとうの正体しょうたいは不明ふめい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底人ちていじんによく似にた魔物まもの。\n見覚みおぼえがあるようなないような……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一時的いちじてきに衣替ころもがえした森もりの番人ばんにん。\n短みじかい間あいだなので、おもいっきりおしゃれしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "顔かおを与あたえられたかぼちゃのおばけ。\n自分じぶんが主役しゅやくとばかりにはっちゃけている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても長生ながいきして魔物まものと化かしたクモ。\n今いまの悩なやみは吐はき出だす糸いとが体からだを支ささえきれないこと。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "赤あかい花はなに擬態ぎたいした巨大きょだいな蝶ちょう。\n近寄ちかよる昆虫こんちゅうをとらえて養分ようぶんを吸すい取とってしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くらやみの番人ばんにん。\n漆黒しっこくの闇やみの中なかですさまじい力ちからを発揮はっきする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "死しをつかさどる暗黒世界あんこくせかいの守護者しゅごしゃ。\nキングより賜たまわったランスを手てに、冒険者ぼうけんしゃを狩かる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "二に度ども敗やぶれたまおうが、底辺ていへんで目め覚ざめた最終形態さいしゅうけいたい。\n自己満足じこまんぞくの姿すがたともいえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ドローンＺに変身へんしんした、どろの魔物まものドローンが\n闇やみの力ちからで手てに入いれた、魔界まかいの王おうっぽい姿すがた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "如い何かなる戦たたかいでも勝利しょうりしてきた\nイカ戦士せんしたちの憧あこがれ。イカだけに。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "煙けむりの塊かたまりの魔物まもの。何なにを考かんがえているか分わからない\nもしかして何なにも考かんがえていないのかもしれない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪悪じゃあくな神かみ。世界せかいを破壊はかいして無むの世界せかいを望のぞんでいる。\n自分じぶんを封印ふういんした精霊せいれいを憎にくんでいる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジャシンが得えた完全体かんぜんたいの姿すがた。\n再ふたたび封印ふういんされる原因げんいんになった相手あいてを憎にくむ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジャシンの復活ふっかつを目論もくろむ、邪神教幹部じゃしんきょうかんぶの一人ひとり。\n暖あたたかそうな紫むらさきのふさふさは実じつはとることができる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "邪神教じゃしんきょうの幹部かんぶのひとり。\nまやかしの術じゅつで偽にせのまちを作つくりだしていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サーパント兄弟きょうだいの兄あに。\n弟おとうとをいつもこき使つかっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サーパント兄弟きょうだいの弟おとうと。\n兄あにに逆さからえない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "常つねに機嫌きげんが悪わるい魔物まもの。体からだがピンク色いろなのは\n怒いかりで体からだが火ほ照てっているから。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの化身けしん。全すべての事象じしょうは\nデスティニーによって決きまっていると思おもっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみを操あやつる巨大きょだいガメの魔物まもの。\nあらゆる光ひかりを吸収きゅうしゅうし、あたりを夜よるにしてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "溶岩ようがんの海うみで漂ただよううちに大おおきく育そだったダルマ族ぞく。\nお腹なかはよりタプンタプンで柔やわらかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきを体からだにため込こんだ、雪ゆきだるまのような魔物まもの。\n大量たいりょうに吸すい込こんだ雪ゆきを吐はき出だし、吹雪ふぶきを起おこす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大量たいりょうの水みずを体内たいないに貯蔵ちょぞうしている。\n丸まる1年ねんは水みずなしでも生いきられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暗黒あんこくの道みちを究きわめんとして、間違まちがった方向ほうこうに\n向むかってしまった、残念ざんねんなぶたばなウサギ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダークネスじーさんのオナラ…いや、\nオーラの影響えいきょうで突然変異とつぜんへんいしたマタンゴ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダークネスじーさんのオナラ…いや、\nオーラの影響えいきょうで突然変異とつぜんへんいした植物しょくぶつの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダークネスじーさんのオナラ…いや、\nオーラの影響えいきょうで突然変異とつぜんへんいしたオオカミの魔物まもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダークネスじーさんの鼻はなから生うまれたものを\n一生懸命丸いっしょうけんめいまるめているうちに魔物まものになった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダークネスじーさんのいうことを、全まったく聞きかない\n不忠実ふちゅうじつなしもべロボ。ポンコツ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然現とつぜんあらわれたすべてが謎なぞに包つつまれた生命体せいめいたい。\n…設定せっていがないというわけではないぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カレーじーさんの力ちからで弱体化じゃくたいかした姿すがた。\n今日きょうの夜よるはカレーだね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "王国おうこくに降臨こうりんした、絶対的ぜったいてきな力ちからを持もつじーさん。\n何なにをしに来きたかはよくわからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いろんなじーさんが合体がったいして生うまれた究極体きゅうきょくたい。\nう、う〇こって言いうなー！！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageFlavor",
+			"Monster"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147484094,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147484104,
+		2147484155,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147484078,
+		2147484079,
+		2147484082,
+		2147484083,
+		2147484084,
+		2147484085,
+		2147484095,
+		2147484096,
+		2147484097,
+		2147484156,
+		2147484202,
+		2147484203,
+		2147484238,
+		2147484239,
+		2147484240,
+		2147484241,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147484242,
+		2147484243,
+		2147483669,
+		2147483671,
+		2147483673,
+		2147483674,
+		2147484060,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147484080,
+		2147484204,
+		2147484205,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147484098,
+		2147484105,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147484106,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147484061,
+		2147484099,
+		2147484244,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147484107,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147484108,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147484157,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147484062,
+		2147484100,
+		2147484206,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147484063,
+		2147484086,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147484173,
+		2147483723,
+		2147483725,
+		2147483727,
+		2147483729,
+		2147484168,
+		2147484169,
+		2147483731,
+		2147483733,
+		2147483735,
+		2147483737,
+		2147483739,
+		2147483741,
+		2147483743,
+		2147483745,
+		2147483747,
+		2147483749,
+		2147484058,
+		2147484081,
+		2147484166,
+		2147484167,
+		2147484207,
+		2147483751,
+		2147483752,
+		2147483753,
+		2147483754,
+		2147484074,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483763,
+		2147483765,
+		2147483767,
+		2147484071,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483773,
+		2147483774,
+		2147483775,
+		2147484215,
+		2147483776,
+		2147483777,
+		2147483778,
+		2147483779,
+		2147483780,
+		2147484109,
+		2147483781,
+		2147483782,
+		2147483783,
+		2147483784,
+		2147483786,
+		2147483787,
+		2147483789,
+		2147483790,
+		2147483791,
+		2147483792,
+		2147483795,
+		2147484087,
+		2147484306,
+		2147484088,
+		2147484110,
+		2147484174,
+		2147483796,
+		2147483797,
+		2147483798,
+		2147483800,
+		2147483801,
+		2147483807,
+		2147483809,
+		2147483810,
+		2147484111,
+		2147484218,
+		2147483811,
+		2147483812,
+		2147483813,
+		2147483814,
+		2147484072,
+		2147483815,
+		2147483816,
+		2147483817,
+		2147483818,
+		2147484112,
+		2147484113,
+		2147484114,
+		2147483819,
+		2147483820,
+		2147483821,
+		2147483822,
+		2147484115,
+		2147483823,
+		2147483824,
+		2147483825,
+		2147484073,
+		2147483826,
+		2147483827,
+		2147483828,
+		2147483829,
+		2147484175,
+		2147483830,
+		2147483832,
+		2147483833,
+		2147483834,
+		2147483835,
+		2147483836,
+		2147483838,
+		2147483840,
+		2147483841,
+		2147483842,
+		2147483846,
+		2147483850,
+		2147483854,
+		2147484116,
+		2147484117,
+		2147483858,
+		2147483859,
+		2147483860,
+		2147483861,
+		2147483862,
+		2147483863,
+		2147483864,
+		2147483865,
+		2147483867,
+		2147484053,
+		2147483868,
+		2147483869,
+		2147483870,
+		2147484064,
+		2147484118,
+		2147483871,
+		2147483872,
+		2147483873,
+		2147483874,
+		2147483875,
+		2147483876,
+		2147483877,
+		2147483878,
+		2147483880,
+		2147483881,
+		2147484089,
+		2147484090,
+		2147484091,
+		2147484092,
+		2147483882,
+		2147483883,
+		2147483884,
+		2147484119,
+		2147484120,
+		2147484176,
+		2147483885,
+		2147483887,
+		2147483888,
+		2147483889,
+		2147483890,
+		2147483891,
+		2147483892,
+		2147483893,
+		2147483894,
+		2147483895,
+		2147484227,
+		2147484246,
+		2147483897,
+		2147483898,
+		2147483899,
+		2147484208,
+		2147483900,
+		2147483901,
+		2147483902,
+		2147484177,
+		2147483903,
+		2147483904,
+		2147483905,
+		2147483906,
+		2147483907,
+		2147484065,
+		2147484101,
+		2147484121,
+		2147483908,
+		2147483909,
+		2147483910,
+		2147483911,
+		2147484158,
+		2147484159,
+		2147484209,
+		2147483912,
+		2147483913,
+		2147483914,
+		2147484160,
+		2147483915,
+		2147483916,
+		2147483917,
+		2147483918,
+		2147483919,
+		2147484294,
+		2147483924,
+		2147483926,
+		2147483928,
+		2147484122,
+		2147484178,
+		2147483930,
+		2147483931,
+		2147483932,
+		2147483933,
+		2147484103,
+		2147483934,
+		2147484047,
+		2147484123,
+		2147484161,
+		2147484223,
+		2147484219,
+		2147483940,
+		2147483941,
+		2147484162,
+		2147483943,
+		2147483944,
+		2147483946,
+		2147483947,
+		2147483950,
+		2147484054,
+		2147483951,
+		2147483952,
+		2147483953,
+		2147484210,
+		2147483954,
+		2147483955,
+		2147483957,
+		2147483958,
+		2147483960,
+		2147484066,
+		2147484125,
+		2147484055,
+		2147484179,
+		2147483965,
+		2147483966,
+		2147483967,
+		2147483968,
+		2147483969,
+		2147483970,
+		2147484180,
+		2147483971,
+		2147483974,
+		2147484057,
+		2147483975,
+		2147483976,
+		2147483977,
+		2147483979,
+		2147484056,
+		2147483980,
+		2147483981,
+		2147483982,
+		2147483986,
+		2147483991,
+		2147483995,
+		2147483999,
+		2147484044,
+		2147484171,
+		2147484172,
+		2147484201,
+		2147484211,
+		2147484003,
+		2147484005,
+		2147484006,
+		2147484069,
+		2147484170,
+		2147484075,
+		2147484076,
+		2147484127,
+		2147484245,
+		2147484007,
+		2147484009,
+		2147484010,
+		2147484070,
+		2147484077,
+		2147484128,
+		2147484011,
+		2147484013,
+		2147484015,
+		2147484017,
+		2147484019,
+		2147484022,
+		2147484025,
+		2147484027,
+		2147484059,
+		2147484029,
+		2147484030,
+		2147484031,
+		2147484032,
+		2147484034,
+		2147484036,
+		2147484129,
+		2147484130,
+		2147484131,
+		2147484182,
+		2147484220,
+		2147484132,
+		2147484133,
+		2147484221,
+		2147484134,
+		2147484135,
+		2147484136,
+		2147484137,
+		2147484138,
+		2147484140,
+		2147484141,
+		2147484142,
+		2147484143,
+		2147484144,
+		2147484145,
+		2147484163,
+		2147484146,
+		2147484147,
+		2147484148,
+		2147484164,
+		2147484165,
+		2147484183,
+		2147484149,
+		2147484150,
+		2147484151,
+		2147484152,
+		2147484224,
+		2147484295,
+		2147484153,
+		2147484154,
+		2147484200,
+		2147484184,
+		2147484185,
+		2147484186,
+		2147484187,
+		2147484188,
+		2147484189,
+		2147484190,
+		2147484222,
+		2147484191,
+		2147484192,
+		2147484193,
+		2147484194,
+		2147484195,
+		2147484196,
+		2147484197,
+		2147484198,
+		2147484199,
+		2147484212,
+		2147484213,
+		2147484214,
+		2147484216,
+		2147484217,
+		2147484247,
+		2147484248,
+		2147484249,
+		2147484250,
+		2147484251,
+		2147484252,
+		2147484253,
+		2147484254,
+		2147484255,
+		2147483785,
+		2147484256,
+		2147484257,
+		2147484258,
+		2147484259,
+		2147484288,
+		2147484260,
+		2147484261,
+		2147484262,
+		2147484263,
+		2147484264,
+		2147484281,
+		2147484265,
+		2147484266,
+		2147484267,
+		2147484268,
+		2147484283,
+		2147484269,
+		2147484270,
+		2147484271,
+		2147484272,
+		2147484273,
+		2147484282,
+		2147484274,
+		2147484275,
+		2147484276,
+		2147484277,
+		2147484278,
+		2147484279,
+		2147484280,
+		2147484285,
+		2147484286,
+		2147484287,
+		2147484289,
+		2147484290,
+		2147484293,
+		2147484291,
+		2147484228,
+		2147484225,
+		2147484229,
+		2147484226,
+		2147484230,
+		2147484231,
+		2147484232,
+		2147484233,
+		2147484234,
+		2147484235,
+		2147484236,
+		2147484237,
+		2147484284,
+		2147484305,
+		2147484124,
+		2147484126,
+		2147484139,
+		2147483667,
+		2147483793,
+		2147483794,
+		2147483803,
+		2147483805,
+		2147483831,
+		2147483896,
+		2147483920,
+		2147483922,
+		2147483936,
+		2147483937,
+		2147483938,
+		2147483939,
+		2147483942,
+		2147483962,
+		2147483973,
+		2147484038,
+		2147484040,
+		2147484042,
+		2147484296,
+		2147484297,
+		2147484298,
+		2147484307,
+		2147484299,
+		2147484300,
+		2147484301,
+		2147484302,
+		2147484303,
+		2147484304
+	]
+}

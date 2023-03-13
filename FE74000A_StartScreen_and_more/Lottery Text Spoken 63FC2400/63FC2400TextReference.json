@@ -1,0 +1,125 @@
+{
+	"header": {
+		"text_amount": 5,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 646,
+		"offset_strings": 720,
+		"strings_section_size1": 60,
+		"offset3": 784,
+		"section_size2": 20,
+		"offset4": 816,
+		"section_size3": 16,
+		"offset5": 832,
+		"section_size4": 12,
+		"unk3": 0,
+		"offset6": 626,
+		"offset7": 645,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "はい、いらっしゃい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Need {6, ticket_num\u0001, +} of <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +} for one draw.\nOnly have <1\u0003\u0001>{6, ticket_num\u0002, +} of <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}, can't play.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}を<1\u0003\u0001>{6, ticket_num1}<18\u0000>枚<19\u0000>まい<1:\u0000>、<18\u0000>持<19\u0000>も<1:\u0000>ってないようじゃの。\n<17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}が<1\u0003\u0001>{6, ticket_num2}<18\u0000>枚<19\u0000>まい<1:\u0000>ないと、これは<18\u0000>回<19\u0000>まわ<1:\u0000>せんよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0003\u0001>{3, grade}<18\u0000>等<19\u0000>とう<1:\u0000>だね、おめでとさん。\n<18\u0000>景品<19\u0000>けいひん<1:\u0000>の<1Đ\u0001>{3, name, +}あげる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ<17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}<1\u0003\u0000><18\u0000>枚<19\u0000>まい<1:\u0000>、<18\u0000>持<19\u0000>も<1:\u0000>っとるようだけど\nこのまま<18\u0000>続<19\u0000>つづ<1:\u0000>けて<18\u0000>引<19\u0000>ひ<1:\u0000>くかい？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "またきなさいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageTalkLottery"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652
+	]
+}

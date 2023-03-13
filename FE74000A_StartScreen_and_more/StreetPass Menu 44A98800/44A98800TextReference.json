@@ -1,0 +1,143 @@
+{
+	"header": {
+		"text_amount": 13,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 832,
+		"offset_strings": 896,
+		"strings_section_size1": 52,
+		"offset3": 960,
+		"section_size2": 52,
+		"offset4": 1024,
+		"section_size3": 8,
+		"offset5": 1040,
+		"section_size4": 14,
+		"unk3": 0,
+		"offset6": 816,
+		"offset7": 828,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "自分じぶんのプレイデータを確認かくにんします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これまでにすれちがった人達ひとたちの\nプレイデータを閲覧えつらんし、1回かいバトルができます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレイデータ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがいリスト",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレイデータ確認",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがいリスト",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, month}月{2, day}日",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "昨日",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "データ更新こうしんが行おこなわれていないため\nパーティの選択せんたくができません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「すれちがいバトル」追加ついか！\nすれちがいをした相手あいてのパーティと\nバトルが1回かいできるようになりました。\nすれちがいバトルに勝かつと\n毎回まいかいプレゼントがおくられます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがいバトルをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageMenu",
+			"cec"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147484374,
+		2147484375,
+		2147484245,
+		2147484246,
+		2147484247,
+		2147484248,
+		2147484249,
+		2147484250,
+		2147484251,
+		2147484252,
+		2147484554,
+		2147484589,
+		2147484590
+	]
+}

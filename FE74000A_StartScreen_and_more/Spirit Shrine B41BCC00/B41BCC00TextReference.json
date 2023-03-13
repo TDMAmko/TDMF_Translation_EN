@@ -1,0 +1,671 @@
+{
+	"header": {
+		"text_amount": 79,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 10389,
+		"offset_strings": 10464,
+		"strings_section_size1": 316,
+		"offset3": 10784,
+		"section_size2": 316,
+		"offset4": 11104,
+		"section_size3": 8,
+		"offset5": 11120,
+		"section_size4": 80,
+		"unk3": 0,
+		"offset6": 10370,
+		"offset7": 10382,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "精霊のほこら",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生する",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生する",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "説明を見る",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生の条件",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生のしかた",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生の条件",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生のしかた",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "説明を見る",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "幸福度とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間の世代とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんボックスに空あきがないため\n出生しゅっせいができません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}を\n転生てんせいさせますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n第だい {2, num}世代せだいに転生てんせいしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生しゅっせいを行おこないますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}が\n誕生たんじょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生とは2人の電波人間から\n新たな電波人間を誕生させることです。\n参加した電波人間よりも強力な\n電波人間が生まれることもあります。\n出生をするためには、特定の条件が必要です。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "次の条件を満たした2人が出生に参加できます。\n・同じ世代である。\n・過去に出生をしたことがない。\n・現在の世代でレベルが上限に達している。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生を行うには、参加する電波人間を選択します。\n電波人間ボックスでパーティを編成するのと\n同じ要領で電波人間を2人選択したら\n「出生する」をタッチして下さい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生とは電波人間の世代を1つ上げることです。\n世代を上げるとレベルの上限が変わり\n前の世代より多くレベルアップできます。\n転生をするためには、特定の条件が必要です。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "次の条件を満たした電波人間が転生できます。\n・世代の限界に達していない。\n・現在の世代でレベルが上限に達している。\n・現在の世代で幸福度が上限に達している。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転生を行うには、電波人間ボックスで\nパーティを編成するのと同じ要領で\n転生させる電波人間を選択します。\n選択したら「転生する」をタッチして下さい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今いま使つかっているペイントざいの\n色いろが落おちてしまいます。\n転生てんせいしてもよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "幸福度は転生を行うために必要なものです。\n冒険や電波人間ボックスで\nふれあうことで溜まっていきます。\n転生に必要な幸福度は、電波人間の\n世代によって変わります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間にはそれぞれ「世代」があります。\n世代ごとにレベルアップできる限界があり\n出生や転生で「世代」を上げることができます。\nレベルと同様、世代にも限界があります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんを2人り選択せんたくして\n新あらたな電波人間でんぱにんげんを誕生たんじょうさせます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんの世代せだいを1つ上あげます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいのほこらの説明せつめいを確認かくにんします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "成長について",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間から出生させた電波人間には\n能力が少し弱くなる期間が存在します。\nこの間は、出生や転生を行うことができません。\nある程度バトルをすると成長し\nこの期間が終了します。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "成長せいちょうしていないため\n出生しゅっせいに参加さんかすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "レベルが上限じょうげんに達たっしていないため\n出生しゅっせいに参加さんかすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "同おなじ世代せだいではないため\n出生しゅっせいに参加さんかすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "出生しゅっせいをしたことがあるので\n出生しゅっせいに参加さんかすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最大世代さいだいせだいなため、現在げんざいは\n出生しゅっせいに参加さんかすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "成長せいちょうしていないため\n転生てんせいすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "レベルが上限じょうげんに達たっしていないため\n転生てんせいすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "幸福度こうふくどが上限じょうげんに達たっしていないため\n転生てんせいすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世代せだいの限界げんかいに達たっしているため\n転生てんせいすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最大世代さいだいせだいなため、現在げんざいは\n転生てんせいすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転身",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転身する",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんの属性ぞくせいを変かえます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜんへ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくへ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リセット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいのほこらに、「て転ん身し」んが追加ついかされ\n「ぜん」属性ぞくせいへ転身てんしんが出で来きるようになりました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世代せだい7に達たっしていれば利用可能りようかのうです。\nレベルが1に戻もどりますが、電波人間でんぱにんげんを\n「ぜん」属性ぞくせいに転身てんしんすることができます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん属性ぞくせいになると、あく属性ぞくせいに対たいして\nこうげきが1.5倍ばいになります。\nまた、ふうかく効果こうかを1備そなえ持もち、\nさらに、ふうかく効果こうかが2倍ばいになります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「あく」属性ぞくせいへ転身てんしんが\n出で来きるようになりました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世代せだい7に達たっしていれば利用可能りようかのうです。\nレベルが1に戻もどりますが、電波人間でんぱにんげんを\n「あく」属性ぞくせいに転身てんしんすることができます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく属性ぞくせいになると、こうげきが1.2倍ばいとなり\nきょうふ効果こうかを3%備そなえ持もちます。\nさらに、きょうふ効果こうかが1.5倍ばいになります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん転身とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん転身の条件",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん転身のしかた",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく転身とは",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく転身の条件",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく転身のしかた",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転身のもどしかた",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん転身てんしんを行おこなうと、電波人間でんぱにんげんの本来持ほんらいもつ属性ぞくせいに\nぜん属性ぞくせいを加くわえることができます。\n転身てんしんすると、レベルが1に戻もどりますが\nあく属性ぞくせいに対たいしてこうげきダメージが\n1.5倍ばいになります。また、ふうかくを1備そなえ持もち\nさらに、ふうかく効果こうかが2倍ばいになります。\n転身てんしんをするためには、特定とくていの条件じょうけんが必要ひつようです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "次つぎの条件じょうけんを満みたした電波人間でんぱにんげんが転身てんしんできます。\n・7世代せだいに達たっしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜん転身てんしんを行おこなうには、電波人間でんぱにんげんボックスで\nパーティを編成へんせいするのと同おなじ要領ようりょうで\nぜん転身てんしんさせる電波人間でんぱにんげんを選択せんたくします。\n選択せんたくしたら「ぜんへ」をタッチして下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく転身てんしんを行おこなうと、電波人間でんぱにんげんの本来持ほんらいもつ属性ぞくせいに\nあく属性ぞくせいを加くわえることができます。\n転身てんしんすると、レベルが1に戻もどりますが\nこうげきダメージが1.2倍ばいとなり\nきょうふを3%備そなえ持もちます。\nさらに、きょうふ効果こうかが1.5倍ばいとなります。\n転身てんしんをするためには、特定とくていの条件じょうけんが必要ひつようです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "次つぎの条件じょうけんを満みたしていると転身てんしんができます。\n・7世代せだいに達たっしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あく転身てんしんを行おこなうには、電波人間でんぱにんげんボックスで\nパーティを編成へんせいするのと同おなじ要領ようりょうで\nあく転身てんしんさせる電波人間でんぱにんげんを選択せんたくします。\n選択せんたくしたら「あくへ」をタッチして下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "転身てんしんした電波人間でんぱにんげんを元もとに戻もどすには\n電波人間でんぱにんげんボックスでパーティを編成へんせいするのと\n同おなじ要領ようりょうで電波人間でんぱにんげんを選択せんたくします。\n選択せんたくしたら「リセット」をタッチして下ください。\n「リセット」した場合ばあいもレベルが1に\n戻もどりますので注意ちゅういしてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "7世代せだいに達たっしていないため\n転身てんしんすることはできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}を\nぜん転身てんしんさせますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}を\nあく転身てんしんさせますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}の転身てんしんを\nリセットします。よろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "経験値けいけんちもリセットされて\nレベルが下さがりますが\n本当ほんとうによろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "経験値けいけんちもリセットされますが\n本当ほんとうによろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n「ぜん」に転身てんしんしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n「あく」に転身てんしんしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n転身てんしんをやめました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageMenu",
+			"shrine"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147484058,
+		2147484062,
+		2147484063,
+		2147484103,
+		2147484104,
+		2147484395,
+		2147484396,
+		2147484397,
+		2147484398,
+		2147484399,
+		2147484400,
+		2147484401,
+		2147484441,
+		2147484442,
+		2147484523,
+		2147484390,
+		2147484391,
+		2147484392,
+		2147484393,
+		2147484394,
+		2147484402,
+		2147484403,
+		2147484404,
+		2147484405,
+		2147484406,
+		2147484407,
+		2147484443,
+		2147484516,
+		2147484524,
+		2147484444,
+		2147484445,
+		2147484446,
+		2147484555,
+		2147484556,
+		2147484557,
+		2147484558,
+		2147484559,
+		2147484560,
+		2147484561,
+		2147484562,
+		2147484563,
+		2147484564,
+		2147484565,
+		2147484754,
+		2147484755,
+		2147484756,
+		2147484781,
+		2147484757,
+		2147484758,
+		2147484759,
+		2147484760,
+		2147484761,
+		2147484762,
+		2147484763,
+		2147484764,
+		2147484765,
+		2147484766,
+		2147484767,
+		2147484768,
+		2147484769,
+		2147484770,
+		2147484771,
+		2147484772,
+		2147484773,
+		2147484774,
+		2147484775,
+		2147484776,
+		2147484777,
+		2147484778,
+		2147484779,
+		2147484780,
+		2147484782,
+		2147484783,
+		2147484784,
+		2147484785,
+		2147484786,
+		2147484787,
+		2147484788,
+		2147484789
+	]
+}

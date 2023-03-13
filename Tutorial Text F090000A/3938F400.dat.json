@@ -1,0 +1,191 @@
+{
+	"header": {
+		"text_amount": 17,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 2402,
+		"offset_strings": 2496,
+		"strings_section_size1": 68,
+		"offset3": 2576,
+		"section_size2": 68,
+		"offset4": 2656,
+		"section_size3": 8,
+		"offset5": 2672,
+		"section_size4": 18,
+		"unk3": 0,
+		"offset6": 2386,
+		"offset7": 2402,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "To add more denpa men to\nyour team you need to catch them\nvia the antenna tower.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Tap \"<17\u0003>{7, MessageCommon}<2ǥ耀>{4, message}\" on\nthe lower screen.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Caught Denpa Men will be send\nto the\"<17\u0003>{7, MessageCommon}<2Ǧ耀>{4, message}\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There you can form your party\nand interact with Denpa Men.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let's touch \"<17\u0003>{7, MessageCommon}<2Ǧ耀>{4, message}\"\non the bottom of the screen.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "To see stage information and\nobtained items, press\"<17\u0003>{6, MessageMenu}<2Ī耀>{4, message}\"\non the bottom screen.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If you choose to \"Retire\", you will\nloose all of your obtained items\nbut you will be able to return\nback to your Island.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When you return to the Island,\nyour party's HP and AP will\nbe fully restored, and any\nabnormalities will be cured.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Touch \"<17\u0003>{6, MessageMenu}<2Ơ耀>{4, message}\" once every day\nto connect to the Internet\nto unlock Events.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You may receive special\nrewards.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "A new tab \"<17\u0003>{6, MessageMenu}<2Ĥ耀>{4, message}\"\nhas been added to enable you to\ncustomize your Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Touch \"<17\u0003>{6, MessageMenu}<2Ĥ耀>{4, message}\"to switch\nto the new tab.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "To add a house to your island\ntouch \"<17\u0003>{6, MessageMenu}<2ĳ耀>{4, message}\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"<17\u0003>{6, MessageMenu}<2ĥ耀>{4, message}\" has been added\n to the menu.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Touch \"<17\u0003>{6, MessageMenu}<2ĥ耀>{4, message}\"\nto switch to the next tab.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Touch the buttons at the bottom of\the menu to switch pages.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "To return, touch the button\nat the top of the tab.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageTutorial"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483661,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665
+	]
+}

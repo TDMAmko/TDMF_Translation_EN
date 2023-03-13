@@ -1,0 +1,205 @@
+{
+	"header": {
+		"text_amount": 9,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 3395,
+		"offset_strings": 3472,
+		"strings_section_size1": 108,
+		"offset3": 3584,
+		"section_size2": 36,
+		"offset4": 3632,
+		"section_size3": 16,
+		"offset5": 3648,
+		"section_size4": 20,
+		"unk3": 0,
+		"offset6": 3386,
+		"offset7": 3394,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "The door was unlocked from\ninside!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2\u0008耀>{4, message} and <17\u0003>{8, MessageNpcName, +}<2\u000B耀>{4, message}\nnot back home yet...<1\"\u0000>\nWhere they go and play...\nAnd who, you strangers!<1\"\u0000>\nStrangers here not welcome!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What!?You saved my child <17\u0003>{8, MessageNpcName, +}<2\u0008耀>{4, message}<1\"\u0000>\nfrom monster!? That great\nbut, where my other child?<1\"\u0000>\nMe not trust you till\nboth children are save...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What!? You saved both my\nchildren from crazy monsters!?<1\"\u0000>\nMe am super grateful!\nGlad both are okay, thanks!<1\"\u0000>\nWe need give you reward!\nGo in house.<1\"\u0000>\nThere some treasures for you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, open door.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks for saving our\nchildren!<1\"\u0000>\nTake anything you need\nhere from house if want!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me heard from husband you\nsaved our children!<1\"\u0000>\nMe not know how to thank...\nHow about allowing<1\"\u0000>\nusing pond. If have bait,\ncan catch rare fish!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"Catching fish\"<1\"\u0000>\nIf you want to catch a fish,\nyou need the right \"bait\"!<1\"\u0000>\nWant to catch \"<17\u0003>{5, ItemData, +}<2˘耀>{3, name, +}\"?\nThen use \"<17\u0003>{5, ItemData, +}<2ʎ耀>{3, name, +}\"!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"How to fish\"<1\"\u0000>\nIf you're having troubles\nwhile fishing, you may need<1\"\u0000>\na new \"rod\"!\nWhen using a better \"rod\"<1\"\u0000>\nit will be easier to catch\nfish!<1\"\u0000>\n\"<17\u0003>{5, ItemData, +}<2ɼ耀>{3, name, +}\" for instance\nincreases damage by 5!<1\"\u0000>\n\"<17\u0003>{5, ItemData, +}<2ʂ耀>{3, name, +}\" increases the time\nyou have when the fish strikes!<1\"\u0000>\nTry different types of rods to\nfind the best for you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345664,
+		3503345664
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"f01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483657,
+		2147483650,
+		2147483659,
+		2147483651,
+		2147483658,
+		2147483655,
+		2147483656
+	]
+}

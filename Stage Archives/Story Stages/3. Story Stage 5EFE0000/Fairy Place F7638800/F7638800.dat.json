@@ -1,0 +1,685 @@
+{
+	"header": {
+		"text_amount": 39,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 10275,
+		"offset_strings": 10352,
+		"strings_section_size1": 468,
+		"offset3": 10832,
+		"section_size2": 156,
+		"offset4": 10992,
+		"section_size3": 16,
+		"offset5": 11008,
+		"section_size4": 80,
+		"unk3": 0,
+		"offset6": 10266,
+		"offset7": 10274,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Got permission to use\n<17\u0003>{7, MessageCommon}<2ǧ耀>{4, message}.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ah!! Denpa Men!\nWelcome to <17\u0003>{8, MessageMapName, +}<2\u000F耀>{4, message}!<1\"\u0000>\nHere, we pray to the spirits.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome to <17\u0003>{8, MessageMapName, +}<2\u000F耀>{4, message}!\nThe senior fairy is<1\"\u0000>\nwaiting in the back\nfor you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Pfft! You're really looking\nweak! Denpa Men of higher<1\"\u0000>\ngenerations are much more\npowerful. If you're struggling<1\"\u0000>\nduring your adventures, you\nmay need to reincarnate!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you're looking really\nstrong! You can get even\nstronger by reaching higher<1\"\u0000>\ngeneration levels! Reincarnate\nas much as possible!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow! You've already reached\na high gen! So cool!<1\"\u0000>\nI'm sure this wasn't easy\nfor you but it's worth it!<1\"\u0000>\nKeep it up and good luck\non your adventures!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome Denpa Men.<1\"\u0000>\nI see you've managed to reach\n<17\u0003>{8, MessageMapName, +}<2\u000F耀>{4, message}.<1\"\u0000>\nYou've seeked this place\nto get more power.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I want to become more\npowerful. I heard that the fairies<1\"\u0000>\ncan use the power of spirits\nto make Denpa Men even stronger!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲츲⟞⾸⟓쒯숯혧⾸⟦D8C5⟧⟀눳쏝뷞簾瀤条⑥혯뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팻꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯뜾⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I want to get stronger!\nI heard that the fairies<1\"\u0000>\ncan use the power of spirits\nto make Denpa Men more powerful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲⟦DC32⟧변팯꼧⿄⟂룖씯샘눧쏝뷞簾瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯뜾⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I want to be stronger!\nI heard that the fairies<1\"\u0000>\ncan use the power of spirits\nto make Denpa Men more powerful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➴粴팲꼧⿄⟂룖씯샘눧쏝뷞簾瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧⿄㺷쾷밧쀾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, I relly want to be more\npowerful. I heard that the<1\"\u0000>\nfairies can use the power of\nspirits to make<1\"\u0000>\nDenpa Men stronger!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "낱㉼⟦DAB5⟧팻꼧⿄⟂룖씯샘눧생糞瀤条⑥혻뺰⟦DCB0⟧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯삲⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I want to be stronger!\nI heard that the fairies<1\"\u0000>\ncan use the power of spirits\nto make Denpa Men<1\"\u0000>\nmore powerful, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糝츲⟞⾸⟓쒯숯혧⾸⟦D8C5⟧⟀⟦DDB2⟧⟦DEC0⟧⑼慰敧㬤냖낾⟦DDBB⟧⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧⾸⟦DEC3⟧➷⟦DDD9⟧⟦DEC3⟧밯㾮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I want to be stronger!\nI heard that the fairies<1\"\u0000>\ncan borrow the power of spirits\nto make Denpa Men more powerful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲넲변팯꼧⿄⟂룖씯샘눧糉瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖⟦DEC3⟧⟦D9B7⟧쎯뜯삲⟦DC27⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, I want to be stronger!\nI heard that the fairies<1\"\u0000>\ncan use the power of spirits\nto make Denpa Men more powerful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "낱㉼⟓쒯숯혧⾸⟦D8C5⟧⟀㺸죃␮慰敧㬤냖낾⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧쎸럞쓙뜯삲⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, I want to be stronger\nif possible. I heard that the<1\"\u0000>\nfairies can use the power of\nspirits to make<1\"\u0000>\nDenpa Men more powerful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲숲혧⾸⟦DAC5⟧⟦D927⟧ퟅ씯샘눧⟦DEC3⟧㺽␮慰敧㬤냖낾⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧쎸럞쓙뜯뜾⟏㺼훀.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, by the way, it seems like\nyou have fought against<1\"\u0000>\nthe <1\u0003\u0001>{2, ?l, +} monsters lurking in the lake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You have found <17\u0003>{8, MessageMapName, +}<2\u000F耀>{4, message}\nwithout uncovering any wrong<1\"\u0000>\nsparkles. Excellent!\nYou used the information<1\"\u0000>\nyou got from saving the\nchildren.<1\"\u0000>\nYou deserve this for your\nkindness.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You did a great job defeating\n1 monster lurking on the lake!<1\"\u0000>\nYou deserve this as\na reward.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I am surprised to say the\nleast that you managed to<1\"\u0000>\ndefeat 2 of the monster spots\nlurking on the lake.<1\"\u0000>\nThis kind of bravery\ndeserves a special reward.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I am truly astonished to find\nout you defeated all<1\"\u0000>\nthe monster spots lurking\non the lake. It is not easy<1\"\u0000>\nto achieve this goal of\ncleansing the lake<1\"\u0000>\nfrom these evil creatures.\nI commend you for<1\"\u0000>\nyour perseverance and courage.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "As a reward for reaching this\nplace I shall give permission<1\"\u0000>\nto use the \"<17\u0003>{7, MessageCommon}<2ǧ耀>{4, message}\"\nfor the sake of your<1\"\u0000>\ngrowth and the prosperity\nof Denpa Men.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Last but not least you shall\nobtain this part of the<1\"\u0000>\nlegendary equipment.\nYou may wear it.<1\"\u0000>\nUse it for the right cause.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here is the reward for those\nwho reached this place.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! Will this make me\nstronger? For sure!<1\"\u0000>\nLet's keep up the great work!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔糀⟦DABA⟧⟦DEC3⟧츯⟞粸팲꼧⿄⟂룖씯⟚뛙㿅␳慰敧⼤⟖㺼멼쇉낮쎼⿞⟦DEB6⟧쫝⟞뿙⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Will this make me\nstronger? For sure!<1\"\u0000>\nLet's keep it up!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼⿀糈먴쏚⿞샜粼팲꼧⿄⟂룖씯⟚쏙볞떮㾶␳慰敧㬤즺껁벰⟦DEC3⟧똯⟦DDDE⟧⟦DECA⟧쿘봧㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Will we be even\nstronger now?<1\"\u0000>\nLet's keep it up!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼⿀糈먴쏚糞팲꼧⿄⟂룖씯⟚쏙볞떮㾶␲慰敧㬤⟦DABA⟧ힶ팧밯➮벰⟦DDDE⟧쾼㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! This will make me\neven stronger, right?<1\"\u0000>\nKeep up the good work!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿖겼뀧粱먴쏚⿞⟦DAB5⟧㉼⟓쒯숯혧⾸⟦DAC5⟧⟦D927⟧생훞㿅␴慰敧㬤⟦DABA⟧ힶ묯펷쀯볉퀧⟦DEC0⟧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yay! This will make me\neven stronger, right?<1\"\u0000>\nNow that's what I call\nprogression!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔죀㑼⟦DABA⟧⟦DEC3⟧츯⟞粸팲꼧⿄⟂룖⟦DAC5⟧곁즳␿慰敧㬤⟦DABA⟧ힶ팧똯⟦DDDE⟧⟦DECA⟧⟦D927⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! This will make me\neven tougher, right?<1\"\u0000>\nI will continue to do\nmy best!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⿜糈먴쏚⿞삱粼팲꼧⿄⟂룖씯⟚뛙ힼ␿慰敧㬤얱쀧⿉틀옧糓똲⟦DDDE⟧⟦DECA⟧⟦D927⟧⟦DC2F⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Okay! This will make me\neven tougher and stronger!<1\"\u0000>\nI'm looking forward to\nmore adventures with you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖粼⟦DABA⟧⟦DEC3⟧㉼⟓쒯숯혧⾸⟦DAC5⟧⟦D927⟧색⟦DBDE⟧뚵␿慰敧㬤샜즼켯➽뷏⿉슶룔⿆㺷닀㺼닃눧⟦DEBF⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Will this make me\nstronger? I hope so!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼죀먮쏚糞숲혧⾸⟦DAC5⟧⟦D927⟧쏝볞떮㾶瀤条⑥츻⟦DEC4⟧쓎웞뜯쀾벲쌾략볏➮뚵⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it!\nLet's keep up with it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔죀멼쇉낮쎼⿞⟦DEB6⟧쫝⟞뿙⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I did it! I gave my best\nthis time too!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼糀먴⟦DD27⟧늶⿓⟦DEB6⟧쫝⟦D8DE⟧⟏㺼⿀⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it!\nThanks to your help!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼죀딮룔⿆⟀샃ퟅ먯뒰쎰⟞㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! I'm looking\nforward to the next adventures!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀쉼⟦DFB7⟧줧츯냞⟦DDB9⟧⿓지➼샐뻞⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hehe, we did it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "춴㿍꿔죀.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Did you notice how\nI gave my best?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⿜糈넴변⿉슶룔㉼⟐쏃⟦DAB8⟧㿀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it!\nTogether we rock this!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀㑼샏똯퓂㺸㺼볃꿏⟀⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Mission accomplished! Let's go\nhome and rest!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟆퇝똯⟦D8DD⟧낮⟦DEC3⟧봧냈묮뀧粧똲됧쎯퐯킽볏➮뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345680,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483687,
+		2147483648,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483665,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686
+	]
+}

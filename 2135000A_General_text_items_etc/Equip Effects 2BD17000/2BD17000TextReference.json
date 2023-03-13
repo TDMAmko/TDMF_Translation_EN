@@ -1,0 +1,6004 @@
+{
+	"header": {
+		"text_amount": 192,
+		"unk1": 40,
+		"header_size": 64,
+		"script_section_size": 5838,
+		"offset_strings": 5904,
+		"strings_section_size1": 7680,
+		"offset3": 13584,
+		"section_size2": 768,
+		"offset4": 14352,
+		"section_size3": 24,
+		"offset5": 14384,
+		"section_size4": 579,
+		"unk3": 0,
+		"offset6": 5823,
+		"offset7": 5837,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マヒ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねむり",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゆうわく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゆうわく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "きょうふ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうふん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうふん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "反射",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "反射",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カウンター",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カウンター",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かばう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かばう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "トゲトゲ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "トゲトゲ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必中",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必中",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とくぎx<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とくぎ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まぼろし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まぼろし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うけながし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うけながし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "霊ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "霊ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "竜ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "竜ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "獣ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "獣ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "虫ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "虫ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水生ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水生ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "植物ガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "植物ガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜんガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜんガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくガード<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくガード",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対霊x<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対霊",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対竜x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対竜",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対獣x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対獣",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対魔x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対魔",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対虫x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対虫",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対水生x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対水生",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対植物x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対植物",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対ぜんx<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対ぜん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対あくx<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対あく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇属性x<1ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇属性",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴールド+<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴールド",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おたから+<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おたから",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "レア+<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "レア",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "激レア+<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "激レア",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "にげる+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "にげる",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "床ダメージ無",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "床ダメージ無",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クリティカル",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クリティカル",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "シールド無視",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "シールド無視",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u000C\u0001>{3, value}ダメージ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダメージ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u000C\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうげきx<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうげき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうげき数<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうげき数",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u000C\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とくぎ数+1",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とくぎ数",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u000C\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光攻撃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人こうげき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人こうげき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "5人こうげき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "5人こうげき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HP吸収",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HP吸収",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "れんけい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "れんけい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴースト化",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴースト化",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "浮遊",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "浮遊",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ターゲット",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やけどたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水びたしたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かぜっぴきたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "泥",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろだらけたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "呪",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "呪いたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かんでんたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "霜",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しもやけたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マヒたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "眠",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねむりたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブラインドたいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "誘",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "誘惑たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対突然死<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "対突然死",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全状態異常たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全状態異常たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふうかく<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふうかく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全属性たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全属性たいせい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ă\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オート防御",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オート防御",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こんじょう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こんじょう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンテナダウン",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さいだいＨＰ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さいだいＡＰ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうげきりょく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぼうぎょりょく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すばやさ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かいひりつ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ą\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "AP節約",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "AP節約",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "回復効果x<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "回復効果",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HP自動回復",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HP自動回復",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "AP自動回復",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "AP自動回復",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u000E\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "加速",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "加速",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+毒",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+毒",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+猛毒",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+猛毒",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+マヒ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+マヒ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+ねむり",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+ねむり",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+突然死",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+突然死",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一撃必殺",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一撃必殺",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "攻撃おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "攻撃おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "防御おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "防御おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "素早さおとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "素早さおとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "回避おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "回避おとし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+やけど",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+やけど",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+しもやけ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+しもやけ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+かぜっぴき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+かぜっぴき",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+どろだらけ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+どろだらけ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+かんでん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+かんでん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+みずびたし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+みずびたし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+ブラインド",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+ブラインド",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+呪い",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+呪い",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "硬化",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "硬化",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "逆ギレ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "逆ギレ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "猛毒ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "猛毒ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やけどボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やけどボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みずボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みずボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かぜボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かぜボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "のろいボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "のろいボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "感電ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "感電ボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "霜焼けボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "霜焼けボディ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "経験値x<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "経験値",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほかくx<1Ć\u0001>{3, value}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほかく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1ć\u0001>{3, value}倍",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゆうわく<1\u000C\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゆうわく",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "きょうふ<1\u000C\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "きょうふ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "+<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かばう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かばう",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1\u0004\u0001>{3, value}%",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 4184443904,
+			"Unk2Data": 2147483720,
+			"Unk3Data": 2147483776,
+			"Unk4Data": 131072,
+			"Unk5Data": 131072,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345679
+		},
+		{
+			"Unk1Data": 2977936384,
+			"Unk2Data": 2147483721,
+			"Unk3Data": 2147483776,
+			"Unk4Data": 131072,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345680
+		},
+		{
+			"Unk1Data": 1714109440,
+			"Unk2Data": 2147483722,
+			"Unk3Data": 2147483777,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345687
+		},
+		{
+			"Unk1Data": 2684941312,
+			"Unk2Data": 2147483723,
+			"Unk3Data": 2147483778,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345686
+		},
+		{
+			"Unk1Data": 2217479168,
+			"Unk2Data": 2147483724,
+			"Unk3Data": 2147483779,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345685
+		},
+		{
+			"Unk1Data": 591459328,
+			"Unk2Data": 2147483725,
+			"Unk3Data": 2147483780,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345684
+		},
+		{
+			"Unk1Data": 1977636864,
+			"Unk2Data": 2147483726,
+			"Unk3Data": 2147483781,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345683
+		},
+		{
+			"Unk1Data": 2260604928,
+			"Unk2Data": 2147483727,
+			"Unk3Data": 2147483782,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345682
+		},
+		{
+			"Unk1Data": 2533274624,
+			"Unk2Data": 2147483728,
+			"Unk3Data": 2147483783,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345681
+		},
+		{
+			"Unk1Data": 2683317248,
+			"Unk2Data": 2147483729,
+			"Unk3Data": 2147483784,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345713
+		},
+		{
+			"Unk1Data": 2019849216,
+			"Unk2Data": 2147483730,
+			"Unk3Data": 2147483785,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345712
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483731,
+			"Unk3Data": 2147483786,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483732,
+			"Unk3Data": 2147483787,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486704,
+			"Unk3Data": 2147486706,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 9710592,
+			"Unk2Data": 2147483733,
+			"Unk3Data": 2147483788,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345699
+		},
+		{
+			"Unk1Data": 3689374720,
+			"Unk2Data": 2147483734,
+			"Unk3Data": 2147483789,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345698
+		},
+		{
+			"Unk1Data": 1512450048,
+			"Unk2Data": 2147483735,
+			"Unk3Data": 2147483790,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345671
+		},
+		{
+			"Unk1Data": 13842432,
+			"Unk2Data": 2147483736,
+			"Unk3Data": 2147483790,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345666
+		},
+		{
+			"Unk1Data": 4115912704,
+			"Unk2Data": 2147483737,
+			"Unk3Data": 2147483791,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345670
+		},
+		{
+			"Unk1Data": 3920922624,
+			"Unk2Data": 2147483738,
+			"Unk3Data": 2147483791,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345668
+		},
+		{
+			"Unk1Data": 1580640256,
+			"Unk2Data": 2147483739,
+			"Unk3Data": 2147483792,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345673
+		},
+		{
+			"Unk1Data": 3276306432,
+			"Unk2Data": 2147483740,
+			"Unk3Data": 2147483792,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345669
+		},
+		{
+			"Unk1Data": 4000249856,
+			"Unk2Data": 2147483741,
+			"Unk3Data": 2147483793,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345672
+		},
+		{
+			"Unk1Data": 711297024,
+			"Unk2Data": 2147483742,
+			"Unk3Data": 2147483793,
+			"Unk4Data": 65536,
+			"Unk5Data": 393211,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345667
+		},
+		{
+			"Unk1Data": 1201804288,
+			"Unk2Data": 2147486711,
+			"Unk3Data": 2147486727,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345674
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487185,
+			"Unk3Data": 2147487186,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 3163134976,
+			"Unk2Data": 2147483743,
+			"Unk3Data": 2147483794,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440562,
+			"Unk7Data": 3503345688
+		},
+		{
+			"Unk1Data": 986862592,
+			"Unk2Data": 2147483744,
+			"Unk3Data": 2147483795,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506114,
+			"Unk7Data": 3503345677
+		},
+		{
+			"Unk1Data": 3381413888,
+			"Unk2Data": 2147483745,
+			"Unk3Data": 2147483781,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345678
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483747,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 327680,
+			"Unk6Data": 16777416,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 1927715840,
+			"Unk2Data": 2147483748,
+			"Unk3Data": 2147483796,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345717
+		},
+		{
+			"Unk1Data": 4004886528,
+			"Unk2Data": 2147483749,
+			"Unk3Data": 2147483797,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 151519232,
+			"Unk7Data": 3503345718
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 4069300224,
+			"Unk2Data": 2147483750,
+			"Unk3Data": 2147483798,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345716
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 151519232,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487560,
+			"Unk3Data": 2147487563,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 3297040384,
+			"Unk2Data": 2147483751,
+			"Unk3Data": 2147483799,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345715
+		},
+		{
+			"Unk1Data": 149476352,
+			"Unk2Data": 2147483752,
+			"Unk3Data": 2147483800,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345665
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486694,
+			"Unk3Data": 2147486699,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487559,
+			"Unk3Data": 2147487562,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486697,
+			"Unk3Data": 2147486702,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486712,
+			"Unk3Data": 2147486728,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486698,
+			"Unk3Data": 2147486703,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 151650304,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486942,
+			"Unk3Data": 2147486937,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486713,
+			"Unk3Data": 2147486729,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486714,
+			"Unk3Data": 2147486730,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486715,
+			"Unk3Data": 2147486731,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486943,
+			"Unk3Data": 2147486938,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486944,
+			"Unk3Data": 2147486939,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486945,
+			"Unk3Data": 2147486949,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487416,
+			"Unk3Data": 2147487420,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487417,
+			"Unk3Data": 2147487421,
+			"Unk4Data": 0,
+			"Unk5Data": 3276800,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483746,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 19660800,
+			"Unk6Data": 151388160,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486716,
+			"Unk3Data": 2147486732,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486717,
+			"Unk3Data": 2147486733,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486718,
+			"Unk3Data": 2147486734,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486946,
+			"Unk3Data": 2147486940,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486947,
+			"Unk3Data": 2147486941,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486948,
+			"Unk3Data": 2147486950,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487418,
+			"Unk3Data": 2147487422,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487419,
+			"Unk3Data": 2147487423,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486719,
+			"Unk3Data": 2147486735,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486720,
+			"Unk3Data": 2147486736,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486721,
+			"Unk3Data": 2147486737,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486722,
+			"Unk3Data": 2147486738,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486723,
+			"Unk3Data": 2147486739,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486724,
+			"Unk3Data": 2147486740,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486725,
+			"Unk3Data": 2147486741,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486726,
+			"Unk3Data": 2147486742,
+			"Unk4Data": 100,
+			"Unk5Data": 19660800,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483753,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 26214400,
+			"Unk6Data": 35127296,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483754,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 32768000,
+			"Unk6Data": 35127296,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483755,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 65536000,
+			"Unk6Data": 35127296,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483756,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 131072000,
+			"Unk6Data": 35127296,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 34340864,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483757,
+			"Unk3Data": 2147483801,
+			"Unk4Data": 0,
+			"Unk5Data": 196608,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147483758,
+			"Unk3Data": 2147483802,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147487558,
+			"Unk3Data": 2147487561,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 4915200,
+			"Unk6Data": 150994945,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486757,
+			"Unk3Data": 2147486758,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 151126016,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 32768000,
+			"Unk6Data": 33947648,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 196608,
+			"Unk6Data": 17956864,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 327680,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 17956864,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485892,
+			"Unk3Data": 2147485922,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485893,
+			"Unk3Data": 2147485923,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485894,
+			"Unk3Data": 2147485924,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485895,
+			"Unk3Data": 2147485925,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485896,
+			"Unk3Data": 2147485926,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485897,
+			"Unk3Data": 2147485927,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485899,
+			"Unk3Data": 2147485929,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485898,
+			"Unk3Data": 2147485928,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 2,
+			"Unk5Data": 262146,
+			"Unk6Data": 151060480,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 2,
+			"Unk5Data": 262146,
+			"Unk6Data": 151060480,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 2,
+			"Unk5Data": 262146,
+			"Unk6Data": 151060480,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 33619968,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 3891451904,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 151519232,
+			"Unk7Data": 3503345714
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 3600497664,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345689
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 1790566400,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345690
+		},
+		{
+			"Unk1Data": 3865185280,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345691
+		},
+		{
+			"Unk1Data": 3089017856,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345692
+		},
+		{
+			"Unk1Data": 2396387328,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345693
+		},
+		{
+			"Unk1Data": 1736423424,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345694
+		},
+		{
+			"Unk1Data": 1610442752,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345695
+		},
+		{
+			"Unk1Data": 4194723840,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345696
+		},
+		{
+			"Unk1Data": 581486592,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 524288,
+			"Unk6Data": 117506128,
+			"Unk7Data": 3503345697
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485952,
+			"Unk3Data": 2147485953,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485909,
+			"Unk3Data": 2147485939,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485910,
+			"Unk3Data": 2147485940,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485911,
+			"Unk3Data": 2147485941,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485912,
+			"Unk3Data": 2147485942,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485913,
+			"Unk3Data": 2147485943,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485914,
+			"Unk3Data": 2147485944,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485915,
+			"Unk3Data": 2147485945,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485916,
+			"Unk3Data": 2147485946,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485917,
+			"Unk3Data": 2147485947,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485918,
+			"Unk3Data": 2147485948,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485919,
+			"Unk3Data": 2147485949,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485920,
+			"Unk3Data": 2147485950,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485921,
+			"Unk3Data": 2147485951,
+			"Unk4Data": 65536,
+			"Unk5Data": 655351,
+			"Unk6Data": 17956864,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 1927987200,
+			"Unk2Data": 2147486710,
+			"Unk3Data": 2147486708,
+			"Unk4Data": 65536,
+			"Unk5Data": 655351,
+			"Unk6Data": 17956864,
+			"Unk7Data": 3503345675
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147486759,
+			"Unk3Data": 2147486760,
+			"Unk4Data": 0,
+			"Unk5Data": 655351,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485900,
+			"Unk3Data": 2147485930,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485901,
+			"Unk3Data": 2147485931,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485902,
+			"Unk3Data": 2147485932,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485903,
+			"Unk3Data": 2147485933,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485904,
+			"Unk3Data": 2147485934,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485905,
+			"Unk3Data": 2147485935,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485906,
+			"Unk3Data": 2147485936,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485907,
+			"Unk3Data": 2147485937,
+			"Unk4Data": 0,
+			"Unk5Data": 720887,
+			"Unk6Data": 83886080,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 2147485908,
+			"Unk3Data": 2147485938,
+			"Unk4Data": 65536,
+			"Unk5Data": 720887,
+			"Unk6Data": 85065728,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 3220606976,
+			"Unk2Data": 2147486709,
+			"Unk3Data": 2147486707,
+			"Unk4Data": 65536,
+			"Unk5Data": 720887,
+			"Unk6Data": 85065728,
+			"Unk7Data": 3503345676
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440562,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 33619968,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 393211,
+			"Unk6Data": 16842752,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65535001,
+			"Unk6Data": 16777216,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 17301504,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 6553650,
+			"Unk6Data": 69730304,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 65536000,
+			"Unk6Data": 67371008,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 655360000,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 16908288,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 4002791424,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345700
+		},
+		{
+			"Unk1Data": 28262400,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345701
+		},
+		{
+			"Unk1Data": 3373630464,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345702
+		},
+		{
+			"Unk1Data": 3414441984,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345703
+		},
+		{
+			"Unk1Data": 3159023616,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345704
+		},
+		{
+			"Unk1Data": 1125851136,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345705
+		},
+		{
+			"Unk1Data": 436346880,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345706
+		},
+		{
+			"Unk1Data": 1631535104,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345707
+		},
+		{
+			"Unk1Data": 3669697536,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117506048,
+			"Unk7Data": 3503345709
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 13107200,
+			"Unk6Data": 33816576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 100,
+			"Unk5Data": 65536000,
+			"Unk6Data": 33816576,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 65536,
+			"Unk6Data": 117440512,
+			"Unk7Data": 3503345664
+		},
+		{
+			"Unk1Data": 2039040000,
+			"Unk2Data": 2147483731,
+			"Unk3Data": 2147483786,
+			"Unk4Data": 0,
+			"Unk5Data": 1966080,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345710
+		},
+		{
+			"Unk1Data": 2882723840,
+			"Unk2Data": 2147486704,
+			"Unk3Data": 2147486706,
+			"Unk4Data": 0,
+			"Unk5Data": 1966080,
+			"Unk6Data": 17432576,
+			"Unk7Data": 3503345711
+		},
+		{
+			"Unk1Data": 0,
+			"Unk2Data": 0,
+			"Unk3Data": 0,
+			"Unk4Data": 0,
+			"Unk5Data": 6553600,
+			"Unk6Data": 150994944,
+			"Unk7Data": 3503345664
+		}
+	],
+	"v5_string_data": [],
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"msg_equip",
+			"msg_status",
+			"msg_value",
+			"ConditionData"
+		],
+		"attributePairs": [
+			{
+				"attribute": "msg_equip",
+				"value": 4
+			},
+			{
+				"attribute": "msg_status",
+				"value": 0
+			},
+			{
+				"attribute": "msg_value",
+				"value": 8
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483795,
+		2147483661,
+		2147483804,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483805,
+		2147483840,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483846,
+		2147483778,
+		2147483688,
+		2147483806,
+		2147483847,
+		2147483807,
+		2147483808,
+		2147483809,
+		2147483833,
+		2147483810,
+		2147483811,
+		2147483812,
+		2147483834,
+		2147483835,
+		2147483838,
+		2147483842,
+		2147483843,
+		2147483675,
+		2147483813,
+		2147483814,
+		2147483815,
+		2147483836,
+		2147483837,
+		2147483839,
+		2147483844,
+		2147483845,
+		2147483816,
+		2147483817,
+		2147483818,
+		2147483819,
+		2147483820,
+		2147483821,
+		2147483822,
+		2147483823,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483792,
+		2147483848,
+		2147483689,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483841,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483735,
+		2147483736,
+		2147483824,
+		2147483825,
+		2147483831,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483741,
+		2147483742,
+		2147483743,
+		2147483744,
+		2147483745,
+		2147483746,
+		2147483826,
+		2147483827,
+		2147483748,
+		2147483749,
+		2147483750,
+		2147483751,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483763,
+		2147483764,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483772,
+		2147483773,
+		2147483774,
+		2147483775,
+		2147483776,
+		2147483777,
+		2147483796,
+		2147483797,
+		2147483798,
+		2147483799,
+		2147483800,
+		2147483801,
+		2147483802,
+		2147483803,
+		2147483779,
+		2147483780,
+		2147483781,
+		2147483782,
+		2147483783,
+		2147483784,
+		2147483785,
+		2147483786,
+		2147483787,
+		2147483788,
+		2147483789,
+		2147483790,
+		2147483791,
+		2147483793,
+		2147483660,
+		2147483832,
+		2147483794
+	]
+}

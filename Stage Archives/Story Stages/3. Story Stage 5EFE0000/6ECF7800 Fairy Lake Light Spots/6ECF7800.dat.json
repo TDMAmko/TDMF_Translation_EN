@@ -1,0 +1,61 @@
+{
+	"header": {
+		"text_amount": 1,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 127,
+		"offset_strings": 192,
+		"strings_section_size1": 12,
+		"offset3": 208,
+		"section_size2": 4,
+		"offset4": 224,
+		"section_size3": 16,
+		"offset5": 240,
+		"section_size4": 4,
+		"unk3": 0,
+		"offset6": 118,
+		"offset7": 126,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Are you sure you want to\nuncover this light spot?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345664
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"w01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648
+	]
+}

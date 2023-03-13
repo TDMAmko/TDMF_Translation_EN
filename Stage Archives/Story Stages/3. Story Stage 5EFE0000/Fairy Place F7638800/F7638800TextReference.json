@@ -1,0 +1,669 @@
+{
+	"header": {
+		"text_amount": 39,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 10275,
+		"offset_strings": 10352,
+		"strings_section_size1": 468,
+		"offset3": 10832,
+		"section_size2": 156,
+		"offset4": 10992,
+		"section_size3": 16,
+		"offset5": 11008,
+		"section_size4": 80,
+		"unk3": 0,
+		"offset6": 10266,
+		"offset7": 10274,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "{7, MessageCommon}<2ǧ耀>{4, message}の使用しようを許可きょかされた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ！！電波人間でんぱにんげんだ、めずらしい！\nここは{8, MessageMapName, +}<2\u000F耀>{4, message}。精霊せいれいに祈いのりをささげる場所ばしょよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ようこそ{8, MessageMapName, +}<2\u000F耀>{4, message}へ。\n奥おくで上級妖精じょうきゅうようせいが待まっているわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぷぷっ！貧弱ひんじゃくそうだね！\n次世代じせだいの電波人間でんぱにんげんは\nレベル上限じょうげんが高たかいし、強つよいとくぎを使つかえるの。\nもし冒険ぼうけんで苦戦くせんしているなら\n転生てんせいした方ほうがいいかもよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おっ！君きみなかなか強つよそうだね！\n電波人間でんぱにんげんには、さらに上うえの世代せだいがあるようだから\nがんばって転生てんせいしてみるといいよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すごい！上位じょうい世代せだいだね！かっこいい！！\nきっと苦労くろうもいっぱいあっただろうに……うんうん！\nこれからも冒険ぼうけんがんばってね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごきげんよう、よく来きました。\nこの{8, MessageMapName, +}<2\u000F耀>{4, message}へ来きたということは\nさらなる力ちからを求もとめているのですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、ボクもっと強つよくなりたいんです！\n妖精ようせいさんなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできるって聞ききました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲츲⟞⾸⟓쒯숯혧⾸⟦D8C5⟧⟀눳쏝뷞簾瀤条⑥혯뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팻꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯뜾⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、私わたしもっと強つよくなりたいんです！\n妖精ようせいさんなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできるって聞ききました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲⟦DC32⟧변팯꼧⿄⟂룖씯샘눧쏝뷞簾瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯뜾⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ええ、もっと強つよくなりたいんです！\n妖精ようせいさんなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできると聞ききました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➴粴팲꼧⿄⟂룖씯샘눧쏝뷞簾瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧⿄㺷쾷밧쀾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、俺おれもっと強つよくなりたいんだ！\n妖精ようせいは精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできるって聞きいたぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "낱㉼⟦DAB5⟧팻꼧⿄⟂룖씯샘눧생糞瀤条⑥혻뺰⟦DCB0⟧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖쌯럞⟦D927⟧쎯뜯삲⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うん、ボクもっと強つよくなりたいんだ！\n妖精ようせいさんなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできるんでしょ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糝츲⟞⾸⟓쒯숯혧⾸⟦D8C5⟧⟀⟦DDB2⟧⟦DEC0⟧⑼慰敧㬤냖낾⟦DDBB⟧⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧⾸⟦DEC3⟧➷⟦DDD9⟧⟦DEC3⟧밯㾮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、アタシもっと強つよくなりたいの！\n妖精ようせいさんなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできるって聞きいたわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲넲변팯꼧⿄⟂룖씯샘눧糉瀤条⑥혻뺰뮰엝휧븯⟦DAB0⟧즰㻁ힶ딧똯쏘㉼⟦DEC3⟧쫝웟⟦DD27⟧⟦DFB9⟧뗝팯꼧⿄⟂룖⟦DEC3⟧⟦D9B7⟧쎯뜯삲⟦DC27⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、もっと強つよくなりたくてね。\n妖精ようせいなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできると聞きいたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "낱㉼⟓쒯숯혧⾸⟦D8C5⟧⟀㺸죃␮慰敧㬤냖낾⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧쎸럞쓙뜯삲⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、強つよくなれるならなりたいです。\n妖精ようせいなら精霊せいれいの力ちからを借かりて\n電波人間でんぱにんげんをもっと強つよくできると聞ききましたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊粲숲혧⾸⟦DAC5⟧⟦D927⟧ퟅ씯샘눧⟦DEC3⟧㺽␮慰敧㬤냖낾⟅⿗낾냚쇉똾⟗⾵⟦D8B6⟧糃쌲⟦DDDE⟧⟦DFCA⟧⟆망⟦DDDF⟧⾵⟓쒯숯혧쎸럞쓙뜯뜾⟏㺼훀.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう……ところであなたは、湖みずうみに潜ひそむ魔物まものと\n{2, ?l, +}回戦かいたたかったようですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あなたは間違まちがった輝かがやきを調しらべることなく\n{8, MessageMapName, +}<2\u000F耀>{4, message}を探さがし当あてたのですね……すばらしい！\nあなたが困こまっている地底人ちていじんを救すくい\n彼かれらからの情報じょうほうを元もとに、考かんがえた結果けっかですね。\n心優こころやさしきあなたには、こちらを差さし上あげましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "1回かいでも、湖みずうみに潜ひそむ魔物まものに打うち勝かつとは見事みごと。\n努力どりょくの褒美ほうびに、こちらを差さし上あげましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "驚おどろきました。\n湖みずうみの魔物まものと、2回かいも戦たたかい勝利しょうりしたのですね。\n勇気ゆうきを称たたえてこちらを差さし上あげましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "湖みずうみの魔物まものを全すべて倒たおしたとは……驚おどろきました！\n魔物まものを探さがし当あて、しかも倒たおすなど\nなかなかできる事ことではありません。\nあなたの根気こんきと勇気ゆうきを称たたえて\nこちらを差さし上あげましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それと、ここへたどり着ついた者ものへの褒美ほうびです。\nあなたの成長せいちょうと電波人間でんぱにんげんたちの繁栄はんえいのために\n『{7, MessageCommon}<2ǧ耀>{4, message}』の使用しようを許可きょかしましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最後さいごに……伝説でんせつの装備そうびのひとつです。\nあなたになら、譲ゆずってもいいでしょう。\n正ただしい事ことにお使つかいなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そして、ここへたどり着つけた者ものへの褒美ほうびです。\n受うけ取とりなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やった！\nこれでボク、もっと強つよくなれるかな？\nよし！この調子ちょうしでがんばるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔糀⟦DABA⟧⟦DEC3⟧츯⟞粸팲꼧⿄⟂룖씯⟚뛙㿅␳慰敧⼤⟖㺼멼쇉낮쎼⿞⟦DEB6⟧쫝⟞뿙⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やりましたね！\nこれで私わたし、もっと強つよくなれるでしょうか？\nこの調子ちょうしでがんばりますね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼⿀糈먴쏚⿞샜粼팲꼧⿄⟂룖씯⟚쏙볞떮㾶␳慰敧㬤즺껁벰⟦DEC3⟧똯⟦DDDE⟧⟦DECA⟧쿘봧㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やりましたね！\nこれで、もっと強つよくなれるでしょうか？\nこれからも精進しょうじんします！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼⿀糈먴쏚糞팲꼧⿄⟂룖씯⟚쏙볞떮㾶␲慰敧㬤⟦DABA⟧ힶ팧밯➮벰⟦DDDE⟧쾼㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よっしゃあ！\nこれで俺おれ、もっと強つよくなれるんだよな？\nこれから先さきも楽たのしみだぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿖겼뀧粱먴쏚⿞⟦DAB5⟧㉼⟓쒯숯혧⾸⟦DAC5⟧⟦D927⟧생훞㿅␴慰敧㬤⟦DABA⟧ힶ묯펷쀯볉퀧⟦DEC0⟧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったね！\nこれで僕ぼく、もっと強つよくなれちゃうの？\nこれからもがんばるね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔죀㑼⟦DABA⟧⟦DEC3⟧츯⟞粸팲꼧⿄⟂룖⟦DAC5⟧곁즳␿慰敧㬤⟦DABA⟧ힶ팧똯⟦DDDE⟧⟦DECA⟧⟦D927⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったわね！\nこれでアタシ、もっと強つよくなれるかしら？\nあなたのためにも、がんばるわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⿜糈먴쏚⿞삱粼팲꼧⿄⟂룖씯⟚뛙ힼ␿慰敧㬤얱쀧⿉틀옧糓똲⟦DDDE⟧⟦DECA⟧⟦D927⟧⟦DC2F⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よし！\nこれで、もっと強つよくなれるのだろうか？\n私わたしのますますの活躍かつやくに期待きたいしていいぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖粼⟦DABA⟧⟦DEC3⟧㉼⟓쒯숯혧⾸⟦DAC5⟧⟦D927⟧색⟦DBDE⟧뚵␿慰敧㬤샜즼켯➽뷏⿉슶룔⿆㺷닀㺼닃눧⟦DEBF⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やりましたね。\nこれで、強つよくなれるんでしょうか？\nほどほどに期待きたいしておきましょうかね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼죀먮쏚糞숲혧⾸⟦DAC5⟧⟦D927⟧쏝볞떮㾶瀤条⑥츻⟦DEC4⟧쓎웞뜯쀾벲쌾략볏➮뚵⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったね！\nこの調子ちょうしでがんばるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔죀멼쇉낮쎼⿞⟦DEB6⟧쫝⟞뿙⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やりました！\n今回こんかいもがんばりましたよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼糀먴⟦DD27⟧늶⿓⟦DEB6⟧쫝⟦D8DE⟧⟏㺼⿀⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やりましたね。\nお役やくにたてたなら光栄こうえいです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D4⟧⟏㺼죀딮룔⿆⟀샃ퟅ먯뒰쎰⟞㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったな！\n次つぎの冒険ぼうけんも楽たのしみだぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀쉼⟦DFB7⟧줧츯냞⟦DDB9⟧⿓지➼샐뻞⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えへへ、やったね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "춴㿍꿔죀.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったわね！\nアタシの活躍かつやく、見みててくれた？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⿜糈넴변⿉슶룔㉼⟐쏃⟦DAB8⟧㿀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったな！\nまた活躍かつやくしてしまったよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀㑼샏똯퓂㺸㺼볃꿏⟀⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "任務完了にんむかんりょうですねえ。\nさあ、帰かえって休やすみましょうか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟆퇝똯⟦D8DD⟧낮⟦DEC3⟧봧냈묮뀧粧똲됧쎯퐯킽볏➮뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345664,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345680,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483687,
+		2147483648,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483665,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686
+	]
+}

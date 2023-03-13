@@ -1,0 +1,1197 @@
+{
+	"header": {
+		"text_amount": 71,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 20281,
+		"offset_strings": 20352,
+		"strings_section_size1": 852,
+		"offset3": 21216,
+		"section_size2": 284,
+		"offset4": 21504,
+		"section_size3": 16,
+		"offset5": 21520,
+		"section_size4": 144,
+		"unk3": 0,
+		"offset6": 20266,
+		"offset7": 20280,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Welcome! Me am woorkshop\nmanager, <17\u0003>{8, MessageNpcName, +}<2\u000C耀>{4, message}!<1\"\u0000>\n<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message} told you need house.<1\"\u0000>\nHere, can build good house\nwith help of workshop!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Only one problem. In past\nwe collected materials in<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\r耀>{4, message}.\nBut now dangerous, a monster, <1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} called, came\nand blocks material!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Please beat <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +}\nand bring \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\", okay?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "With more \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nyou have we make even better item!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me will wait here!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Please go to <17\u0003>{8, MessageMapName, +}<2\r耀>{4, message}\nand beat <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +}!<1\"\u0000>\nThen, we continue\nwith business.<1\"\u0000>\nAlso, for house we need\n<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}, not forget!<1\"\u0000>\nMe wait here!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want<17\u0003>{8, MessageMapName, +}<2\r耀>{4, message}\nand beat <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +}?<1\"\u0000>\nYou need defeat<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +}\nto get material!<1\"\u0000>\nCan find monster in deeptest part\nof forest!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh! That's \"<17\u0003>{5, ItemData, +}<2耀>{3, name, +}\"！\nYou defeat <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +}!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What? <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} angry\nbecause we cut<1\"\u0000>\nmore trees than need?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Um...we try best to find\nsolution to problem!<1\"\u0000>\nBut now important we can\nharvest \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" again!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Even more important, how many\n\"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" you get?<1\"\u0000>\nMe won't count, but will\ngive to workers.<1\"\u0000>\nThey make better item\nwith more \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It done now.<1\"\u0000>\nYou only gave 1 \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\".\nCouldn't make much with just 1.<1\"\u0000>\nBut still okay I think.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes!\nNow we can place\nexteriors on our Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖㺼멼쏚⿞쾼뻉숧⟦DECB⟧⿓⟦D9B1⟧⟃쒰⿞⟦DEBC⟧낭⟦DEBC⟧㻂⟦D9BD⟧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hmm. I'm still happy with\nwhat I got!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳌똿⟦DDDE⟧⟦DECA⟧꼧⿃⟃⿆⟦DAB2⟧폀⟉糜쐲⟞엝짓⟦DEC3⟧⿓⟦DAB3⟧➼쎲뷞㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This will be a great addition\nfor the Island!<1\"\u0000>\nLet's return to the Island\nand place it immediately!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂폞봻먾밧⿜낺⟦DEBC⟧낮쾼봧⻈꾻뢿⼾쾼옧팯㻁뒶쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! Let's place it as soon\nas possible on the Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀먮糚쨲퐧㺸밯⟏⿆략쀾눧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! This will make\n the Island more fulfilled!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뇜눧셼꾮뷄⟞쏂폞밯⟏⟦DFB6⟧밯귞벰싞봾쓙눯뀧⿖⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! This will make it easier\nto live on the Island, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糝먲쏚⿞쾼팧봯퓐봧렾씯㌧⟦DDD9⟧⟦DEBC⟧얬㾲",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "With this we can make\nour island a better place!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DADC⟧⟦DADC⟧볉⟏⟦DEC0⟧ힶ씯봮먾붼⟞쏂폞봯훐렧⼾㺼닃➺⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's better than nothing, right?\nWe should be happy with this!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "웅엓눧⟦D8D6⟧켯쎼볞떮먿쏚⿞⟏뿝룞⼾㺼룃⟦DEC0⟧➻횲?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "How many\n\"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"you get?<1\"\u0000>\nMe won't count, but will\ngive to workers.<1\"\u0000>\nThey make better item\nwith more\"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It done now.<1\"\u0000>\n\"Used 2 <17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" out of 3\nto make product.<1\"\u0000>\nVery solid outcome!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It done now.<1\"\u0000>\n\"Used 2 <17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nto make product.<1\"\u0000>\nVery solid outcome!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes!\nThis will upgrade the Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔糀먳쏚⿞쾼뻉숧⟦DECB⟧⿓⟖언⿙⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes! Now the Island should\nbe well equiped!<1\"\u0000>\nThis hard work\nwas worth it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳌먿쏚⿞쾼뻉숧⟦DECB⟧⟦DFB6⟧밯귞벰싞밾⟏⾽⻈⟦DEB6⟧쫝⟞삯ힶ댯볚눧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This will be a great addition\nfor the Island!<1\"\u0000>\nLet's return to the Island\nand place it immediately!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂뛞⿟⟖언쿘⾽⻈꾻뢿⼾쾼옧팯㻁뒶쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Let's keep\nimproving our Island even more!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀딮⟚쇀⿉쾼㉼⟦DEC4⟧⟦DD27⟧⟦DEC4⟧⿝⟖㺸㺼⿃몲댧⟦DEBE⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yay! Life on the Island will\ndefinitely be more comfortable!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뇜➰粲츲⟞ힸ⿉쾼㉼킽⟔㺽언⿙⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it! Now let's\nplace it on the Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⻜삱㺼쇀볉웏쀯쌧죃.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hmm, pretty good, right?\nThis will improve<1\"\u0000>\nthe Islands environment!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌糑씲얶⾶➲삲⟦DBDE⟧㾵⟦DABA⟧ힶ팧밯짏똯럝낮⾵⟖㺸㺼닃떺.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Now we've got useful\nexterior for the Island!<1\"\u0000>\nHopefully, we'll get\neven more exterior for it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂폞쐯진쾲봧⻈⟦DABA⟧ힶ팧눯닛⿛⟦DBBF⟧살눧짓⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "How many \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nyou collected?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What?!\n<1\u0003\u0001>{2, ?l, +} pieces!?<1\"\u0000>\nThis more than enough\nto make good product!<1\"\u0000>\nMe pass on\"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nto workers!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hm, you youngest of\nall workers. You did it?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, me did! Older workers said\nme should do it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It is good crafted and\ngreat product!<1\"\u0000>\nBut you used 10 \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nto make product!<1\"\u0000>\nMe told you only\nuse 4 \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, me only used\n4 \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\".<1\"\u0000>\nMe heard about <17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} and\nsaved material while crafted!<1\"\u0000>\nso we not cut down\nmore of forest!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh! You young and creative!\nMe didn't think about it.<1\"\u0000>\nIf save material,\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} will stop be angry!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh customer, this gorgeous\nproduct only need<1\"\u0000>\n4 {5, ItemData, +}<2É耀>{3, name, +}\"to make!\nVery sustainable, enjoy!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Good! No more\nunnecessary deforestation!<1\"\u0000>\nThis will stop making\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} angry at the dwarfs!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶쀯⑼慰敧⼤⟦DABA⟧ힶ⟦DC27⟧턯⟦DEC0⟧⿅⟦DDBC⟧⟦DDD8⟧⟦DECA⟧꼧늻⿓룅⟦D9C5⟧똧糓洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤똯볅⟏닅⟦DEC3⟧봯턧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Great! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} doesn't have to\nworried anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶␮敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞킽⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Great! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\nsad anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⿜⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶␮敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞킽⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Great! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\nsad anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙볝곞닅㾶洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤넯볝쏝럞⟦D927⟧엖㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Awesome! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\nsad anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽훑㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Alright! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\nsad anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶⿀糜瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽⟦DCD1⟧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Finally! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\nsad anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙⟦DEC0⟧뗛⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽엑.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Finally! No more wasteful\ndeforestation anymore!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2ÿ耀>{3, name, +} won't be\ndisturbed anymore!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟔퓚糚瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언쿘봧똾糈洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤넯⟦DECA⟧뷚웞봯턧⟦DEC3⟧꺼⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "On top of that, I even\ngot awesome exterior!<1\"\u0000>\nNow I don't need to be\nembarsassed when others vist me!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼⟦DECE⟧렧볉웏쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨻⟦DEBD⟧➶㺼⾸⟅횲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And we got awesome\nexterior, too!<1\"\u0000>\nNow I can play with others\non the Island without<1\"\u0000>\nbeing embarsassed about it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧㯆⟦DEBA⟧뀧얶짓⾵㻂➸쎯눯샀럞⟏㺼⻀쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅쎲뷞⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And we got gorgeous\nexterior, too!<1\"\u0000>\nNow I can play with others\non the Island without<1\"\u0000>\nbeing embarsassed about it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧㯆⟦DEBA⟧뀧얶짓⾵삲⟦DEC0⟧쾹밧쀾ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅쎲뷞⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And this great exterior\nwill definitely be an<1\"\u0000>\nincredible addition to\nthe Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧뀧얶짓⾵ퟓ쎴혯똧삯糅쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅뺲⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And this great exterior\nwill definitely be a<1\"\u0000>\ngreat addition to\nthe Island",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅횲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And since I got some\ngorgeous and luxurious exteriors<1\"\u0000>\nI won't be embarrassed when\nanyone comes to play<1\"\u0000>\non the Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅⟦DCB2⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "And since I got some\ngorgeous and luxurious exteriors<1\"\u0000>\nI won't be embarrassed when\nanyone visits me<1\"\u0000>\non the Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼⟦DADC⟧⟦DADC⟧볉⟏⿆⟦DEC0⟧⟦DA27⟧⟦DFB6⟧넯쮿웞㺷쌧⿓뷊뛞㺼렧씯눧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We also got awesome\nexterior which we<1\"\u0000>\ncan show off to others\nvisiting our Island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵삲⟦DEC0⟧쾷밧쀾糈쾼옧쀯⟞뛚넯쮿웞㺷쀧糗퀱쮾ퟞ벶⟏㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh visitors! We proud of<1\"\u0000>\nproducts we make in\nworkshop here.<1\"\u0000>\nWorkshop a bit dusty,\nbut still should check!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Dad, Mom say artisan no\ngood job but me like<1\"\u0000>\nbuild things! Want be\nworker in future, too!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is this your first time\nvisiting this place?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me heard rumors on this\ncontinent is place<1\"\u0000>\ncalled <17\u0003>{8, MessageMapName, +}<2\u000E耀>{4, message}.\nIn the cave there\nlots of strong monsters<1\"\u0000>\nand entrance hard to find\non continent.<1\"\u0000>\nWhen careful, you can\nfind place probably.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me so lazy...maybe\nskip work! I think<1\"\u0000>\nthe young guy Wakazo\ncan do my work.<1\"\u0000>\nMe feel a bit sorry\nabout him, he hard working<1\"\u0000>\nbut not get higher\nsalary even with good product.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "But he still give\nhis best!<1\"\u0000>\nWhat idiot! But thanks him\nI can skip work!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "The number of \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\"\nyou get, decide quality<1\"\u0000>\nof product. 1 or 2\nis okay product.<1\"\u0000>\n4 of them you make great\nproduct but very tedious<1\"\u0000>\ncrafting with 4 \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\".\nThis only do young workers!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Workers here money need\nfor feeding family.<1\"\u0000>\nManager Kobo very mean,\nonly give low wages!<1\"\u0000>\nMe think he not respect\nworkers!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Some workers sick of work,\nran away to <17\u0003>{8, MessageMapName, +}<2\r耀>{4, message}<1\"\u0000>\nBut there monsters angry\nbecause of deforestation!<1\"\u0000>.\nForest very dangerous\nplace for escape!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "First time visit this \"stage\"?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" dropped by\nmonsters. No one<1\"\u0000>\nthis found in\ntreasure chests!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Whoa! Hello veteran adventurer!\nMe got good hint.<1\"\u0000>\nYou can play stage as\nmany times as want.<1\"\u0000>\nWill not change what we\ntalk or what happens.<1\"\u0000>\nBut you able to change\noutcome with your actions!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "(cough, cough!)",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": ".........ha?\nSorry, me was focused on job.<1\"\u0000>\nMe love work. It so much fun.\nNow, only easy things do.<1\"\u0000>\nIn future me want do huge\nproject with many <17\u0003>{5, ItemData, +}<2É耀>{3, name, +}!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "(cough, cough!)",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": ".......huh!!!\nYou have many <17\u0003>{5, ItemData, +}<2É耀>{3, name, +}<1\"\u0000>\nCan make awesome stuff with\nthat much!<1\"\u0000>\nHopefully Kobo me give\nthis task to do!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345684,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345683,
+		3503345685,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01outf01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483693,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483663,
+		2147483664,
+		2147483737,
+		2147483694,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483669,
+		2147483739,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483696,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483697,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483698
+	]
+}

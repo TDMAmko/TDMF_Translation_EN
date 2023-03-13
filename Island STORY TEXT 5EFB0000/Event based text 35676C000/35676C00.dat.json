@@ -1,0 +1,957 @@
+{
+	"header": {
+		"text_amount": 56,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 12245,
+		"offset_strings": 12320,
+		"strings_section_size1": 672,
+		"offset3": 12992,
+		"section_size2": 224,
+		"offset4": 13216,
+		"section_size3": 16,
+		"offset5": 13232,
+		"section_size4": 114,
+		"unk3": 0,
+		"offset6": 12228,
+		"offset7": 12244,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "景品一覧",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\nに<18\u0000>所属<19\u0000>しょぞく<1:\u0000>でよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풵ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏좽㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なあ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るぜ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅粱쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸뻙㿞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るわよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱糗쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸⟦DCD9⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るようだが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟎粰쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸훙산뛞㿟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➵糔쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯쾷봧⟦DFB6⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！<1\"\u0000>\n<18\u0000>全国<19\u0000>ぜんこく<1:\u0000>のモンスター<18\u0000>討伐隊<19\u0000>とうばつたい<1:\u0000>が<18\u0000>倒<19\u0000>たお<1:\u0000>した\n<18\u0000>討伐<19\u0000>とうばつ<1:\u0000><18\u0000>総数<19\u0000>そうすう<1:\u0000>の<18\u0000>集計<19\u0000>しゅうけい<1:\u0000>が<18\u0000>終<19\u0000>お<1:\u0000>わったぞ！<1\"\u0000>\nでは、<18\u0000>伝<19\u0000>つた<1:\u0000>えるぞ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……………………………………………………\n……………………………………………………<1\"\u0000>\n……………………………………………………\n……………………………………………………<1\"\u0000>\n……………………………………………………\n……………………………………………………。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>合計<19\u0000>ごうけい<1:\u0000>、<1\n\u0001>{4, target, +}<18\u0000>匹<19\u0000>ひき<1:\u0000>！！\n<18\u0000>見事<19\u0000>みごと<1:\u0000>、<18\u0000>目標<19\u0000>もくひょう<1:\u0000>の<18\u0000>討伐数<19\u0000>とうばつすう<1:\u0000>を<18\u0000>達成<19\u0000>たっせい<1:\u0000>だ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\nさあ、<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……おや、キミは<18\u0000>今回<19\u0000>こんかい<1:\u0000>の<18\u0000>討伐<19\u0000>とうばつ<1:\u0000>で\n<18\u0000>討伐数<19\u0000>とうばつすう<1:\u0000>の<18\u0000>上位<19\u0000>じょうい<1:\u0000><1\u0003\u0001>{2, num}<18\u0000>人<19\u0000>にん<1:\u0000>にも<18\u0000>入<19\u0000>はい<1:\u0000>っているな！<1\"\u0000>\n<18\u0000>素<19\u0000>す<1:\u0000><18\u0000>晴<19\u0000>ば<1:\u0000>らしいぞ！\nさあ、MVP<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>も<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000>はキミたち<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>の<18\u0000>活躍<19\u0000>かつやく<1:\u0000>で\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>助<19\u0000>たす<1:\u0000>かった！！<1\"\u0000>\nまた<18\u0000>次<19\u0000>つぎ<1:\u0000>の<18\u0000>討伐<19\u0000>とうばつ<1:\u0000><18\u0000>作戦<19\u0000>さくせん<1:\u0000>の<18\u0000>時<19\u0000>とき<1:\u0000>には\n<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>貸<19\u0000>か<1:\u0000>してくれ、フヒッ！<1\"\u0000>\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>合計<19\u0000>ごうけい<1:\u0000>、<1\n\u0001>{4, target, +}<18\u0000>匹<19\u0000>ひき<1:\u0000>！\n……う～ん、<18\u0000>残念<19\u0000>ざんねん<1:\u0000>ながら<18\u0000>目標<19\u0000>もくひょう<1:\u0000>には<18\u0000>届<19\u0000>とど<1:\u0000>かず……か。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、<18\u0000>参加<19\u0000>さんか<1:\u0000>には<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>している！\n<18\u0000>大<19\u0000>たい<1:\u0000>した<18\u0000>物<19\u0000>もの<1:\u0000>ではないが、これを<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>目標<19\u0000>もくひょう<1:\u0000>には<18\u0000>届<19\u0000>とど<1:\u0000>かなかったが\nキミたちの<18\u0000>参加<19\u0000>さんか<1:\u0000>には<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>しているぞ！！<1\"\u0000>\nまた<18\u0000>次<19\u0000>つぎ<1:\u0000>の<18\u0000>討伐<19\u0000>とうばつ<1:\u0000><18\u0000>作戦<19\u0000>さくせん<1:\u0000>の<18\u0000>時<19\u0000>とき<1:\u0000>には\n<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>貸<19\u0000>か<1:\u0000>してくれ、フヒッ！<1\"\u0000>\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풵ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏좽㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なあ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るぜ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅粱쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸뻙㿞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るわよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱糗쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸⟦DCD9⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>く<1:\u0000>るようだが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟎粰쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸훙산뛞㿟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、<18\u0000>誰<19\u0000>だれ<1:\u0000>かが<18\u0000>大砲<19\u0000>たいほう<1:\u0000>で\nここに<18\u0000>向<19\u0000>む<1:\u0000>かって<18\u0000>来<19\u0000>き<1:\u0000>ますが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➵糔쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯쾷봧⟦DFB6⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！<1\"\u0000>\n<18\u0000>今日<19\u0000>きょう<1:\u0000>は「チーム<18\u0000>対抗<19\u0000>たいこう<1:\u0000>バトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>」へ\n<18\u0000>誘<19\u0000>さそ<1:\u0000>うため、<18\u0000>文<19\u0000>も<1:\u0000><18\u0000>字<19\u0000>じ<1:\u0000><18\u0000>通<19\u0000>どお<1:\u0000>り<18\u0000>飛<19\u0000>と<1:\u0000>んできたぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nはじめまして、<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>！！<1\"\u0000>\nオレは「モンスター<18\u0000>討伐隊<19\u0000>とうばつたい<1:\u0000>」で<18\u0000>働<19\u0000>はたら<1:\u0000>いているカネヤだ。\nよろしくな！！<1\"\u0000>\n<18\u0000>今日<19\u0000>きょう<1:\u0000>は「チーム<18\u0000>対抗<19\u0000>たいこう<1:\u0000>バトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>」へ\nキミを<18\u0000>誘<19\u0000>さそ<1:\u0000>うために、<18\u0000>文<19\u0000>も<1:\u0000><18\u0000>字<19\u0000>じ<1:\u0000><18\u0000>通<19\u0000>どお<1:\u0000>り<18\u0000>飛<19\u0000>と<1:\u0000>んできたぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「チーム<18\u0000>対抗<19\u0000>たいこう<1:\u0000>バトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>」は、<18\u0000>全国<19\u0000>ぜんこく<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>が\n2つのチームに<18\u0000>分<19\u0000>わ<1:\u0000>かれて<18\u0000>競<19\u0000>きそ<1:\u0000>う<18\u0000>大会<19\u0000>たいかい<1:\u0000>だ！<1\"\u0000>\n<18\u0000>全員<19\u0000>ぜんいん<1:\u0000>で<18\u0000>同<19\u0000>おな<1:\u0000>じモンスターを<18\u0000>討伐<19\u0000>とうばつ<1:\u0000>してもらい\nチームごとの<18\u0000>合計<19\u0000>ごうけい<1:\u0000><18\u0000>討伐数<19\u0000>とうばつすう<1:\u0000>で<18\u0000>勝敗<19\u0000>しょうはい<1:\u0000>を<18\u0000>決<19\u0000>き<1:\u0000>めるぞ。<1\"\u0000>\nチーム<18\u0000>分<19\u0000>わ<1:\u0000>けは、<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>によって<18\u0000>行<19\u0000>おこな<1:\u0000>う。\nこの<18\u0000>後<19\u0000>あと<1:\u0000>さっそく、<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>方<19\u0000>ほう<1:\u0000>の<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>選<19\u0000>えら<1:\u0000>んでくれ。<1\"\u0000>\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>選<19\u0000>えら<1:\u0000>んだ<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>が\n<18\u0000>同<19\u0000>おな<1:\u0000>じチームの<18\u0000>仲間<19\u0000>なかま<1:\u0000>になるからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000><18\u0000>用意<19\u0000>ようい<1:\u0000>した<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>は「<1Đ\u0001>{4, item_01}」と\n「<1Đ\u0001>{4, item_02}」の2つだ！！<1\"\u0000>\n<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>方<19\u0000>ほう<1:\u0000>の<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>選<19\u0000>えら<1:\u0000>んでくれ。\n<18\u0000>決定後<19\u0000>けっていご<1:\u0000>は<18\u0000>変更<19\u0000>へんこう<1:\u0000>できないから、<18\u0000>慎重<19\u0000>しんちょう<1:\u0000>にな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうした、どちらか<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>選<19\u0000>えら<1:\u0000>んでくれ。\n<18\u0000>直感<19\u0000>ちょっかん<1:\u0000>で<18\u0000>選<19\u0000>えら<1:\u0000>んでも<18\u0000>構<19\u0000>かま<1:\u0000>わないぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>は「<1Đ\u0001>{4, item_01}」だな！！<1\"\u0000>\nキミは「<1Đ\u0001>{4, item_02}チーム」に<18\u0000>所属<19\u0000>しょぞく<1:\u0000>だ！\nさっそく<18\u0000>登録<19\u0000>とうろく<1:\u0000>しておくぞ、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>大会<19\u0000>たいかい<1:\u0000>のスタートは\n<1\u0003\u0001>{3, month}<18\u0000>月<19\u0000>がつ<1:\u0000><1\u0003\u0001>{2, day}<18\u0000>日<19\u0000>にち<1:\u0000>からを<18\u0000>予定<19\u0000>よてい<1:\u0000>している。<1\"\u0000>\nこの<18\u0000>日<19\u0000>ひ<1:\u0000><18\u0000>以降<19\u0000>いこう<1:\u0000>にチェックインすれば、<18\u0000>会場<19\u0000>かいじょう<1:\u0000>に\n<18\u0000>入<19\u0000>はい<1:\u0000>れるようになるから、<18\u0000>忘<19\u0000>わす<1:\u0000>れないようにな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それじゃあ、<18\u0000>会場<19\u0000>かいじょう<1:\u0000>で<18\u0000>待<19\u0000>ま<1:\u0000>ってるぞ！！\nまたな、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>く<1:\u0000>るよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>き<1:\u0000>ますよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝럞⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>き<1:\u0000>ますよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿊ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝럞⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>く<1:\u0000>るぜ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧⟦DEBE⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>く<1:\u0000>るよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟜粯똱젧믔뛝⿟⟦DDC4⟧⟦DEC3⟧➸훙?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>く<1:\u0000>るわよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧훜?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はっ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>く<1:\u0000>るぞ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿊ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧⟦DEBF⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、カネヤさんが<18\u0000>飛<19\u0000>と<1:\u0000>んで<18\u0000>来<19\u0000>き<1:\u0000>ますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱粰똱젧믔뛝⿟⟦DDC4⟧⟦DEC3⟧쾷봧꫈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！<1\"\u0000>\nバトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>の<18\u0000>集計<19\u0000>しゅうけい<1:\u0000>が<18\u0000>終<19\u0000>お<1:\u0000>わったから\n<18\u0000>伝<19\u0000>つた<1:\u0000>えにきたぞ！！<1\"\u0000>\nどちらのチームが<18\u0000>勝<19\u0000>か<1:\u0000>ったのか……。\nさあ<18\u0000>発表<19\u0000>はっぴょう<1:\u0000>するぞ、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……………………………………………………\n……………………………………………………<1\"\u0000>\n……………………………………………………\n……………………………………………………<1\"\u0000>\n……………………………………………………\n……………………………………………………。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\n<18\u0000>合計<19\u0000>ごうけい<1:\u0000><1\n\u0001>{4, target, +}<18\u0000>匹<19\u0000>びき<1:\u0000>！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\n<18\u0000>合計<19\u0000>ごうけい<1:\u0000><1\n\u0001>{4, target, +}<18\u0000>匹<19\u0000>びき<1:\u0000>！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チームの<18\u0000>勝利<19\u0000>しょうり<1:\u0000>だ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チームの<18\u0000>敗北<19\u0000>はいぼく<1:\u0000>だ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\n<18\u0000>人数<19\u0000>にんずう<1:\u0000>のハンデを<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えて、<18\u0000>良<19\u0000>よ<1:\u0000>くがんばったな！<1\"\u0000>\nさあ、<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\nさあ、<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>残念<19\u0000>ざんねん<1:\u0000>だったな……。\n<18\u0000>参加<19\u0000>さんか<1:\u0000><18\u0000>人数<19\u0000>にんずう<1:\u0000>のハンデは<18\u0000>覆<19\u0000>くつがえ<1:\u0000>せなかったか……。<1\"\u0000>\nこれは<18\u0000>参加賞<19\u0000>さんかしょう<1:\u0000>だが<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>残念<19\u0000>ざんねん<1:\u0000>だったな……。\nこれは<18\u0000>参加賞<19\u0000>さんかしょう<1:\u0000>だが<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……おや、キミは<18\u0000>今回<19\u0000>こんかい<1:\u0000>の<18\u0000>討伐<19\u0000>とうばつ<1:\u0000>で\n<18\u0000>討伐数<19\u0000>とうばつすう<1:\u0000>の<18\u0000>上位<19\u0000>じょうい<1:\u0000><1\u0003\u0001>{2, num}<18\u0000>人<19\u0000>にん<1:\u0000>にも<18\u0000>入<19\u0000>はい<1:\u0000>っているな！<1\"\u0000>\n<18\u0000>素<19\u0000>す<1:\u0000><18\u0000>晴<19\u0000>ば<1:\u0000>らしいぞ！\nさあ、MVP<18\u0000>賞品<19\u0000>しょうひん<1:\u0000>も<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キミたち<18\u0000>一人<19\u0000>ひとり<1:\u0000>ひとりの<18\u0000>活躍<19\u0000>かつやく<1:\u0000>が\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>の<18\u0000>勝利<19\u0000>しょうり<1:\u0000>を<18\u0000>導<19\u0000>みちび<1:\u0000>いたな、フヒッ！！<1\"\u0000>\n<18\u0000>次<19\u0000>つぎ<1:\u0000>のバトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>でも\n<18\u0000>頑張<19\u0000>がんば<1:\u0000>ってくれよ！！<1\"\u0000>\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>結果<19\u0000>けっか<1:\u0000>としては<18\u0000>惜<19\u0000>お<1:\u0000>しいことになってしまったが\n<18\u0000>一人<19\u0000>ひとり<1:\u0000>ひとりの<18\u0000>活躍<19\u0000>かつやく<1:\u0000>は<18\u0000>素<19\u0000>す<1:\u0000><18\u0000>晴<19\u0000>ば<1:\u0000>らしかったぞ！<1\"\u0000>\n<18\u0000>次<19\u0000>つぎ<1:\u0000>のバトル<18\u0000>大会<19\u0000>たいかい<1:\u0000>では\n<18\u0000>勝<19\u0000>か<1:\u0000>てるように<18\u0000>祈<19\u0000>いの<1:\u0000>ってるぞ！！<1\"\u0000>\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483703,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702
+	]
+}

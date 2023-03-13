@@ -1,0 +1,189 @@
+{
+	"header": {
+		"text_amount": 9,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 3395,
+		"offset_strings": 3472,
+		"strings_section_size1": 108,
+		"offset3": 3584,
+		"section_size2": 36,
+		"offset4": 3632,
+		"section_size3": 16,
+		"offset5": 3648,
+		"section_size4": 20,
+		"unk3": 0,
+		"offset6": 3386,
+		"offset7": 3394,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "中なかから鍵かぎが開あく音おとがした。\n小こ屋やに入はいれるようになった！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageNpcName, +}<2\u0008耀>{4, message}と{8, MessageNpcName, +}<2\u000B耀>{4, message}のヤツ、帰かえりが遅おそいな……\nどこに遊あそびに行いったんだ……誰だれだオマエ？\nよそ者ものは好すかん、帰かえってくれ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……なに！？魔物まものに襲おそわれていた\nウチの{8, MessageNpcName, +}<2\u0008耀>{4, message}を助たすけてくれたのか！？\nそれは本当ほんとうに世せ話わになった、感謝かんしゃするよ。\nちなみに、もうひとり息子むすこがいるんだが\n無ぶ事じだろうか……。\nはあ……ふたりの無ぶ事じが確認かくにんできるまで\n安心あんしんできん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……なに！？魔物まものに襲おそわれていた\n息子むすこたちを助たすけてくれたのか？\n帰かえりが遅おそくて心配しんぱいしていたんだ。\nふたりとも無ぶ事じで良よかった、感謝かんしゃする。\n礼れいをさせてくれ、家いえの中なかにある物ものをやろう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おーい、開あけてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレの息子むすこたちを助たすけてくれて、ありがとう！\n家いえの中なかにある物ものは自由じゆうに使つかってくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "息子むすこたちを助たすけてくれたんだってね\nありがとう！\nお礼れいと言いっては何なんだけど……\n実じつは外そとの池いけに、めずらしい魚さかながいるの。\nつりざおを持もっていたら釣つってみるといいわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "『つりエサいろは』\n「目的もくてきの魚さかなを釣つりたいなら\n『つりエサ』が決きめ手て！」\n「『{5, ItemData, +}<2˘耀>{3, name, +}』を釣つりたいなら\n付つけるのは『{5, ItemData, +}<2ʎ耀>{3, name, +}』がいいぞ！」",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "『ハウツー・フィッシング』\n「なかなか魚さかなが釣つれないのは\n『つりざお』のせいかもしれない。」\n「性能せいのうの良よい『つりざお』に変かえてみよう！」\n「『{5, ItemData, +}<2ɼ耀>{3, name, +}』なら\n魚さかなにあたえるダメージが+5になる。」\n「『{5, ItemData, +}<2ʂ耀>{3, name, +}』なら、ウキが沈しずむ時間じかんが\n長ながくなり、ヒットしやすくなるぞ。」\n「いろんな『つりざお』を試ためしてみよう！」",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345664,
+		3503345664
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"f01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483657,
+		2147483650,
+		2147483659,
+		2147483651,
+		2147483658,
+		2147483655,
+		2147483656
+	]
+}

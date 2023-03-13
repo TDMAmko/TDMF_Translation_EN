@@ -1,0 +1,957 @@
+{
+	"header": {
+		"text_amount": 56,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 12245,
+		"offset_strings": 12320,
+		"strings_section_size1": 672,
+		"offset3": 12992,
+		"section_size2": 224,
+		"offset4": 13216,
+		"section_size3": 16,
+		"offset5": 13232,
+		"section_size4": 114,
+		"unk3": 0,
+		"offset6": 12228,
+		"offset7": 12244,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "景品一覧",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\nに所属しょぞくでよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来くるよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来きますよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、誰だれかが大砲たいほうで\nここに向むかって来きますね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풵ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏좽㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なあ、誰だれかが大砲たいほうで\nここに向むかって来くるぜ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅粱쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸뻙㿞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来くるよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、誰だれかが大砲たいほうで\nここに向むかって来くるわよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱糗쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸⟦DCD9⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう、誰だれかが大砲たいほうで\nここに向むかって来くるようだが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟎粰쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸훙산뛞㿟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、誰だれかが大砲たいほうで\nここに向むかって来きますが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➵糔쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯쾷봧⟦DFB6⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！\n全国ぜんこくのモンスター討伐隊とうばつたいが倒たおした\n討伐とうばつ総数そうすうの集計しゅうけいが終おわったぞ！\nでは、伝つたえるぞ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "合計ごうけい、{4, target, +}匹ひき！！\n見事みごと、目標もくひょうの討伐数とうばつすうを達成たっせいだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\nさあ、賞品しょうひんを受うけ取とってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……おや、キミは今回こんかいの討伐とうばつで\n討伐数とうばつすうの上位じょうい{2, num}人にんにも入はいっているな！\n素す晴ばらしいぞ！\nさあ、MVP賞品しょうひんも受うけ取とってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいはキミたち電波人間でんぱにんげんの活躍かつやくで\n本当ほんとうに助たすかった！！\nまた次つぎの討伐とうばつ作戦さくせんの時ときには\n力ちからを貸かしてくれ、フヒッ！\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "合計ごうけい、{4, target, +}匹ひき！\n……う～ん、残念ざんねんながら目標もくひょうには届とどかず……か。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、参加さんかには感謝かんしゃしている！\n大たいした物ものではないが、これを受うけ取とってくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいは目標もくひょうには届とどかなかったが\nキミたちの参加さんかには感謝かんしゃしているぞ！！\nまた次つぎの討伐とうばつ作戦さくせんの時ときには\n力ちからを貸かしてくれ、フヒッ！\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来くるよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来きますよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、誰だれかが大砲たいほうで\nここに向むかって来きますね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풵ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶럃⟏좽㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なあ、誰だれかが大砲たいほうで\nここに向むかって来くるぜ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅粱쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸뻙㿞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、誰だれかが大砲たいほうで\nここに向むかって来くるよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DAB1⟧ㅼ⟦DEC0⟧⟦DA27⟧뚶⿟닀냎⟦DEC3⟧먻욺턯꾶룃⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、誰だれかが大砲たいほうで\nここに向むかって来くるわよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱糗쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸⟦DCD9⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう、誰だれかが大砲たいほうで\nここに向むかって来くるようだが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟎粰쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯➸훙산뛞㿟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、誰だれかが大砲たいほうで\nここに向むかって来きますが？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➵糔쀱⟞뛚⟦DFB6⟧쀯캲쎰㯞몺⿆뛑쎯쾷봧⟦DFB6⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！\n今日きょうは「チーム対抗たいこうバトル大会たいかい」へ\n誘さそうため、文も字じ通どおり飛とんできたぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nはじめまして、電波人間でんぱにんげん！！\nオレは「モンスター討伐隊とうばつたい」で働はたらいているカネヤだ。\nよろしくな！！\n今日きょうは「チーム対抗たいこうバトル大会たいかい」へ\nキミを誘さそうために、文も字じ通どおり飛とんできたぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「チーム対抗たいこうバトル大会たいかい」は、全国ぜんこくの電波人間でんぱにんげんが\n2つのチームに分わかれて競きそう大会たいかいだ！\n全員ぜんいんで同おなじモンスターを討伐とうばつしてもらい\nチームごとの合計ごうけい討伐数とうばつすうで勝敗しょうはいを決きめるぞ。\nチーム分わけは、欲ほしい賞品しょうひんによって行おこなう。\nこの後あとさっそく、欲ほしい方ほうの賞品しょうひんを選えらんでくれ。\n同おなじ賞品しょうひんを選えらんだ電波人間でんぱにんげんが\n同おなじチームの仲間なかまになるからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかい用意よういした賞品しょうひんは「<1Đ\u0001>{4, item_01}」と\n「<1Đ\u0001>{4, item_02}」の2つだ！！\n欲ほしい方ほうの賞品しょうひんを選えらんでくれ。\n決定後けっていごは変更へんこうできないから、慎重しんちょうにな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうした、どちらか欲ほしい賞品しょうひんを選えらんでくれ。\n直感ちょっかんで選えらんでも構かまわないぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "欲ほしい賞品しょうひんは「<1Đ\u0001>{4, item_01}」だな！！\nキミは「<1Đ\u0001>{4, item_02}チーム」に所属しょぞくだ！\nさっそく登録とうろくしておくぞ、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大会たいかいのスタートは\n{3, month}月がつ{2, day}日にちからを予定よていしている。\nこの日ひ以降いこうにチェックインすれば、会場かいじょうに\n入はいれるようになるから、忘わすれないようにな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それじゃあ、会場かいじょうで待まってるぞ！！\nまたな、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが飛とんで来くるよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが飛とんで来きますよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝럞⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はっ、カネヤさんが飛とんで来きますよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿊ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝럞⟏횽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが飛とんで来くるぜ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧⟦DEBE⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わっ、カネヤさんが飛とんで来くるよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟜粯똱젧믔뛝⿟⟦DDC4⟧⟦DEC3⟧➸훙?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、カネヤさんが飛とんで来くるわよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾱ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧훜?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はっ、カネヤさんが飛とんで来くるぞ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿊ㅼ➶퓈⟦DDBB⟧⟦DFB6⟧쐯쏝룞⟦D927⟧⟦DEBF⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、カネヤさんが飛とんで来きますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱粰똱젧믔뛝⿟⟦DDC4⟧⟦DEC3⟧쾷봧꫈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フヒッ！\nひさしぶりだな！！\nバトル大会たいかいの集計しゅうけいが終おわったから\n伝つたえにきたぞ！！\nどちらのチームが勝かったのか……。\nさあ発表はっぴょうするぞ、フヒッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………\n……………………………………………………。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\n合計ごうけい{4, target, +}匹びき！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チーム\n合計ごうけい{4, target, +}匹びき！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チームの勝利しょうりだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{3, item, +}チームの敗北はいぼくだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\n人数にんずうのハンデを乗のり越こえて、良よくがんばったな！\nさあ、賞品しょうひんを受うけ取とってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おめでとう、フヒッ！！\nさあ、賞品しょうひんを受うけ取とってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいは残念ざんねんだったな……。\n参加さんか人数にんずうのハンデは覆くつがえせなかったか……。\nこれは参加賞さんかしょうだが受うけ取とってくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいは残念ざんねんだったな……。\nこれは参加賞さんかしょうだが受うけ取とってくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……おや、キミは今回こんかいの討伐とうばつで\n討伐数とうばつすうの上位じょうい{2, num}人にんにも入はいっているな！\n素す晴ばらしいぞ！\nさあ、MVP賞品しょうひんも受うけ取とってくれ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キミたち一人ひとりひとりの活躍かつやくが\n今回こんかいの勝利しょうりを導みちびいたな、フヒッ！！\n次つぎのバトル大会たいかいでも\n頑張がんばってくれよ！！\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "結果けっかとしては惜おしいことになってしまったが\n一人ひとりひとりの活躍かつやくは素す晴ばらしかったぞ！\n次つぎのバトル大会たいかいでは\n勝かてるように祈いのってるぞ！！\nでは、またな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483703,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702
+	]
+}

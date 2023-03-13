@@ -1,0 +1,213 @@
+{
+	"header": {
+		"text_amount": 8,
+		"unk1": 44,
+		"header_size": 64,
+		"script_section_size": 1502,
+		"offset_strings": 1568,
+		"strings_section_size1": 368,
+		"offset3": 1936,
+		"section_size2": 16,
+		"offset4": 1952,
+		"section_size3": 8,
+		"offset5": 1968,
+		"section_size4": 9,
+		"unk3": 0,
+		"offset6": 1491,
+		"offset7": 1502,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "・Shop only available\n for a limited time.\n\n・Get event-themed and\n   exclusive items right here!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Time-limited Shop!\n\n・Ofering unique\n　  and useful items!!!\n\n・Use Jewels to buy.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Time-limited lucky-bag\n shop!\n\n・Get several rare and\n   exclusive items from bags!\n\n・Use Jewels to buy.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Shop with basic\n　and useful items.\n\n・Don't forget to refill\n   your supply if needed!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Equip shop for Denpa Men.\n\n・Shop here to change\n　your style or prepare\n   for your next adventure!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Shop offering interior,\n　exterior and plants!\n\n・Products change daily,\n　be sure to check regularly!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Special shop in which\n　you can buy valuable\n   items with Jewels!\n\n・Offering exclusive and\n　very useful items!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・Get rid of items\n　you don't need!\n\n・Sell items for gold!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 2147483658,
+		"Unk2Sig": 3735545856,
+		"Unk3Sig": 2147484161,
+		"Unk4Sig": 2147484161,
+		"offset_data": [
+			{
+				"string_offset": 64,
+				"Unk1Data": 134,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345686,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483659,
+				"Unk8Data": 3735545856,
+				"Unk9Data": 2147484168,
+				"Unk10Data": 2147484168
+			},
+			{
+				"string_offset": 256,
+				"Unk1Data": 135,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345686,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483660,
+				"Unk8Data": 2821807104,
+				"Unk9Data": 2147484169,
+				"Unk10Data": 2147484169
+			},
+			{
+				"string_offset": 418,
+				"Unk1Data": 161,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345686,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483648,
+				"Unk8Data": 3735545856,
+				"Unk9Data": 2147484003,
+				"Unk10Data": 2147484003
+			},
+			{
+				"string_offset": 628,
+				"Unk1Data": 0,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345664,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483649,
+				"Unk8Data": 3805126656,
+				"Unk9Data": 2147484157,
+				"Unk10Data": 2147484157
+			},
+			{
+				"string_offset": 802,
+				"Unk1Data": 0,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345664,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483657,
+				"Unk8Data": 3780749312,
+				"Unk9Data": 2147484158,
+				"Unk10Data": 2147484158
+			},
+			{
+				"string_offset": 1002,
+				"Unk1Data": 0,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345664,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483654,
+				"Unk8Data": 1267106816,
+				"Unk9Data": 2147484159,
+				"Unk10Data": 2147484159
+			},
+			{
+				"string_offset": 1204,
+				"Unk1Data": 0,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345664,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483653,
+				"Unk8Data": 1482976256,
+				"Unk9Data": 2147484160,
+				"Unk10Data": 2147484160
+			},
+			{
+				"string_offset": 1428,
+				"Unk1Data": 0,
+				"Unk2Data": 0,
+				"Unk3Data": 3503345664,
+				"Unk4Data": 0,
+				"Unk5Data": 0,
+				"Unk6Data": 3503345664,
+				"Unk7Data": 2147483667,
+				"Unk8Data": 2147483668,
+				"Unk9Data": 2147483669,
+				"Unk10Data": 2147483648
+			}
+		]
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"flavor_msg",
+			"ShopIsland"
+		],
+		"attributePairs": [
+			{
+				"attribute": "flavor_msg",
+				"value": 16
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483666,
+		2147483652,
+		2147483664
+	]
+}

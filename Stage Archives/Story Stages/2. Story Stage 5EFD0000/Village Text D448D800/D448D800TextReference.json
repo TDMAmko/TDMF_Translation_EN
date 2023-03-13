@@ -1,0 +1,1181 @@
+{
+	"header": {
+		"text_amount": 71,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 20281,
+		"offset_strings": 20352,
+		"strings_section_size1": 852,
+		"offset3": 21216,
+		"section_size2": 284,
+		"offset4": 21504,
+		"section_size3": 16,
+		"offset5": 21520,
+		"section_size4": 144,
+		"unk3": 0,
+		"offset6": 20266,
+		"offset7": 20280,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "ようこそ！ここは木工もっこう工房こうぼう。\nオレは工房長こうぼうちょうの{8, MessageNpcName, +}<2\u000C耀>{4, message}だ。えへん！\n{8, MessageNpcName, +}<2\u0001耀>{4, message}から紹介しょうかいされて来きたお客きゃくだな。\n話はなしは聞きいている、家いえが欲ほしいそうだね？\n我わが工房こうぼうが良よい家いえを提供ていきょうしよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし困こまったことがあって……\n以前いぜんは、北きたの{8, MessageMapName, +}<2\r耀>{4, message}で材料ざいりょうを採取さいしゅしていた。\nだが、今いまは危険きけんで採取さいしゅできないんだ……\n魔物まものの{9, MonsterParameter, +}<2ÿ耀>{3, name, +}が現あらわれてから！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "というわけでアンタ、{9, MonsterParameter, +}<2ÿ耀>{3, name, +}を倒たおして\n『{5, ItemData, +}<2É耀>{3, name, +}』を持もって来きてくれないか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "『{5, ItemData, +}<2É耀>{3, name, +}』の数かずが多おおいほどいい物ものを作つくれるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレはここで待まっているからな。\n頼たのんだぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "北きたの{8, MessageMapName, +}<2\r耀>{4, message}に現あらわれる\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}の退治たいじを頼たのんだぞ。\nでないと材料ざいりょうが今後こんご、手てに入はいらないからな。\n物ものづくりに必要ひつような『{5, ItemData, +}<2É耀>{3, name, +}』も\n忘わすれずに用意よういしてくれ。待まっているぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\r耀>{4, message}へ行いってきたのか？\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}は森もりの最深部さいしんぶにいる。\n頼たのむ、{9, MonsterParameter, +}<2ÿ耀>{3, name, +}を倒たおしてくれ！！\nでないと材料ざいりょうが今後こんご、手てに入はいらないんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお！それは『{5, ItemData, +}<2耀>{3, name, +}』！\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}を倒たおしてくれたのか！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なに？{9, MonsterParameter, +}<2ÿ耀>{3, name, +}が怒おこっていた！？\n木きを必要以上ひつよういじょうに伐採ばっさいしていると！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ……まあ解決策かいけつさくは検討けんとうする。\n……『{5, ItemData, +}<2É耀>{3, name, +}』が採とれるようになった事ことが重要じゅうようだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それより『{5, ItemData, +}<2É耀>{3, name, +}』を何個なんこ集あつめたんだ？\n1個こか。\nでは預あずかろう、職人しょくにんに『{5, ItemData, +}<2É耀>{3, name, +}』を加工かこうさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、できたぞ。\n『{5, ItemData, +}<2É耀>{3, name, +}』1個こでは大たいした品しなは作つくれなかった。\nほら。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よし！\nこれで島しまの設備せつびもある程度ていど充実じゅうじつするね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖㺼멼쏚⿞쾼뻉숧⟦DECB⟧⿓⟦D9B1⟧⟃쒰⿞⟦DEBC⟧낭⟦DEBC⟧㻂⟦D9BD⟧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふふ。頑張がんばって手てに入いれたものは\nどんなものでも嬉うれしいですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳌똿⟦DDDE⟧⟦DECA⟧꼧⿃⟃⿆⟦DAB2⟧폀⟉糜쐲⟞엝짓⟦DEC3⟧⿓⟦DAB3⟧➼쎲뷞㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで島しまの設備せつびも少すこしは向上こうじょうしますね。\nさっそく島しまに持もち帰かえりましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂폞봻먾밧⿜낺⟦DEBC⟧낮쾼봧⻈꾻뢿⼾쾼옧팯㻁뒶쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったな！\nこれ、早はやく島しまに置おきたいぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀먮糚쨲퐧㺸밯⟏⿆략쀾눧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあい！\nちょっとずつでも島しまが充実じゅうじつするといいよね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뇜눧셼꾮뷄⟞쏂폞밯⟏⟦DFB6⟧밯귞벰싞봾쓙눯뀧⿖⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うん！\nこれで島しまも住すみやすくなるんじゃない？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糝먲쏚⿞쾼팧봯퓐봧렾씯㌧⟦DDD9⟧⟦DEBC⟧얬㾲",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我々われわれの島しまだからな。\n少すこしずつでも住すみよくしていこう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DADC⟧⟦DADC⟧볉⟏⟦DEC0⟧ힶ씯봮먾붼⟞쏂폞봯훐렧⼾㺼닃➺⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "何なにもないよりマシでしょう？\nこれで満足まんぞくしてくださいよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "웅엓눧⟦D8D6⟧켯쎼볞떮먿쏚⿞⟏뿝룞⼾㺼룃⟦DEC0⟧➻횲?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それより『{5, ItemData, +}<2É耀>{3, name, +}』を何個なんこ集あつめたんだ？\n{2, ?l, +}個こか。\nでは預あずかろう、職人しょくにんに『{5, ItemData, +}<2É耀>{3, name, +}』を加工かこうさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、できたぞ。\n『{5, ItemData, +}<2É耀>{3, name, +}』3個この内うち、2個こを使つかって作つくらせた。\nそれなりの品しなになったぞ。ほら。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、できたぞ。\n『{5, ItemData, +}<2É耀>{3, name, +}』2個こを使つかって作つくらせた。\nそれなりの品しなになったぞ。ほら。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やった！\nこれで島しまの設備せつびも良よくなるね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔糀먳쏚⿞쾼뻉숧⟦DECB⟧⿓⟖언⿙⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふふ、これで島しまの設備せつびが充実じゅうじつしますね。\nがんばったから嬉うれしいです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳌먿쏚⿞쾼뻉숧⟦DECB⟧⟦DFB6⟧밯귞벰싞밾⟏⾽⻈⟦DEB6⟧쫝⟞삯ힶ댯볚눧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで島しまの設備せつびがよくなりますね。\nさっそく島しまに持もち帰かえりましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂뛞⿟⟖언쿘⾽⻈꾻뢿⼾쾼옧팯㻁뒶쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったな！\n俺達おれたちの島しま、どんどん良よくしていこうぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔엀딮⟚쇀⿉쾼㉼⟦DEC4⟧⟦DD27⟧⟦DEC4⟧⿝⟖㺸㺼⿃몲댧⟦DEBE⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあい！\n僕ぼくらの島しま、住すみやすくなるね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뇜➰粲츲⟞ힸ⿉쾼㉼킽⟔㺽언⿙⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったわ。\nアタシ達たちの島しまに建たててね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀⻜삱㺼쇀볉웏쀯쌧죃.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふむ、なかなか良いいだろう？\nこれからも島しまの環境かんきょうを良よくしていこう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌糑씲얶⾶➲삲⟦DBDE⟧㾵⟦DABA⟧ힶ팧밯짏똯럝낮⾵⟖㺸㺼닃떺.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで島しまの設備せつびも整ととのいますね。\nこれからも色々揃いろいろそろえたいものです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧밯짏➾쯂폞쐯진쾲봧⻈⟦DABA⟧ힶ팧눯닛⿛⟦DBBF⟧살눧짓⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それより『{5, ItemData, +}<2É耀>{3, name, +}』を何個なんこ集あつめたんだ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだって！？{2, ?l, +}個こ！？\n危険きけんな場所ばしょで良よくそれだけの数かずを集あつめたな……。\nこれだけの数かずがあれば良よい品しなができるだろう。\nでは『{5, ItemData, +}<2É耀>{3, name, +}』を預あずかろう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ん？オマエは1番ばん若わかい職人しょくにんじゃないか。\nこれをオマエが作つくったのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、職人しょくにんの先輩せんぱいたちに作つくるように\n言いわれたので挑戦ちょうせんしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、なかなか精工せいこうに作つくられていて良よい出で来きだ。\nしかしこんな豪華ごうかな作つくり『{5, ItemData, +}<2É耀>{3, name, +}』10個こは\n使つかっているんじゃないか？\nオレは『{5, ItemData, +}<2É耀>{3, name, +}』4個こで作つくれと言いったよな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オーダー通どおり、『{5, ItemData, +}<2É耀>{3, name, +}』4個こを使つかって\nできるだけ豪華ごうかに見みせる工夫くふうをしました。\n先さきほど{9, MonsterParameter, +}<2ÿ耀>{3, name, +}の話はなしが聞きこえたので\n材料ざいりょうが少すくなければ、木きの伐採ばっさいが減へると思おもって。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお！今いままで気きにも留とめていなかったが\nオマエは若わかいのにやるな！\nムダな森林しんりん伐採ばっさいがなくなれば\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も怒おこらないだろう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お客きゃく！こんなに豪華ごうかだが\n『{5, ItemData, +}<2É耀>{3, name, +}』4個こで作つくった品しなだ。受うけ取とりな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるかも！\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すむね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶쀯⑼慰敧⼤⟦DABA⟧ힶ⟦DC27⟧턯⟦DEC0⟧⿅⟦DDBC⟧⟦DDD8⟧⟦DECA⟧꼧늻⿓룅⟦D9C5⟧똧糓洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤똯볅⟏닅⟦DEC3⟧봯턧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるかも。\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すみますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶␮敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞킽⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これは良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるかも。\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すみますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⿜⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶␮敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞킽⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるんじゃないか？\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も安心あんしんできるよな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙볝곞닅㾶洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤넯볝쏝럞⟦D927⟧엖㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるかも！\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すむよね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽훑㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかったわ！\nこれからはムダな森林伐採しんりんばっさいもなくなるかも！\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すむわね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶⿀糜瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙펶⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽⟦DCD1⟧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった！\nこれからはムダな森林伐採しんりんばっさいもなくなるだろう！\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も悲かなしまないで済すむな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖꾶糀瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언⟙⟦DEC0⟧뗛⑼敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸〹㨳潶捩⑥⿓얶쾼씧쎲⿞➽엑.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やれやれ！\nこれからはムダな森林伐採しんりんばっさいもなくなりますかね。\n{9, MonsterParameter, +}<2ÿ耀>{3, name, +}も暴あばれずに済すむでしょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟔퓚糚瀤条⑥먻뛚⟗⿜샑엞밯⟦D8DD⟧쫝⟞뮯펲씯언쿘봧똾糈洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㤳㌰瘺楯散팤넯⟦DECA⟧뷚웞봯턧⟦DEC3⟧꺼⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを作つくってもらったから\nボクの島しまに誰だれが遊あそびに来きても恥はずかしくないよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼⟦DECE⟧렧볉웏쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨻⟦DEBD⟧➶㺼⾸⟅횲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを作つくっていただきました。\n島しまに誰だれが遊あそびに来きても恥はずかしくないですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧㯆⟦DEBA⟧뀧얶짓⾵㻂➸쎯눯샀럞⟏㺼⻀쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅쎲뷞⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを頂いただけましたから\n島しまに誰だれが遊あそびに来きても恥はずかしくないですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧㯆⟦DEBA⟧뀧얶짓⾵삲⟦DEC0⟧쾹밧쀾ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅쎲뷞⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "豪華ごうかな物ものをもらえてよかったな！\n島しまに誰だれが遊あそびに来きても恥はずかしくないぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧뀧얶짓⾵ퟓ쎴혯똧삯糅쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅뺲⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを作つくってもらったから\n島しまに誰だれが遊あそびに来きても恥はずかしくないよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅횲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを作つくってもらったから\n島しまに誰だれが遊あそびに来きても恥はずかしくないわね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼쾼옧쀯⟞뛚⿟뾱⟦DECB⟧럆✾폃쨯⟦DEBD⟧벶✾⾸⟅⟦DCB2⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものを作つくってもらったから\n我々われわれの島しまに誰だれが遊あそびに来きても恥はずかしくないな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵㻂➸쎯ퟓ삯ힶ㉼⟦DADC⟧⟦DADC⟧볉⟏⿆⟦DEC0⟧⟦DA27⟧⟦DFB6⟧넯쮿웞㺷쌧⿓뷊뛞㺼렧씯눧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに豪華ごうかな物ものをいただきましたね！\n島しまに誰だれか遊あそびに来きたら、見みせびらかします！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABF⟧⿆⟦DEBA⟧뀧얶짓⾵삲⟦DEC0⟧쾷밧쀾糈쾼옧쀯⟞뛚넯쮿웞㺷쀧糗퀱쮾ퟞ벶⟏㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オホホホホ！\n隣となりの工房こうぼうで自慢じまんの品物しなものを作つくっていましてよ。\nほこりっぽい所ところですが、興味きょうみがあるなら\n工房こうぼうを見学けんがくしていくといいですわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とうちゃんと　かあちゃんが　いっていたけど\nやっぱり　つくるだけの　ヤツってダメだよな。\nつくるだけなんて　したっぱがやる　しごと！\nおれ　しょうらいの　ゆめは　まだないけど\nしょくにんだけには　なりたくない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このステージを挑戦ちょうせんするのは初はじめてですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u000E耀>{4, message}って場所ばしょが\nこの大陸たいりくの、どこかにあるらしいぜ。\nなんでも、そこに現あらわれる魔物まものは\n周辺しゅうへんの魔物まものとくらべると手てごわいらしいぞ。\n噂うわさじゃあ入口いりぐちは分わかりにくく、探さがし出だすのは困難こんなん。\nまあ、注意深ちゅういぶかく観察かんさつすれば見みつかるかもな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だりぃ～な～……サボろっかな～。\n若造わかぞうにオレの仕事しごとを押おしつけようかな～。\nあの若造わかぞうもかわいそうなヤツ。\nがんばっているけど、こんな工房こうぼうでいい物もの\n作つくったって給料きゅうりょうは上あがらないのによう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それでもいつもアイツは一生懸命いっしょうけんめい作つくるんだぜ？\nバカなヤツ。\nでもおかげ様さまでオレがサボれるんだけどな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "『{5, ItemData, +}<2É耀>{3, name, +}』の数かずで作つくられる品質ひんしつが違ちがうんだ。\n『{5, ItemData, +}<2É耀>{3, name, +}』が1個こや2個こならまあまあの物もの。\n4個こあれば、かなりの物ものが作つくれるぞ。\nまあ、『{5, ItemData, +}<2É耀>{3, name, +}』を4個こも使つかう作業さぎょうなんか\n面倒めんどうであの若造わかぞうぐらいしかやらんだろうけど。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで働はたらいている職人しょくにんたちはみんな家族かぞくがいて\n食くっていくために仕事しごとを辞やめられないんだ。\n工房長こうぼうちょうはオレたちの足元あしもとを見みて安やすい給料きゅうりょうで\nオレたちをこき使つかっているんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最近さいきんでは耐たえられず逃にげ出だしたヤツもいるんだ。\n森林しんりん伐採ばっさいのせいで、怒いかり狂くるう魔物まものがいる\n{8, MessageMapName, +}<2\r耀>{4, message}へな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエ\nこの『ステージ』に挑戦ちょうせんするの初はじめてか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "『{5, ItemData, +}<2É耀>{3, name, +}』は魔物まものが落おとすことがあるぞ。\nあと、宝箱たからばこにも入はいっているらしいが\n見みつけたヤツの話はなしは聞きいたことないな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おっ！ベテラン冒険者ぼうけんしゃか！\n知しっているかもしれないが、アドバイスをやるよ！\n『ステージ』を何度なんど遊あそんでも\nオレたちの話はなすことや、状況じょうきょうは変かわらないぞ。\nだが結果けっかが変かわった時ときは、結末けつまつも変かわるかもな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "（せっせっ、せっせっ！）",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "………………………………ハッ！？\nごめんなさい、作業さぎょうに夢中むちゅうで気きづきませんでした。\nボク、物作ものづくりが好すきで\nこの仕事しごとがとても楽たのしくてしょうがないんです！\n今いまは簡単かんたんな物ものしか任まかされないんですが、いつか\n{5, ItemData, +}<2É耀>{3, name, +}を沢山たくさん使つかった大作たいさくを作つくりたいです！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "（せっせっ、せっせっ！）",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "………………ハッ！！！\nたくさん{5, ItemData, +}<2É耀>{3, name, +}を持もっているんですね！\nこれだけあれば、すごい物ものが作つくれますよ！\n工房長こうぼうちょう、ボクに任まかせてくれないかな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v3_string_data": [
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345684,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345683,
+		3503345685,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01outf01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483693,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483663,
+		2147483664,
+		2147483737,
+		2147483694,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483669,
+		2147483739,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483696,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483697,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483698
+	]
+}
