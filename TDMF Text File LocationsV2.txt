@@ -1,0 +1,135 @@
+TDMF Text File Location Version 1.0 by Amel/Amko
+
+(Used abbrevations: e.g. : example given; UI: User Interface)
+
+This file contains almost all TDMF text file locations (.dat files + their respective archive)
+and is meant to structurize the tranlsating progress of TDMF. Each dat file has a short 
+description what text it stores. Every .dat file is placed under its archive in this document.
+
+To efficiently edit the text from .dat files, the tdmfscripteditor is recommended (download link
+on the Denpa Men Discord Server in pinned message in the channel #the-hacker-hole)
+
+
+Note: Some of the descriptions may not be 100% correct but aim to be pretty accurate, also
+the text file location for denpa name templates is not known yet, it's not certain whether
+these names are even in one of the archives/.dat files (maybe they are in the ExeFS/Code).
+I can't guarantee that altering text in any ofthe mentioned locations will really change text
+in TDMF (some definitely work though!).
+
+SECTION I: General Text Files 
+
+- Archive: 3A08000A: ("museum archive")
+
+	- 99F55COO.dat: Items, interior, exterior, fish, food description for the museum
+	- A21F9000.dat: Equipment (back gear, masks, etc.) descriptions for the museum
+	- FFA4ACOO.dat
+
+	
+- Archive 3E42000A: ("battle text archive")
+
+	- 1BADC800.dat: Passive battle text (e.g. {monster_name} has appeared!)
+	- 920F1400.dat: Active battle text (item usage, attacking, recovering HP/AP)
+
+-Archive 2135000A: ("huge general text archive, mixed text")
+	- 1CABF400.dat: Item names (+not sure: maybe even skill from caught monsters)
+	- 2BD17000.dat: Effect names of equipment (e.g. spirit guard {value%}) and maybe general effects
+	- 4C2BD400.dat: Monster names (e.g. "Strawberry Ghost"), also contains the plural forms of non bosses
+	- 4D430400.dat: Premium Jewel shop (microtransactions) price tags in YEN
+	- 9AA8D000.dat: Not sure, only repeats the word "none" in Japanese
+	- 44D5000.dat : Antenna names and descriptions (probably for museum/during battles)
+	- 50BEB000.dat: Shop descriptions which can be entered from the main island (including event shops)
+	- 270F3800.dat: Contains name of colors, altering the names changes the color
+			appearance in TDMF if trying to edit with existing commands from tdmfscripteditor
+	- 771D5C00.dat: Names of places in stages or the main island (the name of a place is mentioned in a cloud 
+			when entering it on the left lower corner)
+	- 34574800.dat: Name and descriptions of companion (dwarfs, fairies, monsters)
+	- D84ACC00.dat: Not sure, maybe some hero names in TDMF (but doesn't contain all possible hero names),
+			may not have any meaning at all
+	- D34ACC00.dat: stage text (title, descriptions, hints, level recommendation in the stage selection)
+	- DAFCF000.dat: street pass player statistics (including play time, trophies won, gold obtained ...)
+	- FDC99800.dat: Name of NPC characters and companions (e.g. Kaneko)
+
+-Archive 4177000A: ("museum only archive")
+	- 4F8AD800.dat: Museum descriptions for monsters
+
+-Archive F090000A: ("Tutorial text archive")
+	- 3938F400.dat: Tutorial text which shows the basic features of TDMF at the beginning of the game
+
+-Archive FE74000A: ("Another huge text archive, mixed text")
+	- 2A0EA000.dat: UI text for Battles (fight options such as Pinch!, Go for it!,, ...), "wiped out" message
+	- 6F901C00.dat: UI text for Antenna Tower (catch modes)
+	- 7DE05C00.dat: HUGE TEXT FILE, containing literally all the text on the main island (including touch screen
+			menu with facilities and gardening, the full command menu, equipment menu, healing menu ...) and more!
+	- 17B5FC00.dat: Text for recycle shop (text the fairy says or command prompts such as confirmation to recycle)
+	- 22CF9000.dat: command text for the denpa box (e.g. saying "Goodbye", feeding denpa men,...)
+	- 44A98800.dat: street pass encounter list navigation menu
+	- 50B18800.dat: UI text for the museum (categories such as "plants", "monsters",... and element types of monsters)
+	- 63FC2400.dat: Text for the lottery mode on the main island
+	- 524B3C00.dat: Conversation text from denpa men (when talking to them on island or/and denpa box?)
+	- 3503C000.dat: More conversation text from denpa men (event based e.g. jokes on 1st April)
+	- 3918FC00.dat: Fairy text for recycling shop (maybe additional to 17B5FC00.dat)
+	- 5532BC00.dat: Similar to 3918FC00.dat
+	- 7495BC00.dat: Full text for start menu including options menu (e.g. start game, enter gift code,...)
+	- B41BCC00.dat: Text for the Spirit Shrine (explanations, increasing generation, birth feature...)
+	- E452FC00.dat: Denpa text when they get caught/accepted/denied in the Antenna Tower
+	- EF98AC00.dat: Antenna tower text spoken by denpa men (especially the very beginning of the game)
+	- F01A6C00.dat: General shopping text NOT FOR TDMF MAYBE LEFTOVER FROM TDM3
+
+
+SECTION II: Dungeon/Stage Text Files
+
+Note: This section doesn't list all stage archives, only categorizes and confirms which .dat files
+really are text files (there will probably be an addition text file documenting the stage text
+location respectively in the future)
+
+General structure of stage archives:
+Those archives contain a lot of .dat files, most of them are not text files though. 
+It seems to be that for each location a stage has, there is a text file 
+(e.g. a dungeon + village + hidden cave => 3 text files for that archive).
+
+	- Archives: 5EFC0000 - 5E790000: Event stage archives
+	 	- 35676C00.dat: Whole text for an event stage 
+		(if there are several places on that stage,there are more text dat files in that archive)
+		- 3E6EC400.dat: Contains only the word "None" in Japanese, sometimes also probably error
+				exception messages
+		
+	- Archives: 5EFC0000 - 5F7F0000: Story stage archivees
+		- 3E6EC400.dat: Contains only the word "None" in Japanese, sometimes also probably error
+				exception messages
+		- F7638800.dat: Story stage text for a whole area (e.g. cave, village, tower, ...)
+				If a story stage has only one area, this dat file then contains all relevant text for the stage
+		- D448D800.dat: Example in archive 5EFD0000 (2nd story stage, has 3 different areas), text 
+				for an addition area (in this case: the beginning village)
+		There are also more possible text files in a stage archive if there are several areas in the stage itself!
+		(Browsing through the archives required to find those)
+	
+	- Archives: 5F330000 - 599BE0000: Extra stage archives
+	Archives are identical to story archives but contain usually only one (relevant) text file (besides 3E6EC400.dat)
+	as Extra stages usually only have one area (probably even all of them)
+		=> F7638800.dat
+
+	- Archives: AF2A0000 - AFAE0000: Stages added after ver. 1.12.0 (stages 21 - 30 and extra stages probably)
+	Identical to the story stage archives
+
+
+SECTION III: Special text
+		 
+This section right now only covers one archive but is seperated by the others as that archive is between the stage
+archives but actually contains very important text files
+
+	- Archive: 5EFB0000 ("Main Island text")
+		- 35676C00.dat: Event based island dialogue (e.g. Kaneko coming back from vacation after clearing some
+		  extra stages, results of a team competition event announced on the island, also probably unlocking 
+		  recycling shop)
+	
+		- B6B51000.dat: All story relevant text between the Hero and Kaneko (as well as other appearing 
+		  characters) on the Main Island
+
+I hope this text file is useful for a team translation approach of TDM FREE, though I cannot guarantee that all of these
+locations are correctly mentioned. I've analyzed the text files quite intensively so the text file locations should be 
+accurate.
+If there are any questions, you can ask me (Amel/Amko) on Discord (e.g. on the denpa men Discord server in #the-hacker-hole).
+I plan to analyze (and document) the text script as well as the stage text archive locations so that a translation of TDMF
+will be systematically feasible in the future.
+
+Thanks to UltimateBoboboFan713 for providing the tools to make this documentation and the translation for TDM FREE possible!
