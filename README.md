@@ -1,6 +1,6 @@
 # TDMF_Translation_EN
  Collaboration project to tranlsate The Denpa Men Free into English.
- This project contains an overview of fully translated, partly translated and yet to be translated text files. Keep in mind that this project will expand and does not provide all existing text files as of now. If you want to apply the patch on Citra or a homebrewed Nintendo 3ds console, download the zip-folder "TDMF Translation Patch DEMO". Check online tutorials about LayeredFS on how to apply it.
+ This project contains an overview of fully translated, partly translated and yet to be translated text files. Keep in mind that this project will expand and does not provide all existing text files as of now. If you want to apply the patch on Citra or a homebrewed Nintendo 3ds console, download the zip-folder "TDMF Translation Patch DEMO". Check online tutorials or the text document inside the zip folder about LayeredFS on how to apply it.
  
  It is recommended to read through the provided pdf tutorial in order to be able to properly edit and translate text files. Links for the required tools can be found on the pdf tutorial. Keep in mind that tdmfscripteditor has various commands for different type of text files:
 
