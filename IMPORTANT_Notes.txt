@@ -1,0 +1,33 @@
+TDMFSCRIPTEDITOR commands
+
+-extract/repack: for all non special .dat files
+
+-extract-old/repack-old: for item names .dat file
+
+-extract-v2/repack-v2: for antenna .dat file
+
+-extract-v3/repack-v3: for stage and island texts
+
+-extract-v4/repack-v4: 2BD17000.dat (EQUIP Effects)
+
+-extract-v5/repack-v5: 4C2BD400.dat (Monster Names)
+
+-extract-v6/repack-v6: 50BEB000.dat (Shop description)
+
+KEEP IN MIND:
+Archives from old/original cia may contain exclusive date.
+->IN THIS CASE EXCLUSIVE FILES FROM ORIG CIA ARE PASTED INTO
+UPDATE ARCHIVE AND REPACKED; FOLDERS CONTAIN A "NEW" (Update CIA only)
+AND "OLD" (Orig CIA only) FOLDER; THE ARCHIVE EXTRACT FOLDER 
+WITHOUT NEW/OLD IS THE COMBINED ONE!
+
+
+TOOL TO REMOVE PREFIXES IN JSON FILES (<u1000/....):
+Use find/replace feature and paste: <[\x00-\x7F\p{L}u]*?>
+in find, keep "replace with" empty!
+Then click "Replace All"
+CREATE A COPY BEFORE DOING THIS!!!
+
+Add a new speech bubble: <1\"\u0000>\n 
+(for stage text etc.)
+Home-Menu Char: <1ĳ\u0000> (test out!)
