@@ -1,0 +1,2285 @@
+{
+	"header": {
+		"text_amount": 139,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 47395,
+		"offset_strings": 47472,
+		"strings_section_size1": 1668,
+		"offset3": 49152,
+		"section_size2": 556,
+		"offset4": 49712,
+		"section_size3": 16,
+		"offset5": 49728,
+		"section_size4": 280,
+		"unk3": 0,
+		"offset6": 47378,
+		"offset7": 47394,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "犯人はんにんがわかりましたか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ļ\u0001>{5, npc_name, +}が犯人はんにんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ざわざわ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イリス",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "モース",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アスト",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ビルネ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく働はたらく村むらって有名ゆうめいなところだね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥똧Ʞ퀮엝혯렧⼾샊룗ퟑㅼ쎯픯튰얰뫄⟛⟦DEC0⟧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}ですね。\n働はたらき者ものが多おおくて有名ゆうめいなところらしいですよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥쌧뷞⻈샊럗짓⟦DFB6⟧딯뀧㺸⿃냕냒쓅⟦DBBA⟧휧늼⟦DEC3⟧⾽⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}ですか。\n働はたらき者ものが多おおくて有名ゆうめいだとか。見習みならいたいものです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥쌧뷞똾쨮ퟀ펷뛉⿟➵뢰쌾픯튰산⟞뛄퀮ퟅ삲펲⟉⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく働はたらく村むらって有名ゆうめいらしいぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥똧Ʞ퀮엝혯렧⼾샊룗ퟑㅼ쎯픯튰ힰ➼⾲⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく働はたらく村むらって有名ゆうめいなんだって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥똧Ʞ퀮엝혯렧⼾샊룗ퟑ꼧⿃냕냒⟅생꿞쌯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}ね。\nみんなよく働はたらく村むらって有名ゆうめいなんだって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥젧퀮엝혯렧⼾샊룗ퟑ꼧⿃냕냒⟅생꿞⻃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}か。\nみんなよく働はたらく村むらだと有名ゆうめいらしいぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥똧퀮엝혯렧⼾샊룗ퟑ쀧쓞픯튰ힰ➼뾲⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageMapName, +}<2¨耀>{4, message}ですか。\n働はたらき者ものが多おおくて有名ゆうめいとか。私わたしには合あいませんね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␯敭獳条㩥敍獳条䵥灡慎敭㈺㐱㐷㌸ㄸ㨶潶捩⑥쌧뷞똾쨮ퟀ펷뛉⿟➵뢰쌾픯튰쒰똧⟦DC2E⟧변⟆⿜늱뻏⟦DD27⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だけど、どうしたんだろう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC0⟧뤧⟦DEC4⟧㉼⟦DEC4⟧뀧㺼⟦DDC0⟧⟦DEC0⟧뗛?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ですが、どうしたんでしょう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧봧⟦DFB6⟧㉼⟦DEC4⟧뀧㺼⟦DDC0⟧⟦DEC3⟧꺼㾵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、どうしたのでしょうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺼➶粼쐲⟞벰쀾쏉볞떮㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "けど、どうしたんだ、これ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➹⟦DEC4⟧㉼⟦DEC4⟧뀧㺼⟦DDC0⟧⟦DEC0⟧㉼⟦DABA⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でも、ちょっとおかしいよね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧팧㉼껁꼧⿄뚵➼횲㿈3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でも、どうしたのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧팧㉼⟦DEC4⟧뀧㺼지벶㿗",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、これはいったい？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺼➶粼먲⟦DCDA⟧눯삯㾲",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "と、思おもいましたが……おやあ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㯄펵쾲밧쀾⟦DFB6⟧땼⿔㾱",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか畑はたけが荒あれ果はててるみたい……。\nちょっと、見みに行いってみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞쨯맀⟦DFB6⟧넯쫚쌧⟦D9C3⟧샐⺲껁꼧糄퀲옧눯쎯훐뀧⺫",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか畑はたけが荒あれ果はててるみたいです……。\nちょっと、見みに行いってみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞쨯맀⟦DFB6⟧넯쫚쌧⟦D9C3⟧샐쎲뷞⸾껁꼧糄퀲옧눯쎯쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "畑はたけが荒あれ果はてているようですね……。\n様子ようすを見みに行いってみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "샊뚹⿟⟦DAB1⟧⟊쏃⟦D9B2⟧냖⟦DEC3⟧좽혮붰⾵⟐닆쎯쿐꺼⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか畑はたけが荒あれてねえか？\nちょっと、見みに行いってみようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞쨯맀⟦DFB6⟧넯쏚⟈뚰섿➮쒯㉼⟐⿆꾲탃⟖뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "畑はたけが枯かれちゃってるみたいだよ……。\nちょっと、見みに行いってみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "샊뚹⿞⟦DAB6⟧곁쎯탙쀧삲⿞⻖껁꼧糄퀱옧눯쎯훐뀧⺫",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか畑はたけが荒あれ果はててるみたいね……。\nちょっと、見みに行いってみましょうよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞쨯맀⟦DFB6⟧넯쫚쌧⟦D9C3⟧샐⾲⻈껁꼧糄퀱옧꾲탃볏떮⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうやら畑はたけが荒あれ果はててるみたいだな……。\nちょっと、見みに行いってみようか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧뀧ퟔ쨯맀⟦DFB6⟧넯쫚쌧⟦D9C3⟧샐삲엞섮➮쒯ㅼ⟐⿆꾲탃⟖뚰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか畑はたけが荒あれ果はててますねえ……。\nちょっと、見みに行いってみましょうか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞쨯맀⟦DFB6⟧⟦DAB1⟧⟊쏃뷏냈⺪껁꼧糄퀱옧꾲⿃쿐꺼㈧뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねえ、聞きいて！\nみんな、急きゅうに働はたらかなくなっちゃったの！！\n大人おとなにこの村むらの未来みらいを任まかせるのは\n不安ふあんだわあ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは勤労きんろうの村むらだよ。ふああ……。\n睡眠すいみんの秋あきっていいもんだなやー。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうは働はたらきたいんだけど\nどうにも、やる気きがでなくってなあ。\nうーん、体からだを動うごかさないと\nなまっちまっていけねえや。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだか働はたらくのがおっくうになっちゃって。\nこのままじゃいけないとは思おもうんだけどさ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、そこのお方かた！\nもし良よければ、わしのお願ねがいを聞きいておくれ！！\nこの村むらの中央ちゅうおうには、「勤労きんろうの像ぞう」と呼よばれる\n像ぞうがありましてな……。\n村むらのみんなが、楽たのしく働はたらけるようにしてくださる\nありがたい神様かみさまなんじゃ。\nところが先日せんじつ、皆みなが寝ね静しずまった後あとに\nこの神様かみさまの像ぞうが盗ぬすまれてしまったんじゃ！\nそれ以来いらい、村むらの皆みなは働はたらく気力きりょくをなくし\n畑はたけは荒あれ……このままじゃ、村むらは壊滅かいめつじゃ！\nそこで、お願ねがいじゃ！\n盗ぬすまれた像ぞうを見みつけ出だしてはくださらんか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうじゃろうな……。\nぶしつけなお願ねがいをして、すまんですじゃ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、やはり盗ぬすまれた像ぞうを\n見みつけ出だしていただけますかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとうございますじゃ！\nぜひ勤労きんろうの像ぞうを取とり戻もどして\n村むらの皆みなが元もとどおり働はたらけるようにしてくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うん、まかせて！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糝켲➶쎾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしでお力ちからになれるなら\nがんばります！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "샜쎼⿞솵똾웗씯⟚엙㯗⟦DEB6⟧쫝⟦D8DE⟧⟏㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "放ほうってはおけません！\n私わたしたちが像ぞうを取とり戻もどしましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "냎쎯⟦DC27⟧딯쾹➾糝샜㺼쀧뛁⿟⟦DEBF⟧댧⾵⟦D8C4⟧쓓볞볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こんなのほっとけねえぜ！\n俺おれたちにまかせろ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDBA⟧⟅⿉꿎맄⟈뺰糞⟦DAB5⟧쀧웁켯뺶⟦DB27⟧⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "神様かみさまがいなくなっちゃうなんて大変たいへんだよ！\n僕ぼくたちにまかせて！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➶믐뛏⿟얲언꼧곁얳쏝쀻춲생⟞糖⟦DECE⟧렧쀾웁켯➶⾾⻃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "泥棒どろぼうなんて許ゆるせないわ！\nアタシたちにまかせて！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧컛냞⟅쏝픯뻙씧⾲糜삱㺼쀧웁켯➶⾾⻃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ！\nこの難事件なんじけん、必かならず解決かいけつしてみせよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糑먲⿉⟦DDC5⟧⟦DEBC⟧뤧糝똲ퟅ⟦DEBD⟧똯릲㻂㺼⿃뻐⟖ꮰ.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここまで聞きいて放ほうっておくのもねえ。\nまあ、引ひき受うけますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟏⟦DEC3⟧뜯쎲츻꾰뗃➸평젯뀧⺪⟏Ʞ㉼㻋뎷쾹봧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だけど、どこから手てを付つければいいのかな？\nなにか手てがかりでもあれば良いいんだけど……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC0⟧뤧⟦DEC4⟧㉼⟦DEC4⟧먧ힶ쌯딧㻂⟦DAB9⟧⟦DECA⟧눯뀧뛉㿅씳옧⾶뛃⟟⟦D8B6⟧⟦DEC3⟧⿓➱쫚닞⟦DDB2⟧⟦DEC0⟧쒹⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でも、どこから手てを付つければいいんでしょう？\n何なにか手てがかりがあればいいのですが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧팧㉼⟦DEC4⟧먧ힶ쌯딧㻂⟦DAB9⟧⟦DECA⟧눯눧쏝볞떮씿옧⾶뛃⟟⟦D8B6⟧⟦DFB6⟧⟦DAB1⟧⟦DECA⟧눯눧쏉뷞⟦DFB6⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、どこから手てを付つければいいのか。\n何なにか手てがかりでもあればいいのですが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺼➶粼쐲⟞뚺⿗⟃습뤾쫚⿞➲뀳뛉씮옧⾶뛃⟟⟦D8B6⟧⟦DEC3⟧⿓➱쫚닞즲⟦DEC3⟧뚽⻟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "けど、どこから探さがしたらいいんだ？\n何なにか手てがかりでもあれば良いいんだが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➹⟦DEC4⟧㉼⟦DEC4⟧먧ힶ묯⟦DFB6⟧㺼⟀닗⟦DDB2⟧⟦DEC0⟧씿옧⾶뛃⟟⟦D8B6⟧⟦DEC3⟧⿓➱쫚닞⟦DDB2⟧⟦DEC0⟧⟦DFB6⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でも、どうやって探さがしたらいいんだろう？\n何なにか手てがかりはないのかなあ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧팧㉼⟦DEC4⟧뀧꿔⿃뚻볟쀾휧눯눧생⟦DBDE⟧㾵⟅뛆쌯⟦DFB6⟧똧⟦DCD8⟧씯눧뛉냅?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "って、意い気き込ごんでみたは良いいけど\n何なにか手てがかりはないのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쎯ㅼ랲⟦DFBA⟧⟦DD27⟧⟦DEC3⟧샐⿜➲릲⟦DEC4⟧㉼⟅뛆쌯⟦DFB6⟧똧⟦DCD8⟧씯눧뛉ힼ?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、どこから手てを付つけてよいものやら……。\nなにか手てがかりはないのかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺼➶粼쐲⟞뚺⿗⟃습뤾⿃⟖펲퓉⻗⟅뛆쌯⟦DFB6⟧똧⟦DCD8⟧씯눧뛉㿅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でも、何なにか手てがかりはないんですか？\nあてずっぽうに探さがすのはどうかと思おもいますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧팧㉼⟅뛆쌯⟦DFB6⟧똧⟦DCD8⟧씯눧쏝뷞똾넿뷃꿞⟦DFCE⟧욳묯똧뷟⟦DCC9⟧쐻⟞뚰⿄펵쾲봧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふむ……実じつは、ある程度ていど\n犯人はんにんの目星めぼしは付ついておる。\n勤労きんろうの像ぞうを盗ぬすんだ疑うたがいのある者ものは\nいま家いえの中なかに居いてもらっている4人にんじゃ。\nそして、村むらの神かみのおつげによると……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「4時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして\n村人むらびとは皆みな、ウソを付ついていないそうじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「4時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして\n村人むらびとは皆みな、ウソを付ついていないそうじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「4時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして\n村人むらびとは皆みな、ウソを付ついていないそうじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「4時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして\n村人むらびとは皆みな、ウソを付ついていないそうじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「3時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして4人にんの中なかで\nひとりだけ全まったくのウソをついているらしい。\n犯人はんにんだからなのか、犯人はんにんをかばうためなのかは\n分わからないがのぉ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「3時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして4人にんの中なかで\nひとりだけ全まったくのウソをついているらしい。\n犯人はんにんだからなのか、犯人はんにんをかばうためなのかは\n分わからないがのぉ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「3時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして4人にんの中なかで\nひとりだけ全まったくのウソをついているらしい。\n犯人はんにんだからなのか、犯人はんにんをかばうためなのかは\n分わからないがのぉ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "像ぞうが盗ぬすまれた日ひの昼ひるのうちに、犯人はんにんは\n犯行はんこうの下見したみをしていたらしい。\nそして、この日ひの「3時じ」に\nお参まいりをした者ものこそが犯人はんにんとのことじゃ。\nこの時間じかんの周辺しゅうへんで外そとに出でていたのが\nいま家いえの中なかにいる4人にんなのじゃ。\n4人にんはそれぞれ、1時じ・2時じ・3時じ・4時じに\nひとりずつ像ぞうへお参まいりをしている。\nまた、同おなじ日ひの同おなじ時間じかん\n噴水ふんすいにもひとりずつが居いたようじゃ。\n皆みなそれぞれの場所ばしょへは1回かいずつ行いき\n同おなじ場所ばしょへ何度なんども行いった者ものはいない。\nそして、事件じけんの証言しょうげんに関かんして4人にんの中なかで\nひとりだけ全まったくのウソをついているらしい。\n犯人はんにんだからなのか、犯人はんにんをかばうためなのかは\n分わからないがのぉ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "家いえの中なかにいる者ものから話はなしを聞きいて\n犯人はんにんがわかったら、ワシに教おしえてくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nあたしが噴水ふんすいに居いる時とき\nお参まいりしてるモースさんを見みたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\n時間じかんは覚おぼえてないが、おいらが噴水ふんすいに行いったのは\nイリスちゃんよりも後あとだったはずだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nオレはお参まいりに行いったすぐ後あと\n噴水ふんすいに休憩きゅうけいしに行いったぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nわたしがお参まいりしたすぐ後あとに\nイリスちゃんがお参まいりをしてたと思おもうわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nたしか、あたしは2時じに噴水ふんすいに行いったよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\nおいらが噴水ふんすいに行いった時間じかんは\nアストよりも前まえだったはずだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nオレが噴水ふんすいに居いる時とき\nモースの野郎やろうがお参まいりしてるのを見みたぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\n何時なんじかは忘わすれたけど、わたしのすぐ後あとに\nイリスちゃんがお参まいりをしてたわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nあたしが噴水ふんすいに居いる時とき\nモースさんがお参まいりしてるのが見みえたわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\n時間じかんは覚おぼえてないけど、あの日ひは\n噴水ふんすいに行いくより前まえにお参まいりをしたはずだよ。\nあと、アストは\nおいらより後あとにお参まいりに行いったはずだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nオレが噴水ふんすいに行いったのは\nイリスちゃんのすぐ後あとだったぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nあの日ひは1時じに噴水ふんすいに行いったと思おもうわ。\n言いっとくけど、わたしは犯人はんにんじゃないからね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nたしか、4時じに噴水ふんすいに行いったわ。\nでも言いっとくけど\nあたしは犯人はんにんじゃないからね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\nあの日ひは、2時じにお参まいりをしたと思おもうだ。\nあんた、おいらを疑うたがってるのか？\n……お、おいらは犯人はんにんじゃないだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nオレが噴水ふんすいに居いる時とき\nモースの野郎やろうがお参まいりしてるのを見みたぜ。\nあと言いっておくが\nオレは犯人はんにんじゃないからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nよく覚おぼえてないけど、お参まいりした時間じかんは\n3時じではなかったと思おもうわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nたしか、1時じに噴水ふんすいに行いったわ。\nあと、あたしが噴水ふんすいに行いったすぐ後あとには\nモースさんが来きたみたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\nあの日ひ、おいらは\n4時じにお参まいりに行いっただよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nたしか、2時じに噴水ふんすいに行いったかな。\nあとは噴水ふんすいにいる時ときに\nお参まいりしてるイリスちゃんを見みたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nあの日ひ、わたしがお参まいりをしたすぐ後あとに\nアストがお参まいりをしたみたいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nあの日ひ、あたしがお参まいりをしたすぐ後あとに\nモースさんがお参まいりをしてたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\nおいらは犯人はんにんじゃないだよ。\n3時じには噴水ふんすいに行いってたしな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\n何時なんじかは覚おぼえてないが、オレは\nモースの野郎やろうのすぐ後あとにお参まいりをしたぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nわたしが噴水ふんすいに行いったすぐ前まえに\nアストさんが噴水ふんすいに居いたみたいね。\nあとは、噴水ふんすいにいる時ときに\nイリスちゃんがお参まいりしているのを見みたわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nあの日ひはお参まいりをした後あと\nすぐに噴水ふんすいに行いったわ。\nあとは、たしか噴水ふんすいにいる時とき\nアストさんがお参まいりしてるのを見みたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\nおいらが噴水ふんすいに行いく直前ちょくぜんに\nイリスちゃんが噴水ふんすいにいたみたいだな。\nあとは、噴水ふんすいにいる時とき\nビルネがお参まいりしてるのを見みただよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nあの日ひは1時じに噴水ふんすいに行いったな。\nあと、たしか噴水ふんすいにいる時ときに\nお参まいりしているモースの野郎やろうを見みたかな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nわたしの直前ちょくぜんにお参まいりしてたのは\nアストさん以外いがいの誰だれかだった気きがするわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんさん、あたしイリスよ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひの事ことを聞ききたいの？\nあの日ひだったら\nあたしは1時じにお参まいりをしたわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの名前なまえは、モースっていうだ。\n勤労きんろうの像ぞうが盗ぬすまれた日ひのことだべ？\n時間じかんは忘わすれたけど、お参まいりよりも先さきに\n噴水ふんすいに行いってたと思おもうだよ。\nあとは、噴水ふんすいにいる時とき\nビルネがお参まいりしてるのを見みただ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よう、オレがアストだ。\n像ぞうが盗ぬすまれた日ひのことを知しりたいのか？\nたしか、お参まいりを先さきにして\n噴水ふんすいには後あとから行いったと思おもうぜ。\nあと、噴水ふんすいに行いった時間じかんに\nモースの野郎やろうがお参まいりしてるのを見みたな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたしはビルネよ。\n像ぞうが盗ぬすまれた日ひの事ことを聞ききにきたのね？\nあの日ひは、噴水ふんすいに行いってから\nすぐ後あとにお参まいりをしたわね。\nそういえば、噴水ふんすいにいる時ときに\nお参まいりをするイリスちゃんを見みたわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ家いえの中なかにいる者ものから\n聞きいていないようじゃな。\n家いえの中なかにいる者ものから話はなしを聞きいて\n犯人はんにんかわかったらワシに教おしえてくだされ！\n村むらの神かみのおつげによると……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、電波人間でんぱにんげんどの！\n勤労きんろうの像ぞうを盗ぬすんだ犯人はんにんはわかりましたかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふむ、じっくり推理すいりして\n犯人はんにんを導みちびき出だしてくだされ。\n村むらの神かみのおつげによると……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと！\nそれでは、村むらのみなを集あつめましょうぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みなの者もの！\n勤労きんろうの像ぞうを盗ぬすんだ犯人はんにんがわかったそうじゃ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ええい、静粛せいしゅくに！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……それでは電波人間でんぱにんげんどの！！\n犯人はんにんと思おもう人物じんぶつに声こえをかけてくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんどの！！\n犯人はんにんと思おもう人物じんぶつに声こえをかけてくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ええっ、あたしを疑うたがってるの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだって！？\nおいらを疑うたがってるだか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああっ！？\nこのオレが犯人はんにんだとでもいうのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ええっ！？\nわたしが像ぞうを盗ぬすんだっていうの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっ。\nびっくりしたあ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふう……。\nまったく心臓しんぞうに悪わるいだよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいおい！！\nおどかしっこなしだぜー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でしょ！！\nそんなことするわけないもの！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……！？\nそんなことするわけないじゃない！！\n失礼しつれいしちゃうわっ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……！？\n冗談じょうだんじゃないだ！\n言いっていいことと、悪わるいことがあるだぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……！？\nばかやろう！\nおまえたちの目めはフシアナかっ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……！？\nひどいっ！\nわたしをそんな目めで見みてたなんて！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "…………………………！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "…………………………！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "…………………………！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "…………………………！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごめんなさい、あたしが犯人はんにんです……。\nだって、かわいそうだったんだもん！\nみんなへとへとになるまで働はたらいてて……。\nだから、あの神様かみさまの像ぞうを隠かくしちゃえば\nみんな休やすめると思おもったの！\nでも……働はたらかないとゴハンも\n食たべられなくなっちゃうんだね……。\nごめんなさい、神様かみさまは返かえします……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うう、やっぱり隠かくし事ごとはできねえだな\nたしかに神様かみさまの像ぞうはおいらが持もってっただ……。\n毎日まいにち同おなじことの繰くり返かえしでよう……。\nいい加減かげん疲つかれちまったんだ。\nだけど……。\nのんびりして楽たのしかったのも少すこしだけでよ\nだんだん、むなしくなってきちまった。\nやっぱり、おいらは働はたらくのが生いきがいだよ。\nみんな……すまなかった。\nこのとおり、神様かみさまは返かえすだよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いやー、バレちまったか！\nそう、神様かみさまの像ぞうを持もってったのはこのオレだ。\nだってよ、みんな神様かみさまを拝おがんだりしてるけど\nホントにご利益りやくがあるのか、ギモンでさ。\nだから、ちょっとだけ試ためしてみたかったんだよ。\nまさか、村むらが荒あれ果はてるまで働はたらけないなんて\n思おもわなかったけどな……。\nみんな……悪わるかった！！\nこのとおり、神様かみさまは返かえすから許ゆるしてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごめんなさい、わたしがやりました……。\n神様かみさまの像ぞうを隠かくして働はたらけなくなれば\n仕事しごとを休やすむことができるでしょ？\n時間じかんがあれば、自分じぶんの本当ほんとうにやりたいことが\n見みつかるかもしれない、って。\nだけどね……わかったの。\nわたしが働はたらいて誰だれかが喜よろこんでくれること……\nそれが自分じぶんのやりたいことだったんだって。\nみなさん、ごめんなさい。\n神様かみさまはちゃんと返かえします……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごめんなさい、あたしが犯人はんにんです……。\nだって、かわいそうだったんだもん！\nみんなへとへとになるまで働はたらいてて……。\nだから、あの神様かみさまの像ぞうを隠かくしちゃえば\nみんな休やすめると思おもったの！\nでも……働はたらかないとゴハンも\n食たべられなくなっちゃうんだね……。\nごめんなさい、神様かみさまは返かえします……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うう、やっぱり隠かくし事ごとはできねえだな\nたしかに神様かみさまの像ぞうはおいらが持もってっただ……。\n毎日まいにち同おなじことの繰くり返かえしでよう……。\nいい加減かげん疲つかれちまったんだ。\nだけど……。\nのんびりして楽たのしかったのも少すこしだけでよ\nだんだん、むなしくなってきちまった。\nやっぱり、おいらは働はたらくのが生いきがいだよ。\nみんな……すまなかった。\nこのとおり、神様かみさまは返かえすだよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いやー、バレちまったか！\nそう、神様かみさまの像ぞうを持もってったのはこのオレだ。\nだってよ、みんな神様かみさまを拝おがんだりしてるけど\nホントにご利益りやくがあるのか、ギモンでさ。\nだから、ちょっとだけ試ためしてみたかったんだよ。\nまさか、村むらが荒あれ果はてるまで働はたらけないなんて\n思おもわなかったけどな……。\nみんな……悪わるかった！！\nこのとおり、神様かみさまは返かえすから許ゆるしてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごめんなさい、わたしがやりました……。\n神様かみさまの像ぞうを隠かくして働はたらけなくなれば\n仕事しごとを休やすむことができるでしょ？\n時間じかんがあれば、自分じぶんの本当ほんとうにやりたいことが\n見みつかるかもしれない、って。\nだけどね……わかったの。\nわたしが働はたらいて誰だれかが喜よろこんでくれること……\nそれが自分じぶんのやりたいことだったんだって。\nみなさん、ごめんなさい。\n神様かみさまはちゃんと返かえします……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで難事件なんじけんも解決かいけつですな！！\nさすがは電波人間でんぱにんげんどの！\n少すこしばかりですが、コレはお礼れいですじゃ。\nぜひ受うけ取とってくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぜひまた、この勤労きんろうの村むらに遊あそびに来きてくだされ！\n今度こんどはみな、バリバリと働はたらく姿すがたを\nお見みせできるはずですからの！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ううむ……犯人はんにんではなかったようですな。\nこの事件じけんは迷宮入めいきゅういりとなったようですじゃ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちょっと聞きいとくれよ！\nウチの亭主ていしゅが最近さいきんちっとも働はたらかなくてさ……。\nやっぱり勤労きんろうの神様かみさまが\n盗ぬすまれたせいかねえ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ま、まさか……。\nウチの亭主ていしゅが犯人はんにんなんてことはないよねえ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "彼女かのじょがさ、最近さいきんやる気きがないみたいなんだ。\nオレがやる気きないのはもともとだけど\n彼女かのじょまで働はたらかないってのはまいっちゃうよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわあ、この緊張感きんちょうかん！\nドラマみたいでドキドキする！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "勤労きんろうで有名ゆうめいなこの村むらだけど\n最近さいきんみんな怠なまけだしちゃって……。\n働はたらきすぎだったからたまにはいいけど\nこのままだと将来しょうらいが不安ふあんだわあ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねえ、ちょっと！！\nウチの子この無実むじつを晴はらしておくれよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345683,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483664,
+		2147483720,
+		2147483730,
+		2147483763,
+		2147483783,
+		2147483784,
+		2147483785,
+		2147483786,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483747,
+		2147483748,
+		2147483749,
+		2147483750,
+		2147483751,
+		2147483752,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483772,
+		2147483773,
+		2147483774,
+		2147483775,
+		2147483776,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483764,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483787,
+		2147483788,
+		2147483789,
+		2147483790,
+		2147483735,
+		2147483736,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483741,
+		2147483742,
+		2147483743,
+		2147483745,
+		2147483746,
+		2147483777,
+		2147483778,
+		2147483779,
+		2147483780,
+		2147483781,
+		2147483782
+	]
+}

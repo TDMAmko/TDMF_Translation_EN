@@ -1,0 +1,1453 @@
+{
+	"header": {
+		"text_amount": 87,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 25819,
+		"offset_strings": 25888,
+		"strings_section_size1": 1044,
+		"offset3": 26944,
+		"section_size2": 348,
+		"offset4": 27296,
+		"section_size3": 16,
+		"offset5": 27312,
+		"section_size4": 176,
+		"unk3": 0,
+		"offset6": 25810,
+		"offset7": 25818,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじを引ひき受うけますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……ここは{8, MessageMapName, +}<2\n耀>{4, message}だ。\nはあ……見みてくれ、この畑はたけの有様ありさま！！\n一生懸命いっしょうけんめい作つくったメロンが台無だいなしだよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全部ぜんぶ{8, MessageMapName, +}<2\u0011耀>{4, message}の{9, MonsterParameter, +}<2耀>{3, name, +}たちが荒あらしたんだ！\nアイツら絶対ぜったいに許ゆるさない……こんちくしょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ？{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたって？\nこれからは\n育そだてた作物さくもつが荒あらされることは、ないんだな！？\nやったーーーーーーーーーーーーーーーっ！！\nこれで、農作業のうさぎょうをのびのびとできるぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレは{8, MessageNpcName, +}<2\r耀>{4, message}、農家のうかだ。\n村中むらじゅうの畑はたけが荒あらされた。\nだが、ウチは被害ひがいが少すくなかった……まあ、当然とうぜんだな。\nみんなとは、趣向しゅこうの違ちがう作物さくもつを育そだてているからな。\nにがうり、しぶがき、とうがらし……。\n甘あまい作物さくもつより、栽培さいばいするなら刺激しげきが強つよい作物さくもつだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたって！？\nまたまた～冗談じょうだんを！！ハッハッハッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "買かい付つけに来きたのに作物さくもつがないなんて……。\nあっ、何なにか買かいます？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ？{8, MessageMapName, +}<2\u0011耀>{4, message}が静しずかになったような……。\nおっと、何なにか買かいます？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきは{8, MessageMapName, +}<2\u0011耀>{4, message}、今いまは立たち入いり禁止きんしだ。\n凶暴きょうぼうな{9, MonsterParameter, +}<2耀>{3, name, +}たちがいるからな。\n通とおりたければ\n村むらの北東ほくとうに住すむ、村長そんちょうに許可きょかをもらえ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ん？村長そんちょうの許可きょかを取とっているのか？\n退治たいじを頼たのまれたって？\nそれはありがたい！\nさあ、奥おくへ。\n気きを付つけて行いけよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきが{8, MessageMapName, +}<2\u0011耀>{4, message}だ。\n{9, MonsterParameter, +}<2耀>{3, name, +}たちは手てごわいから、気きをつけろよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おかえり！\nもしや、{9, MonsterParameter, +}<2耀>{3, name, +}を退治たいじできたのか！？\nすごいじゃないか！良よくやった！\n早速さっそくこの良よい知しらせを、村長そんちょうに伝つたえてくれ。\n首くびを長ながくして待まっているぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおした事ことを、村長そんちょうに伝つたえてくれ。\n首くびを長ながくして待まっているぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もうダメだ……。\n畑はたけがこんな状態じょうたいじゃあ、やる気きがでねえ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったな、おい！\nだが、オレはここが気きに入いった。\nしばらくここで寝ねてるぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふふふっ……。\n気配けはいを消けしていた、この{8, MessageNpcName, +}<2\u0016耀>{4, message}を良よく見みつけたな。\n褒美ほうびに仲間なかまになってやってもいいぞ！\nオレは敵てきの回避率かいひりつを下さげることができる。\nすばらしい能力のうりょくだろ！！\nこの{8, MessageNpcName, +}<2\u0016耀>{4, message}を仲間なかまにするか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふはははっ、喜よろこべ！\nこれからこの{8, MessageNpcName, +}<2\u0016耀>{4, message}は、オマエの仲間なかまになる。\nよしなにな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "何なんてことだ！！オマエの島しまに\nこの{8, MessageNpcName, +}<2\u0016耀>{4, message}が待機たいきできるスペースがないぞ。\n電波人間でんぱにんげんボックスに空あきができたら\n声こえをかけるのだな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この{8, MessageNpcName, +}<2\u0016耀>{4, message}を必要ひつようではない……だと！？\nふん、後悔こうかいしても知しらないぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この{8, MessageNpcName, +}<2\u0016耀>{4, message}は、オマエの仲間なかまになる。\n無ぶ事じにオマエの島しまに戻もどったら\n電波人間でんぱにんげんボックスをのぞくがいい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエの島しまに\nこの{8, MessageNpcName, +}<2\u0016耀>{4, message}が待機たいきできるスペースがないぞ。\n電波人間でんぱにんげんボックスに空あきができたら\n声こえをかけるのだな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やはりオレを仲間なかまにしたくなったのだな！\nオレは敵てきの回避率かいひりつを下さげることができる。\nこの{8, MessageNpcName, +}<2\u0016耀>{4, message}を仲間なかまにするか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ……どうしたものか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おやっ？\nもしや、カネコ殿どのが言いっていたお方かたですか？\n待まっておりました！！お助たすけください！！\n{9, MonsterParameter, +}<2耀>{3, name, +}たちに畑はたけを荒あらされて、困こまっています！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アヤツら、村むらに来きてはワシらが育そだてた作物さくもつを\n食くい散ちらかしていくのです……。\n退治たいじを試こころみましたが、全まったく敵かないませんでした……\nどうか、{9, MonsterParameter, +}<2耀>{3, name, +}を退治たいじしてくれませんか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "気きが変かわりましたか？\n{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしてくださいますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうですか……無理むり強じいはいたしません。\nしょぼーん……ああ……どうしたものか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじ、引ひき受うけてくれるのですか！！\nありがたや、ありがたや！このお礼れいはかならず！\nヤツらの畑はたけ荒あらしを止とめるには、{9, MonsterParameter, +}<2耀>{3, name, +}のボス\n{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおすしかありません！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ところが、{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたくても\nヤツは姿すがたを現あらわさないのです。\n手下てしたの{9, MonsterParameter, +}<2耀>{3, name, +}たちを、何匹なんびきか倒たおせば怒おこって\n出でてくるかもしれませんが……。\nとにかく、まずは{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしてください！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}のなわばり、{8, MessageMapName, +}<2\u0011耀>{4, message}へは\n村むらの北側きたがわから入はいれますぞ。\n{9, MonsterParameter, +}<2耀>{3, name, +}と手下てした{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじ\nよろしく頼たのみますよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじをお願ねがいします。\nヤツが姿すがたを現あらわすには\n{9, MonsterParameter, +}<2耀>{3, name, +}を何匹なんびきか倒たおす必要ひつようがあるかと……。\nヤツらのなわばり\n{8, MessageMapName, +}<2\u0011耀>{4, message}へは村むらの北側きたがわから入はいれますぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじをお願ねがいします。\nですが、その前まえに{9, MonsterParameter, +}<2耀>{3, name, +}を数匹倒すうひきたおし\n{9, MonsterParameter, +}<2耀>{3, name, +}をおびき寄よせてください。\n{9, MonsterParameter, +}<2耀>{3, name, +}たちは逃にげ回まわります。\n他ほかの魔物まものを避さけつつ\n後うしろからそっと、近寄ちかよってみてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじをお願ねがいします。\nもう数匹すうひき、{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおさないと\n{9, MonsterParameter, +}<2耀>{3, name, +}は現あらわれないようです。\n{9, MonsterParameter, +}<2耀>{3, name, +}は水みずに弱よわいと聞ききました。\n水みず属性ぞくせいの攻撃こうげきが効果的こうかてきですぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "な、なんと！！\nあの{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおされたのですか！？\nアヤツは{8, MessageMapName, +}<2\u0011耀>{4, message}ナンバーワン。\nさぞかし手てごわかったでしょう、おみごと！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし……{8, MessageMapName, +}<2\u0011耀>{4, message}の重鎮じゅうちん{9, MonsterParameter, +}<2耀>{3, name, +}は\n畑荒はたけあらしに関かんしては、ただの傍観者ぼうかんしゃです。\n主犯しゅはんはあくまで{9, MonsterParameter, +}<2耀>{3, name, +}。\nどうか、{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじをお願ねがいします！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたのですね、おみごと！\nですが、畑はたけ荒あらしに関かんしてアヤツは無関係むかんけいです。\n主犯しゅはんはあくまで{9, MonsterParameter, +}<2耀>{3, name, +}。\nどうか、{9, MonsterParameter, +}<2耀>{3, name, +}退治たいじをお願ねがいします！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお！村むらの畑はたけを荒あらしていた\n{9, MonsterParameter, +}<2耀>{3, name, +}たちを退治たいじしたですと！！\nううっ……良よかった、本当ほんとうに良よかった！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "悪わるさするヤツもいなくなり\nこれでみんな安心あんしんして農作業のうさぎょうができます。\n本当ほんとうにありがとうございます！\n感謝かんしゃの気き持もちです、どうぞお納おさめください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと！！手下てしたの{9, MonsterParameter, +}<2耀>{3, name, +}8匹ぴき\n全すべて倒たおしてくれたのですか！！\nこれで悪わるさする者ものは、当分とうぶん現あらわれないでしょう。\nささやかなものですが、お納おさめください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかも、{9, MonsterParameter, +}<2耀>{3, name, +}も倒たおしたのですね！\n{9, MonsterParameter, +}<2耀>{3, name, +}自身じしん、悪わるさはしないのですが\n他ほかの{9, MonsterParameter, +}<2耀>{3, name, +}を呼よび寄よせるのです。\n倒たおしていただいて、とても助たすかります。\nこちら、心こころばかりの物ものですがお納おさめください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すばらしい方かたを紹介しょうかいしてくれた\nカネコ殿どのにもお礼れいをせねば！！\n電波人間でんぱにんげん殿どの、これで村人一同むらびといちどうがんばって\n農業復興のうぎょうふっこうに励はげみます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いや、本当ほんとうにありがとうございました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとうございました！！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおして\n村むらが平和へいわに戻もどってよかった！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散딤쀯➵㺼糃턲⟗⟦DFB6⟧촯⟦DCB0⟧⿆쓓⟞쎯혯똧삯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで安心あんしんして農業のうぎょうができますね。\n地底人ちていじんさんたちの生活せいかつを守まもれてよかったです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧넯볝볝쌾줯뀧⟦DFB7⟧낮⟦DFB6⟧쌯럞⟏⾽⻈㻁⟃벰⟦DDDE⟧⟦DDBB⟧쇀⿉낾슶⾵폏⟦DA27⟧⿃⟖꾶쏀뷞ꤾ.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これでもう、畑はたけを荒あらされることはないですよね。\n村むらが平和へいわに戻もどってよかったです！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧팯뀧㉼샊떹넯믗⟦D9DA⟧➺⟦DCC4⟧씯눧⟦DEC3⟧횽젯턮⟗⟦DFB6⟧촯⟦DCB0⟧⿆쓓⟞쎯혯똧삯⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたから\nこの村むらも安心あんしんだよな。よかったぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散딤쀯➵㺼뛀糗먲퇉⟗⿓⟦DDB1⟧⟦DDBC⟧⟦DEC0⟧혧씯혮똧삯⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおしたから\nみんな安心あんしんして農業のうぎょうができるよね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散딤쀯➵㺼뛀糗퀲엝넯볝볝쌾줯뀧⟦DFB7⟧낮⟦DFB6⟧쌯럞⟦D927⟧⿖⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}を倒たおして\n地底人ちていじんさんたちも喜よろこんでくれてよかったわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散딤쀯➵㺼糃섲쌾뀧⟦DEBC⟧믝생폁혯뫛⟦DD27⟧⟦DEC3⟧⟦DAB8⟧⿃⟖꾶⿀⻜",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "村むらに平和へいわが戻もどったようだな。\nうむ、この私わたしにかなう敵てきなどいるものか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ퟑ옧촯⟦DCB0⟧⟦DFB6⟧팯⟦DEC4⟧꼧훀산엞댮턧㉼즺샜욼똯⟅⾳럃⟅⟦DEC4⟧눯폙⟉⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうも感謝かんしゃされると、悪わるい気きはしませんね。\n村むらが平和へいわになって良よかったんじゃないですか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➺펰똯⟦DD27⟧겼⟦DABB⟧쓙㉼⟦D9DC⟧눧⟦DCB7⟧밯뻏⟦DD27⟧⻈ퟑ똧⿟냍웜⟅쎯혯똧삯볝곞닅⟦DEC3⟧㺽㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボク、{9, MonsterParameter, +}<2耀>{3, name, +}みたいに\nガラが悪わるいヤツの前まえだと体からだがすくむんだ……。\nでも、キミがいると勇気ゆうきが湧わくんだよ！\nいつもありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DECE⟧렧㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散퀤닀⿆⟦DEB6⟧뛗⿟⟦D9DC⟧눧싔⿉⟏살쓞똯샗뛞⿟㺽톸⟦DD27⟧⟦DEC0⟧⑼慰敧⼤⟦DEC3⟧팧뜻뛐닟쓙픯뀧뚷⿟룜⟦DD27⟧⟦DEC0⟧糖➲폂넯⟘⟦DFB6⟧냄.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "じつは{9, MonsterParameter, +}<2耀>{3, name, +}が怖こわくて\nちょっとだけ逃にげたくなってしまったんです。\nでも、あなたと一緒いっしょだから勇気ゆうきが出だせました！\nいつもありがとうございます！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBC⟧⟂⿜洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散똤⿟➺룜쌾㉼껁쒯⟦DEC0⟧⾹맆샟렧꿅볃꿏⟦DDC0⟧⟦DEC3⟧㺽␮慰敧㬤⟦DEC3⟧팧㉼얱쀧⿄꾲꺼⟦DEC0⟧똧⿗⟕랰⟦DFB6⟧쀯뻞⟏㺼糀➲폂넯⟘⟦DFB6⟧냄⟦DFBA⟧⟦DEBB⟧쾲㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "正直しょうじき、バトルはそれほど得意とくいでもないのですが\nあなたの期待きたいに応こたえたかったんです。\nいつもありがとうございます。\nこれからもよろしく！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꺼벰⟞粷쨲⟞⟦D9C4⟧⿜⟦DABF⟧쓎⿞룄눧⟦DEC3⟧⿓⟅즲⟦DEC3⟧뚽糟넲⟅지뜯쀾욲먯듀⟀꾶⟦DDC0⟧⟦DEC3⟧㺽␮慰敧㬤➲폂넯⟘⟦DFB6⟧냄⟦DFBA⟧⟦DEBB⟧쾲㺽먮뛚⟗⿓⟦DBD6⟧㺼⺸",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "強つよいやつと戦たたかったり、助たすけた人ひとに感謝かんしゃされたり\nあんたと出で会あえたおかげだな。\nいつもありがとう！\nこれから先さきも楽たのしみだぜ!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "훂눧퐯숧쐾쀯뛀삯⟦D827⟧㉼뷀뤾쀧㻋웄똯⟦DD27⟧겼⟦DABB⟧⟦D8C0⟧㉼➱생⿄⟦DEC3⟧➱살딯릶샟엞␮慰敧㬤➲폂넯⟘⟦DFB6⟧냄멼뛚믗펷쀯볉퀧⟦DEC0⟧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{9, MonsterParameter, +}<2耀>{3, name, +}はガラが悪わるくて\nちょっと怖こわかったけど……。\nでも、君きみが一緒いっしょだと思おもうと安心あんしんできるんだ。\nいつもありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㜳㘹瘺楯散⟦DC24⟧똯ퟞ⟦DFB6⟧⟜룙쌾㉼껁꼧⿄⟦DCBA⟧똧삯쒹⻞瀤条⑥쌻⟞糓뜲뛐⿟꾲꺼⟦DEC0⟧쐧딯⟓쒳넻볝쏝럞⟦D927⟧생⻞➲폂넯⟘⟦DFB6⟧냄.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうはちょっと怖こわかったけど\nあなたが見守みまもっていてくれたから頑張がんばれたの。\nあなたがアタシに勇気ゆうきをくれるのよ！\nいつもありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿜껁꼧⿄➺뛜삯쒹糞넲⟅뛀⿟쿐꿓닃룃샚똧⿗⟦DEB6⟧쫝⟞샚⻉瀤条⑥넻⟅뛀⿟삱욼픯뀧떷렯⟦D9DA⟧줧㿖➲폂넯⟘⟦DFB6⟧냄.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、{9, MonsterParameter, +}<2耀>{3, name, +}は\nなかなかに手てごわい相手あいてだった……。\nこの勝利しょうりは君きみのおかげだよ。\nいつもありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺼➶粼␲敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸㤷㨶潶捩⑥⿜뛅뛅옧쌯⟦DFBA⟧⟜⾲늱⟃⟦DEC0⟧삯␮慰敧㬤즺꺼뀧⟦DCD8⟧뜯짐딯릶샟⟞⻖➲폂넯⟘⟦DFB6⟧냄.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まあ、私わたしはあなたの指示しじに\n従したがって動うごいただけなんですけどね。\n本当ほんとうに村むらを救すくったのは、あなたの方ほうですよ。\nお見事みごとでした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏Ʞ㉼샜⟦DCBC⟧넯⟅지벼웞밯쀾⟦DFB6⟧쎯댯⟦DFBA⟧눧⿀⟦DEC0⟧➹⟦DDC5⟧⟦DEC3⟧㺽쒹⿞⻈瀤条⑥츻쓝우턯⟗⾵㺽꾸⟀⟦DCC9⟧넻⟅지냎⟦DEC3⟧횽딮⟐⟦DFBA⟧쏄볞쀾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、島しまへ戻もどろう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➻Ʞ㉼쾼됧팯⟦DEC4⟧⟛⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、島しまへ戻もどりましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➻Ʞ㉼쾼됧팯⟦DEC4⟧쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "では、島しまへ戻もどりましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC3⟧⟦DC27⟧㉼쾼됧팯⟦DEC4⟧쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よし、島しまへ戻もどろうぜ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟖粼밲⟏⾴쓓⟦DBDE⟧딧븯⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、島しまへ戻もどろうよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➻Ʞ㉼쾼됧팯⟦DEC4⟧⟛횵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、島しまへ帰かえりましょ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➻Ʞ㉼쾼됧똯⟦D8B4⟧볏⺮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、島しまへ戻もどろうじゃないか！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➻Ʞ㉼쾼됧팯⟦DEC4⟧⟛벵곞닅⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあて、島しまへ戻もどりましょうか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놻쌧㉼쾼됧팯⟦DEC4⟧쿘꺼딧⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、みんな！\n聞きいておるかもしれんが、{9, MonsterParameter, +}<2耀>{3, name, +}と\n{9, MonsterParameter, +}<2耀>{3, name, +}が退治たいじされたのだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "聞ききました！\nもう、畑はたけが荒あらされる心配しんぱいがなくなるんですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、みんなこれで安心あんしんして農業のうぎょうができるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しかし、電波人間でんぱにんげん殿どのにはもちろんだが\n{8, MessageNpcName, +}<2\r耀>{4, message}にも礼れいを言いわないとのう。\nみんな収入しゅうにゅうがなく、種たねも買かえないのを見みかねて\n{8, MessageNpcName, +}<2\r耀>{4, message}が出資しゅっししてくれて、助たすかった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ！？\nウチのオヤジがそんなことを？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうだよ、本当ほんとうに助たすかった！\nこれも、刺激しげきが強つよくて魔物まものたちも好このまない\n作物さくもつを植うえていたおかげだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレたちと同おなじく、{9, MonsterParameter, +}<2耀>{3, name, +}たちが好このむ作物さくもつを\n植うえていたら、同様どうように被害ひがいを受うけていたからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふん！……たまたまだ。\nオレは好すきな作物さくもつを植うえただけだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フォフォフォ！謙遜けんそんして！\nいざって時ときの為ために\nみんなと違ちがう作物さくもつを植うえていたのじゃろう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オヤジは変へんなこだわりを持もつ\nただの頑固者がんこものだと思おもっていたけど……。\nあの畑はたけは、考かんがえがあってやっていたのか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オヤジ、農業のうぎょうをオレに教おしえてくれよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "何なんだ、急きゅうにやる気きをだして！？\nまあ……興味きょうみがあるなら教おしえてやるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フォフォフォ！\n若者わかものが農業のうぎょうに興味きょうみを持もってくれれば\nこの村むらも安泰あんたいじゃのう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よよよっ……。\n村むらのみんなが丹精たんせい込こめて育そだてた畑はたけが……。\nあの{9, MonsterParameter, +}<2耀>{3, name, +}たちを退治たいじできれば……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おおお！{9, MonsterParameter, +}<2耀>{3, name, +}たちを退治たいじしてくれるのかね！\nなんて勇敢ゆうかんな方かたなのじゃ！\n話はなしによると、{8, MessageMapName, +}<2\u0011耀>{4, message}には{9, MonsterParameter, +}<2耀>{3, name, +}以外いがいにも\nめずらしい魔物まものがいると聞きいております。\n用心ようじんされて行いきなされ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんですと！\nあの{9, MonsterParameter, +}<2耀>{3, name, +}を退治たいじした！！\nこれはお祝いわいじゃ！村むらを上あげての祭まつりじゃ！\nぜひ、この良よい知しらせを\nウチの主人しゅじんにも伝つたえてください。喜よろこびますぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ウチのマー坊ぼうは将来しょうらい\n農家のうかを継つぎたくないって言いうのよ。\nもう！何なにがイヤだっていうんかね！！\n他ほかに目標もくひょうもなさそうなのに……母かあちゃん悲かなしいわ！\n最近さいきん、越こしてきた\nとなりの若者わかものを見習みならってほしいわー。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレはマコモ。\n親おやが将来しょうらい、農家のうかを継つげってうるさくて……。\nイヤなんだよ、農家のうかになるのがと言いうより\nオヤジの後あとを継つぐことが。\nみんなと違ちがう作物さくもつを育そだてて……\n被害ひがいが少すくないことを、自慢じまんなんてしてさ……。\nオレ、オヤジみたいな大人おとな、尊敬そんけいできない。\nオヤジの後あと、継つぎたくないな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダンナが農業のうぎょうをしたくて\nアタシたち、この村むらに引ひっ越こしてきたの。\n村長そんちょうから農業のうぎょうのノウハウをいろいろ教おそわって\n頑張がんばって作物さくもつを育そだてたのに……。\n畑はたけを荒あらされるなんて……農業のうぎょうが安定あんていしたら\n子供こどもを作つくろうと思おもっていたけど、当分先とうぶんさきね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さっき、{8, MessageMapName, +}<2\u0011耀>{4, message}から雄叫おたけびが聞きこえたような……。\nえっ！？{9, MonsterParameter, +}<2耀>{3, name, +}たちがいなくなった！？\nうれしい！これでダンナも喜よろこぶわ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345683
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483653,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483709,
+		2147483710,
+		2147483733,
+		2147483734,
+		2147483735,
+		2147483736,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483663,
+		2147483732,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483684,
+		2147483718,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483685,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483706,
+		2147483708
+	]
+}

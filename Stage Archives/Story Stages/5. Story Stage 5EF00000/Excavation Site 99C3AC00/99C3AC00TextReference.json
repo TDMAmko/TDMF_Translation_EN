@@ -1,0 +1,237 @@
+{
+	"header": {
+		"text_amount": 11,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 5269,
+		"offset_strings": 5344,
+		"strings_section_size1": 132,
+		"offset3": 5488,
+		"section_size2": 44,
+		"offset4": 5536,
+		"section_size3": 16,
+		"offset5": 5552,
+		"section_size4": 24,
+		"unk3": 0,
+		"offset6": 5260,
+		"offset7": 5268,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "『<18\u0000>総資産<19\u0000>そうしさん<1:\u0000>』とは<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>知<19\u0000>し<1:\u0000>っていますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは<17\u0003>{8, MessageMapName, +}<2\u000B耀>{4, message}。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}<18\u0000>内<19\u0000>ない<1:\u0000>からは、<18\u0000>大昔<19\u0000>おおむかし<1:\u0000>の<18\u0000>王<19\u0000>おう<1:\u0000>が<18\u0000>所持<19\u0000>しょじ<1:\u0000>していた<18\u0000>物<19\u0000>もの<1:\u0000>が\n<18\u0000>多<19\u0000>おお<1:\u0000>く<18\u0000>発掘<19\u0000>はっくつ<1:\u0000>されているんだ。<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>もあるとか、ないとか……。\nくわしくは、そこのテントにいる<18\u0000>学者<19\u0000>がくしゃ<1:\u0000>に<18\u0000>聞<19\u0000>き<1:\u0000>け。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>見<19\u0000>み<1:\u0000>よ！この<18\u0000>鍛<19\u0000>きた<1:\u0000>えあげられた、<18\u0000>肉体<19\u0000>にくたい<1:\u0000>を！！\nこれも、<18\u0000>毎日<19\u0000>まいにち<1:\u0000>の<18\u0000>発掘<19\u0000>はっくつ<1:\u0000><18\u0000>作業<19\u0000>さぎょう<1:\u0000>の<18\u0000>賜物<19\u0000>たまもの<1:\u0000>だ！<1\"\u0000>\nだが、この<18\u0000>筋肉<19\u0000>きんにく<1:\u0000>だけでは<18\u0000>太刀打<19\u0000>たちう<1:\u0000>ちできない\nヤツらもいる……それはゴースト<18\u0000>系<19\u0000>けい<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>！<1\"\u0000>\nゴースト<18\u0000>系<19\u0000>けい<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>には<18\u0000>打撃<19\u0000>だげき<1:\u0000><18\u0000>攻撃<19\u0000>こうげき<1:\u0000>が<18\u0000>効<19\u0000>き<1:\u0000>かない。<1\"\u0000>\nダメージを<18\u0000>与<19\u0000>あた<1:\u0000>えたいなら\n『ゴースト<18\u0000>当<19\u0000>あた<1:\u0000>る』<18\u0000>効果<19\u0000>こうか<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>着<19\u0000>つ<1:\u0000>けて<18\u0000>攻撃<19\u0000>こうげき<1:\u0000>しろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そこの<18\u0000>階段<19\u0000>かいだん<1:\u0000>を<18\u0000>降<19\u0000>お<1:\u0000>りたら、<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}だ。\n<18\u0000>魔物<19\u0000>まもの<1:\u0000>がウロウロしているから、<18\u0000>気<19\u0000>き<1:\u0000>をつけろよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}には<18\u0000>魔物<19\u0000>まもの<1:\u0000>がいっぱいだ。\nちゃんと<18\u0000>準備<19\u0000>じゅんび<1:\u0000>していきな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}にはこんな<18\u0000>伝承<19\u0000>でんしょう<1:\u0000>が<18\u0000>伝<19\u0000>つた<1:\u0000>えられている。<1\"\u0000>\n「<18\u0000>偉大<19\u0000>いだい<1:\u0000>なる<18\u0000>王<19\u0000>おう<1:\u0000>たちの<18\u0000>墓<19\u0000>はか<1:\u0000>は\nはじまりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>たちによって、<18\u0000>守<19\u0000>まも<1:\u0000>られている。」<1\"\u0000>\nう～ん、この<18\u0000>伝承<19\u0000>でんしょう<1:\u0000>の<18\u0000>墓<19\u0000>はか<1:\u0000>はどこから<18\u0000>行<19\u0000>い<1:\u0000>けば……。<1\"\u0000>\nはじまりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>とは、<18\u0000>褐色<19\u0000>かっしょく<1:\u0000>の<18\u0000>地底人<19\u0000>ちていじん<1:\u0000><18\u0000>一族<19\u0000>いちぞく<1:\u0000>だが\n<18\u0000>彼<19\u0000>かれ<1:\u0000>らに<18\u0000>関係<19\u0000>かんけい<1:\u0000>した<18\u0000>物<19\u0000>もの<1:\u0000>を、<18\u0000>遺跡内<19\u0000>いせきない<1:\u0000>で<18\u0000>見<19\u0000>み<1:\u0000>た<18\u0000>覚<19\u0000>おぼ<1:\u0000>えがない。<1\"\u0000>\nひょっとすると\n<18\u0000>行<19\u0000>い<1:\u0000>きつく<18\u0000>事<19\u0000>こと<1:\u0000>が<18\u0000>難<19\u0000>むずか<1:\u0000>しい<18\u0000>場所<19\u0000>ばしょ<1:\u0000>にあるのだろうか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}<18\u0000>内部<19\u0000>ないぶ<1:\u0000>に<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>のひとつ\n「<17\u0003>{5, ItemData, +}<2؊耀>{3, name, +}」が<18\u0000>存在<19\u0000>そんざい<1:\u0000>すると<18\u0000>判明<19\u0000>はんめい<1:\u0000>した！<1\"\u0000>\n<18\u0000>古代<19\u0000>こだい<1:\u0000>の<18\u0000>王<19\u0000>おう<1:\u0000>が、<18\u0000>所有<19\u0000>しょゆう<1:\u0000>していたと<18\u0000>言<19\u0000>い<1:\u0000>われる<18\u0000>兜<19\u0000>かぶと<1:\u0000>……<1\"\u0000>\n<18\u0000>装備<19\u0000>そうび<1:\u0000>した<18\u0000>者<19\u0000>もの<1:\u0000>は\n<18\u0000>大<19\u0000>おお<1:\u0000>きな<18\u0000>力<19\u0000>ちから<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るという<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>がある。<1\"\u0000>\n<18\u0000>是<19\u0000>ぜ<1:\u0000><18\u0000>非<19\u0000>ひ<1:\u0000>、<18\u0000>研究<19\u0000>けんきゅう<1:\u0000>したいんだが、<18\u0000>兜<19\u0000>かぶと<1:\u0000>があると<18\u0000>思<19\u0000>おも<1:\u0000>われる\n<18\u0000>最深部<19\u0000>さいしんぶ<1:\u0000>には、<18\u0000>守<19\u0000>まも<1:\u0000>り<18\u0000>手<19\u0000>て<1:\u0000>がいて<18\u0000>近<19\u0000>ちか<1:\u0000>づけないんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "う～ん…………。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}<18\u0000>内<19\u0000>ない<1:\u0000>の<18\u0000>松明<19\u0000>たいまつ<1:\u0000>が<18\u0000>置<19\u0000>お<1:\u0000>かれているフロアの\nボタンを<18\u0000>押<19\u0000>お<1:\u0000>す<18\u0000>順番<19\u0000>じゅんばん<1:\u0000>が<18\u0000>分<19\u0000>わ<1:\u0000>からない……。<1\"\u0000>\n<18\u0000>松明<19\u0000>たいまつ<1:\u0000>と<18\u0000>関係<19\u0000>かんけい<1:\u0000>がある<18\u0000>事<19\u0000>こと<1:\u0000>は<18\u0000>間違<19\u0000>まちが<1:\u0000>いなさそうなんだが……\nうわ～！<18\u0000>考<19\u0000>かんが<1:\u0000>えると<18\u0000>仕事<19\u0000>しごと<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>につかん！！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタ、『<18\u0000>総資産<19\u0000>そうしさん<1:\u0000>』って<18\u0000>知<19\u0000>し<1:\u0000>ってるすか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、<18\u0000>流石<19\u0000>さすが<1:\u0000>っすね！<1\"\u0000>\nこれも<18\u0000>知<19\u0000>し<1:\u0000>っていると<18\u0000>思<19\u0000>おも<1:\u0000>うんすけど\n<18\u0000>一応<19\u0000>いちおう<1:\u0000>、<18\u0000>教<19\u0000>おし<1:\u0000>えるっす。<1\"\u0000>\n『<18\u0000>総資産額<19\u0000>そうしさんがく<1:\u0000>』は『Yパーティ』メニューの\n<18\u0000>上画面<19\u0000>うえがめん<1:\u0000>で<18\u0000>確認<19\u0000>かくにん<1:\u0000>できるっすよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しょうがないっすね～！\nオレッチが<18\u0000>教<19\u0000>おし<1:\u0000>えてあげるっすよ。<1\"\u0000>\n<18\u0000>総資産額<19\u0000>そうしさんがく<1:\u0000>とは<18\u0000>個人<19\u0000>こじん<1:\u0000>の<18\u0000>所持<19\u0000>しょじ<1:\u0000>アイテム、<18\u0000>建物<19\u0000>たてもの<1:\u0000>などの\n<18\u0000>価値<19\u0000>かち<1:\u0000>を<18\u0000>換算<19\u0000>かんさん<1:\u0000>して、<18\u0000>所持金<19\u0000>しょじきん<1:\u0000>と<18\u0000>足<19\u0000>た<1:\u0000>した<18\u0000>合計<19\u0000>ごうけい<1:\u0000><18\u0000>金額<19\u0000>きんがく<1:\u0000>っす。<1\"\u0000>\nつまり\n<18\u0000>総資産額<19\u0000>そうしさんがく<1:\u0000>が<18\u0000>多<19\u0000>おお<1:\u0000>いほど、<18\u0000>金持<19\u0000>かねも<1:\u0000>ちって<18\u0000>事<19\u0000>こと<1:\u0000>なんすよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483656,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661
+	]
+}
