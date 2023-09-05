@@ -82,6 +82,9 @@ Note: This section doesn't list all stage archives, only categorizes and confirm
 really are text files (there will probably be an addition text file documenting the stage text
 location respectively in the future)
 
+USEFUL HINT: 	Every stage file contains an arc-file (use EveryFileExplorer to open) with the stage symbol in a zip-folder, this
+		way an unambigous identification of stages is possible (useful for event stages in particular)
+
 General structure of stage archives:
 Those archives contain a lot of .dat files, most of them are not text files though. 
 It seems to be that for each location a stage has, there is a text file 

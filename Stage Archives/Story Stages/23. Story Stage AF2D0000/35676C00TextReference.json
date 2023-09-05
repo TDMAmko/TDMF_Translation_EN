@@ -1,0 +1,1805 @@
+{
+	"header": {
+		"text_amount": 109,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 32103,
+		"offset_strings": 32176,
+		"strings_section_size1": 1308,
+		"offset3": 33488,
+		"section_size2": 436,
+		"offset4": 33936,
+		"section_size3": 16,
+		"offset5": 33952,
+		"section_size4": 220,
+		"unk3": 0,
+		"offset6": 32086,
+		"offset7": 32102,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "固かたく戸と締じまりされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらだね。\nたしかに、倒たおれてる人ひともいるみたい……。\n急いそいで、原因げんいんを調しらべてあげよう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쀧죞쀮밧똾糆쀲➵쏚⿙㻋⟄⿓⟦D9B2⟧⟐닀␮慰敧눤➿쎲糞뤱⟦DDDE⟧⟦DDB2⟧⾵ힼ촧쏞넯⟦DFB9⟧⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらですね。\nたしかに、倒たおれてる人ひともいるみたいです……。\n急いそいで、原因げんいんを調しらべましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쌧뷞젯쀮밧똾糆쀲➵쏚⿙㻋⟄⿓⟦D9B2⟧⟐닀⟦DEC3⟧㺽␮慰敧눤➿쎲糞뤱⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらですね。\nたしかに、倒たおれてる人ひともいるようです……。\n原因究明げんいんきゅうめいを急いそぎましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쌧뷞⻈⟀㺼욶ㅼ뗀⟦DA27⟧⟦D9C3⟧쬯쐾팧눯훙뀧⟦DEC3⟧㺽␮慰敧뤤⟦DDDE⟧⟦DDB2⟧뜯➭튰떰눯랿쿟꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらだな。\nたしかに、倒たおれてる人ひともいるみたいだな……。\n急いそいで、原因げんいんを調しらべてやろうぜ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쀧엞쀮밧똾糆쀱➵쏚⿙㻋⟄⿓⟦D9B2⟧⟐닀⟦DEC0⟧⻅瀤条⑥뾲눧⟦DEC3⟧ㅼ⟦DEB9⟧닝뗝밯⟗⟦DECD⟧⿃⟦DBD4⟧딧븯⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらだね。\n倒たおれてる人ひともいるみたいだよ……。\nはやく原因げんいんを調しらべてあげなくちゃ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쀧죞쀮➵쏚⿙㻋⟄⿓⟦D9B2⟧⟐닀⟦DEC0⟧혯␮慰敧쨤퐧⾸⟦DEB9⟧닝뗝밯⟗⟦DECD⟧⿃릱엟렧곁.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらね。\nたしかに、倒たおれてる人ひともいるみたいだわ……。\n急いそいで、原因げんいんを調しらべてあげましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ젧쀮밧똾糆쀱➵쏚⿙㻋⟄⿓⟦D9B2⟧⟐닀⟦DEC0⟧⟦DC2F⟧␮慰敧⼤뾲눧⟦DEC3⟧를⟦DDDE⟧⟦DDB2⟧⾵ힼ촧쏞넯⟦DFB9⟧볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらだね。\nどうやら、倒たおれてる人ひともいるようだ……。\n急いそいで、原因げんいんを突つき止とめなくてはな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쀧죞쐮⟞풰糗쀱➵쏚⿙㻋⟄⿓⟦D9B2⟧⟖산⻞瀤条⑥뾲눧⟦DEC3⟧㉼⟦DEB9⟧닝뗝숯뜾틄씧㺸⟦DCC3⟧씯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここが{8, MessageNpcName, +}<2\u0001耀>{4, message}さんの言いっていた村むらですか。\nたしかに、倒たおれてる人ひともいますね……。\n早はやいとこ、原因げんいんを探さぐった方ほうがよさそうですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DFB6⟧␻敭獳条㩥敍獳条乥捰慎敭㈺㐱㐷㌸㐶㨹潶捩⑥⟦DDBB⟧⿉꾲닃⿀ퟑ쌧뷞똾쀮밧똾糆쀱➵쏚⿙㻋⟄⿓쾲봧⻈瀤条⑥퓊눧뫄ㅼ⟦DEB9⟧닝뗝묯⟦DFB8⟧삯⟎뚰⿟믖➿쎵뷞⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "待まって！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみようよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏쎯␮慰敧뼤쐧⿆⟦DEC3⟧⟦D927⟧듏糆턲짗섯쌾뀧⟦DEBC⟧믝웝쨯볅딧뜯쎲훐뀧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "待まってください！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏쎯삸믞粲瀤条⑥➿웄쌯⟞쿙운㉼ퟑ⿉㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿆엊➼⾵늷탃볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お待まちください！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쾵㻁삸믞눧⑼慰敧뼤쐧⿆⟦DEC3⟧⟦D927⟧듏糆턲짗섯쌾뀧⟦DEBC⟧믝웝쨯볅딧뜯쎲쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちょっと待まてって！\n外そとに出でる前まえに、村むらの地底人ちていじんに\n話はなしを聞きいてみようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "껁꼧⿄⟏꿃糃瀤条⑥➿웄쌯⟞쿙운㉼ퟑ⿉㻁⟃벰⟦DDDE⟧⿆엊➼⾵늷탃⟖뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねえ、待まってよ！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟈㮰⟏쎯糖瀤条⑥➿웄쌯⟞쿙운텼짗섯쌾뀧⟦DEBC⟧믝웝쨯볅딧뜯쎲훐뀧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちょっと待まって！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみましょ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "껁꼧⿄⟏쎯⑼慰敧뼤쐧⿆⟦DEC3⟧⟦D927⟧듏糆턲짗섯쌾뀧⟦DEBC⟧믝웝쨯볅딧뜯쎲쿐꺼.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "待まちたまえ！\n外そとに出でる前まえに、村むらの地底人ちていじんに\n話はなしを聞きいてみないかい？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쇏쀾⟏粴瀤条⑥➿웄쌯⟞쿙운㉼ퟑ⿉㻁⟃벰⟦DDDE⟧⿆엊➼⾵늷탃씧뚲㾲",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "待まってくださいよ！\n外そとに出でる前まえに、村むらの地底人ちていじんさんに\n話はなしを聞きいてみません？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏쎯삸믞횲⑼慰敧뼤쐧⿆⟦DEC3⟧⟦D927⟧듏糆턲짗섯쌾뀧⟦DEBC⟧믝웝쨯볅딧뜯쎲쿐➾㿝",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もし！そなたが{8, MessageNpcName, +}<2\u0001耀>{4, message}殿どのの言いっていた\n頼たよりになる電波人間でんぱにんげんの方かたですかな？\nすでに聞きいているかと思おもうが、この村むらは今いま\n原因不明げんいんふめいの病やまいに苦くるしめられている……。\n私わたしはこの奥おくの神殿しんでんに祀まつられている風神ふうじんさまが\n何なにかお怒いかりなのでは、と考かんがえているのだ。\nそなたには、風神ふうじんさまのお怒いかりの原因げんいんを\n突つき止とめてきて頂いただきたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかったよ！\n神殿しんでんの中なかを調しらべればいいの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜꼧훀뱼쏝⟦DDDE⟧⿉⟅떶밯췗⟞쫚⿞➲즰?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかりました！\n神殿しんでんの中なかを調しらべればいいんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜쿘밧쀾뱼쏝⟦DDDE⟧⿉⟅떶밯췗⟞쫚⿞➲⟦DDB2⟧⟦DEC3⟧㺽㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかりました！\n神殿しんでんの中なかを調しらべればいいんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜쿘밧쀾뱼쏝⟦DDDE⟧⿉⟅떶밯췗⟞쫚⿞➲⟦DDB2⟧⟦DEC3⟧㺽㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかったぜ！\n神殿しんでんの中なかを調しらべればいいんだな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜꼧뻀糞⟦DDBC⟧⟦DEC3⟧짝씯똧⾵ힼ⟦DECD⟧⟦DA27⟧⟦DECA⟧눯눧생엞?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかったー！\n神殿しんでんの中なかを調しらべればいいの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜꼧냀뱼쏝⟦DDDE⟧⿉⟅떶밯췗⟞쫚⿞➲즰?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "分わかったわ！\n神殿しんでんの中なかを調しらべればいいのね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛜꼧⿀糜⟦DDBC⟧⟦DEC3⟧짝씯똧⾵ힼ⟦DECD⟧⟦DA27⟧⟦DECA⟧눯뀧죉?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "承知しょうちした！\n神殿しんでんの中なかを調しらべればいいんだな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꺼솰㺼糀⟦DDBC⟧⟦DEC3⟧짝씯똧⾵ힼ⟦DECD⟧⟦DA27⟧⟦DECA⟧눯눧생엞?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はあ、わかりました。\n神殿しんでんの中なかを調しらべればいいんですね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊Ʞㅼ뛜쿘밧쀾밮쏝⟦DDDE⟧⿉⟅떶밯췗⟞쫚⿞➲⟦DDB2⟧⟦DEC3⟧좽?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうなのだが……実じつは、神殿しんでんの中なかの扉とびらは\n妖精ようせいの力ちからによって封印ふういんされているのだ。\n封印ふういんを解とくには、この村むらの周囲しゅういにある森もりに行いって\n3人にんの妖精ようせいを見みつける必要ひつようがある。\nこの村むらには妖精ようせいの姿すがたを見みられる者ものがいないので\nこれは、そなたら電波人間でんぱにんげんに頼たよるほかないのだ。\n妖精ようせいに会あえたら、理由りゆうを言いえば\nきっと手てを貸かしてくれるはずだ。\n私わたしは村むらを離はなれるわけにはいかないから\nここで待まっているぞ。\n村むらの者ものたちは今いまも苦くるしみ続つづけている。\nどうか、急いそいでくれ。頼たのんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "森もりは、この村むらの北西ほくせいと北東ほくとう、南西なんせいに3つあり\nひとつの森もりに一人ひとりの妖精ようせいがいるそうだ。\n急いそぎ、妖精ようせいたちを見みつけて\n病やまいの原因げんいんを突つき止とめてきてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "神殿しんでんの封印ふういんが解とけたのだな！\n{8, MessageNpcName, +}<2\u0001耀>{4, message}殿どのの言いう通とおり、頼たよりになる方かただ。\nではそのまま、風神ふうじんさまのお怒いかりの原因げんいんも\n解明かいめいして頂いただきたい。\n村人むらびとたちのためにも\nどうか、頼たのんだぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんよ！\n風神ふうじんさまの件けんはどうであった？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと……まさか、魔物まものが\nこの神殿しんでんに入はいり込こんでいたとは……。\nしかし、おかげで村むらの皆みなも\n元気げんきになったようだ！\n心こころばかりだが、お礼れいに\nこれを差さし上あげよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魔物まものも居いなくなったことだし\n風神ふうじんさまも、直じきに戻もどってきてくださるだろう。\n村むらを救すくってくれて本当ほんとうにありがとう。\n{8, MessageNpcName, +}<2\u0001耀>{4, message}殿どのにも、よろしくお伝つたえ頂いただきたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、アンタもしかして\n助たすけに来きてくれた人ひとかい？\n奥おくの神殿しんでんの前まえに、この村むらの神官しんかんがいるから\n話はなしを聞きいてあげておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "聞きいたよ、アンタ！\n病気びょうきの原因げんいんを取とり払はらってくれたんだって？\n本当ほんとうにありがとうね～。\n神官しんかんも話はなしたがってたから行いってあげておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "せっかく行商ぎょうしょうに来きたのに、村むらがこんな状態じょうたいでは\nそれどころでは無ないですね……。\n電波人間でんぱにんげんさんだけでも\n良よかったら買かっていってくださいよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "皆みなさん、元気げんきになって良よかったですね。\nさあ、私わたしもはりきって商売しょうばいしますよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うちの子こたち\n二人ふたりとも病気びょうきで寝ね込こんじゃって……。\nやっぱり風神ふうじんさまの祟たたりなのかしら……？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うちの子こたち\n急きゅうに元気げんきになって飛とび出だして行いったわ。\n風神ふうじんさまも機嫌きげんを直なおしてくれたのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "う～ん……う～ん……。\n苦くるしいよ～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わーい、治なおったよー！\nずっと寝ねてて退屈たいくつだったから\nいっぱい遊あそぶぞー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴホッ、ゴホッ。\n咳せきが止とまらないよ～、ゴホッ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "急きゅうに咳せきが出でなくなったんだよ！\n電波人間でんぱにんげんさんたちも一緒いっしょに遊あそぼうよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴホッ、ゴホッ……。\nうぅ…苦くるしい……。\n家いえのベッドで寝ねたいが\nもう歩あるけん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだ！？\n急きゅうに動うごけるようになったぞ？\nう～ん、具合ぐあいが悪わるいと思おもったのは\n気きのせいだったのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すまん、苦くるしくて動うごけないんだ……。\n何なんとかベッドまでは行いきたいんだが、うぅ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "聞きいたぞ。\nお前まえたちが村むらを助たすけてくれたんだってな？\n良よかったら奥おくの部へ屋やに\nある宝箱たからばこの中身なかみを持もって行いってくれ！\nオレからの感謝かんしゃの気き持もちだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ワシ、若わかいころは冒険家ぼうけんかになりたかったんじゃ……。\nでも家業かぎょうをつぐために夢ゆめをあきらめてのう。\nその家業かぎょうも今いまじゃ若わかいもんに譲ゆずってしもうて\n悠々自適ゆうゆうじてきな隠居生活いんきょせいかつと思おもったが……暇ひまでのう。\nやはり、この年としになっても夢ゆめをあきらめきれん！\n頼たのむ、ワシを冒険ぼうけんに連つれて行いってはくれんか！？\nこの{8, MessageNpcName, +}<2\u001C耀>{4, message}がパーティにいれば\n仲間なかまの状態異常じょうたいいじょうを治なおしてやるぞ。　\nどうじゃ、仲間なかまにしてくれるかの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお！これはありがたい！！\nここからワシの第だい2の人生じんせいの始はじまりじゃあ！！\nそれでは、一足先ひとあしさきにオマエさんの島しまに行いって\n待まっておるからのう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや？仲間なかまになりたいんじゃがオマエさんの島しまに\nワシが入はいるスペースがないようじゃのう。\n電波人間でんぱにんげんボックスに空あきができたら\nまた声こえをかけておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうかあ……。\nやはり、こんな老おいぼれなど連つれていけぬか。\nいや、いいんじゃよ。\n……でも、気きが変かわったらまた話はなしかけておくれ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "楽たのしみじゃのぉ。楽たのしみじゃのぉ。\nまだまだ若わかいもんには負まけとらんぞ～。\nオマエさんの島しまに行いっておるでのぉ。\n帰かえったら電波人間でんぱにんげんボックスをのぞいてみておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエさんの島しまに\nワシが暮くらせるスペースがないようじゃ。\n電波人間でんぱにんげんボックスに空あきができたら\nまた声こえをかけておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "気きが変かわったかの？\nワシがパーティにいれば\n仲間なかまの状態異常じょうたいいじょうを治なおしてやるぞ。　\nどうじゃ、仲間なかまにしてくれるかの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあ、こんなところに\n電波人間でんぱにんげんなんて珍めずらしいです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、風神ふうじんさまの祟たたりで村むらが大変たいへんなのですか！？\n風神ふうじんさまがそんな事ことをなさる\nはずは無ないのですが……。\n分わかったです。\nとにかく扉とびらの封印ふういんを解といてあげるです。\n村むらの神殿しんでんで待まってますから\n他ほかの2人りにも声こえをかけてから来きてほしいです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれれ？電波人間でんぱにんげんさんだ！\nこんにちは！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えーっ、村むらでそんなことが！？\n分わかったよ！\n私わたしも村むらに行いってあげる！\n他ほかの2人りにも声こえをかけたら\nあなたも来きてよね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら～、電波人間でんぱにんげんさん。\nご機嫌きげん麗うるわしゅう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まあ、風神ふうじんさまがそのようなことを～！？\nとても信しんじられませんわ～。\n分わかりました～。\n私わたくしも確たしかめに行いきますわ。\nあなたも他ほかの2人りに声こえをかけたら\n神殿しんでんにいらして下くださいませ～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人にんが揃そろわないと扉とびらは開あけられないですよ。\n残のこりの子こも早はやく連つれて来きてほしいのです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人にんが揃そろったです！\nさあ、扉とびらを開あけてあげますから\n扉とびらの前まえに立たってください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "じゃあ、扉とびらの封印ふういんを解とくですよ。\nちょっとだけ下さがっててくださいな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "う～～～～～～ん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えいっです！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さあ、これで中なかに入はいれるですよ！\n本当ほんとうに風神ふうじんさまが原因げんいんなのか\nしっかり調しらべるのです。\nそれじゃあ、あとはお任まかせして\n私わたしたちはこれで失礼しつれいするです～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "扉とびらは3人にんが揃そろわないと開あけられないんだ。\n他ほかの子こにも声こえをかけて連つれて来きてよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人にん揃そろったね！\nさあ、扉とびらの前まえに立たって！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この扉とびらは3人にんが揃そろわないと\n開あけることが出で来きませんわ～。\n他ほかの子こも探さがして\nここに来くるように言いってさしあげて～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3人にん揃そろいましたわ～。\nさあ、開あけてさしあげるから\n扉とびらの前まえまで行いってくださいまし～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\nなんだ～、お前まえ～？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あの、あなたが風神ふうじんさまですか？\nボクは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたんです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즱ㅼ얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻⟦DEC3⟧봧똾␿慰敧츤⟞⟦DCB8⟧ㅼퟑ⿉⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆지⟏쏚㉼⟦DECB⟧낮즷뤯⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧옧㺷⟦DDC0⟧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あの、あなたが風神ふうじんさまですか？\n私わたしは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたんです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즱ㅼ얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻⟦DEC3⟧봧똾␿慰敧⼤샜⟦DCBC⟧ㅼퟑ⿉⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆지⟏쏚㉼⟦DECB⟧낮즷뤯⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧옧뜯✾⟦DDC0⟧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あの、あなたが風神ふうじんさまでしょうか？\n私わたしは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즱ㅼ얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻⟦DEC3⟧밧떮㾶瀤条⑥샜⟦DCBC⟧㉼ퟑ⿉⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆지⟏쏚㉼⟦DECB⟧낮즷뤯⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧옧뜯⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なあ、あんたが風神ふうじんさまか？\n俺おれは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅粱넲⟦DD27⟧뛀⿟냌⟦DEBC⟧믝뛏␿慰敧딤⟦DCDA⟧ㅼퟑ⿉⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆지⟏쏚㉼⟦DECB⟧낮즷뤯⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧옧뜯✾⟦DDC0⟧⟦DEC0⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねえ、あなたが風神ふうじんさま？\n僕ぼく、村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟈粰넲⟅뛀⿟냌⟦DEBC⟧믝㿏瀤条⑥츯⟞粸턲짗밯뛝믝웝쀯쿉⟦DA27⟧糃쬲껞랰⿉⟦DEB9⟧닝뗝밯췗⟞⿆㺷쀧생⿞⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あの、あなたが風神ふうじんさまかしら？\nアタシは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즱ㅼ얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻➶ힼ␿慰敧네변糜턱짗밯뛝믝웝쀯쿉⟦DA27⟧糃쬲껞랰⿉⟦DEB9⟧닝뗝밯⟗⟦DECD⟧럆쀾⻉",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、あなたが風神ふうじんさまですか？\n私わたしは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたのです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➵粰얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻⟦DEC3⟧봧똾␿慰敧⼤샜⟦DCBC⟧ㅼퟑ⿉⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆지⟏쏚㉼⟦DECB⟧낮즷뤯⟦DDDE⟧⟦DDB2⟧⾵ힼ⟦DECD⟧옧뜯✾지⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あのー、あなたが風神ふうじんさまですか？\n私わたしは村むらの神官しんかんさんに頼たのまれて\n病気びょうきの原因げんいんを調しらべに来きたんですけど。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즱뀧ㅼ얱쀧⟦DFB6⟧찯벰⟦DDDE⟧쾻⟦DEC3⟧봧똾␿慰敧⟦DC24⟧변糜턱짗밯뛝믝웝쀯쿉⟦DA27⟧糃쬲껞랰⿉⟦DEB9⟧닝뗝밯췗⟞⿆㺷쀧쏝뷞뤾⟦DEC4⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\nボク様さまの邪魔じゃまをしにきたヤツってわけだな～。\nボク様さまは{9, MonsterParameter, +}<2ä耀>{3, name, +}様さまに仕つかえる六天ろくてん魔神まじんのひとり\n風天ふうてん魔神まじんの「{9, MonsterParameter, +}<2҂耀>{3, name, +}」様さまだぞ～！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃないの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝켧⟦DEBC⟧⾬⟅즲?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃないんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝볏곞씯눧쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまではないんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝쏏⟦DCDE⟧씯눧쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なにっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃないのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "웅粯␲敭獳条㩥潍獮整偲牡浡瑥牥㈺㐱㐷㌸㜸㨶潶捩⑥⿉볃쀾찿벰⟞믝⟏⟦DEBC⟧⾬⟅즲㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃなくって？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝볏곞⟅꾸㿃",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃなかったの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝볏곞⟅꾶지?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぬおっ、{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまではないのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뗇꼧㉼洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝쏏⟞⿜⟅즲㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "は？{9, MonsterParameter, +}<2ä耀>{3, name, +}の手下てした！？\n風神ふうじんさまじゃないんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㿊洤獥慳敧䴺湯瑳牥慐慲敭整㩲ㄲ㜴㠴㠳㘷瘺楯散줤쌯㺼㿀냌⟦DEBC⟧믝볏곞씯눧쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここに居いたヘナチョコなヤツだったら\nボク様さまが追おっ払ぱらってやったもんな～っ。\n地底人ちていじんたちを苦くるしめようとしたら\n弱よわいクセに邪魔じゃましようとしてきたからだぞ～！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんで、地底人ちていじんさんたちを\n苦くるしめてるの！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅쏝糞성쌾뀧⟦DEBC⟧믝생뗁렯볙툧⟦D9C3⟧㿉",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうして、地底人ちていじんさんたちを\n苦くるしめてるんですか！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧뀧㺼糃성쌾뀧⟦DEBC⟧믝생뗁렯볙툧⟦D9C3⟧쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なぜ、地底人ちていじんさんたちを\n苦くるしめるのですか！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DEBE⟧ㅼ㻁⟃벰⟦DDDE⟧⟦DDBB⟧쇀⾵⟦D9B8⟧튼⟦D927⟧쏉뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんで、地底人ちていじんたちを\n苦くるしめてるんだよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅쏝糞성쌾뀧⟦DEBC⟧생뗁렯볙툧⟦D9C3⟧생훞㈿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうして、地底人ちていじんさんたちを\n苦くるしめてるの！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧뀧㺼糃성쌾뀧⟦DEBC⟧믝생뗁렯볙툧⟦D9C3⟧㿉",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんで、地底人ちていじんさんたちを\n苦くるしめてるのよ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅쏝糞성쌾뀧⟦DEBC⟧믝생뗁렯볙툧⟦D9C3⟧훉㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なぜ、地底人ちていじんたちを\n苦くるしめるのだ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DEBE⟧ㅼ㻁⟃벰⟦DDDE⟧쇀⾵⟦D9B8⟧튼⟦D927⟧색㿞3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんで、地底人ちていじんさんたちを\n苦くるしめてるんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅쏝糞섲쌾뀧⟦DEBC⟧믝생뗁렯볙툧⟦D9C3⟧쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\nもちろん、{9, MonsterParameter, +}<2ä耀>{3, name, +}様さま復活ふっかつのためなんだな～！\n地底人ちていじんたちが苦くるしんだりした時ときにでる\n負ふのエネルギーが復活ふっかつの助たすけになるからな～。\nお前まえもボク様さまの邪魔じゃまをするんなら容赦ようしゃしないぞ～！\nどうするんだ～！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\nお前まえ、生意気なまいきだ！覚悟かくごしろよ～っ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\nなかなか利口りこうじゃないか～。\n{9, MonsterParameter, +}<2ä耀>{3, name, +}様復活さまふっかつの邪魔じゃまだから\n二に度どと来くるなよ～！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんで、戻もどって来きたんだよ～？\nやっぱり、邪魔じゃまするつもりか～！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブフーッ！\n{9, MonsterParameter, +}<2ä耀>{3, name, +}様さま～、申もうし訳わけありません～……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったのかな？\n神官しんかんさんに報告ほうこくしに行いこう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧㉼ퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯뛉㿅瀤条⑥⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆냎뢺밾닆➺⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったでしょうか？\n神官しんかんさんに報告ほうこくしに行いきましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧㉼ퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯⟦DEC3⟧꺼뚵␿慰敧밤뛝믝웝츯몰㺸욼눯쾷꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったでしょうか？\n神官しんかんさんに報告ほうこくしに行きましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧㉼ퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯⟦DEC3⟧꺼뚵␿慰敧밤뛝믝웝츯몰㺸눯쾷꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったのか？\n神官しんかんさんに報告ほうこくしに行いこうぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧㉼ퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯뛉␿慰敧밤뛝믝웝츯몰㺸욼몲딧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったのかな？\n神官しんかんさんに報告ほうこくしに行いこうよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧㉼ퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯뛉㿅瀤条⑥⟦DDBC⟧⟦DDB6⟧⟦DDBB⟧⿆냎뢺밾닆➺횵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったのかしら？\n神官しんかんさんに報告ほうこくしに行いきましょ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧ㅼퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯뛉ힼ␿慰敧밤뛝믝웝츯몰㺸욼랲볏⺮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおったのだろうか？\n神官しんかんさんに報告ほうこくしに行いこうか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧ㅼퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯➵삯색⟦DBDE⟧뚵␿慰敧밤뛝믝웝츯몰㺸욼몲딧⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これで、村むらのみんなの病気びょうきも\n治なおりましたかね？\nやれやれ、神官しんかんさんに報告ほうこくしに行いきますか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⟦DEC3⟧ㅼퟑ⿉⟦DDD0⟧⟅⿉⟦DECB⟧낮펷씯⟦D8B5⟧⟏㺼뛀㿈瀤条⑥⟔퓚糚밲뛝믝웝츯몰㺸욼랲⟏㺽⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483714,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483661,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483662,
+		2147483668,
+		2147483663,
+		2147483669,
+		2147483664,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483764,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483665,
+		2147483726,
+		2147483666,
+		2147483727,
+		2147483667,
+		2147483728,
+		2147483679,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483680,
+		2147483687,
+		2147483681,
+		2147483688,
+		2147483700,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483735,
+		2147483736,
+		2147483701,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483741,
+		2147483742,
+		2147483743,
+		2147483744,
+		2147483702,
+		2147483745,
+		2147483746,
+		2147483747,
+		2147483748,
+		2147483749,
+		2147483750,
+		2147483751,
+		2147483752,
+		2147483703,
+		2147483704,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483763
+	]
+}
