@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "『<18\u0000>総資産<19\u0000>そうしさん<1:\u0000>』とは<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>知<19\u0000>し<1:\u0000>っていますか？",
+			"text_contents": "Do you know what \"Total Assets\"\nmeans?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは<17\u0003>{8, MessageMapName, +}<2\u000B耀>{4, message}。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message}<18\u0000>内<19\u0000>ない<1:\u0000>からは、<18\u0000>大昔<19\u0000>おおむかし<1:\u0000>の<18\u0000>王<19\u0000>おう<1:\u0000>が<18\u0000>所持<19\u0000>しょじ<1:\u0000>していた<18\u0000>物<19\u0000>もの<1:\u0000>が\n<18\u0000>多<19\u0000>おお<1:\u0000>く<18\u0000>発掘<19\u0000>はっくつ<1:\u0000>されているんだ。<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>もあるとか、ないとか……。\nくわしくは、そこのテントにいる<18\u0000>学者<19\u0000>がくしゃ<1:\u0000>に<18\u0000>聞<19\u0000>き<1:\u0000>け。",
+			"text_contents": "This place called <17\u0003>{8, MessageMapName, +}<2\u000B耀>{4, message}.<1\"\u0000>\nInside of <17\u0003>{8, MessageMapName, +}<2\u0012耀>{4, message} many treasure\nstored and burried.<1\"\u0000>\nThere may or not be\nlegendary equipment.<1\"\u0000>\nIf want know more, talk\nwith researchers in tent.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>見<19\u0000>み<1:\u0000>よ！この<18\u0000>鍛<19\u0000>きた<1:\u0000>えあげられた、<18\u0000>肉体<19\u0000>にくたい<1:\u0000>を！！\nこれも、<18\u0000>毎日<19\u0000>まいにち<1:\u0000>の<18\u0000>発掘<19\u0000>はっくつ<1:\u0000><18\u0000>作業<19\u0000>さぎょう<1:\u0000>の<18\u0000>賜物<19\u0000>たまもの<1:\u0000>だ！<1\"\u0000>\nだが、この<18\u0000>筋肉<19\u0000>きんにく<1:\u0000>だけでは<18\u0000>太刀打<19\u0000>たちう<1:\u0000>ちできない\nヤツらもいる……それはゴースト<18\u0000>系<19\u0000>けい<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>！<1\"\u0000>\nゴースト<18\u0000>系<19\u0000>けい<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>には<18\u0000>打撃<19\u0000>だげき<1:\u0000><18\u0000>攻撃<19\u0000>こうげき<1:\u0000>が<18\u0000>効<19\u0000>き<1:\u0000>かない。<1\"\u0000>\nダメージを<18\u0000>与<19\u0000>あた<1:\u0000>えたいなら\n『ゴースト<18\u0000>当<19\u0000>あた<1:\u0000>る』<18\u0000>効果<19\u0000>こうか<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>着<19\u0000>つ<1:\u0000>けて<18\u0000>攻撃<19\u0000>こうげき<1:\u0000>しろ。",
+			"text_contents": "Hey! Look at my body, very well\ntrained! This result of daily<1\"\u0000>\ndigging! But some monster\ncan't defeat with muscle power.<1\"\u0000>\nThese monsters called ghosts!\nCan't be damaged by<1\"\u0000>\nphysical attacks!\nIf want inflict damage, need<1\"\u0000>\nequip with Ghost Buster effect\nor Holy Water!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

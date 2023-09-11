@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>を<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>受<19\u0000>う<1:\u0000>けますか？",
+			"text_contents": "Defeat the <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}s\nto help the dwarves?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……ここは<17\u0003>{8, MessageMapName, +}<2\n耀>{4, message}だ。<1\"\u0000>\nはあ……<18\u0000>見<19\u0000>み<1:\u0000>てくれ、この<18\u0000>畑<19\u0000>はたけ<1:\u0000>の<18\u0000>有様<19\u0000>ありさま<1:\u0000>！！\n<18\u0000>一生懸命<19\u0000>いっしょうけんめい<1:\u0000><18\u0000>作<19\u0000>つく<1:\u0000>ったメロンが<18\u0000>台無<19\u0000>だいな<1:\u0000>しだよ！！",
+			"text_contents": "...Well, this place,\n<17\u0003>{8, MessageMapName, +}<2\n耀>{4, message}, called.<1\"\u0000>\nSee, what mess!! Our melons,\nall ruined by evil monsters.<1\"\u0000>\nHard work now completely\ndestroyed...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>全部<19\u0000>ぜんぶ<1:\u0000><17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}の<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちが<18\u0000>荒<19\u0000>あ<1:\u0000>らしたんだ！\nアイツら<18\u0000>絶対<19\u0000>ぜったい<1:\u0000>に<18\u0000>許<19\u0000>ゆる<1:\u0000>さない……こんちくしょう！！",
+			"text_contents": "Ravaged by <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nfrom <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}!<1\"\u0000>\nThey made all mess!\nMe very angry.<1\"\u0000>\nWill never forgive evil\ncreatures!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ？<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したって？<1\"\u0000>\nこれからは\n<18\u0000>育<19\u0000>そだ<1:\u0000>てた<18\u0000>作物<19\u0000>さくもつ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>らされることは、ないんだな！？<1\"\u0000>\nやったーーーーーーーーーーーーーーーっ！！\nこれで、<18\u0000>農作業<19\u0000>のうさぎょう<1:\u0000>をのびのびとできるぞ！！",
+			"text_contents": "What? You beat\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?<1\"\u0000>\nNow monsters not destroy\ncorps anymore!<1\"\u0000>\nYaaaaay! Now can relax\nand plants can grow again!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オレは<17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message}、<18\u0000>農家<19\u0000>のうか<1:\u0000>だ。<1\"\u0000>\n<18\u0000>村中<19\u0000>むらじゅう<1:\u0000>の<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>らされた。\nだが、ウチは<18\u0000>被害<19\u0000>ひがい<1:\u0000>が<18\u0000>少<19\u0000>すく<1:\u0000>なかった……まあ、<18\u0000>当然<19\u0000>とうぜん<1:\u0000>だな。<1\"\u0000>\nみんなとは、<18\u0000>趣向<19\u0000>しゅこう<1:\u0000>の<18\u0000>違<19\u0000>ちが<1:\u0000>う<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>育<19\u0000>そだ<1:\u0000>てているからな。<1\"\u0000>\nにがうり、しぶがき、とうがらし……。\n<18\u0000>甘<19\u0000>あま<1:\u0000>い<18\u0000>作物<19\u0000>さくもつ<1:\u0000>より、<18\u0000>栽培<19\u0000>さいばい<1:\u0000>するなら<18\u0000>刺激<19\u0000>しげき<1:\u0000>が<18\u0000>強<19\u0000>つよ<1:\u0000>い<18\u0000>作物<19\u0000>さくもつ<1:\u0000>だ！",
+			"text_contents": "Me am <17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message}.\nWork as farmer for village.<1\"\u0000>\nHere in this village, many\nfields destroyed!<1\"\u0000>\nOur field, not really damaged!\nOf course, because we plant<1\"\u0000>\ndifferent corps like\nbitter gourds or pepper.<1\"\u0000>\nNot like everyone else!\nOur corps more stimulating<1\"\u0000>\nthen sweet and savoury!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したって！？\nまたまた～<18\u0000>冗談<19\u0000>じょうだん<1:\u0000>を！！ハッハッハッ！！",
+			"text_contents": "Me heard you beat\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!?<1\"\u0000>\nReally you?!\nGood joke, hahaha!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>買<19\u0000>か<1:\u0000>い<18\u0000>付<19\u0000>つ<1:\u0000>けに<18\u0000>来<19\u0000>き<1:\u0000>たのに<18\u0000>作物<19\u0000>さくもつ<1:\u0000>がないなんて……。\nあっ、<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>買<19\u0000>か<1:\u0000>います？",
+			"text_contents": "Me came to buy crop,\nbut nothing left...<1\"\u0000>\nWill buy something\nfrom me instead?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あれ？<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}が<18\u0000>静<19\u0000>しず<1:\u0000>かになったような……。\nおっと、<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>買<19\u0000>か<1:\u0000>います？",
+			"text_contents": "Huh? <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message} now\nreally quit...<1\"\u0000>\nWant buy something?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>は<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}、<18\u0000>今<19\u0000>いま<1:\u0000>は<18\u0000>立<19\u0000>た<1:\u0000>ち<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>禁止<19\u0000>きんし<1:\u0000>だ。\n<18\u0000>凶暴<19\u0000>きょうぼう<1:\u0000>な<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちがいるからな。<1\"\u0000>\n<18\u0000>通<19\u0000>とお<1:\u0000>りたければ\n<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>北東<19\u0000>ほくとう<1:\u0000>に<18\u0000>住<19\u0000>す<1:\u0000>む、<18\u0000>村長<19\u0000>そんちょう<1:\u0000>に<18\u0000>許可<19\u0000>きょか<1:\u0000>をもらえ。",
+			"text_contents": "Place ahead <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}\ncalled.<1\"\u0000>\nNo entering allowed, beceause\nmonsters, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}, in there!\n<1\"\u0000>\nIf still want to enter\nask chief in northeast corner<1\"\u0000>\n<1\"\u0000>\nof village for permission.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ん？<18\u0000>村長<19\u0000>そんちょう<1:\u0000>の<18\u0000>許可<19\u0000>きょか<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>っているのか？<1\"\u0000>\n<18\u0000>退治<19\u0000>たいじ<1:\u0000>を<18\u0000>頼<19\u0000>たの<1:\u0000>まれたって？\nそれはありがたい！<1\"\u0000>\nさあ、<18\u0000>奥<19\u0000>おく<1:\u0000>へ。\n<18\u0000>気<19\u0000>き<1:\u0000>を<18\u0000>付<19\u0000>つ<1:\u0000>けて<18\u0000>行<19\u0000>い<1:\u0000>けよ！",
+			"text_contents": "Hm? You asked chief?\nWant you to defeat monsters?<1\"\u0000>\nThanks! Now can go!\nPlease, be careful!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>が<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}だ。\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちは<18\u0000>手<19\u0000>て<1:\u0000>ごわいから、<18\u0000>気<19\u0000>き<1:\u0000>をつけろよ。",
+			"text_contents": "Ahead of here is\n<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}.\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} there!\nStrong monsters, be careful!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おかえり！\nもしや、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>退治<19\u0000>たいじ<1:\u0000>できたのか！？<1\"\u0000>\nすごいじゃないか！<18\u0000>良<19\u0000>よ<1:\u0000>くやった！<1\"\u0000>\n<18\u0000>早速<19\u0000>さっそく<1:\u0000>この<18\u0000>良<19\u0000>よ<1:\u0000>い<18\u0000>知<19\u0000>し<1:\u0000>らせを、<18\u0000>村長<19\u0000>そんちょう<1:\u0000>に<18\u0000>伝<19\u0000>つた<1:\u0000>えてくれ。\n<18\u0000>首<19\u0000>くび<1:\u0000>を<18\u0000>長<19\u0000>なが<1:\u0000>くして<18\u0000>待<19\u0000>ま<1:\u0000>っているぞ！！",
+			"text_contents": "Welcome back!\nYou defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!?<1\"\u0000>\nGreat, good job!\nTell chief about success!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>した<18\u0000>事<19\u0000>こと<1:\u0000>を、<18\u0000>村長<19\u0000>そんちょう<1:\u0000>に<18\u0000>伝<19\u0000>つた<1:\u0000>えてくれ。\n<18\u0000>首<19\u0000>くび<1:\u0000>を<18\u0000>長<19\u0000>なが<1:\u0000>くして<18\u0000>待<19\u0000>ま<1:\u0000>っているぞ！！",
+			"text_contents": "Tell chief you defeated\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!<1\"\u0000>\nHe, waiting for your return!\nVery hopeful about you",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もうダメだ……。\n<18\u0000>畑<19\u0000>はたけ<1:\u0000>がこんな<18\u0000>状態<19\u0000>じょうたい<1:\u0000>じゃあ、やる<18\u0000>気<19\u0000>き<1:\u0000>がでねえ……。",
+			"text_contents": "Me, screwed....\nNo motivation for anything!<1\"\u0000>\nBamboo fields destryoed...\nCan't farm anymore...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "やったな、おい！<1\"\u0000>\nだが、オレはここが<18\u0000>気<19\u0000>き<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>った。\nしばらくここで<18\u0000>寝<19\u0000>ね<1:\u0000>てるぜ。",
+			"text_contents": "You did it, great!\nMe like this spot.<1\"\u0000>\nWill sleep here for\na while.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふふふっ……。\n<18\u0000>気配<19\u0000>けはい<1:\u0000>を<18\u0000>消<19\u0000>け<1:\u0000>していた、この<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}を<18\u0000>良<19\u0000>よ<1:\u0000>く<18\u0000>見<19\u0000>み<1:\u0000>つけたな。<1\"\u0000>\n<18\u0000>褒美<19\u0000>ほうび<1:\u0000>に<18\u0000>仲間<19\u0000>なかま<1:\u0000>になってやってもいいぞ！\nオレは<18\u0000>敵<19\u0000>てき<1:\u0000>の<18\u0000>回避率<19\u0000>かいひりつ<1:\u0000>を<18\u0000>下<19\u0000>さ<1:\u0000>げることができる。<1\"\u0000>\nすばらしい<18\u0000>能力<19\u0000>のうりょく<1:\u0000>だろ！！\nこの<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にするか？",
+			"text_contents": "Hmmm...\nYou found me, <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}.<1\"\u0000>\nAs a reward, me will\nbe your companion!<1\"\u0000>\nMy ability useful!\nCan lower enemy evasion!\nDo you want <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}\nto join you as a companion?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふはははっ、<18\u0000>喜<19\u0000>よろこ<1:\u0000>べ！\nこれからこの<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}は、オマエの<18\u0000>仲間<19\u0000>なかま<1:\u0000>になる。<1\"\u0000>\nよしなにな！！",
+			"text_contents": "Hahaha, what joy!<1\"\u0000>\nMe, <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message},\nnow can join your party!<1\"\u0000>\nMe now your friend\nand companion!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>何<19\u0000>なん<1:\u0000>てことだ！！オマエの<18\u0000>島<19\u0000>しま<1:\u0000>に\nこの<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないぞ。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きができたら\n<18\u0000>声<19\u0000>こえ<1:\u0000>をかけるのだな。",
+			"text_contents": "Oh, no. No spcace\nfor me, <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}, on island!<1\"\u0000>\nCome again, when have empty\nspace in Denpa Box for me!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}を<18\u0000>必要<19\u0000>ひつよう<1:\u0000>ではない……だと！？\nふん、<18\u0000>後悔<19\u0000>こうかい<1:\u0000>しても<18\u0000>知<19\u0000>し<1:\u0000>らないぞ！！",
+			"text_contents": "What!?\nNot need me, <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}!<1\"\u0000>\nWill regret not accepting me!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}は、オマエの<18\u0000>仲間<19\u0000>なかま<1:\u0000>になる。<1\"\u0000>\n<18\u0000>無<19\u0000>ぶ<1:\u0000><18\u0000>事<19\u0000>じ<1:\u0000>にオマエの<18\u0000>島<19\u0000>しま<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ったら\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスをのぞくがいい。",
+			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message} will join you\nafter clearing the stage!<1\"\u0000>\nYou can then find them\nin the \"Denpa Box\"!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オマエの<18\u0000>島<19\u0000>しま<1:\u0000>に\nこの<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないぞ。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きができたら\n<18\u0000>声<19\u0000>こえ<1:\u0000>をかけるのだな。",
+			"text_contents": "No space for<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}\non your island。<1\"\u0000>\nCome back after\nat least having one free spot<1\"\u0000>\nin the\"Denpa Box\"",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "やはりオレを<18\u0000>仲間<19\u0000>なかま<1:\u0000>にしたくなったのだな！<1\"\u0000>\nオレは<18\u0000>敵<19\u0000>てき<1:\u0000>の<18\u0000>回避率<19\u0000>かいひりつ<1:\u0000>を<18\u0000>下<19\u0000>さ<1:\u0000>げることができる。\nこの<17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にするか？",
+			"text_contents": "Still want me as companion?\nCan lower enemy evasion!<1\"\u0000>\nDo you want <17\u0003>{8, MessageNpcName, +}<2\u0016耀>{4, message}\nto join you as a companion?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うむ……どうしたものか……。",
+			"text_contents": "Mmhh...bad things going on...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おやっ？\nもしや、カネコ<18\u0000>殿<19\u0000>どの<1:\u0000>が<18\u0000>言<19\u0000>い<1:\u0000>っていたお<18\u0000>方<19\u0000>かた<1:\u0000>ですか？<1\"\u0000>\n<18\u0000>待<19\u0000>ま<1:\u0000>っておりました！！お<18\u0000>助<19\u0000>たす<1:\u0000>けください！！\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちに<18\u0000>畑<19\u0000>はたけ<1:\u0000>を<18\u0000>荒<19\u0000>あ<1:\u0000>らされて、<18\u0000>困<19\u0000>こま<1:\u0000>っています！",
+			"text_contents": "Oh? Are you Denpa that Kaneko\ntold me about?<1\"\u0000>\nPlease help! We in trouble!\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} raiding our field!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アヤツら、<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>来<19\u0000>き<1:\u0000>てはワシらが<18\u0000>育<19\u0000>そだ<1:\u0000>てた<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を\n<18\u0000>食<19\u0000>く<1:\u0000>い<18\u0000>散<19\u0000>ち<1:\u0000>らかしていくのです……。<1\"\u0000>\n<18\u0000>退治<19\u0000>たいじ<1:\u0000>を<18\u0000>試<19\u0000>こころ<1:\u0000>みましたが、<18\u0000>全<19\u0000>まった<1:\u0000>く<18\u0000>敵<19\u0000>かな<1:\u0000>いませんでした……\nどうか、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>退治<19\u0000>たいじ<1:\u0000>してくれませんか？",
+			"text_contents": "Monsters come to village, eat\nall crops we grow...<1\"\u0000>\nAlready tried to eliminate them\nbut we too weak...<1\"\u0000>\nCan you beat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nto help us, please?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>気<19\u0000>き<1:\u0000>が<18\u0000>変<19\u0000>か<1:\u0000>わりましたか？\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>してくださいますか？",
+			"text_contents": "Have changed your mind?\nNow want help<1\"\u0000>\nus defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そうですか……<18\u0000>無理<19\u0000>むり<1:\u0000><18\u0000>強<19\u0000>じ<1:\u0000>いはいたしません。\nしょぼーん……ああ……どうしたものか……。",
+			"text_contents": "Me see...Don't want to force\nyou to help us.<1\"\u0000>\nUgh...why not want to help...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>、<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>受<19\u0000>う<1:\u0000>けてくれるのですか！！\nありがたや、ありがたや！このお<18\u0000>礼<19\u0000>れい<1:\u0000>はかならず！<1\"\u0000>\nヤツらの<18\u0000>畑<19\u0000>はたけ<1:\u0000><18\u0000>荒<19\u0000>あ<1:\u0000>らしを<18\u0000>止<19\u0000>と<1:\u0000>めるには、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}のボス\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>すしかありません！！",
+			"text_contents": "You want defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?\nThanks so much!!<1\"\u0000>\nOnly way to get rid of\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} from our fields<1\"\u0000>\nis to defeat boss of monsters,\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ところが、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したくても\nヤツは<18\u0000>姿<19\u0000>すがた<1:\u0000>を<18\u0000>現<19\u0000>あらわ<1:\u0000>さないのです。<1\"\u0000>\n<18\u0000>手下<19\u0000>てした<1:\u0000>の<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちを、<18\u0000>何匹<19\u0000>なんびき<1:\u0000>か<18\u0000>倒<19\u0000>たお<1:\u0000>せば<18\u0000>怒<19\u0000>おこ<1:\u0000>って\n<18\u0000>出<19\u0000>で<1:\u0000>てくるかもしれませんが……。<1\"\u0000>\nとにかく、まずは<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>してください！",
+			"text_contents": "But <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nnormally not show up!<1\"\u0000>\nNeed to defeat a few\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} first.<1\"\u0000>\nThen, boss will get angry\nand show up!<1\"\u0000>\nAnyway, defeat\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} first!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}のなわばり、<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}へは\n<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>北側<19\u0000>きたがわ<1:\u0000>から<18\u0000>入<19\u0000>はい<1:\u0000>れますぞ。<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>手下<19\u0000>てした<1:\u0000><17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>\nよろしく<18\u0000>頼<19\u0000>たの<1:\u0000>みますよ！",
+			"text_contents": "Territory of <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nis in <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}.<1\"\u0000>\nCan enter from north\nof village.<1\"\u0000>\nPlease defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nand <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.<1\"\u0000>\nWe very grateful for your help!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,7 +439,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>をお<18\u0000>願<19\u0000>ねが<1:\u0000>いします。<1\"\u0000>\nヤツが<18\u0000>姿<19\u0000>すがた<1:\u0000>を<18\u0000>現<19\u0000>あらわ<1:\u0000>すには\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>何匹<19\u0000>なんびき<1:\u0000>か<18\u0000>倒<19\u0000>たお<1:\u0000>す<18\u0000>必要<19\u0000>ひつよう<1:\u0000>があるかと……。<1\"\u0000>\nヤツらのなわばり\n<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}へは<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>北側<19\u0000>きたがわ<1:\u0000>から<18\u0000>入<19\u0000>はい<1:\u0000>れますぞ。",
+			"text_contents": "Please defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nto save our fields and village!<1\"\u0000>\nTo reveal boss, first need\nto defeat some <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!<1\"\u0000>\nTheir territory, <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message},\nis north of village.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>をお<18\u0000>願<19\u0000>ねが<1:\u0000>いします。<1\"\u0000>\nですが、その<18\u0000>前<19\u0000>まえ<1:\u0000>に<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>数匹倒<19\u0000>すうひきたお<1:\u0000>し\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}をおびき<18\u0000>寄<19\u0000>よ<1:\u0000>せてください。<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちは<18\u0000>逃<19\u0000>に<1:\u0000>げ<18\u0000>回<19\u0000>まわ<1:\u0000>ります。<1\"\u0000>\n<18\u0000>他<19\u0000>ほか<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>を<18\u0000>避<19\u0000>さ<1:\u0000>けつつ\n<18\u0000>後<19\u0000>うし<1:\u0000>ろからそっと、<18\u0000>近寄<19\u0000>ちかよ<1:\u0000>ってみてください。",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} must be\ndefeated to save our fields!<1\"\u0000>\nNeed to defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}first for\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} to show up!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} are fast and\nwill run away from you.<1\"\u0000>\nTry approaching behind,\nbut avoid other monsters!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>をお<18\u0000>願<19\u0000>ねが<1:\u0000>いします。<1\"\u0000>\nもう<18\u0000>数匹<19\u0000>すうひき<1:\u0000>、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>さないと\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}は<18\u0000>現<19\u0000>あらわ<1:\u0000>れないようです。<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}は<18\u0000>水<19\u0000>みず<1:\u0000>に<18\u0000>弱<19\u0000>よわ<1:\u0000>いと<18\u0000>聞<19\u0000>き<1:\u0000>きました。\n<18\u0000>水<19\u0000>みず<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>の<18\u0000>攻撃<19\u0000>こうげき<1:\u0000>が<18\u0000>効果的<19\u0000>こうかてき<1:\u0000>ですぞ。",
+			"text_contents": "Please help us defeat\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!<1\"\u0000>\nIf not defeat a few <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +},\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} not appear!<1\"\u0000>\nMe heard <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nhave weakness to water and ice!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "な、なんと！！\nあの<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>されたのですか！？<1\"\u0000>\nアヤツは<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}ナンバーワン。\nさぞかし<18\u0000>手<19\u0000>て<1:\u0000>ごわかったでしょう、おみごと！！",
+			"text_contents": "Oh, what!!\nYou defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!?<1\"\u0000>\nStrongest monster in\n<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}!<1\"\u0000>\nYou must be very good\nfighter! Me respect!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし……<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}の<18\u0000>重鎮<19\u0000>じゅうちん<1:\u0000><17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}は\n<18\u0000>畑荒<19\u0000>はたけあ<1:\u0000>らしに<18\u0000>関<19\u0000>かん<1:\u0000>しては、ただの<18\u0000>傍観者<19\u0000>ぼうかんしゃ<1:\u0000>です。<1\"\u0000>\n<18\u0000>主犯<19\u0000>しゅはん<1:\u0000>はあくまで<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}。\nどうか、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>をお<18\u0000>願<19\u0000>ねが<1:\u0000>いします！",
+			"text_contents": "But...in <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message} <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nnot really our problem.<1\"\u0000>\nHe just bystander.\nMain culprit is<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}。\nDefeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} to\nsave our fields!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したのですね、おみごと！<1\"\u0000>\nですが、<18\u0000>畑<19\u0000>はたけ<1:\u0000><18\u0000>荒<19\u0000>あ<1:\u0000>らしに<18\u0000>関<19\u0000>かん<1:\u0000>してアヤツは<18\u0000>無関係<19\u0000>むかんけい<1:\u0000>です。\n<18\u0000>主犯<19\u0000>しゅはん<1:\u0000>はあくまで<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}。<1\"\u0000>\nどうか、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>退治<19\u0000>たいじ<1:\u0000>をお<18\u0000>願<19\u0000>ねが<1:\u0000>いします！",
+			"text_contents": "Wow, you defeated all\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}! Congratulations!<1\"\u0000>\nBut they only attacked\nbamboo field, not other crop!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} is main problem,\nneed to defeat him!<1\"\u0000>\nPlease, stop <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nto free rest of fields!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おお！<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>畑<19\u0000>はたけ<1:\u0000>を<18\u0000>荒<19\u0000>あ<1:\u0000>らしていた\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちを<18\u0000>退治<19\u0000>たいじ<1:\u0000>したですと！！<1\"\u0000>\nううっ……<18\u0000>良<19\u0000>よ<1:\u0000>かった、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>良<19\u0000>よ<1:\u0000>かった！！",
+			"text_contents": "Woow! You defeated\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!!<1\"\u0000>\nNow fields are free\nand safe from monsters again!<1\"\u0000>\nMe so happy now!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>悪<19\u0000>わる<1:\u0000>さするヤツもいなくなり\nこれでみんな<18\u0000>安心<19\u0000>あんしん<1:\u0000>して<18\u0000>農作業<19\u0000>のうさぎょう<1:\u0000>ができます。<1\"\u0000>\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にありがとうございます！\n<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>の<18\u0000>気<19\u0000>き<1:\u0000><18\u0000>持<19\u0000>も<1:\u0000>ちです、どうぞお<18\u0000>納<19\u0000>おさ<1:\u0000>めください。",
+			"text_contents": "Now all problematic monsters\ngone. Finally can<1\"\u0000>\nfarm again in peace.\nThank you sooo much!!!<1\"\u0000>\nWe grateful for your kindness!\nPlease take gratitude from us!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんと！！<18\u0000>手下<19\u0000>てした<1:\u0000>の<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}8<18\u0000>匹<19\u0000>ぴき<1:\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>て<18\u0000>倒<19\u0000>たお<1:\u0000>してくれたのですか！！<1\"\u0000>\nこれで<18\u0000>悪<19\u0000>わる<1:\u0000>さする<18\u0000>者<19\u0000>もの<1:\u0000>は、<18\u0000>当分<19\u0000>とうぶん<1:\u0000><18\u0000>現<19\u0000>あらわ<1:\u0000>れないでしょう。\nささやかなものですが、お<18\u0000>納<19\u0000>おさ<1:\u0000>めください。",
+			"text_contents": "Oh! You defeat all 8 <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!!<1\"\u0000>\nNow no more evil monsters\nwill disturb us for long time!<1\"\u0000>\nPlease take this small\ngift for your hard work!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかも、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}も<18\u0000>倒<19\u0000>たお<1:\u0000>したのですね！<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>自身<19\u0000>じしん<1:\u0000>、<18\u0000>悪<19\u0000>わる<1:\u0000>さはしないのですが\n<18\u0000>他<19\u0000>ほか<1:\u0000>の<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>呼<19\u0000>よ<1:\u0000>び<18\u0000>寄<19\u0000>よ<1:\u0000>せるのです。<1\"\u0000>\n<18\u0000>倒<19\u0000>たお<1:\u0000>していただいて、とても<18\u0000>助<19\u0000>たす<1:\u0000>かります。\nこちら、<18\u0000>心<19\u0000>こころ<1:\u0000>ばかりの<18\u0000>物<19\u0000>もの<1:\u0000>ですがお<18\u0000>納<19\u0000>おさ<1:\u0000>めください。",
+			"text_contents": "Huh, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nalso defeated!<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} itself\nno harm for us but can call<1\"\u0000>\nmore of <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} to it.<1\"\u0000>\nThanks!!! Very grateful for\ndefeating all of them!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "すばらしい<18\u0000>方<19\u0000>かた<1:\u0000>を<18\u0000>紹介<19\u0000>しょうかい<1:\u0000>してくれた\nカネコ<18\u0000>殿<19\u0000>どの<1:\u0000>にもお<18\u0000>礼<19\u0000>れい<1:\u0000>をせねば！！<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000><18\u0000>殿<19\u0000>どの<1:\u0000>、これで<18\u0000>村人一同<19\u0000>むらびといちどう<1:\u0000>がんばって\n<18\u0000>農業復興<19\u0000>のうぎょうふっこう<1:\u0000>に<18\u0000>励<19\u0000>はげ<1:\u0000>みます。",
+			"text_contents": "Me must thank Kaneko too\nfor introducing me to you<1\"\u0000>\nwonderful Denpa Men!\nNow villagers work hard<1\"\u0000>\nagain for revival of agriculture\non this village!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いや、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にありがとうございました。",
+			"text_contents": "Thank you very much, really!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ありがとうございました！！！",
+			"text_contents": "Thank you very much!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>して\n<18\u0000>村<19\u0000>むら<1:\u0000>が<18\u0000>平和<19\u0000>へいわ<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ってよかった！",
+			"text_contents": "We defeated <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!\nI'm gald that we were able to\nbring back peace and harmony to\nthis village!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,7 +635,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "これで<18\u0000>安心<19\u0000>あんしん<1:\u0000>して<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>ができますね。\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんたちの<18\u0000>生活<19\u0000>せいかつ<1:\u0000>を<18\u0000>守<19\u0000>まも<1:\u0000>れてよかったです。",
+			"text_contents": "Now the dwarfs can finally\nstart farming peacefully again!<1\"\u0000>\nI'm so glad that we were able\nto protect and save the dwarfs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -649,7 +649,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "これでもう、<18\u0000>畑<19\u0000>はたけ<1:\u0000>を<18\u0000>荒<19\u0000>あ<1:\u0000>らされることはないですよね。\n<18\u0000>村<19\u0000>むら<1:\u0000>が<18\u0000>平和<19\u0000>へいわ<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ってよかったです！",
+			"text_contents": "Now the fields will no longer\nbe attacked by these monsters!<1\"\u0000>\nI'm really glad the village has\nreturned to peace and harmony!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -663,7 +663,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したから\nこの<18\u0000>村<19\u0000>むら<1:\u0000>も<18\u0000>安心<19\u0000>あんしん<1:\u0000>だよな。よかったぜ！",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}is gone and\nwon't disturb this village again!<1\"\u0000>\nIt will stay safe and secure\nnow and that makes me glad!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -677,7 +677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したから\nみんな<18\u0000>安心<19\u0000>あんしん<1:\u0000>して<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>ができるよね！",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} is defeated!\nNow the dwarfs can<1\"\u0000>\ncan farm again with\npeace of mind!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>して\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんたちも<18\u0000>喜<19\u0000>よろこ<1:\u0000>んでくれてよかったわ。",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} is defeated and\nI'm glad the dwarfs are happy!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,7 +705,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>平和<19\u0000>へいわ<1:\u0000>が<18\u0000>戻<19\u0000>もど<1:\u0000>ったようだな。\nうむ、この<18\u0000>私<19\u0000>わたし<1:\u0000>にかなう<18\u0000>敵<19\u0000>てき<1:\u0000>などいるものか。",
+			"text_contents": "It seems that peace has finally\nreturned to the village!<1\"\u0000>\nThere are no more enemies\nthat we can fight against!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -719,7 +719,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "こうも<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>されると、<18\u0000>悪<19\u0000>わる<1:\u0000>い<18\u0000>気<19\u0000>き<1:\u0000>はしませんね。\n<18\u0000>村<19\u0000>むら<1:\u0000>が<18\u0000>平和<19\u0000>へいわ<1:\u0000>になって<18\u0000>良<19\u0000>よ<1:\u0000>かったんじゃないですか。",
+			"text_contents": "It feels nice to see dwarfs\nbeing grateful!<1\"\u0000>\nI'm glad we brought back\npeace to the village!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -733,7 +733,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ボク、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}みたいに\nガラが<18\u0000>悪<19\u0000>わる<1:\u0000>いヤツの<18\u0000>前<19\u0000>まえ<1:\u0000>だと<18\u0000>体<19\u0000>からだ<1:\u0000>がすくむんだ……。<1\"\u0000>\nでも、キミがいると<18\u0000>勇気<19\u0000>ゆうき<1:\u0000>が<18\u0000>湧<19\u0000>わ<1:\u0000>くんだよ！\nいつもありがとう！",
+			"text_contents": "I was really scared, when we\nstood in front of <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.<1\"\u0000>\nI didn't even think we could\ndefeat him but thanks<1\"\u0000>\nto you we did it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -747,7 +747,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "じつは<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}が<18\u0000>怖<19\u0000>こわ<1:\u0000>くて\nちょっとだけ<18\u0000>逃<19\u0000>に<1:\u0000>げたくなってしまったんです。<1\"\u0000>\nでも、あなたと<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>だから<18\u0000>勇気<19\u0000>ゆうき<1:\u0000>が<18\u0000>出<19\u0000>だ<1:\u0000>せました！\nいつもありがとうございます！",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} was really scary!\nI wanted to run away<1\"\u0000>\nbut thanks to you I was\nable to gather courage<1\"\u0000>\nto fight against that monster!\nThank you for everything!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>正直<19\u0000>しょうじき<1:\u0000>、バトルはそれほど<18\u0000>得意<19\u0000>とくい<1:\u0000>でもないのですが\nあなたの<18\u0000>期待<19\u0000>きたい<1:\u0000>に<18\u0000>応<19\u0000>こた<1:\u0000>えたかったんです。<1\"\u0000>\nいつもありがとうございます。\nこれからもよろしく！",
+			"text_contents": "To be honest, I'm not really\ngood at battles, but I didn't<1\"\u0000>\nwant to disappoint you. So,\nI did my best and we did it!<1\"\u0000>\nThank you so much for\nyour support!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,7 +775,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>強<19\u0000>つよ<1:\u0000>いやつと<18\u0000>戦<19\u0000>たたか<1:\u0000>ったり、<18\u0000>助<19\u0000>たす<1:\u0000>けた<18\u0000>人<19\u0000>ひと<1:\u0000>に<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>されたり\nあんたと<18\u0000>出<19\u0000>で<1:\u0000><18\u0000>会<19\u0000>あ<1:\u0000>えたおかげだな。<1\"\u0000>\nいつもありがとう！\nこれから<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>楽<19\u0000>たの<1:\u0000>しみだぜ!",
+			"text_contents": "Fighting against strong\nmonsters and getting so<1\"\u0000>\nmuch gratitude from the dwarfs\nis all thanks to you.<1\"\u0000>\nI look forward to the future\nwith us as a dream team!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,7 +789,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}はガラが<18\u0000>悪<19\u0000>わる<1:\u0000>くて\nちょっと<18\u0000>怖<19\u0000>こわ<1:\u0000>かったけど……。<1\"\u0000>\nでも、<18\u0000>君<19\u0000>きみ<1:\u0000>が<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>だと<18\u0000>思<19\u0000>おも<1:\u0000>うと<18\u0000>安心<19\u0000>あんしん<1:\u0000>できるんだ。\nいつもありがとう！",
+			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} was a horrible\nmonster and also a bit scary...<1\"\u0000>\nbut with you I feel much\nsafer and secure. Thanks to you<1\"\u0000>\nwe were able to beat that\nmonster!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -803,7 +803,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>本当<19\u0000>ほんとう<1:\u0000>はちょっと<18\u0000>怖<19\u0000>こわ<1:\u0000>かったけど\nあなたが<18\u0000>見守<19\u0000>みまも<1:\u0000>っていてくれたから<18\u0000>頑張<19\u0000>がんば<1:\u0000>れたの。<1\"\u0000>\nあなたがアタシに<18\u0000>勇気<19\u0000>ゆうき<1:\u0000>をくれるのよ！\nいつもありがとう！",
+			"text_contents": "Honestly, I was a bit scared\nbut since you kept an eye on us<1\"\u0000>\nI felt safe and did my best!\nThank you for everything!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -817,7 +817,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}は\nなかなかに<18\u0000>手<19\u0000>て<1:\u0000>ごわい<18\u0000>相手<19\u0000>あいて<1:\u0000>だった……。<1\"\u0000>\nこの<18\u0000>勝利<19\u0000>しょうり<1:\u0000>は<18\u0000>君<19\u0000>きみ<1:\u0000>のおかげだよ。\nいつもありがとう！",
+			"text_contents": "However, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}\nwas a really tough monster!<1\"\u0000>\nWe only won thanks to you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まあ、<18\u0000>私<19\u0000>わたし<1:\u0000>はあなたの<18\u0000>指示<19\u0000>しじ<1:\u0000>に\n<18\u0000>従<19\u0000>したが<1:\u0000>って<18\u0000>動<19\u0000>うご<1:\u0000>いただけなんですけどね。<1\"\u0000>\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>村<19\u0000>むら<1:\u0000>を<18\u0000>救<19\u0000>すく<1:\u0000>ったのは、あなたの<18\u0000>方<19\u0000>ほう<1:\u0000>ですよ。\nお<18\u0000>見事<19\u0000>みごと<1:\u0000>でした。",
+			"text_contents": "Well, I only followed your\ninstructions.<1\"\u0000>\nSo, it's all thanks to you\nthat we saved the village!<1\"\u0000>\nGreat job!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,7 +845,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>ろう！！",
+			"text_contents": "Come on, let's return to\nthe island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>りましょう！！",
+			"text_contents": "Now, let's go back to\nthe island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -873,7 +873,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "では、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>りましょう！！",
+			"text_contents": "Well, let's travel back to\nthe island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よし、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>ろうぜ！！",
+			"text_contents": "All right, let's go back to\nthe island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>ろうよ！！",
+			"text_contents": "Come on, let's go home,\nto the island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょ！！",
+			"text_contents": "Okay, let's return back\nto the island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -929,7 +929,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>ろうじゃないか！！",
+			"text_contents": "Let's go back to to the island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -943,7 +943,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあて、<18\u0000>島<19\u0000>しま<1:\u0000>へ<18\u0000>戻<19\u0000>もど<1:\u0000>りましょうか！",
+			"text_contents": "Now let's go back\nto the island!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -957,7 +957,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おお、みんな！<1\"\u0000>\n<18\u0000>聞<19\u0000>き<1:\u0000>いておるかもしれんが、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}が<18\u0000>退治<19\u0000>たいじ<1:\u0000>されたのだ。",
+			"text_contents": "Oh, hey!\nMe heard that <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<1\"\u0000>\nand <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} are defeated!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>聞<19\u0000>き<1:\u0000>きました！\nもう、<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>らされる<18\u0000>心配<19\u0000>しんぱい<1:\u0000>がなくなるんですね！",
+			"text_contents": "I heard! Now me not worried\nthat field will be attacked!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うむ、みんなこれで<18\u0000>安心<19\u0000>あんしん<1:\u0000>して<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>ができるぞ。",
+			"text_contents": "Mmh, everyone now can farm\nwith peace of mind again!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000><18\u0000>殿<19\u0000>どの<1:\u0000>にはもちろんだが\n<17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message}にも<18\u0000>礼<19\u0000>れい<1:\u0000>を<18\u0000>言<19\u0000>い<1:\u0000>わないとのう。<1\"\u0000>\nみんな<18\u0000>収入<19\u0000>しゅうにゅう<1:\u0000>がなく、<18\u0000>種<19\u0000>たね<1:\u0000>も<18\u0000>買<19\u0000>か<1:\u0000>えないのを<18\u0000>見<19\u0000>み<1:\u0000>かねて\n<17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message}が<18\u0000>出資<19\u0000>しゅっし<1:\u0000>してくれて、<18\u0000>助<19\u0000>たす<1:\u0000>かった。",
+			"text_contents": "But we must thank not only\nDenpa Men for saving village<1\"\u0000>\nbut also <17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message} who invested in us.\nHad no income but thanks to<1\"\u0000>\n<17\u0003>{8, MessageNpcName, +}<2\r耀>{4, message} were able to afford\nbuying seeds!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,7 +1013,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ！？\nウチのオヤジがそんなことを？",
+			"text_contents": "What!?\nDad did that?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1027,7 +1027,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そうだよ、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>助<19\u0000>たす<1:\u0000>かった！<1\"\u0000>\nこれも、<18\u0000>刺激<19\u0000>しげき<1:\u0000>が<18\u0000>強<19\u0000>つよ<1:\u0000>くて<18\u0000>魔物<19\u0000>まもの<1:\u0000>たちも<18\u0000>好<19\u0000>この<1:\u0000>まない\n<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>植<19\u0000>う<1:\u0000>えていたおかげだ。",
+			"text_contents": "Yes, really great help! Thanks\nto planting stimulating crops<1\"\u0000>\nnot favoured by evil creatures!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オレたちと<18\u0000>同<19\u0000>おな<1:\u0000>じく、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちが<18\u0000>好<19\u0000>この<1:\u0000>む<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を\n<18\u0000>植<19\u0000>う<1:\u0000>えていたら、<18\u0000>同様<19\u0000>どうよう<1:\u0000>に<18\u0000>被害<19\u0000>ひがい<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>けていたからな！",
+			"text_contents": "If had planted same crops as\nothers, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} would<1\"\u0000>\nhave destroyed our field, too!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1055,7 +1055,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふん！……たまたまだ。\nオレは<18\u0000>好<19\u0000>す<1:\u0000>きな<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>植<19\u0000>う<1:\u0000>えただけだ！",
+			"text_contents": "Hm! ...Accidently planted\nmy favourite crop!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1069,7 +1069,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "フォフォフォ！<18\u0000>謙遜<19\u0000>けんそん<1:\u0000>して！<1\"\u0000>\nいざって<18\u0000>時<19\u0000>とき<1:\u0000>の<18\u0000>為<19\u0000>ため<1:\u0000>に\nみんなと<18\u0000>違<19\u0000>ちが<1:\u0000>う<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>植<19\u0000>う<1:\u0000>えていたのじゃろう！",
+			"text_contents": "Hohoho! You very humble!\nHave planted different crops<1\"\u0000>\nthan everyone else for\ncases of emergencies!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オヤジは<18\u0000>変<19\u0000>へん<1:\u0000>なこだわりを<18\u0000>持<19\u0000>も<1:\u0000>つ\nただの<18\u0000>頑固者<19\u0000>がんこもの<1:\u0000>だと<18\u0000>思<19\u0000>おも<1:\u0000>っていたけど……。<1\"\u0000>\nあの<18\u0000>畑<19\u0000>はたけ<1:\u0000>は、<18\u0000>考<19\u0000>かんが<1:\u0000>えがあってやっていたのか……。",
+			"text_contents": "Me thought father was just very\nstubborn with weird obsession...<1\"\u0000>\nBut in reality, he very clever,\nnot only rely on bamboo crops!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1097,7 +1097,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オヤジ、<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>をオレに<18\u0000>教<19\u0000>おし<1:\u0000>えてくれよ！",
+			"text_contents": "Dad, teach more about\nyour farming knowledge!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1111,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>何<19\u0000>なん<1:\u0000>だ、<18\u0000>急<19\u0000>きゅう<1:\u0000>にやる<18\u0000>気<19\u0000>き<1:\u0000>をだして！？\nまあ……<18\u0000>興味<19\u0000>きょうみ<1:\u0000>があるなら<18\u0000>教<19\u0000>おし<1:\u0000>えてやるぞ。",
+			"text_contents": "Wow, suddenly my son very\nmotivated!?<1\"\u0000>\nWell, if interested, will teach\nyou more about farming!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,7 +1125,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "フォフォフォ！<1\"\u0000>\n<18\u0000>若者<19\u0000>わかもの<1:\u0000>が<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>に<18\u0000>興味<19\u0000>きょうみ<1:\u0000>を<18\u0000>持<19\u0000>も<1:\u0000>ってくれれば\nこの<18\u0000>村<19\u0000>むら<1:\u0000>も<18\u0000>安泰<19\u0000>あんたい<1:\u0000>じゃのう！",
+			"text_contents": "Hohoho! If only more young\npeople interested in farming!<1\"\u0000>\nThen, this village safer\nand much better!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1139,7 +1139,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よよよっ……。<1\"\u0000>\n<18\u0000>村<19\u0000>むら<1:\u0000>のみんなが<18\u0000>丹精<19\u0000>たんせい<1:\u0000><18\u0000>込<19\u0000>こ<1:\u0000>めて<18\u0000>育<19\u0000>そだ<1:\u0000>てた<18\u0000>畑<19\u0000>はたけ<1:\u0000>が……。\nあの<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちを<18\u0000>退治<19\u0000>たいじ<1:\u0000>できれば……。",
+			"text_contents": "Yoyo…….<1\"\u0000>\nThe mushrooms of our fields\ndestroyed by <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}...<1\"\u0000>\nPut so much care and energy\ninto our crops, now destroyed...<1\"\u0000>\nIf only could eliminate\nevil monsters...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おおお！<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちを<18\u0000>退治<19\u0000>たいじ<1:\u0000>してくれるのかね！\nなんて<18\u0000>勇敢<19\u0000>ゆうかん<1:\u0000>な<18\u0000>方<19\u0000>かた<1:\u0000>なのじゃ！<1\"\u0000>\n<18\u0000>話<19\u0000>はなし<1:\u0000>によると、<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}には<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}<18\u0000>以外<19\u0000>いがい<1:\u0000>にも\nめずらしい<18\u0000>魔物<19\u0000>まもの<1:\u0000>がいると<18\u0000>聞<19\u0000>き<1:\u0000>いております。<1\"\u0000>\n<18\u0000>用心<19\u0000>ようじん<1:\u0000>されて<18\u0000>行<19\u0000>い<1:\u0000>きなされ。",
+			"text_contents": "Wow! Want defeat <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} to help\nus! Very courageous from you!<1\"\u0000>\nMe heard in <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}\nother monsters besides <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!<1\"\u0000>\nBe careful and do best!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1167,7 +1167,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんですと！<1\"\u0000>\nあの<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>退治<19\u0000>たいじ<1:\u0000>した！！\nこれはお<18\u0000>祝<19\u0000>いわ<1:\u0000>いじゃ！<18\u0000>村<19\u0000>むら<1:\u0000>を<18\u0000>上<19\u0000>あ<1:\u0000>げての<18\u0000>祭<19\u0000>まつり<1:\u0000>じゃ！<1\"\u0000>\nぜひ、この<18\u0000>良<19\u0000>よ<1:\u0000>い<18\u0000>知<19\u0000>し<1:\u0000>らせを\nウチの<18\u0000>主人<19\u0000>しゅじん<1:\u0000>にも<18\u0000>伝<19\u0000>つた<1:\u0000>えてください。<18\u0000>喜<19\u0000>よろこ<1:\u0000>びますぞ！",
+			"text_contents": "What!<1\"\u0000>\nYou defeated <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!!\nWow, this we must celebrate!<1\"\u0000>\nPlease tell this to chief,\nwill be very happy to hear this!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1181,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ウチのマー<18\u0000>坊<19\u0000>ぼう<1:\u0000>は<18\u0000>将来<19\u0000>しょうらい<1:\u0000>\n<18\u0000>農家<19\u0000>のうか<1:\u0000>を<18\u0000>継<19\u0000>つ<1:\u0000>ぎたくないって<18\u0000>言<19\u0000>い<1:\u0000>うのよ。<1\"\u0000>\nもう！<18\u0000>何<19\u0000>なに<1:\u0000>がイヤだっていうんかね！！\n<18\u0000>他<19\u0000>ほか<1:\u0000>に<18\u0000>目標<19\u0000>もくひょう<1:\u0000>もなさそうなのに……<18\u0000>母<19\u0000>かあ<1:\u0000>ちゃん<18\u0000>悲<19\u0000>かな<1:\u0000>しいわ！<1\"\u0000>\n<18\u0000>最近<19\u0000>さいきん<1:\u0000>、<18\u0000>越<19\u0000>こ<1:\u0000>してきた\nとなりの<18\u0000>若者<19\u0000>わかもの<1:\u0000>を<18\u0000>見習<19\u0000>みなら<1:\u0000>ってほしいわー。",
+			"text_contents": "My son not want to take over\nfarm in future!<1\"\u0000>\nMe as mother very sad.\nHe not seem to have other plans<1\"\u0000>\nfor future! Wish, son took\nexample from young people here!<1\"\u0000>\nRecently moved in and do\ngreat farming!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,7 +1195,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オレはマコモ。\n<18\u0000>親<19\u0000>おや<1:\u0000>が<18\u0000>将来<19\u0000>しょうらい<1:\u0000>、<18\u0000>農家<19\u0000>のうか<1:\u0000>を<18\u0000>継<19\u0000>つ<1:\u0000>げってうるさくて……。<1\"\u0000>\nイヤなんだよ、<18\u0000>農家<19\u0000>のうか<1:\u0000>になるのがと<18\u0000>言<19\u0000>い<1:\u0000>うより\nオヤジの<18\u0000>後<19\u0000>あと<1:\u0000>を<18\u0000>継<19\u0000>つ<1:\u0000>ぐことが。<1\"\u0000>\nみんなと<18\u0000>違<19\u0000>ちが<1:\u0000>う<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>育<19\u0000>そだ<1:\u0000>てて……\n<18\u0000>被害<19\u0000>ひがい<1:\u0000>が<18\u0000>少<19\u0000>すく<1:\u0000>ないことを、<18\u0000>自慢<19\u0000>じまん<1:\u0000>なんてしてさ……。<1\"\u0000>\nオレ、オヤジみたいな<18\u0000>大人<19\u0000>おとな<1:\u0000>、<18\u0000>尊敬<19\u0000>そんけい<1:\u0000>できない。\nオヤジの<18\u0000>後<19\u0000>あと<1:\u0000>、<18\u0000>継<19\u0000>つ<1:\u0000>ぎたくないな……。",
+			"text_contents": "Hello, me am Makomo.\nParents want me take over farm<1\"\u0000>\nbut not want be farmer!\nAlways brags about his crops<1\"\u0000>\nbeing different from others and\nhow have not been destroyed...<1\"\u0000>\nMe not can respect adult like\nfather, not want follow<1\"\u0000>\nhis footsteps in future...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ダンナが<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>をしたくて\nアタシたち、この<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>引<19\u0000>ひ<1:\u0000>っ<18\u0000>越<19\u0000>こ<1:\u0000>してきたの。<1\"\u0000>\n<18\u0000>村長<19\u0000>そんちょう<1:\u0000>から<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>のノウハウをいろいろ<18\u0000>教<19\u0000>おそ<1:\u0000>わって\n<18\u0000>頑張<19\u0000>がんば<1:\u0000>って<18\u0000>作物<19\u0000>さくもつ<1:\u0000>を<18\u0000>育<19\u0000>そだ<1:\u0000>てたのに……。<1\"\u0000>\n<18\u0000>畑<19\u0000>はたけ<1:\u0000>を<18\u0000>荒<19\u0000>あ<1:\u0000>らされるなんて……<18\u0000>農業<19\u0000>のうぎょう<1:\u0000>が<18\u0000>安定<19\u0000>あんてい<1:\u0000>したら\n<18\u0000>子供<19\u0000>こども<1:\u0000>を<18\u0000>作<19\u0000>つく<1:\u0000>ろうと<18\u0000>思<19\u0000>おも<1:\u0000>っていたけど、<18\u0000>当分先<19\u0000>とうぶんさき<1:\u0000>ね。",
+			"text_contents": "Moved to village because\nhusband wanted do farming.<1\"\u0000>\nVillage chief thaught us lot of\nfarming. We worked hard to<1\"\u0000>\ngrow crops. Me thought about\nhaving children but only<1\"\u0000>\nwhen farming business runs\nstable, will take long time...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1223,7 +1223,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さっき、<17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}から<18\u0000>雄叫<19\u0000>おたけ<1:\u0000>びが<18\u0000>聞<19\u0000>き<1:\u0000>こえたような……。<1\"\u0000>\nえっ！？<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}たちがいなくなった！？\nうれしい！これでダンナも<18\u0000>喜<19\u0000>よろこ<1:\u0000>ぶわ！！",
+			"text_contents": "Before, in <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}\nmale yell was heard!<1\"\u0000>\nWhat, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +} are gone now!\nI'm so happy now!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

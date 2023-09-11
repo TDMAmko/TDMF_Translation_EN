@@ -21,7 +21,6 @@ UPDATE ARCHIVE AND REPACKED; FOLDERS CONTAIN A "NEW" (Update CIA only)
 AND "OLD" (Orig CIA only) FOLDER; THE ARCHIVE EXTRACT FOLDER 
 WITHOUT NEW/OLD IS THE COMBINED ONE!
 
-
 TOOL TO REMOVE PREFIXES IN JSON FILES (<u1000/....):
 Use find/replace feature and paste: <[\x00-\x7F\p{L}u]*?>
 in find, keep "replace with" empty!

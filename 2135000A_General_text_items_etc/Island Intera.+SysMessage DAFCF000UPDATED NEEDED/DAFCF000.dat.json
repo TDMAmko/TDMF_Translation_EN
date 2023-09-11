@@ -418,14 +418,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "☆<1\u0003\u0001>{3, rare, +}<1ď\u0001>{3, name, +}acquired!",
+			"text_contents": "☆<1\u0003\u0001>{3, rare, +} <1ď\u0001>{3, name, +} acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}x<1\u0003\u0001>{2, num}acquired!",
+			"text_contents": "<1ď\u0001>{3, name, +} x<1\u0003\u0001>{2, num} acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,14 +439,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gave <1ď\u0001>{3, name, +}x<1\u0003\u0001>{2, num}.",
+			"text_contents": "Gave <1ď\u0001>{3, name, +} x<1\u0003\u0001>{2, num}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}<1Đ\u0001>{5, treasure, +} acquired?",
+			"text_contents": "<1ď\u0001>{3, name, +} <1Đ\u0001>{5, treasure, +} acquired?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -488,14 +488,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins:<1\u0005\u0001>{2, day}!\nJewel acquired <1\u0003\u0001>{3, jewel}\nas a check-in bonus.",
+			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\nJewel acquired <1\u0003\u0001>{3, jewel}\nas a check-in bonus.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins:<1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
+			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3078,7 +3078,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Use <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +} x<1\u0003\u0001>{2, num} to play\nthe lottery. You can get <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}\nfrom \"StreetPass\" encounters!",
+			"text_contents": "Use <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +} x<1\u0003\u0001>{2, num} to play\nthe lottery. You can get <17\u0003>{5, ItemData, +}<2ख耀>{3, name, +}s\nfrom \"StreetPass\" encounters!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3701,42 +3701,42 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel Purchase closed.\nWi-Fi coliseum ended.",
+			"text_contents": "Jewel Purchase and\nWi-Fi coliseum terminated.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
