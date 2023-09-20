@@ -166,7 +166,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "1.Sweet Cave",
+			"text_contents": "1.Sweet Cave ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・Get \"<17\u0003>{5, ItemData, +}<2Ç耀>{3, name, +}\" for\n Kaneko to obtain the Island!\n\n・Enter with a party of 4!\n\n・Monsters：Lv.1～12",
+			"text_contents": "・Get \"<17\u0003>{5, ItemData, +}<2Ç耀>{3, name, +}\" for\n Kaneko to obtain the Island!\n\n・Enter with a party of 4!\n\n・Monsters：Lv.1-12",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "2.<18\u0000>W. Village<19\u0000>Woodwork Village<1:\u0000>",
+			"text_contents": "2.<18\u0000>W. Village<19\u0000>Woodwork Village<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,14 +215,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Get a house!",
+			"text_contents": "Get a house",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・Workshop workers need\n　Collect \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" to craft!\n\n・Use wind attacks\n and paralyze def!\n\n・Monsters：Lｖ.4～20",
+			"text_contents": "・Workshop workers need\n \"<17\u0003>{5, ItemData, +}<2É耀>{3, name, +}\" to craft!\n\n・Use wind attacks\n and paralyze def!\n\n・Monsters：Lｖ.4-20",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -236,7 +236,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "3.<18\u0000>L. F. Lake<19\u0000>Legendary Fairy Lake<1:\u0000>",
+			"text_contents": "3.<18\u0000>L. F. Lake<19\u0000>Legendary Fairy Lake<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -250,14 +250,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Meet fairies!",
+			"text_contents": "Meet Fairy",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・Find fairies to get\n legendary equip.\n\n・Use electric attacks!\n\n\n・Monsters：Lv.8～30",
+			"text_contents": "・Find fairies to get\n legendary equip.\n\n・Use electric attacks!\n\n\n・Monsters：Lv.8-30",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "4.Oak Fiasco",
+			"text_contents": "4.Ook Fiasco",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,14 +285,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Help Mayor!",
+			"text_contents": "Help Chief!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・Help Mayor to deal with\n <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.\n\n・Use water attacks!\n\n・Monsters：Lv.15～35",
+			"text_contents": "・Help village chief to\n deal with the <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}s.\n\n・Use water attacks!\n\n・Monsters：Lv.15-35",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -306,7 +306,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": " 5.<18\u0000>T. Trove E.<19\u0000>Treasure Trove Entrance<1:\u0000>",
+			"text_contents": " 5.<18\u0000>T. Ruins E.<19\u0000>Treasure Ruins Entrance<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -320,14 +320,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Get treasure!",
+			"text_contents": "Get Equip!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・Solve the ruin's puzzles\nto find \"<17\u0003>{5, ItemData, +}<2؊耀>{3, name, +}\"!\n　\n\n・Use earth attacks\n and　Ghostbuster\nor Holy water!\n\n・Monsters：Lv.21～37",
+			"text_contents": "・Solve the ruin's puzzles\nto find \"<17\u0003>{5, ItemData, +}<2؊耀>{3, name, +}\"!\n　\n\n・Use earth attacks\n and　Ghostbuster\nor Holy water!\n\n・Monsters：Lv.21-37",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": " 6.Ice <18\u0000>Keeper<19\u0000>and his friends<1:\u0000>",
+			"text_contents": " 6.Ice <18\u0000>Keeper<19\u0000>and his friends<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,14 +355,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Get equip",
+			"text_contents": "Get Equip!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・\"<17\u0003>{5, ItemData, +}<2ن耀>{3, name, +}\"を\n　モンスターから取り返そう。\n\n・氷属性のモンスターが登場。\n　火属性でこうげきしよう！\n\n・Monsters：Lv.25～40",
+			"text_contents": "・Get \"<17\u0003>{5, ItemData, +}<2ن耀>{3, name, +}\"\n　from the monster.\n\n・Use fire attacks!\n\n・Monsters：Lv.25-40",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -376,7 +376,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": " 7.<18\u0000>風<19\u0000>かぜ<1:\u0000>の8<18\u0000>人衆<19\u0000>にんしゅう<1:\u0000> ",
+			"text_contents": " 7.<18\u0000>Wind Trial<19\u0000>for the right of 8<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -390,14 +390,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "守る者たちを倒そう！",
+			"text_contents": "Battle!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風を極めた証とは\n　\"<17\u0003>{5, ItemData, +}<2ܷ耀>{3, name, +}\"なのか？\n　実際に確かめに行こう。\n\n・風属性の8人衆と連続バトル。\n　氷属性でこうげきしよう！\n\n・Monsters：Lv.35～60",
+			"text_contents": "・Is mastering the wind\n　attribute key\n to\"<17\u0003>{5, ItemData, +}<2ܷ耀>{3, name, +}\"?　\n\n・Series of battles\n against wind monsters.\n\n・Monsters：Lv.35-60",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": " 8.<18\u0000>暗闇<19\u0000>くらやみ<1:\u0000>をかけぬけろ ",
+			"text_contents": " 8.<18\u0000>Cave of D.<19\u0000>Cave of Darkness<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,14 +425,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "暗闇のボスを倒そう！",
+			"text_contents": "Get Equip!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・暗くて時間制限のある\n　どうくつを進んで行こう！\n\n・闇属性のモンスターが登場。\n　光属性でこうげきしよう！\n\n・Monsters：Lv.40～55",
+			"text_contents": "・Explore a dark cave\n　with a time limit!\n\n・Use light attacks!\n\n・Monsters：Lv.40-55",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -446,7 +446,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": " 9.<18\u0000>試練<19\u0000>しれん<1:\u0000><18\u0000>与<19\u0000>あた<1:\u0000>えし<18\u0000>光<19\u0000>ひかり<1:\u0000>の<18\u0000>塔<19\u0000>とう<1:\u0000> ",
+			"text_contents": " 9.<18\u0000>Tower of L.<19\u0000>Tower of Light<1:\u0000> ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -460,14 +460,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "光の塔のボスを倒そう！",
+			"text_contents": "Beat boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・光の塔で数々の試練を突破し\n　伝説の装備を手に入れよう。\n\n・光と闇属性モンスターが中心だ。\n　光には闇、闇には光でこうげき！\n\n・Monsters：Lv.52～65",
+			"text_contents": "・Pass the trial\n to get the last\n legendary equip!\n\n・Use light and dark\n attacks!\n・Monsters：Lv.52-65",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "10.<18\u0000>異世界<19\u0000>いせかい<1:\u0000>へ<18\u0000>通<19\u0000>つう<1:\u0000>じる<18\u0000>場所<19\u0000>ばしょ<1:\u0000>",
+			"text_contents": "10.<18\u0000>Gateway T.<19\u0000>Gateway Temple<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,14 +495,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "偶像を持って来よう！",
+			"text_contents": "Bring Idols",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・各地に存在すると言われる偶像を\n　集めて持って来よう。\n\n・偶像の力で、新たな試練が受けら\n　れるステージが開くぞ！\n\n・Monsters：なし",
+			"text_contents": "・Gather and bring idols\n　from various places.\n\n・Unlock new trials with\n　the idols' power!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -516,7 +516,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>土<19\u0000>つち<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Earth<19\u0000>Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -530,14 +530,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "土属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・土属性の手強いモンスター出現！\n\n・しっかりと土属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong earth monster\n appeared!\n\n・Prepare yourself against\n　earth attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>土<19\u0000>つち<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Earth<19\u0000>Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,14 +565,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "土属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・土属性の手強いモンスター出現！\n\n・しっかりと土属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong earth monster\n appeared!\n\n・Prepare yourself against\n　earth attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -586,7 +586,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>土<19\u0000>つち<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Earth<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -600,14 +600,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "土属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・土属性の手強いモンスター出現！\n\n・しっかりと土属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong earth monster\n appeared!\n\n・Prepare yourself against\n　earth attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Water<19\u0000>Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,14 +635,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "水属性の強敵を倒そう！",
+			"text_contents": "Defeat boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・水属性の手強いモンスター出現！\n\n・しっかりと水属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong water monster\n appeared!\n\n・Prepare yourself against\n　water attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -656,7 +656,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Water<19\u0000>Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -670,14 +670,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "水属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・水属性の手強いモンスター出現！\n\n・しっかりと水属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong water monster\n appeared!\n\n・Prepare yourself against\n　water attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Water<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,14 +705,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "水属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・水属性の手強いモンスター出現！\n\n・しっかりと水属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong water monster\n appeared!\n\n・Prepare yourself against\n　water attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -726,7 +726,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>火<19\u0000>ひ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Fire<19\u0000>Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -740,14 +740,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・火属性の手強いモンスター出現！\n\n・しっかりと火属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong fire monster\n appeared!\n\n・Prepare yourself against\n　fire attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>火<19\u0000>ひ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Fire<19\u0000>Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,14 +775,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・火属性の手強いモンスター出現！\n\n・しっかりと火属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong fire monster\n appeared!\n\n・Prepare yourself against\n　fire attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -796,7 +796,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>火<19\u0000>ひ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Fire<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -810,14 +810,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・火属性の手強いモンスター出現！\n\n・しっかりと火属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong fire monster\n appeared!\n\n・Prepare yourself against\n　fire attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>電気<19\u0000>でんき<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Elec.<19\u0000>Electrical Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,14 +845,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "電気属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・電気属性の手強いモンスター出現！\n\n・しっかりと電気属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong electric\n monster appeared!\n\n・Prepare yourself against\n　electric attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -866,7 +866,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>電気<19\u0000>でんき<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Elec.<19\u0000>Electrical Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -880,14 +880,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "電気属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・電気属性の手強いモンスター出現！\n\n・しっかりと電気属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong electric\n monster appeared!\n\n・Prepare yourself against\n　electric attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>電気<19\u0000>でんき<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Elec.<19\u0000>Electrical Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,14 +915,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "電気属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・電気属性の手強いモンスター出現！\n\n・しっかりと電気属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong electric\n monster appeared!\n\n・Prepare yourself against\n　electric attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -936,7 +936,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>氷<19\u0000>こおり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Ice<19\u0000>Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -950,14 +950,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "氷属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・氷属性の手強いモンスター出現！\n\n・しっかりと氷属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong ice monster\n appeared!\n\n・Prepare yourself against\n　ice attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>氷<19\u0000>こおり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Ice<19\u0000>Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,14 +985,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "氷属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・氷属性の手強いモンスター出現！\n\n・しっかりと氷属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong ice monster\n appeared!\n\n・Prepare yourself against\n　ice attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1006,7 +1006,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>氷<19\u0000>こおり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Ice<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1020,14 +1020,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "氷属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・氷属性の手強いモンスター出現！\n\n・しっかりと氷属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong ice monster\n appeared!\n\n・Prepare yourself against\n　ice attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,77 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>風<19\u0000>かぜ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Wind<19\u0000>Beginner<1:\u0000> Trial",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC0⟧킰°",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Beat Boss!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・A strong wind monster\n appeared!\n\n・Prepare yourself against\n　wind attacks!\n\n・Monsters：Lv.70",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 15,
+			"hasManualOffset": true
+		},
+		{
+			"text_contents": "<18\u0000>Wind<19\u0000>Advanced<1:\u0000> Trial",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC0⟧킰°",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Beat Boss!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "・A strong wind monster\n appeared!\n\n・Prepare yourself against\n　wind attacks!\n\n・Monsters：Lv.80",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 15,
+			"hasManualOffset": true
+		},
+		{
+			"text_contents": "<18\u0000>Wind<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1062,7 +1132,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風属性の手強いモンスター出現！\n\n・しっかりと風属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong wind monster\n appeared!\n\n・Prepare yourself against\n　wind attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1076,7 +1146,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>風<19\u0000>かぜ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Dark.<19\u0000>Darkness Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1090,14 +1160,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "風属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風属性の手強いモンスター出現！\n\n・しっかりと風属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong darkness \n monster appeared!\n\n・Prepare yourself against\n　darkness attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1181,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>風<19\u0000>かぜ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Dark.<19\u0000>Darkness Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,14 +1195,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "風属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風属性の手強いモンスター出現！\n\n・しっかりと風属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong darkness \n monster appeared!\n\n・Prepare yourself against\n　darkness attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1146,7 +1216,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Dark.<19\u0000>Darkness Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1160,14 +1230,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "闇属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・闇属性の手強いモンスター出現！\n\n・しっかりと闇属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong darkness \n monster appeared!\n\n・Prepare yourself against\n　darkness attacks!\n\n・Monsters：Lv.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1251,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Light<19\u0000>Beginner<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,14 +1265,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "闇属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・闇属性の手強いモンスター出現！\n\n・しっかりと闇属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・A strong light monster\n appeared!\n\n・Prepare yourself against\n　light attacks!\n\n・Monsters：Lv.70",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1216,7 +1286,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Light<19\u0000>Advanced<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1230,14 +1300,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "闇属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・闇属性の手強いモンスター出現！\n\n・しっかりと闇属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・A strong light monster\n appeared!\n\n・Prepare yourself against\n　light attacks!\n\n・Monsters：Lv.80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1251,7 +1321,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>駆<19\u0000>か<1:\u0000>け<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>者<19\u0000>もの<1:\u0000>への<18\u0000>光<19\u0000>ひかり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Light<19\u0000>Expert<1:\u0000> Trial",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1265,14 +1335,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "光属性の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・光属性の手強いモンスター出現！\n\n・しっかりと光属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.70",
+			"text_contents": "・A strong light monster\n appeared!\n\n・Prepare yourself against\n　light attacks!\n\n・Monsters：v.100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1286,7 +1356,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>冒険者<19\u0000>ぼうけんしゃ<1:\u0000>への<18\u0000>光<19\u0000>ひかり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "Double Up!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1300,14 +1370,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "光属性の強敵を倒そう！",
+			"text_contents": "Double Gold",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・光属性の手強いモンスター出現！\n\n・しっかりと光属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.80",
+			"text_contents": "・Bet with your gold to\n　double it up!\n\n・Double or nothing!\n　Try your luck today!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1321,7 +1391,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>達人<19\u0000>たつじん<1:\u0000>への<18\u0000>光<19\u0000>ひかり<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "<18\u0000>Boost<19\u0000>Beginner<1:\u0000> Rush!　",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1335,14 +1405,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "光属性の強敵を倒そう！",
+			"text_contents": "Get Boosts!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・光属性の手強いモンスター出現！\n\n・しっかりと光属性の対策をして\n　戦いに挑もう。\n\n・Monsters：Lv.100",
+			"text_contents": "・Monsters dropping useful\n　Boosters appear!\n\n・Drop rate varies from\n　monster to monster.\n\n・Monsters：Lv. 5",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1356,7 +1426,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ダブルアップチャンス！！",
+			"text_contents": "Let's fish!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1370,14 +1440,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ダブルアップに挑戦！",
+			"text_contents": "Catch fish!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・手持ちのゴールドを賭けて\n　ダブルアップに挑戦しよう！\n\n・ゼロになるか倍になるか\n　今日の自分の運を試せ！\n\n・Monsters：なし",
+			"text_contents": "・Fish as much as you\n　can within 3 minutes!\n\n・Fish Species vary\n　every time!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1391,7 +1461,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ブーストゲット！　<18\u0000>初級<19\u0000>しょきゅう<1:\u0000>",
+			"text_contents": "<18\u0000>Exp <19\u0000>Beginner<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1405,14 +1475,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ブーストを稼ごう！",
+			"text_contents": "Gain Exp!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・便利なブーストアイテムを\n　落とすモンスターが出現！\n\n・モンスターによって\n　落とす確率が違うぞ。\n\n・Monsters：Lv. 5",
+			"text_contents": "・Beat these rare monsters\n　to level up quickly!\n\n・But be fast as\n　try to run away!\n\n・Monsters：Lv.10-35",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1426,7 +1496,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "レッツ！フィッシング！",
+			"text_contents": "<18\u0000>Exp <19\u0000>Intermediate<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1440,14 +1510,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "釣り堀で釣りをしよう！",
+			"text_contents": "Gain Exp!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・制限時間内なら釣り放題。\n　制限時間は3分間。\n\n・釣れる魚の種類はステージが\n　出現するたびに変わるよ。\n\n・Monsters：なし",
+			"text_contents": "・Beat these rare monsters\n　to level up quickly!\n\n・But be fast as\n　try to run away!\n\n・Monsters：Lv.30-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1461,7 +1531,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>経験値<19\u0000>けいけんち<1:\u0000>ゲット！　<18\u0000>初級<19\u0000>しょきゅう<1:\u0000>",
+			"text_contents": "<18\u0000>Exp <19\u0000>Advanced<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1475,14 +1545,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "経験値を稼ごう！",
+			"text_contents": "Gain Exp!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・倒せば一気にレベルアップできる\n　モンスターが出現！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.10～35",
+			"text_contents": "・Beat these rare monsters\n　to level up quickly!\n\n・But be fast as\n　try to run away!\n\n・Monsters：Lv.35-75",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1496,7 +1566,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>経験値<19\u0000>けいけんち<1:\u0000>ゲット！　<18\u0000>中級<19\u0000>ちゅうきゅう<1:\u0000>",
+			"text_contents": "Jewel Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1510,14 +1580,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "経験値を稼ごう！",
+			"text_contents": "Get Jewels!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・倒せば一気にレベルアップできる\n　モンスターが出現！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.30～50",
+			"text_contents": "・Jewel dropping\n　monsters appear！\n\n・Make sure to land critical\n hits to beat them.\n\n・Monsters：Lv.50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1531,7 +1601,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>経験値<19\u0000>けいけんち<1:\u0000>ゲット！　<18\u0000>上級<19\u0000>じょうきゅう<1:\u0000>",
+			"text_contents": "<18\u0000>Gold <19\u0000>Beginner<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1545,14 +1615,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "経験値を稼ごう！",
+			"text_contents": "Earn gold!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・倒せば一気にレベルアップできる\n　モンスターが出現！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.35～75",
+			"text_contents": "・Monsters dropping lots\n　of gold appear!\n\n・Several monsters\n　may appear at once!\n Be prepared!\n\n・Monsters：Lv.7-60",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1566,7 +1636,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ジュエルゲット！",
+			"text_contents": "<18\u0000>Gold <19\u0000>Intermediate<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1580,14 +1650,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ジュエルを稼ごう！",
+			"text_contents": "Earn Gold!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・ジュエルを落とすことがある\n　特別なモンスターが出現！\n\n・クリティカルをねらって\n　確実に倒せるようにしよう。\n\n・Monsters：Lv.50",
+			"text_contents": "・Monsters dropping lots\n　of gold appear!\n\n・They may run away.\n Beat them quickly!\n\n・Monsters：Lv.30-60",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1601,7 +1671,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ゴールドゲット！　<18\u0000>初級<19\u0000>しょきゅう<1:\u0000>",
+			"text_contents": "<18\u0000>Gold <19\u0000>Advanced<1:\u0000>Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1615,14 +1685,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ゴールドを稼ごう！",
+			"text_contents": "Earn Gold!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・お金持ちなモンスターが出現！\n　倒せば大金ゲットだ！！\n\n・たくさんのモンスターが\n　同時に現れることもある。\n　油断は禁物だ！\n\n・Monsters：Lv.7～60",
+			"text_contents": "・・Monsters dropping lots\n　of gold appear!\n\n・They may run away.\n Beat them quickly!\n\n・Monsters：Lv.60-80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1636,7 +1706,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ゴールドゲット！　<18\u0000>中級<19\u0000>ちゅうきゅう<1:\u0000>",
+			"text_contents": "<18\u0000>Boost<19\u0000>Intermediate<1:\u0000> Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1650,14 +1720,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ゴールドを稼ごう！",
+			"text_contents": "Get Boost!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・お金持ちなモンスターが出現！\n　倒せば大金ゲットだ！！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.30～60",
+			"text_contents": "・Monsters dropping useful\n　Boosters appear!\n\n・Drop rate varies from\n　monster to monster.\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1671,7 +1741,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ゴールドゲット！　<18\u0000>上級<19\u0000>じょうきゅう<1:\u0000>",
+			"text_contents": "Feast Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1685,14 +1755,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ゴールドを稼ごう！",
+			"text_contents": "Get food!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・お金持ちなモンスターが出現！\n　倒せば大金ゲットだ！！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.60～80",
+			"text_contents": "・Food dropping monsters\n　appear!\n\n・Every monster drops\n　different food.\n\n・Monsters：Lv.4-77",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1702,81 +1772,11 @@
 			"text_contents": "",
 			"hasEntryInOffsetOffsets": false,
 			"noTerminator": false,
-			"manualOffset": 15,
-			"hasManualOffset": true
-		},
-		{
-			"text_contents": "ブーストゲット！　<18\u0000>中級<19\u0000>ちゅうきゅう<1:\u0000>",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC0⟧킰°",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "ブーストを稼ごう！",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "・便利なブーストアイテムを\n　落とすモンスターが出現！\n\n・モンスターによって\n　落とす確率が違うぞ。\n\n・Monsters：Lv.20～50",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": false,
-			"noTerminator": false,
-			"manualOffset": 15,
-			"hasManualOffset": true
-		},
-		{
-			"text_contents": "ごちそうゲット！",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC0⟧킰°",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "たべものを稼ごう！",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "・幸福度を上げるたべものを\n　落とすモンスターが出現！\n\n・モンスターによって\n　落とすたべものが違うぞ。\n\n・Monsters：Lv.4～77",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": false,
-			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "ダミーステージ",
+			"text_contents": "Dummy Stage",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1790,14 +1790,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なし",
+			"text_contents": "None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ダミー設定です。",
+			"text_contents": "Dummy Setting.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1811,7 +1811,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>幻帝<19\u0000>げんてい<1:\u0000>のどうくつ",
+			"text_contents": "<18\u0000>Phantom Cave<19\u0000>Beginner<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1825,14 +1825,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "謎の洞くつを探索しよう！",
+			"text_contents": "Explor cave!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・入るたびに地形や宝箱の場所が\n　変わる、特殊なダンジョン。\n\n・地形にあわせて、様々な属性の\n　モンスターが登場するぞ！\n\n・Monsters：Lv.50～150",
+			"text_contents": "・Special dungeon where\n　biomes and treasures\n change every time.\n\n・Various monsters appear!\n\n・Monsters：Lv.50-150",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1846,7 +1846,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>闇属性<19\u0000>やみぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Darkness Ch.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1860,14 +1860,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "闇属性を攻略しよう！",
+			"text_contents": "Darkness!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・闇属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with darkness monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1881,7 +1881,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>火属性<19\u0000>ひぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Fire Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1895,14 +1895,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火属性を攻略しよう！",
+			"text_contents": "Fire!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・火属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with fire monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1916,7 +1916,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>水属性<19\u0000>みずぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Water Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1930,14 +1930,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "水属性を攻略しよう！",
+			"text_contents": "Water!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・水属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with water monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1951,7 +1951,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>風属性<19\u0000>かぜぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Wind Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1965,14 +1965,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "風属性を攻略しよう！",
+			"text_contents": "Wind!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with wind monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1986,7 +1986,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>電気属性<19\u0000>でんきぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Elec. Chllg.<19\u0000>Electrical Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2000,14 +2000,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "電気属性を攻略しよう！",
+			"text_contents": "Electrical!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・電気属性モンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with electric monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2021,7 +2021,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>土属性<19\u0000>つちぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Earth Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2035,14 +2035,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "土属性を攻略しよう！",
+			"text_contents": "Earth!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・土属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with earth monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2056,7 +2056,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>光属性<19\u0000>ひかりぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Light Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2070,14 +2070,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "光属性を攻略しよう！",
+			"text_contents": "Light!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・光属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with light monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2091,7 +2091,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>氷属性<19\u0000>こおりぞくせい<1:\u0000>チャレンジ！",
+			"text_contents": "<18\u0000>Ice Chllg.<19\u0000>Elemental Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2105,14 +2105,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "氷属性を攻略しよう！",
+			"text_contents": "Ice!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・氷属性のモンスターに特化された\n　ダンジョンを攻略しよう！\n\n・しっかりと属性の対策をしないと\n　攻略は難しいぞ。\n\n・Monsters：Lv.20～50",
+			"text_contents": "・Take on this dungeon\n　with ice monsters!\n\n・Prepare yourself with\n　the right equip!\n\n・Monsters：Lv.20-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2126,7 +2126,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>のお<18\u0000>正月<19\u0000>しょうがつ<1:\u0000>",
+			"text_contents": "<18\u0000>New Year<19\u0000>Denpa Men's<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2140,14 +2140,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "正月装備をゲットしよう！",
+			"text_contents": "Get Equip!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・謹賀新年！干支のモンスターを\n　倒して正月装備をゲットしよう！\n\n・クリアするたびに、新しい装備が\n　もらえるぞ！\n\n・Monsters：Lv.15～60",
+			"text_contents": "・Happy New Year! Let's\n　special monsters to\n New Year Equip!\n\n・New Equip for\n each clear!\n\n・Monsters：Lv.15-60",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2161,7 +2161,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "レッツ！エッグハント！",
+			"text_contents": "Egg Hunt!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2175,14 +2175,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "タマゴ祭りに参加しよう！",
+			"text_contents": "Collect Eggs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・タマゴ祭り開催！たくさん集めて\n　特別なアイテムと交換しよう！！\n\n・タマゴはモンスターが落としたり\n　マップに隠されていたりするぞ。\n\n・Monsters：Lv.34～46",
+			"text_contents": "・Collect eggs to exchange\n　them for special items!\\n\n・Eggs are also hidden on\n　the map!\n\n・Monsters：Lv.34-46",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2196,7 +2196,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>謎<19\u0000>なぞ<1:\u0000>のピラミッド",
+			"text_contents": "Puzzle <18\u0000>Pyrmd<19\u0000>Pyramid<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2210,14 +2210,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ウソを見抜き謎を解こう！",
+			"text_contents": "Solve Puzzle!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・地底人たちの話を元に\n　ピラミッドの謎を解こう。\n\n・中にはウソつきも居るので\n　よく考えて見抜こう！\n\n・Monsters：なし",
+			"text_contents": "・Solve the pyramid's\n　mystery via hints from\n dwarfs.\n\n・Some of them lie!\n Be observant!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2231,7 +2231,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>母<19\u0000>はは<1:\u0000>の<18\u0000>日<19\u0000>ひ<1:\u0000>のおくりもの",
+			"text_contents": "Mother's Day",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2245,14 +2245,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "プレゼントを取り返そう！",
+			"text_contents": "Get Gift!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・プレゼントをとられて困っている\n　電波人間の子供たちを助けよう！\n\n・盗んだモンスターを見つけ出して\n　プレゼントを取り返そう。\n\n・Monsters：Lv.35～45",
+			"text_contents": "・Help the children whose\n　Mother's Day gift\n was stolen.\n\n・Get it back from\n　the monster!\n\n・Monsters：Lv.35-45",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2266,7 +2266,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>雨降<19\u0000>あめふ<1:\u0000>り<18\u0000>農家<19\u0000>のうか<1:\u0000>",
+			"text_contents": "Rainy Farm",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2280,14 +2280,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ボスを倒し雨を晴らそう！",
+			"text_contents": "Stop Rain!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・やまなくなった雨に困っている\n　地底人たちを助けよう！\n\n・降り続く雨のせいでバトル中は\n　みずびたしになってしまうぞ。\n\n・Monsters：Lv.44～53",
+			"text_contents": "・Save the dwarfs from the\n　neverending rain!\n\n・The rain will soak\n　you during battles.\n\n・Monsters：Lv.44-53",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2301,7 +2301,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "モンスターコロシアム",
+			"text_contents": "Monster <18\u0000>Col.<19\u0000>Coliseum<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2315,14 +2315,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "コロシアムで勝利しよう！",
+			"text_contents": "Win!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・コロシアムへ登場する強敵に\n　勝利しよう！\n\n・勝てば翌日はさらなる強敵と\n　戦うことができるぞ！！\n\n・Monsters：Lv.50～???",
+			"text_contents": "・Win against the strong\n　bosses in coliseum!\n\n・By winning, stronger\n　monsters appear!!\n\n・Monsters：Lv.50-???",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2336,7 +2336,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>コロシアム",
+			"text_contents": "<18\u0000>Denpa Col.19\u0000>Denpa Men Coliseum<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2350,14 +2350,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "コロシアムで勝利しよう！",
+			"text_contents": "Win!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・コロシアムで電波人間たちの\n　パーティと戦おう！\n\n・勝てば相手のつけたそうびが\n　手に入るかも！？\n\n・登場電波人間：Lv.30～???",
+			"text_contents": "・Fight against other\n　Denpa Men teams!\n\n・If you win, you might\n　get one of their equip!\n\n・Denpa Lv：Lv.30-???",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2371,7 +2371,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>釣<19\u0000>つ<1:\u0000>りチャレンジ！",
+			"text_contents": "<18\u0000>F. Challenge!<19\u0000>Fishing Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2385,14 +2385,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ミッションに挑戦しよう！",
+			"text_contents": "Fish!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・出題される様々なミッションを\n　クリアしていこう！\n\n・ひとつミッションをクリアすると\n　次のミッションに挑戦できるぞ！\n\n・Monsters：なし",
+			"text_contents": "・Clear various missions\n　one by one!\n\n・Get exclusive items\n　by clearing missions!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2406,7 +2406,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>のクイズ<18\u0000>大会<19\u0000>たいかい<1:\u0000>",
+			"text_contents": "Denpa Quiz",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2420,14 +2420,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "全問正解を目指せ！",
+			"text_contents": "Quiz!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・電波人間のＲＰＧに関する\n　クイズに答えよう。\n\n・全問正解できれば、特別な\n　ごほうびがもらえるぞ！\n\n・Monsters：なし",
+			"text_contents": "・Take on this quiz about\n　The Denpa Men series.\n\n・If all answer are correct\n　you will get a prize!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2441,7 +2441,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "11.カネコの<18\u0000>落<19\u0000>おと<1:\u0000>し<18\u0000>物<19\u0000>もの<1:\u0000>",
+			"text_contents": "11.<18\u0000>K. Package<19\u0000>Kaneko's Package<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2455,14 +2455,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "カネコの落し物を探そう！",
+			"text_contents": "Find!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message}に頼まれた\n　落し物を探しだそう！\n\n・土と水属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.110～130",
+			"text_contents": "・Let's find <17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message}'s\n　lost package!\n\n・Earth and water\n monsters appear!\n\n・Monsters：Lv.110-130",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2476,7 +2476,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "12.<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<18\u0000>里<19\u0000>さと<1:\u0000>",
+			"text_contents": "12.<18\u0000>Fairy Vil.<19\u0000>Legendary Fairy Village<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2490,14 +2490,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "妖精女王に会おう！",
+			"text_contents": "Meet Fairy!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・オーブの話を聞くために\n　妖精女王に会いに行こう！\n\n・電気と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.130～150",
+			"text_contents": "・Meet the fairy queen for\n info about the orbs!\n\n・Electric and light\n　monsters appear!\n\n・Monsters：Lv.130-150",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2511,7 +2511,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "13.<18\u0000>揺<19\u0000>ゆ<1:\u0000>れるドラゴンの<18\u0000>里<19\u0000>さと<1:\u0000>",
+			"text_contents": "13.<18\u0000>Dragon Vil.<19\u0000>Dragon Village<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2525,14 +2525,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オーブを手に入れよう！",
+			"text_contents": "Get the Orb!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・ドラゴンの住む\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"に行き\n　オーブを譲ってもらおう！\n\n・ドラゴン系モンスターが中心だ。\n　ドラゴン対策をしっかりしよう！\n\n・Monsters：Lv.150～170",
+			"text_contents": "・Go to \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\" to\n ask for the Dark Orb!\n\n・Mainly dragon monsters\n appear.\n\n・Monsters：Lv.150-170",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2546,7 +2546,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "14.オーブ<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>塔<19\u0000>とう<1:\u0000>",
+			"text_contents": "14.<18\u0000>Truth Orb<19\u0000>Extreme Tower and the<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2560,14 +2560,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オーブを手に入れよう！",
+			"text_contents": "Get the Orb!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・オーブを手に入れるため\n　\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"最上階を目指そう！\n\n・ビースト系モンスターが中心だ。\n　ビースト対策をしっかりしよう！\n\n・Monsters：Lv.170～190",
+			"text_contents": "・Reach the top floor of\n　\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\" to\n get the Truth Orb!\n\n・Beast monsters appear.\n\n・Monsters：Lv.170-190",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2581,7 +2581,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "15.<18\u0000>魔女<19\u0000>まじょ<1:\u0000>のアジト",
+			"text_contents": "15.<18\u0000>Palace T.<19\u0000>Palace Tower<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2595,14 +2595,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "魔女を倒そう！",
+			"text_contents": "Beat Witch!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・\"<17\u0003>{9, MonsterParameter, +}<2»耀>{3, name, +}\"を倒し\n　奪われたオーブを取り戻そう！\n\n・デーモン系モンスターが中心だ。\n　デーモン対策をしっかりしよう！\n\n・Monsters：Lv.190～210",
+			"text_contents": "・Defeat the \"<17\u0003>{9, MonsterParameter, +}<2»耀>{3, name, +}\"\n　to reclaim stolen Orbs!\n\n・Demon monsters appear.\n\n・Monsters：Lv.190-210",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2616,7 +2616,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "16.<18\u0000>新世代<19\u0000>しんせだい<1:\u0000>への<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "16.<18\u0000>Gen Trial<19\u0000>Snowy Generation Trial<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2630,14 +2630,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "新世代になろう！",
+			"text_contents": "Unlock Gen!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・風の化身に認められ\n　新たな力を手に入れよう！\n\n・インセクト系モンスターが中心だ。\n　インセクト対策をしっかりしよう！\n\n・Monsters：Lv.210～230",
+			"text_contents": "・Find the　incarnation \n of wind to unlock \n a new gen!\n\n・Insect monsters appear!\n\n・Monsters：Lv.210-230",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2651,7 +2651,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "17.<18\u0000>化身<19\u0000>けしん<1:\u0000>の<18\u0000>住<19\u0000>す<1:\u0000>む<18\u0000>山<19\u0000>やま<1:\u0000>",
+			"text_contents": "17.<18\u0000>IoF Site<19\u0000>Incarnation of Fire Site<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2665,14 +2665,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火の化身に会おう！",
+			"text_contents": "Find Info!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・千里眼を持つ火の化身に会い\n　オーブの行方を教えてもらおう。\n\n・火と土属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.230～250",
+			"text_contents": "・Meet incrn. of fire for\n info about the Holy Orb.\n\n・Earth and fire monsters\n appear.\n\n・Monsters：Lv.230-250",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2686,7 +2686,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "18.<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>",
+			"text_contents": "18.<18\u0000>Water Trl.<19\u0000>Incarnation of Water's Trial<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2700,14 +2700,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "水の化身に認められよう！",
+			"text_contents": "Get the Orb!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・水の化身に認められ\n　\"<17\u0003>{5, ItemData, +}<2Ô耀>{3, name, +}\"を授かろう！\n\n・マリーン系モンスターが中心だ。\n　マリーン対策をしっかりしよう！\n\n・Monsters：Lv.250～270",
+			"text_contents": "・Master Incar. of Water's\n　trial to get the\n \"<17\u0003>{5, ItemData, +}<2Ô耀>{3, name, +}\"!\n\n・Marine monsters appear.\n\n・Monsters：Lv.250-270",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2721,7 +2721,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "19.<18\u0000>悪<19\u0000>あく<1:\u0000>のアジト",
+			"text_contents": "19.<18\u0000>Evil H.<19\u0000>Evil Hideout<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2735,14 +2735,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アジトに乗り込もう！",
+			"text_contents": "Infiltrate!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・魔女のアジトに乗り込み\n　\"<17\u0003>{9, MonsterParameter, +}<2ˮ耀>{3, name, +}\"たちを倒そう！\n\n・電気と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.270～290",
+			"text_contents": "・Infiltrate the Hideout\n　and defeat \"<17\u0003>{9, MonsterParameter, +}<2ˮ耀>{3, name, +}\"!\n\n・Electric and dark\n　monsters appear!\n\n・Monsters：Lv.270-290",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2756,7 +2756,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "20.<18\u0000>決戦<19\u0000>けっせん<1:\u0000>の<18\u0000>地<19\u0000>ち<1:\u0000>の<18\u0000>獄<19\u0000>ごく<1:\u0000>",
+			"text_contents": "20.Inferno",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2770,14 +2770,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "魔女を倒そう！",
+			"text_contents": "Beat Witch!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・逃げた魔女を追って地の獄へ。\n　オーブを巡る戦いがついに決着！\n\n・光と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.290～310",
+			"text_contents": "・Chase the Evil Witch　and\nreclaim the last Orb!\n\n・Light and dark\n monsters appear!\n\n・Monsters：Lv.290-310",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2791,7 +2791,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "オバケになった<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>",
+			"text_contents": "Ghost Dwarfs",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2805,14 +2805,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "地底人たちを救出しよう！",
+			"text_contents": "Save Dwarfs",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・オバケになってしまった\n　地底人たちを救出しよう！\n\n・迷路になったダンジョンを\n　余すこと無く探索しよう！\n\n・Monsters：Lv.28～50",
+			"text_contents": "・Rescue the dwarfs who\n　turned into ghosts!\n\n・Explor the cave\n　maze to save them!\n\n・Monsters：Lv.28-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2826,7 +2826,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>注文<19\u0000>ちゅうもん<1:\u0000>の<18\u0000>多<19\u0000>おお<1:\u0000>い<18\u0000>洋菓子店<19\u0000>ようがしてん<1:\u0000>",
+			"text_contents": "Pastry Shop",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2840,14 +2840,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "森で食材を集めよう！",
+			"text_contents": "Collect!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・食材が不足して困っている\n　洋菓子店を助けよう！\n\n・クリアする度にお客さんが増え\n　必要な食材も増えていくぞ。\n\n・Monsters：Lv.32～42",
+			"text_contents": "・Help the chef by\n　collecting ingredients!\n\n・Rewards and ingredients\n　change each clear.\n\n・Monsters：Lv.32-42",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2861,7 +2861,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "カカオ<18\u0000>泥棒<19\u0000>どろぼう<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>せ！",
+			"text_contents": "Cacao Thief!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2875,14 +2875,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "モンスターを退治しよう！",
+			"text_contents": "Stop Thieves",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・ハートカカオを盗んだ\n　モンスターを退治しよう。\n\n・制限時間内にすべて倒せば\n　良いご褒美がもらえるぞ！\n\n・Monsters：Lv.25",
+			"text_contents": "・Slay the monsters who\n　steal heart cocoa!\n\n・Defeat all monsters\n　for a good price!\n\n・Monsters：Lv.25",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2896,7 +2896,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "でんぢゃらす<18\u0000>王国<19\u0000>おうこく<1:\u0000>を<18\u0000>救<19\u0000>すく<1:\u0000>え！",
+			"text_contents": "<18\u0000>Denjirus K.<19\u0000>Kingdom<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2910,14 +2910,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぢゃらす軍に勝利しよう！",
+			"text_contents": "Save!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・ぢゃらす城に乗り込んで\n　最上階にいるボスを倒そう！\n\n・ぢゃらす城は仕掛けがいっぱい。\n　隠れたアイテムをゲットしよう！\n\n・Monsters：Lv.3～32",
+			"text_contents": "・Get into Jyarasu Castle\n to defeat the boss!\n\n・It is full of tricks\n　with hidden items!\n\n・Monsters：Lv.3-32",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2931,7 +2931,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "プチジュエルゲット！",
+			"text_contents": "Jewel Rush!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2945,14 +2945,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "かけらを集めよう！",
+			"text_contents": "Get Pieces!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・<17\u0003>{5, ItemData, +}<2耀>{3, name, +}を集めて\n　<17\u0003>{5, ItemData, +}<2耀>{3, name, +}と交換しよう！\n\n・<17\u0003>{5, ItemData, +}<2耀>{3, name, +}10個で\n　<17\u0003>{5, ItemData, +}<2耀>{3, name, +}1個と交換だ。\n\n・Monsters：Lv.30～75",
+			"text_contents": "・Get <17\u0003>{5, ItemData, +}<2耀>{3, name, +} to\n　exchange them for <17\u0003>{5, ItemData, +}<2耀>{3, name, +}s!\n\n・10 <17\u0003>{5, ItemData, +}<2耀>{3, name, +}\n　convert into 1 <17\u0003>{5, ItemData, +}<2耀>{3, name, +}.\n\n・Monsters：Lv.30-75",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2966,7 +2966,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>森<19\u0000>もり<1:\u0000>の<18\u0000>王<19\u0000>おう<1:\u0000>",
+			"text_contents": "Forest King",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2980,14 +2980,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・土と水属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.210～230",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Earth and water\n　monsters appear.\n\n・Monsters：Lv.210-230",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3001,7 +3001,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<18\u0000>宝<19\u0000>たから<1:\u0000>",
+			"text_contents": "<18\u0000>Treasure T.<19\u0000>Fairy Treasure Trove",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3015,14 +3015,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・電気と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.230～250",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Electric and light\n　monsters appear.\n\n・Monsters：Lv.230-250",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3036,7 +3036,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>軍勢<19\u0000>ぐんぜい<1:\u0000>",
+			"text_contents": "Dark Army",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3050,14 +3050,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・火と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.250～270",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Fire and dark\n　monsters appear.\n\n・Monsters：Lv.250-270",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3071,7 +3071,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>失<19\u0000>うしな<1:\u0000>いし<18\u0000>塔<19\u0000>とう<1:\u0000>",
+			"text_contents": "Ailing Tower",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3085,14 +3085,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・風と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.270～290",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Wind and light\n　monsters appear.\n\n・Monsters：Lv.270-290",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3106,7 +3106,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>復活<19\u0000>ふっかつ<1:\u0000>する<18\u0000>力<19\u0000>ちから<1:\u0000>",
+			"text_contents": "<18\u0000>Power of R.<19\u0000>Power of Resurrection<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3120,14 +3120,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・氷と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.290～310",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Ice and dark\n　monsters appear.\n\n・Monsters：Lv.290-310",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3141,7 +3141,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>新<19\u0000>あら<1:\u0000>たな<18\u0000>化身<19\u0000>けしん<1:\u0000>",
+			"text_contents": "<18\u0000>New Incarn.<19\u0000>New Incarnation<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3155,14 +3155,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・氷と風属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.310～330",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Ice and wind\n　monsters appear.\n\n・Monsters：Lv.310-330",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3176,7 +3176,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>目<19\u0000>め<1:\u0000><18\u0000>覚<19\u0000>ざ<1:\u0000>めし<18\u0000>老兵<19\u0000>ろうへい<1:\u0000>",
+			"text_contents": "<18\u0000>Awakening<19\u0000>Awakening of an old soldier",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3190,14 +3190,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・火と土属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.330～350",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Fire and earth\n　monsters appear.\n\n・Monsters：Lv.330-350",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3211,7 +3211,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>復活<19\u0000>ふっかつ<1:\u0000>の<18\u0000>帝王<19\u0000>ていおう<1:\u0000>",
+			"text_contents": "<18\u0000>R. Emperor<19\u0000>Resurrected Emperor",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3225,14 +3225,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・水と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.350～370",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Water and dark\n　monsters appear.\n\n・Monsters：Lv.350-370",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3246,7 +3246,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>雷神<19\u0000>らいじん<1:\u0000>の<18\u0000>塔<19\u0000>とう<1:\u0000>",
+			"text_contents": "<18\u0000>Thunder T.<19\u0000>Thunder God Tower<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3260,14 +3260,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・電気と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.370～390",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Electric and light\n　monsters appear.\n\n・Monsters：Lv.370-390",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3281,7 +3281,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>守護<19\u0000>しゅご<1:\u0000>する<18\u0000>者<19\u0000>もの<1:\u0000>",
+			"text_contents": "<18\u0000>Guardians<19\u0000>The<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3295,14 +3295,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "別世界の強敵を倒そう！",
+			"text_contents": "Beat Boss!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・さらなる強敵が登場する\n　隣り合わせの世界。\n\n・光と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.390～410",
+			"text_contents": "・In this parallel world\n　stronger monsters await!\n\n・Light and dark\n　monsters appear.\n\n・Monsters：Lv.390-410",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3316,7 +3316,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>失<19\u0000>うしな<1:\u0000>われた<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>",
+			"text_contents": "Statue Theft",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3330,14 +3330,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "像を盗んだ犯人を捜そう！",
+			"text_contents": "Find Thief!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・地底人たちの証言を元に\n　像を盗んだ犯人を捜し出そう。\n\n・無事この事件の謎が解けるかは\n　キミ次第！！\n　証言はメモをとって考えよう！\n\n・Monsters：なし",
+			"text_contents": "・Search for the thief who\n　stole the statue!\n\n・Ask the dwarfs about\n　the theft!!\n\n・Monsters： None",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3351,7 +3351,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>小<19\u0000>ちい<1:\u0000>さな<18\u0000>村<19\u0000>むら<1:\u0000>のクリスマス",
+			"text_contents": "<18\u0000>Christmas V.<19\u0000>Christmas in a small village<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3365,14 +3365,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "プレゼントを取り返そう！",
+			"text_contents": "Get Gift!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・サンタさんが失くしてしまった\n　プレゼントを見つけてあげよう！\n\n・プレゼントは複数見つかるけど\n　子供の本当に欲しいものを\n　しっかり選んであげよう！\n　\n・Monsters：Lv.20～28",
+			"text_contents": "・Let's find the presents\n　that Santa has lost!\n\n・Find the present\n　that the child wants!\n・Monsters：Lv.20-28",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3386,7 +3386,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "あの<18\u0000>先生<19\u0000>せんせい<1:\u0000>の<18\u0000>挑戦状<19\u0000>ちょうせんじょう<1:\u0000>！",
+			"text_contents": "<18\u0000>Teacher C.<19\u0000>Sensei Teacher Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3400,14 +3400,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あの先生に勝利しよう！",
+			"text_contents": "Beat Teacher!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・あの先生に勝利しよう！\n\n・勝てば、次はパワーアップした\n　あの先生と戦うことができるぞ！\n\n・Monsters：Lv.5～60",
+			"text_contents": "・Win against the teacher!\n\n・Unlock a stronger\n　version by beating\n the previous one!\n\n・Monsters：Lv.5-60",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3421,7 +3421,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>幻帝<19\u0000>げんてい<1:\u0000>のどうくつ　<18\u0000>真<19\u0000>しん<1:\u0000>",
+			"text_contents": "<18\u0000>Phantom Cave<19\u0000>Expert<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3435,14 +3435,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "謎の洞くつを探索しよう！",
+			"text_contents": "Explor cave!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・入るたびに地形や宝箱の場所が\n　変わる、特殊なダンジョン。\n\n・地形にあわせて、様々な属性の\n　モンスターが登場するぞ！\n\n・Monsters：Lv.200～300",
+			"text_contents": "・Special dungeon where\n　biomes and treasures\n change every time.\n\n・Various monsters appear!\n\n・Monsters：Lv.200-300",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3456,7 +3456,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "<18\u0000>連続<19\u0000>れんぞく<1:\u0000>バトルチャレンジ！",
+			"text_contents": "<18\u0000>Con. Battle<19\u0000>Consecutive Battle Challenge<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3470,14 +3470,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "強くなる敵に挑戦しよう！",
+			"text_contents": "Rank up!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・勝つごとにランクアップする\n　強力なモンスターと戦おう！\n\n・上位のランクに勝つほど\n　良い景品がもらえるぞ！！\n\n・Monsters：Lv.25～???",
+			"text_contents": "・Battle bosses who get\n stronger as you win!\n\n・A higher rank means\n better rewards!!\n\n・Monsters：Lv.25-???",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3491,7 +3491,7 @@
 			"hasManualOffset": true
 		},
 		{
-			"text_contents": "モンスター<18\u0000>大発生<19\u0000>だいはっせい<1:\u0000>！",
+			"text_contents": "<18\u0000>Monster O.!<19\u0000>Monster Outbreak<1:\u0000>",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3505,14 +3505,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "皆でモンスターを倒そう！",
+			"text_contents": "Stop Monsters",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・大量発生したモンスターたちを\n　全国の仲間と協力し退治しよう！\n\n・全員で期間内に目標数を倒せば\n　報酬アイテムをゲットできるぞ！\n\n・Monsters：Lv.20～80",
+			"text_contents": "・Let's defeat monsters\n with other players!\n\n・Beat all monsters within\n　the time to get a reward!\n\n・Monsters：Lv.20-80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3547,7 +3547,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・選んだ賞品を手に入れるため\n　全国の仲間とチームで戦え！！\n\n・自分のチームが討伐数で勝てば\n　景品アイテムをゲットできるぞ！\n\n・Monsters：Lv.20～80",
+			"text_contents": "・選んだ賞品を手に入れるため\n　全国の仲間とチームで戦え！！\n\n・自分のチームが討伐数で勝てば\n　景品アイテムをゲットできるぞ！\n\n・Monsters：Lv.20-80",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3687,7 +3687,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・\"ジャシン\"の復活に備えて\n　神の剣を手に入れよう！\n\n・土属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.290～310",
+			"text_contents": "・\"ジャシン\"の復活に備えて\n　神の剣を手に入れよう！\n\n・土属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.290-310",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3722,7 +3722,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・村に広がる病気の原因を見つけ\n　地底人たちを助けよう！\n\n・風属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.300～320",
+			"text_contents": "・村に広がる病気の原因を見つけ\n　地底人たちを助けよう！\n\n・風属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.300-320",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3757,7 +3757,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・鉱山で強制労働させられる\n　地底人たちを救い出そう！\n\n・土属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.310～330",
+			"text_contents": "・鉱山で強制労働させられる\n　地底人たちを救い出そう！\n\n・土属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.310-330",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3792,7 +3792,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・村を破壊しているという\n　電波人間たちを止めよう！\n\n・闇属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.320～340",
+			"text_contents": "・村を破壊しているという\n　電波人間たちを止めよう！\n\n・闇属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.320-340",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3827,7 +3827,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・\"試練の塔\"で新たな力を\n　手に入れよう！\n\n・ぜん属性のモンスターが中心だ。\n　対策をしっかりしよう！\n\n・Monsters：Lv.330～350",
+			"text_contents": "・\"試練の塔\"で新たな力を\n　手に入れよう！\n\n・ぜん属性のモンスターが中心だ。\n　対策をしっかりしよう！\n\n・Monsters：Lv.330-350",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3862,7 +3862,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・炎の魔神を倒し\n　火山の暴走を止めよう！\n\n・火と水属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.350～370",
+			"text_contents": "・炎の魔神を倒し\n　火山の暴走を止めよう！\n\n・火と水属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.350-370",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3897,7 +3897,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・氷の魔神を倒し\n　氷山の異常を止めよう！\n\n・氷と土属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.370～390",
+			"text_contents": "・氷の魔神を倒し\n　氷山の異常を止めよう！\n\n・氷と土属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.370-390",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3932,7 +3932,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・とつぜん現れたという\n　謎の建物を調査しよう！\n\n・水と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.390～410",
+			"text_contents": "・とつぜん現れたという\n　謎の建物を調査しよう！\n\n・水と闇属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.390-410",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3967,7 +3967,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・最後の魔神を倒し\n　復活の儀式を阻止しよう！\n\n・電気と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.410～430",
+			"text_contents": "・最後の魔神を倒し\n　復活の儀式を阻止しよう！\n\n・電気と光属性のモンスターが中心。\n　両方に対応できるようにしよう！\n\n・Monsters：Lv.410-430",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4002,7 +4002,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・\"ジャシン\"を倒し\n　この世界を救おう！\n\n・闇属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.430～450",
+			"text_contents": "・\"ジャシン\"を倒し\n　この世界を救おう！\n\n・闇属性のモンスターが中心だ。\n　対策をしっかりして挑もう！\n\n・Monsters：Lv.430-450",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4387,7 +4387,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・便利なブーストアイテムを\n　落とすモンスターが出現！\n\n・必中装備などで確実に\n　攻撃を当てよう！\n\n・Monsters：Lv.70～100",
+			"text_contents": "・便利なブーストアイテムを\n　落とすモンスターが出現！\n\n・必中装備などで確実に\n　攻撃を当てよう！\n\n・Monsters：Lv.70-100",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4422,7 +4422,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・お金持ちなモンスターが出現！\n　倒せば大金ゲットだ！！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.150～200",
+			"text_contents": "・お金持ちなモンスターが出現！\n　倒せば大金ゲットだ！！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.150-200",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4457,7 +4457,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・倒せば一気にレベルアップできる\n　モンスターが出現！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.150～200",
+			"text_contents": "・倒せば一気にレベルアップできる\n　モンスターが出現！\n\n・すぐに逃げてしまうので\n　早く倒す方法を考えよう。\n\n・Monsters：Lv.150-200",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4492,7 +4492,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・幸福度を上げるたべものを\n　落とすモンスターが出現！\n\n・モンスターによって\n　落とすたべものが違うぞ。\n\n・Monsters：Lv.4～120",
+			"text_contents": "・幸福度を上げるたべものを\n　落とすモンスターが出現！\n\n・モンスターによって\n　落とすたべものが違うぞ。\n\n・Monsters：Lv.4-120",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4562,7 +4562,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・でんぢゃらす王国に\n　ヤツが戻ってきた！？\n\n・勇者（仮）じーさんと協力して\n　再び王国を救い出そう！\n\n・Monsters：Lv.3～50",
+			"text_contents": "・でんぢゃらす王国に\n　ヤツが戻ってきた！？\n\n・勇者（仮）じーさんと協力して\n　再び王国を救い出そう！\n\n・Monsters：Lv.3-50",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -4597,7 +4597,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "・ステージ概要1\n\n・ステージ概要2\n\n・Monsters：Lv.999～999",
+			"text_contents": "・ステージ概要1\n\n・ステージ概要2\n\n・Monsters：Lv.999-999",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

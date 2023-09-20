@@ -1475,7 +1475,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Party",
+			"text_contents": "Menu",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2434,7 +2434,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1\u0003\u0001>{2, num} times",
+			"text_contents": "<1\u0003\u0001>{2, num}xTry",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2777,7 +2777,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You don't have enough\nstamina yet! Use another\n<17\u0003>{5, ItemData, +}<2,耀>{3, name, +}to recover<1\u0005\u0001>{3, value}stamina?",
+			"text_contents": "Use another <17\u0003>{5, ItemData, +}<2,耀>{3, name, +}\nto recover <1\u0005\u0001>{3, value} more stamina?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

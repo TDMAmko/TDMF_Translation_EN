@@ -474,7 +474,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found <1\u0004\u0001>{3, jewel} Jewel.",
+			"text_contents": "Found <1\u0004\u0001>{3, jewel}x Jewel.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -488,7 +488,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\nJewel acquired <1\u0003\u0001>{3, jewel}\nas a check-in bonus.",
+			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\n<1\u0003\u0001>{3, jewel}x Jewel acquired <1\u0003\u0001>{3, jewel}\nas a check-in bonus.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3617,56 +3617,56 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "火",
+			"text_contents": "Tue",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Water",
+			"text_contents": "Wed",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Tree",
+			"text_contents": "Thu",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gold",
+			"text_contents": "Fri",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Earth",
+			"text_contents": "Sat",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Japan",
+			"text_contents": "Sun",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Monday",
+			"text_contents": "Mon",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "C?",
+			"text_contents": "?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3680,7 +3680,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Order",
+			"text_contents": "item",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
