@@ -1,0 +1,24 @@
+Applying TDMF Translation Patch DEMO by Amko and NerduMiner
+
+
+PATCH WILL ONLY WORK IF UPDATE 1.16 OR 1.17 is installed for TDMF!!!
+
+On Citra (Emulator):
+-Right click on The Denpa Men FREE in Citra
+-Choose "Open mods location"
+-Create a new folder in that directory called "romfs"
+-Paste in the archives from this folder (all other files except this text file)
+-Launch the game on Citra to test it out!
+
+On a homebrewed Nintendo 3ds console:
+-Active game patching by pressing select while booting the console
+("Enable game patching")
+-Open/Create "titles" folder on your console's luma folder
+(luma->titles)
+-Create a new folder called "0004000000125D00" (title ID of TDMF)
+-Create a new folder called "romfs" in folder 0004000000125D00
+-Paste in the archives (all other files except this text file)
+
+UNLOCKING CHECK-IN AND EVENTS IN CITRA AND NINTENDO 3ds: A4J8Y13ML7TAWWE1
+(enter this code in the settings in the "Gift Code" section)
+

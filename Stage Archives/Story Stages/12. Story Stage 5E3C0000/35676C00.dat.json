@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "\"Fairy Harp\"を<18\u0000>借<19\u0000>か<1:\u0000>りた！\n<18\u0000>精霊像<19\u0000>せいれいぞう<1:\u0000>の<18\u0000>前<19\u0000>まえ<1:\u0000>でＡボタンを<18\u0000>押<19\u0000>お<1:\u0000>せば<18\u0000>演奏<19\u0000>えんそう<1:\u0000>できるぞ。",
+			"text_contents": "\"Fairy Harp\" borrowed! Press A\nin front of a statue to illuminate it.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いらっしゃいませ。\n<18\u0000>便利<19\u0000>べんり<1:\u0000>な<18\u0000>品物<19\u0000>しなもの<1:\u0000>がたくさんありますよ。<1\"\u0000>\n<18\u0000>特<19\u0000>とく<1:\u0000>に\"まぼろし\"という<18\u0000>効果<19\u0000>こうか<1:\u0000>のついたそうび。<1\"\u0000>\nこちらは\"<18\u0000>相手<19\u0000>あいて<1:\u0000>のクリティカル<18\u0000>攻撃<19\u0000>こうげき<1:\u0000>\"を\n<18\u0000>防<19\u0000>ふせ<1:\u0000>ぐそうですよ。",
+			"text_contents": "Welcome.\nHave many useful items!<1\"\u0000>\nAlso have very special equip\nwith \"Illusion\" effect.<1\"\u0000>\nThis effect, can prevent\ncritical hit from enemy!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ようこそ\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"へ。\n<18\u0000>旅<19\u0000>たび<1:\u0000>のお<18\u0000>方<19\u0000>かた<1:\u0000>が、この<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>何<19\u0000>なん<1:\u0000>の<18\u0000>御用<19\u0000>ごよう<1:\u0000>でしょうか？<1\"\u0000>\n……ふむ……<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<18\u0000>女王<19\u0000>じょおう<1:\u0000>に<18\u0000>会<19\u0000>あ<1:\u0000>いたいと……\nでしたら、この<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>伝<19\u0000>つた<1:\u0000>わるお<18\u0000>話<19\u0000>はなし<1:\u0000>をひとつ。<1\"\u0000>\nこの<18\u0000>村<19\u0000>むら<1:\u0000>から<18\u0000>北<19\u0000>きた<1:\u0000>に<18\u0000>位<19\u0000>い<1:\u0000><18\u0000>置<19\u0000>ち<1:\u0000>する\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"という<18\u0000>場所<19\u0000>ばしょ<1:\u0000>。<1\"\u0000>\nそこが\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"への\n<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>口<19\u0000>ぐち<1:\u0000>だと<18\u0000>伝<19\u0000>つた<1:\u0000>えられております。<1\"\u0000>\n<18\u0000>何<19\u0000>なん<1:\u0000>でも、<18\u0000>聖<19\u0000>せい<1:\u0000>なる<18\u0000>音色<19\u0000>ねいろ<1:\u0000>とともにその<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>口<19\u0000>ぐち<1:\u0000>が\n<18\u0000>現<19\u0000>あらわ<1:\u0000>れるとも<18\u0000>言<19\u0000>い<1:\u0000>われております。<1\"\u0000>\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>かどうかは<18\u0000>分<19\u0000>わ<1:\u0000>かりません……ですが\n<18\u0000>調<19\u0000>しら<1:\u0000>べてみるのも<18\u0000>良<19\u0000>よ<1:\u0000>いかもしれませぬな。",
+			"text_contents": "Welcome, this \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".\nHow can help you, travelers?<1\"\u0000>\nIf want meet Fairy Queen, then\nme tell you story...<1\"\u0000>\nStory passed down, from\nseveral generations.<1\"\u0000>\nNorth of village, you find\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".<1\"\u0000>\nIt is said, there entrance\nto <1\"\u0000>\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".<1\"\u0000>\nFor entrance to appear, need\nstatues to illuminate<1\"\u0000>\nin right order. Not sure\nif true, but worth trying.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>村<19\u0000>むら<1:\u0000>に<18\u0000>伝<19\u0000>つた<1:\u0000>わる<18\u0000>話<19\u0000>はなし<1:\u0000>では……<1\"\u0000>\nこの<18\u0000>村<19\u0000>むら<1:\u0000>から<18\u0000>北<19\u0000>きた<1:\u0000>に<18\u0000>位<19\u0000>い<1:\u0000><18\u0000>置<19\u0000>ち<1:\u0000>する\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"という<18\u0000>場所<19\u0000>ばしょ<1:\u0000>。<1\"\u0000>\nそこが\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"への\n<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>口<19\u0000>ぐち<1:\u0000>だと<18\u0000>伝<19\u0000>つた<1:\u0000>えられております。<1\"\u0000>\nその<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>口<19\u0000>ぐち<1:\u0000>は<18\u0000>聖<19\u0000>せい<1:\u0000>なる<18\u0000>音色<19\u0000>ねいろ<1:\u0000>とともに<18\u0000>現<19\u0000>あらわ<1:\u0000>れる、と。<1\"\u0000>\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>かどうかは<18\u0000>分<19\u0000>わ<1:\u0000>かりませんが\n<18\u0000>調<19\u0000>しら<1:\u0000>べてみると<18\u0000>良<19\u0000>よ<1:\u0000>いのではないでしょうか？",
+			"text_contents": "According to story, in\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\", entrance of<1\"\u0000>\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".For entrance to appear, need<1\"\u0000>\nstatues to illuminate\nin right order. Not sure<1\"\u0000>\nif true, but worth trying.\nRigh?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あんちゃん、<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<18\u0000>女王様<19\u0000>じょおうさま<1:\u0000>さ<18\u0000>会<19\u0000>あ<1:\u0000>いに<18\u0000>行<19\u0000>い<1:\u0000>くんか？<1\"\u0000>\nええなー！きっとキレイな<18\u0000>人<19\u0000>ひと<1:\u0000>さね？\nホントさ<18\u0000>会<19\u0000>あ<1:\u0000>えたら<18\u0000>教<19\u0000>おし<1:\u0000>えてくんろ！！",
+			"text_contents": "Hey, you want, meet\nFairy Queen?<1\"\u0000>\nMe heard, she very beatiful!\nIf meet her, please<1\"\u0000>\nme about her!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>本来<19\u0000>ほんらい<1:\u0000>、<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>には<18\u0000>妖精<19\u0000>ようせい<1:\u0000>は<18\u0000>見<19\u0000>み<1:\u0000>えないのです、これが。\n<18\u0000>子供<19\u0000>こども<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>には<18\u0000>稀<19\u0000>まれ<1:\u0000>に<18\u0000>見<19\u0000>み<1:\u0000>える<18\u0000>子<19\u0000>こ<1:\u0000>がいるのです、これが。<1\"\u0000>\n<18\u0000>見<19\u0000>み<1:\u0000>える<18\u0000>子<19\u0000>こ<1:\u0000>は<18\u0000>珍<19\u0000>めずら<1:\u0000>しいはずなのですが\nこの<18\u0000>村<19\u0000>むら<1:\u0000>だけは<18\u0000>極端<19\u0000>きょくたん<1:\u0000>にそれが<18\u0000>多<19\u0000>おお<1:\u0000>いのです、これが。<1\"\u0000>\nこの<18\u0000>大陸<19\u0000>たいりく<1:\u0000>に<18\u0000>満<19\u0000>み<1:\u0000>ちている\n<18\u0000>不<19\u0000>ふ<1:\u0000><18\u0000>思<19\u0000>し<1:\u0000><18\u0000>議<19\u0000>ぎ<1:\u0000>な<18\u0000>力<19\u0000>ちから<1:\u0000>のせいなのでしょうか？これは。",
+			"text_contents": "Naturally, dwarfs not see\nfairies, only dwarf children<1\"\u0000>\ncan see fairies.\nUsually, fairies very rare<1\"\u0000>\ntoo, but on this continent,\nappear often. This continent<1\"\u0000>\nhas very special\nhistory.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>我々<19\u0000>われわれ<1:\u0000>は<18\u0000>別<19\u0000>べつ<1:\u0000>の<18\u0000>大陸<19\u0000>たいりく<1:\u0000>からですね\nこの<18\u0000>村<19\u0000>むら<1:\u0000>へ<18\u0000>調査<19\u0000>ちょうさ<1:\u0000>に<18\u0000>来<19\u0000>き<1:\u0000>たのですよ。<1\"\u0000>\n<18\u0000>妖精<19\u0000>ようせい<1:\u0000>への<18\u0000>信仰<19\u0000>しんこう<1:\u0000>が<18\u0000>強<19\u0000>つよ<1:\u0000>いとは<18\u0000>聞<19\u0000>き<1:\u0000>いていましたがですね\n<18\u0000>確<19\u0000>たし<1:\u0000>かに、この<18\u0000>村<19\u0000>むら<1:\u0000>は<18\u0000>不<19\u0000>ふ<1:\u0000><18\u0000>思<19\u0000>し<1:\u0000><18\u0000>議<19\u0000>ぎ<1:\u0000>な<18\u0000>何<19\u0000>なに<1:\u0000>かを<18\u0000>感<19\u0000>かん<1:\u0000>じますですよ。",
+			"text_contents": "We from other continent. Came\nhere for research.<1\"\u0000>\nMe heard, here strog belief\nin fairies. But also sure,<1\"\u0000>\nthis place has\nsomething special.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"だべ。<1\"\u0000>\nこん<18\u0000>村<19\u0000>むら<1:\u0000>では、<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<18\u0000>存在<19\u0000>そんざい<1:\u0000>が<18\u0000>他<19\u0000>ほか<1:\u0000>ん<18\u0000>場所<19\u0000>ばしょ<1:\u0000>よりか\nそらあもう<18\u0000>強<19\u0000>つよ<1:\u0000>く<18\u0000>信<19\u0000>しん<1:\u0000>じられてんだべ。",
+			"text_contents": "This, \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".<1\"\u0000>\nIn this village, very strong\nbelief in fairies.<1\"\u0000>\nMuch stronger than in\nanywhere else!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ、<18\u0000>妖精<19\u0000>ようせい<1:\u0000>？<18\u0000>見<19\u0000>み<1:\u0000>えるのかって？<1\"\u0000>\nアタシも<18\u0000>子供<19\u0000>こども<1:\u0000>の<18\u0000>頃<19\u0000>ころ<1:\u0000>はねー<18\u0000>何度<19\u0000>なんど<1:\u0000>か<18\u0000>見<19\u0000>み<1:\u0000>たけど\n<18\u0000>大人<19\u0000>おとな<1:\u0000>になってからは、もうさーっぱり<18\u0000>見<19\u0000>み<1:\u0000>えないよ！",
+			"text_contents": "What, fairies? Me saw fairies,\nwhen I was a child.<1\"\u0000>\nNow I am adult,\ncan't see fairies anymore!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ワタシー、<18\u0000>妖精<19\u0000>ようせい<1:\u0000>とか<18\u0000>見<19\u0000>み<1:\u0000>たこと<18\u0000>無<19\u0000>な<1:\u0000>いっていうかー\nマジ、いまいち<18\u0000>信<19\u0000>しん<1:\u0000>じられないじゃん？<1\"\u0000>\nつか、<18\u0000>誰<19\u0000>だれ<1:\u0000>にでも<18\u0000>見<19\u0000>み<1:\u0000>えるわけじゃないって\nマジ<18\u0000>不公平<19\u0000>ふこうへい<1:\u0000>？ありえなくない？",
+			"text_contents": "Me never saw fairy, also not\nbelieve in fairies, you do?<1\"\u0000>\nIf really exist, then very\nunfair not everyone can<1\"\u0000>\nsee fairies, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オラも<18\u0000>妖精<19\u0000>ようせい<1:\u0000>さん<18\u0000>見<19\u0000>み<1:\u0000>たことあるべ！<1\"\u0000>\nでも、<18\u0000>大人<19\u0000>おとな<1:\u0000>さなったら<18\u0000>見<19\u0000>み<1:\u0000>えなくなるって\nカーチャン<18\u0000>言<19\u0000>い<1:\u0000>ってた……。<1\"\u0000>\n<18\u0000>見<19\u0000>み<1:\u0000>えなくなる<18\u0000>前<19\u0000>まえ<1:\u0000>さ、<18\u0000>一度<19\u0000>いちど<1:\u0000>くれーは\n<18\u0000>妖精<19\u0000>ようせい<1:\u0000>さんとお<18\u0000>話<19\u0000>はなし<1:\u0000>、してみたいべー。",
+			"text_contents": "Me saw fairy before! Mother\ntold me, when grow up, me<1\"\u0000>\ncan't see fairy anymore...\nWant to atleast talk once<1\"\u0000>\nwith fairy before grow up.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
