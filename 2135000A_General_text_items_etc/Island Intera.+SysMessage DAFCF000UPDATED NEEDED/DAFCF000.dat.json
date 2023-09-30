@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} equips <1ď\u0001>{3, item, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +} equipped\n<1ď\u0001>{3, item, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1293,7 +1293,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} was changed\nto <1ď\u0001>{3, item, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +} changed to\n<1ď\u0001>{3, item, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1965,7 +1965,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This item is not available\nat the moment, right???",
+			"text_contents": "This item is not available\nat the moment, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2728,7 +2728,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to save this\nphoto to SD card?",
+			"text_contents": "Save this photo to SD card?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

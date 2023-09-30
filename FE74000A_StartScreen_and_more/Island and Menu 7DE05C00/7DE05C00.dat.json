@@ -110,7 +110,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to stop\ngoing out?",
+			"text_contents": "Stop visiting?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1398,21 +1398,21 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to use a jewel\n to fully restore stamina?",
+			"text_contents": "Use a jewel to fully\nrestore stamina?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĸ\u0001>{3, name, +}\nDo you want to challenge it?",
+			"text_contents": "<1ĸ\u0001>{3, name, +}\nPlay this stage?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ġ\u0001>{3, name, +}\nDo you want to challenge it?",
+			"text_contents": "<1ġ\u0001>{3, name, +}\nPlay this stage?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1433,7 +1433,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to use boosters\nbefore challenging this stage?",
+			"text_contents": "Use boosters for this stage?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1447,7 +1447,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No boosters selected. Do you\nwant to challenge the stage\nwithout boosters?",
+			"text_contents": "No boosters selected.\nEnter stage without boosters?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1650,7 +1650,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to\nreomove <1ĉ\u0001>{3, name, +}from the house?",
+			"text_contents": "Remove <1ĉ\u0001>{3, name, +}\nfrom the house?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1783,7 +1783,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to let<1Ď\u0001>{3, name, +}\nmove in?",
+			"text_contents": "Let <1Ď\u0001>{3, name, +}\nmove in?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1916,14 +1916,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "If you pull it out\nnow, the tree\nwill be lost.\nPull out anyway?",
+			"text_contents": "If you pull up the tree now,\nit won't return as an item.\nAre you sure?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to harvest\nthe fruits from the tree?",
+			"text_contents": "Harvest the fruits\nfrom the tree?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2000,14 +2000,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to\nremove<1ď\u0001>{3, name, +}?\nThis will remove the interior\narrangement as well as\nthe resident of this house.",
+			"text_contents": "Remove <1ď\u0001>{3, name, +}?\nThis will remove the interior\narrangement as well as\nthe resident of this house.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you really want to harvest\n<1ď\u0001>{3, plant}\n, which will remove its water\nfertilizer effect.",
+			"text_contents": "If you harvest\n<1ď\u0001>{3, plant}\n, it will lose its water\nfertilizer effect. Are you sure?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2763,7 +2763,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to use <1\u0003\u0001>{2, num} Jewels\nfor the Ulta Rare Catch?",
+			"text_contents": "Use <1\u0003\u0001>{2, num} Jewels\nfor the Ulta Rare Catch?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2819,7 +2819,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to use<1Đ\u0001>{3, name, +}to open it?",
+			"text_contents": "Use <1Đ\u0001>{3, name, +}\nto open it?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

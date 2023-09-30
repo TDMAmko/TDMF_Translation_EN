@@ -3,23 +3,23 @@
 		"text_amount": 193,
 		"unk1": 8,
 		"header_size": 64,
-		"script_section_size": 12427,
-		"offset_strings": 12512,
+		"script_section_size": 12970,
+		"offset_strings": 13040,
 		"strings_section_size1": 1544,
-		"offset3": 14064,
+		"offset3": 14592,
 		"section_size2": 772,
-		"offset4": 14848,
+		"offset4": 15376,
 		"section_size3": 16,
-		"offset5": 14864,
+		"offset5": 15392,
 		"section_size4": 388,
 		"unk3": 0,
-		"offset6": 12412,
-		"offset7": 12427,
+		"offset6": 12954,
+		"offset7": 12969,
 		"unk4": 0
 	},
 	"text_info": [
 		{
-			"text_contents": "Green Continent",
+			"text_contents": "木工生産もっこうせいさんの村周辺むらしゅうへん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fairy Lake Continent",
+			"text_contents": "湖みずうみの大陸たいりく",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fairy Lake",
+			"text_contents": "妖精ようせいの湖みずうみ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Heaven realm?",
+			"text_contents": "くいしんぼう草原そうげん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Unmanned Island",
+			"text_contents": "無人むじん島とう",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Denpa Island",
+			"text_contents": "電波人間でんぱにんげんの島しま",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fairy Village",
+			"text_contents": "妖精ようせいの里さと",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Woodwork Village",
+			"text_contents": "木工もっこう生産せいさんの村むら",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Farmer Village",
+			"text_contents": "農場のうじょう村むら",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Excavation Site",
+			"text_contents": "発掘所はっくつじょ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Expedition Camp",
+			"text_contents": "探検隊たんけんたいのキャンプ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "End of the world??",
+			"text_contents": "世界せかいの端はし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Resting Place",
+			"text_contents": "狩人かりゅうどの休憩所きゅうけいじょ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fishing Place",
+			"text_contents": "いろいろ釣つり堀ぼり",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sweet Cave",
+			"text_contents": "甘口あまくちのどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Woody Forest",
+			"text_contents": "巨木きょぼくの森もり",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Secret Cave",
+			"text_contents": "はぐれ者もののどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Holy Fairy Temple",
+			"text_contents": "湖みずうみの神殿しんでん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lake Dockyard",
+			"text_contents": "湖みずうみへ続つづくどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Monkey Village",
+			"text_contents": "サルの里さと",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ancient Place",
+			"text_contents": "古代こだい遺跡いせき",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Icy Paths",
+			"text_contents": "氷こおりのどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Red-hot Trench",
+			"text_contents": "火ひのどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fish Lake Settlement",
+			"text_contents": "湖みずうみの釣つり場ば",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Evacuation Camp",
+			"text_contents": "避難ひなんキャンプ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Morass of mud",
+			"text_contents": "どろんこどうくつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Egg-hunt Site",
+			"text_contents": "エッグハント会場かいじょう",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "盗ぬすっ人とのどうくつ入もりいり口ぐちEn",
+			"text_contents": "盗ぬすっ人とのどうくつ入もりいり口ぐち",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Monster Coliseum",
+			"text_contents": "モンスターコロシアム",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1419,7 +1419,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Palace Tower",
+			"text_contents": "パレスタワー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1475,7 +1475,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Evil Hideout",
+			"text_contents": "イビルタワー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1685,7 +1685,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Palace Tower",
+			"text_contents": "パレスタワー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1713,7 +1713,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Burning Volcano",
+			"text_contents": "しゃくねつ火山かざん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1741,7 +1741,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Evil Tower",
+			"text_contents": "イビルタワー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1853,7 +1853,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Monster Coliseum",
+			"text_contents": "モンスターコロシアム",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1867,7 +1867,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Monster Coliseum",
+			"text_contents": "モンスターコロシアム",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1979,7 +1979,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Dragon's Tower",
+			"text_contents": "ドラゴンズタワー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2063,7 +2063,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Collectors' Boutique",
+			"text_contents": "コレクターズブティック",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2091,7 +2091,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event Venue",
+			"text_contents": "イベント会場",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
