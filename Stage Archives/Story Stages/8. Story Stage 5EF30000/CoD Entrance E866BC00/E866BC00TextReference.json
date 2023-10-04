@@ -1,0 +1,349 @@
+{
+	"header": {
+		"text_amount": 18,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 8325,
+		"offset_strings": 8400,
+		"strings_section_size1": 216,
+		"offset3": 8624,
+		"section_size2": 72,
+		"offset4": 8704,
+		"section_size3": 16,
+		"offset5": 8720,
+		"section_size4": 38,
+		"unk3": 0,
+		"offset6": 8316,
+		"offset7": 8324,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "くらやみのランプを借かりた！\nこれで暗くらい場所ばしょにも入はいれるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは{8, MessageMapName, +}<2\u0018耀>{4, message}だ。\n{8, MessageMapName, +}<2\u001A耀>{4, message}内部ないぶへは\n奥おくにある階段かいだんから行いけるぞ。\nただ、特別とくべつなランプがないと\n地底人ちていじん以外いがいは闇やみの力ちからに、追おい返かえされるんだけどな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは{8, MessageMapName, +}<2\u0018耀>{4, message}だ。\nおっ！「くらやみのランプ」を持もっているな。\nそれがないと、奥おくへ行いけないからな。\n{8, MessageMapName, +}<2\u001A耀>{4, message}内部ないぶへは\n奥おくにある階段かいだんから行いけるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かあ～ちゃんのためなら～\nえっさ！ほいさ！えっさ！ほいさ！\nん？なんだ？\nオマエ、{8, MessageMapName, +}<2\u001A耀>{4, message}に入はいりたいのか？\nそのまま入はいると闇やみの力ちからに追おい返かえされるぞ。\nこれを持もっていきな、「くらやみのランプ」だ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かあ～ちゃん、こわいから～\nえっさ！ほいさ！えっさ！ほいさ！\n{8, MessageMapName, +}<2\u001A耀>{4, message}内部ないぶは\n「くらやみのランプ」があれば探索たんさくできるぞ。\nただ、「くらやみのランプ」の燃料ねんりょうが切きれて\n明あかりがなくなると、『リタイア』になる。\n「くらやみのランプ」の燃料ねんりょうになる\n「ランプかいふく」があれば回復かいふくできるがな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u001A耀>{4, message}最深部さいしんぶは\n屈強くっきょうなヤツによって守まもられているらしいぞ。\nそいつの姿すがたは、まるで騎士きしのようだとか。\nまあ、オレは怖こわくて\nそんなヤツに会あいたいと思おもわんがな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageNpcName, +}<2D耀>{4, message}のヤツ、大丈夫だいじょうぶかな……。\nアイツ、{8, MessageMapName, +}<2\u001A耀>{4, message}に入はいった自分じぶんの子供こどもを\n探さがしに行いったきり、帰かえって来こないんだ。\n{8, MessageMapName, +}<2\u001A耀>{4, message}は、暗くらくて入いり組くんでいるから\n子供こどもが入はいればだいたい迷子まいごになるんだ。\nしかも、内部ないぶには隠かくし部屋べやがあるらしいぜ。\n隠かくし部屋べやに迷まよい込こんでいたら、大変たいへんだ。\n目印めじるしなんかがあればいいんだが……。\n内部ないぶをくまなく探さがすしかねえな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageNpcName, +}<2D耀>{4, message}のヤツ、大丈夫だいじょうぶかな……。\nえっ、なんだって！？アイツに会あった！？\nそうか、子供こどもも無事ぶじ見みつかったのか。\n良よかった、良よかった！これでひと安心あんしんだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageNpcName, +}<2D耀>{4, message}とアイツの子供こどもは無事ぶじなんだな。\n本当ほんとうに良よかった、良よかった！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暗闇くらやみでは明あかりがたより。松明たいまつに注目ちゅうもくするといい。\nそれと、冒険ぼうけんの準備じゅんびはしっかりとね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは、少すこし先さきも見みえないぐらい暗くらいね。\n明あかりがない状態じょうたいでは先さきへ進すすめそうにないよ。\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧㉼㺽➺㺼묯펷퀯➴닅⟦DEB8⟧닗렯⟗좲㌿뚱뛘엟눧밯껞산쎲⟞㯜랻⾴㺽튽➿우씯눧⻖瀤条⑥켻⟦D8DC⟧⿉㻁⟃벰⟦DDDE⟧⟦DDBB⟧糆쐲⟞붰쫚⿞➲뚰뜯쎲훐뀧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くらで、少すこし先さきも見みえませんよ。\n明あかりがない状態じょうたいでは先さきへ進すすめそうにないです。\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみましょうか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧⟦DEC3⟧㉼㺽➺㺼묯펷퀯쾴➾훝넮⟦D8B6⟧⟦DFB6⟧⟅⾲⟦DEBC⟧낮닀⟦DEC3⟧⟦DC27⟧묻뒷봯봾뿒우⟅쎲뷞ꤾ␮慰敧켤⟦D8DC⟧⿉㻁⟃벰⟦DDDE⟧⟦DDBB⟧糆쐲⟞붰쫚⿞➲뚰뜯쎲쿐꺼딧⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くらで、少すこし先さきも見みえませんね。\n明あかりがない状態じょうたいでは先さきへ進すすむのは無理むりですね。\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧⟦DEC3⟧㉼㺽➺㺼묯펷퀯쾴➾죝넮⟦D8B6⟧⟦DFB6⟧⟅⾲⟦DEBC⟧낮닀⟦DEC3⟧⟦DC27⟧㉼랻⾴㺽톽줧⿜⟑쏘뷞젯␮慰敧켤⟦D8DC⟧⿉㻁⟃벰⟦DDDE⟧⟦DDBB⟧糆쐲⟞붰쫚⿞➲뚰뜯쎲쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くらで、全まったく先さきが見みえないぞ！\n明あかりがないと先さきへ進すすめそうにないな。\nまわりの地底人ちていじんたちに\nどうすればいいか聞きいてみようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧⟦DEC3⟧㉼꿏룀⼾랻⟦DFB6⟧퀯➴닅뼯糞뚱뛘엟눧⿄랻⾴㺽튽➿우씯눧⻅瀤条⑥⟦DCCF⟧짘섯쌾뀧⟦DEBC⟧생웁㉼⟦DEC4⟧뀧⟦DABD⟧⟦DECA⟧눯뀧⾶늷탃⟖⾳⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかはまっくら！ぜんぜん先さきが見みえないよ！\n明あかりがないと先さきへ進すすめそうにないね。\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみようよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧빼⟦DDDE⟧⟦DEBE⟧⿝랻⟦DFB6⟧퀯➴닅ꯖ논⟦D8B6⟧⟦DFB6⟧⟅쒲묯뒷봯봾뿒뀧⿆⟅⾲⻈瀤条⑥⟦DCCF⟧짘섯쌾뀧⟦DEBC⟧믝웝㉼⟦DEC4⟧뀧⟦DABD⟧⟦DECA⟧눯뀧⾶늷탃⟖횰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くら！少すこし先さきも見みえないわよ。\n明あかりがないと先さきへ進すすむのは難むずかしいわ。\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみる？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧뵼먾밧⼾랻⿓듐씧⟦DCB2⟧혯넮⟦D8B6⟧⟦DFB6⟧⟅쒲㉼랻⾴㺽톽줧⿜뷑뛞➼⾲⻜瀤条⑥⟦DCCF⟧짘섯쌾뀧⟦DEBC⟧믝웝㉼⟦DEC4⟧뀧⟦DABD⟧⟦DECA⟧눯뀧⾶늷탃⟦D927⟧㾩",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くらで、少すこし先さきも見みえないな。\n明あかりがない状態じょうたいでは先さきへ進すすむのは無謀むぼうだぞ。\nまわりの地底人ちていじんたちに\nどうすればいいか聞きいてみるとするか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧⟦DEC3⟧㉼㺽➺㺼묯펷퀯➴닅⻅뚱뛘엟눧밯껞산쎲⟞糜묲뒷봯봾⟑⟦DCC9⟧턯⟦DECE⟧산⟞⟦DEBF⟧␮慰敧켤⟦D8DC⟧⿉㻁⟃벰⟦DDDE⟧쇀糆쐲⟞붰쫚⿞➲뚰뜯쎲⟐쓙⟦D9BD⟧⺶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中なかは真まっ暗くらですよ。少すこし先さきも見みえませんね。\n明あかりもないのに入はいれなんて言いいませんよね？\nまわりの地底人ちていじんさんに\nどうすればいいか聞きいてみましょうか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅⟦DCB6⟧켯뢯휧⟦DEC3⟧횽봮먾밧⼾랻⿓듐뻏⟦DD27⟧⻈뚱폘⟅즲⿆⟊⟦DAB2⟧⟦DDC5⟧⿃늲뻏⟦DD27⟧죖␿慰敧켤⟦D8DC⟧⿉㻁⟃벰⟦DDDE⟧⟦DDBB⟧糆쐲⟞붰쫚⿞➲뚰뜯쎲쿐꺼딧㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"f01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483666,
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664
+	]
+}
