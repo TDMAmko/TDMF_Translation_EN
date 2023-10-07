@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "くらやみのランプを<18\u0000>借<19\u0000>か<1:\u0000>りた！\nこれで<18\u0000>暗<19\u0000>くら<1:\u0000>い<18\u0000>場所<19\u0000>ばしょ<1:\u0000>にも<18\u0000>入<19\u0000>はい<1:\u0000>れるぞ。",
+			"text_contents": "You borrowed the Darkness Lamp!\nNow you can enter the<1\"\u0000>\nCave of Darkness.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは<17\u0003>{8, MessageMapName, +}<2\u0018耀>{4, message}だ。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<18\u0000>内部<19\u0000>ないぶ<1:\u0000>へは\n<18\u0000>奥<19\u0000>おく<1:\u0000>にある<18\u0000>階段<19\u0000>かいだん<1:\u0000>から<18\u0000>行<19\u0000>い<1:\u0000>けるぞ。<1\"\u0000>\nただ、<18\u0000>特別<19\u0000>とくべつ<1:\u0000>なランプがないと\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000><18\u0000>以外<19\u0000>いがい<1:\u0000>は<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>に、<18\u0000>追<19\u0000>お<1:\u0000>い<18\u0000>返<19\u0000>かえ<1:\u0000>されるんだけどな。",
+			"text_contents": "This, <17\u0003>{8, MessageMapName, +}<2\u0018耀>{4, message}.<1\"\u0000>\nCan enter <17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}\nwith staircase in back<1\"\u0000>\nbut need a lamp, otherwise\ndark forces will banish you.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは<17\u0003>{8, MessageMapName, +}<2\u0018耀>{4, message}だ。<1\"\u0000>\nおっ！「くらやみのランプ」を<18\u0000>持<19\u0000>も<1:\u0000>っているな。\nそれがないと、<18\u0000>奥<19\u0000>おく<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>けないからな。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<18\u0000>内部<19\u0000>ないぶ<1:\u0000>へは\n<18\u0000>奥<19\u0000>おく<1:\u0000>にある<18\u0000>階段<19\u0000>かいだん<1:\u0000>から<18\u0000>行<19\u0000>い<1:\u0000>けるぞ。",
+			"text_contents": "This, <17\u0003>{8, MessageMapName, +}<2\u0018耀>{4, message}.<1\"\u0000>\nOops! Not have \"Darkness Lamp\"\nto enter <17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<1\"\u0000>\nNo have Darkness Lamp,\nno can go.<1\"\u0000>\nStaircase in back lead\nto cave but get lamp first.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "かあ～ちゃんのためなら～\nえっさ！ほいさ！えっさ！ほいさ！<1\"\u0000>\nん？なんだ？\nオマエ、<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}に<18\u0000>入<19\u0000>はい<1:\u0000>りたいのか？<1\"\u0000>\nそのまま<18\u0000>入<19\u0000>はい<1:\u0000>ると<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>に<18\u0000>追<19\u0000>お<1:\u0000>い<18\u0000>返<19\u0000>かえ<1:\u0000>されるぞ。\nこれを<18\u0000>持<19\u0000>も<1:\u0000>っていきな、「くらやみのランプ」だ。",
+			"text_contents": "Work for family lala...\nYes! What is? Eh? Hey!<1\"\u0000>\nHmm？\nWant to enter<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}? If go\nin there, darkness will chase you.<1\"\u0000>\nNeed \"Darkness Lamp\", here,\nwill give to you.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "かあ～ちゃん、こわいから～\nえっさ！ほいさ！えっさ！ほいさ！<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<18\u0000>内部<19\u0000>ないぶ<1:\u0000>は\n「くらやみのランプ」があれば<18\u0000>探索<19\u0000>たんさく<1:\u0000>できるぞ。<1\"\u0000>\nただ、「くらやみのランプ」の<18\u0000>燃料<19\u0000>ねんりょう<1:\u0000>が<18\u0000>切<19\u0000>き<1:\u0000>れて\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがなくなると、『リタイア』になる。<1\"\u0000>\n「くらやみのランプ」の<18\u0000>燃料<19\u0000>ねんりょう<1:\u0000>になる\n「ランプかいふく」があれば<18\u0000>回復<19\u0000>かいふく<1:\u0000>できるがな。",
+			"text_contents": "Work for family lala...\nYes! What is? Eh? Hey!<1\"\u0000>\nCan enter <17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}\nif have \"Darkness Lamp\".<1\"\u0000>\nBut careful, if lamp has no fuel,\nthen have to \"Give up\".<1\"\u0000>\nCan refill lamp with\n\"Lamp Charge\".<1\"\u0000>\nMake sure to use!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<18\u0000>最深部<19\u0000>さいしんぶ<1:\u0000>は\n<18\u0000>屈強<19\u0000>くっきょう<1:\u0000>なヤツによって<18\u0000>守<19\u0000>まも<1:\u0000>られているらしいぞ。<1\"\u0000>\nそいつの<18\u0000>姿<19\u0000>すがた<1:\u0000>は、まるで<18\u0000>騎士<19\u0000>きし<1:\u0000>のようだとか。<1\"\u0000>\nまあ、オレは<18\u0000>怖<19\u0000>こわ<1:\u0000>くて\nそんなヤツに<18\u0000>会<19\u0000>あ<1:\u0000>いたいと<18\u0000>思<19\u0000>おも<1:\u0000>わんがな。",
+			"text_contents": "Deepest part of\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message} protected<1\"\u0000>\nby very strong guy, look\nlike knight.<1\"\u0000>\nNot sure if want meet\nsuch guy...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2D耀>{4, message}のヤツ、<18\u0000>大丈夫<19\u0000>だいじょうぶ<1:\u0000>かな……。<1\"\u0000>\nアイツ、<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}に<18\u0000>入<19\u0000>はい<1:\u0000>った<18\u0000>自分<19\u0000>じぶん<1:\u0000>の<18\u0000>子供<19\u0000>こども<1:\u0000>を\n<18\u0000>探<19\u0000>さが<1:\u0000>しに<18\u0000>行<19\u0000>い<1:\u0000>ったきり、<18\u0000>帰<19\u0000>かえ<1:\u0000>って<18\u0000>来<19\u0000>こ<1:\u0000>ないんだ。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}は、<18\u0000>暗<19\u0000>くら<1:\u0000>くて<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>組<19\u0000>く<1:\u0000>んでいるから\n<18\u0000>子供<19\u0000>こども<1:\u0000>が<18\u0000>入<19\u0000>はい<1:\u0000>ればだいたい<18\u0000>迷子<19\u0000>まいご<1:\u0000>になるんだ。<1\"\u0000>\nしかも、<18\u0000>内部<19\u0000>ないぶ<1:\u0000>には<18\u0000>隠<19\u0000>かく<1:\u0000>し<18\u0000>部屋<19\u0000>べや<1:\u0000>があるらしいぜ。\n<18\u0000>隠<19\u0000>かく<1:\u0000>し<18\u0000>部屋<19\u0000>べや<1:\u0000>に<18\u0000>迷<19\u0000>まよ<1:\u0000>い<18\u0000>込<19\u0000>こ<1:\u0000>んでいたら、<18\u0000>大変<19\u0000>たいへん<1:\u0000>だ。<1\"\u0000>\n<18\u0000>目印<19\u0000>めじるし<1:\u0000>なんかがあればいいんだが……。\n<18\u0000>内部<19\u0000>ないぶ<1:\u0000>をくまなく<18\u0000>探<19\u0000>さが<1:\u0000>すしかねえな。",
+			"text_contents": "Is <17\u0003>{8, MessageNpcName, +}<2D耀>{4, message} alright...\nWent to <17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message}<1\"\u0000>\nto find son who entered\n<17\u0003>{8, MessageMapName, +}<2\u001A耀>{4, message} and not<1\"\u0000>\ncome back. Cave very dark and\nhuge, if child there,<1\"\u0000>\neasily gets lost.\nBut me heard, cave has hidden<1\"\u0000>\nroom, would be bad if child hid\nthere. Hopefully, can find hints<1\"\u0000>\nwhere secret room is...\nWill have to search whole<1\"\u0000>\nplace for it...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2D耀>{4, message}のヤツ、<18\u0000>大丈夫<19\u0000>だいじょうぶ<1:\u0000>かな……。<1\"\u0000>\nえっ、なんだって！？アイツに<18\u0000>会<19\u0000>あ<1:\u0000>った！？\nそうか、<18\u0000>子供<19\u0000>こども<1:\u0000>も<18\u0000>無事<19\u0000>ぶじ<1:\u0000><18\u0000>見<19\u0000>み<1:\u0000>つかったのか。<1\"\u0000>\n<18\u0000>良<19\u0000>よ<1:\u0000>かった、<18\u0000>良<19\u0000>よ<1:\u0000>かった！これでひと<18\u0000>安心<19\u0000>あんしん<1:\u0000>だ！！",
+			"text_contents": "Is <17\u0003>{8, MessageNpcName, +}<2D耀>{4, message} alright...\nWhat, he found son!<1\"\u0000>\nChild is save and unhurt!\nOh, this is great. Thank you!<1\"\u0000>\nFinally, now no need to\nworry anymore!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2D耀>{4, message}とアイツの<18\u0000>子供<19\u0000>こども<1:\u0000>は<18\u0000>無事<19\u0000>ぶじ<1:\u0000>なんだな。\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>良<19\u0000>よ<1:\u0000>かった、<18\u0000>良<19\u0000>よ<1:\u0000>かった！！",
+			"text_contents": "<17\u0003>{8, MessageNpcName, +}<2D耀>{4, message} and son are\nnow save and sound.<1\"\u0000>\nI'm so much glad!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>暗闇<19\u0000>くらやみ<1:\u0000>では<18\u0000>明<19\u0000>あ<1:\u0000>かりがたより。<18\u0000>松明<19\u0000>たいまつ<1:\u0000>に<18\u0000>注目<19\u0000>ちゅうもく<1:\u0000>するといい。\nそれと、<18\u0000>冒険<19\u0000>ぼうけん<1:\u0000>の<18\u0000>準備<19\u0000>じゅんび<1:\u0000>はしっかりとね。",
+			"text_contents": "In darkness, light is key.\nKeep eye out for torches.<1\"\u0000>\nAlso, be prepared for long\nadventure there.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は、<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えないぐらい<18\u0000>暗<19\u0000>くら<1:\u0000>いね。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがない<18\u0000>状態<19\u0000>じょうたい<1:\u0000>では<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めそうにないよ。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみよう！",
+			"text_contents": "It's so dark in there that I\ncan't see anything further<1\"\u0000>\nahead. Let's ask the dwarfs if\nthey can help us!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>で、<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えませんよ。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがない<18\u0000>状態<19\u0000>じょうたい<1:\u0000>では<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めそうにないです。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみましょうか！",
+			"text_contents": "I can't even see a little bit\nfurther ahead because it's so<1\"\u0000>\ndark. Without light, we can't\ngo on. I think we should<1\"\u0000>\nask the dwarfs if they can\ngive us something!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>で、<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えませんね。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがない<18\u0000>状態<19\u0000>じょうたい<1:\u0000>では<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>むのは<18\u0000>無理<19\u0000>むり<1:\u0000>ですね。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみましょう。",
+			"text_contents": "It's pitch dark in there. We\ncan't go any further without<1\"\u0000>\nlight. Let's ask the dwarfs\nfor help!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>で、<18\u0000>全<19\u0000>まった<1:\u0000>く<18\u0000>先<19\u0000>さき<1:\u0000>が<18\u0000>見<19\u0000>み<1:\u0000>えないぞ！\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがないと<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めそうにないな。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>たちに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみようぜ！",
+			"text_contents": "It's so dark that I can't see\nanything ahead. We need some<1\"\u0000>\nlight to enter this place.\nLet's aks the dwarfs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>はまっくら！ぜんぜん<18\u0000>先<19\u0000>さき<1:\u0000>が<18\u0000>見<19\u0000>み<1:\u0000>えないよ！\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがないと<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めそうにないね。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみようよ！",
+			"text_contents": "This area is completely dark!\nI don't think I can enter this<1\"\u0000>\nplace without any light.\nLet's ask the dwarfs for help!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>！<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えないわよ。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがないと<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>むのは<18\u0000>難<19\u0000>むずか<1:\u0000>しいわ。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみる？",
+			"text_contents": "It's pitch black inside. I can't\nsee anything there! We<1\"\u0000>\nprobably need some light. Let's\nask the people around here!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>で、<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えないな。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりがない<18\u0000>状態<19\u0000>じょうたい<1:\u0000>では<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>むのは<18\u0000>無謀<19\u0000>むぼう<1:\u0000>だぞ。<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>たちに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみるとするか。",
+			"text_contents": "It's so dark in there that I\ncan't see anything at all!<1\"\u0000>\nIt wouldn't be pretty smart\nto go in there without a lamp.<1\"\u0000>\nLet's ask the dwarfs if they\ngot something for us!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>中<19\u0000>なか<1:\u0000>は<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>暗<19\u0000>くら<1:\u0000>ですよ。<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>先<19\u0000>さき<1:\u0000>も<18\u0000>見<19\u0000>み<1:\u0000>えませんね。\n<18\u0000>明<19\u0000>あ<1:\u0000>かりもないのに<18\u0000>入<19\u0000>はい<1:\u0000>れなんて<18\u0000>言<19\u0000>い<1:\u0000>いませんよね？<1\"\u0000>\nまわりの<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんに\nどうすればいいか<18\u0000>聞<19\u0000>き<1:\u0000>いてみましょうか。",
+			"text_contents": "It's pitch dark inside, it's\nimpossible to see anything<1\"\u0000>\nfurther ahead. You wouldn't force\nme to enter this place without<1\"\u0000>\nany light, right? Then let's ask\nthe dwarfs for help!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

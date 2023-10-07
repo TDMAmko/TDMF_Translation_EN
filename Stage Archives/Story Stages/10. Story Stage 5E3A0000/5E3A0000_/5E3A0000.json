@@ -68,7 +68,7 @@
 			"fileIndex": 9,
 			"fileID": "3D0FA000",
 			"unk": 12,
-			"extension": "nfc",
+			"extension": "dat",
 			"isCompressed": true,
 			"compressedUnk": 0
 		},
@@ -316,16 +316,8 @@
 			"fileIndex": 40,
 			"fileID": "578F1C00",
 			"unk": 6,
-			"extension": "dat",
-			"isCompressed": true,
-			"compressedUnk": 0
-		},
-		{
-			"fileIndex": 41,
-			"fileID": "E0C55000",
-			"unk": 6,
-			"extension": "dat",
-			"isCompressed": true,
+			"extension": "zip",
+			"isCompressed": false,
 			"compressedUnk": 0
 		}
 	],

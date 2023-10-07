@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>けに<18\u0000>来<19\u0000>き<1:\u0000>ましたか？",
+			"text_contents": "Have you come here\nto take on the trial?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>試練<19\u0000>しれん<1:\u0000>をクリアしましたか？",
+			"text_contents": "Have you completed the trial?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2\n耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2\n耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いますか？",
+			"text_contents": "Fight <17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……ごくり！<18\u0000>緊張<19\u0000>きんちょう<1:\u0000>する！！<1\"\u0000>\nでも<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るんだよね！？<1\"\u0000>\nよーし、がんばるぞ！！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...\nGulp! I'm so nervous!!<1\"\u0000>\nBut if I can get through\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trials<1\"\u0000>\nI will finally obtain the last\nlegendary equipment!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……ごくり！<18\u0000>緊張<19\u0000>きんちょう<1:\u0000>しますね！！<1\"\u0000>\nでも<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るんですよね！？<1\"\u0000>\nよーし、がんばります！！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...\nGulp! I'm so nervous!!<1\"\u0000>\nBut if I can get through\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trials<1\"\u0000>\nand obstacles I will finally\nobtain the last legendary<1\"\u0000>\nequipment!! I'll do my best!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……ごくり！<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るんですよね……。<1\"\u0000>\n<18\u0000>行<19\u0000>い<1:\u0000>きましょうか！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...\nGulp! I'm really excited!!<1\"\u0000>\nIf I can get through\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trials<1\"\u0000>\nI will finally obtain the last\nlegendary equipment!!<1\"\u0000>\nWe'll get through this, right?\nI'll give my best!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}か……<18\u0000>武者震<19\u0000>むしゃぶる<1:\u0000>いが……。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るんだな！？<1\"\u0000>\n<18\u0000>気合<19\u0000>きあい<1:\u0000><18\u0000>入<19\u0000>い<1:\u0000>れていくぞ！！",
+			"text_contents": "So, this is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...\nIf we can beat the trials<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} has to offer,\nwe'll get the final legendary<1\"\u0000>\nequipment!!\nI will do my best!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……！<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>がもらえるんだよね！<1\"\u0000>\nよーし、がんばるぞ！！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...!\nI'm so nervous!<1\"\u0000>\nAfter clearing <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s\nchallenges, will we finally get<1\"\u0000>\nthe last legendary equipment?\nAlright, let's go!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……きゃ！<18\u0000>緊張<19\u0000>きんちょう<1:\u0000>！<1\"\u0000>\nでも<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るのね？<1\"\u0000>\nよし、いくわよっ！！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...oh！\nWhat unbearable tension!<1\"\u0000>\nBut if we get through\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trials, we'll<1\"\u0000>\nfinally obtain the last missing\nlegendary equipment!<1\"\u0000>\nOkay, let's go!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……ゴクリ！<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るのだね？<1\"\u0000>\nでは、<18\u0000>行<19\u0000>い<1:\u0000>くとするか！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...gulp!\nIf we manage to beat all of<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} trials, we'll\nget the final legendary equipment<1\"\u0000>\nThen what are we waitng for?\nLet's get going!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}……おおこわ。<1\"\u0000>\nでも<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>えられれば\n<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>をもらえるんですよね？<1\"\u0000>\nさすがに<18\u0000>面倒<19\u0000>めんどう<1:\u0000>とは<18\u0000>言<19\u0000>い<1:\u0000>ってられません。<18\u0000>行<19\u0000>い<1:\u0000>きますか。",
+			"text_contents": "Here we are, <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}...\nSo nervous...<1\"\u0000>\nIf we clear the trials of\n<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} we'll get the<1\"\u0000>\nfinal legendary equipment, right?\nI hope it won't be too much<1\"\u0000>\nof a hassle.\nWell, let's go for it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して\nようやく<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れたぞ……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を！！！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>って\nボク……うっ……<18\u0000>言葉<19\u0000>ことば<1:\u0000>にならないや……。<1\"\u0000>\nだけど、これだけは<18\u0000>言<19\u0000>い<1:\u0000>えるよ……。\nキミのおかげだよ、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にありがとう！！",
+			"text_contents": "We cleared <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}\nand finally got the last missing<1\"\u0000>\nlegendary item! I can't...believe\nwe...did it! I don't know what<1\"\u0000>\nto say. But I can say this,\nI really appreciate all the help<1\"\u0000>\nfrom you, without you, I would have\nnever made this!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して\nやっと<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れましたよ……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>！！！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>って\n<18\u0000>私<19\u0000>わたし<1:\u0000>……うっ……<18\u0000>言葉<19\u0000>ことば<1:\u0000>にならないです……。<1\"\u0000>\nだけど、これだけは<18\u0000>言<19\u0000>い<1:\u0000>えそうです……。\nあなたのおかげです、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にありがとう！！",
+			"text_contents": "We got through <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}!\nNow I have my hands on the final<1\"\u0000>\nlegendary equipment! I...have no\nwords...for this. All I...can<1\"\u0000>\nsay is...that...I'm so grateful\nfor your help!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して\nようやく<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れましたね……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>って\n<18\u0000>私<19\u0000>わたし<1:\u0000>……ダメですね……<18\u0000>言葉<19\u0000>ことば<1:\u0000>にならない……。<1\"\u0000>\nですが、これだけは<18\u0000>言<19\u0000>い<1:\u0000>わなければ……。\nあなたがいたから……ありがとう。",
+			"text_contents": "We finished <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} and\ngot the last legendary equip!<1\"\u0000>\nI don't...know...what to say...\nThank you for being with me!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して\nやっと<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れたぞー！！<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を！！！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>って\n<18\u0000>俺<19\u0000>おれ<1:\u0000>、<18\u0000>感無量<19\u0000>かんむりょう<1:\u0000>だぜ……。<1\"\u0000>\nこれもぜんぶ……あんたのおかげだぜ！\nありがとよ！！",
+			"text_contents": "We conquered <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} and\nfinally got the last legendary<1\"\u0000>\npiece of equipment!\nI'm so amazed that we now<1\"\u0000>\nhave all the legendary items\nin our possesion!<1\"\u0000>\nI owe...it all to you!\nThank you!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>越<19\u0000>こ<1:\u0000>えて\nついに<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れたよ……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>！！！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>がそろったよ……。\n<18\u0000>僕<19\u0000>ぼく<1:\u0000>……うっ……<18\u0000>泣<19\u0000>な<1:\u0000>いてないよ……。<1\"\u0000>\n……これもぜんぶ、<18\u0000>君<19\u0000>きみ<1:\u0000>のおかげだよ！\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にありがとう！！",
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trial is done!\nI finally got it!<1\"\u0000>\nNow all the legendary items\nthere are belong to us!<1\"\u0000>\nI...am...not crying...\nI...owe this all to you!<1\"\u0000>\nThank you so much!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して\nようやく<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れた……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>！！！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>がそろって……\n<18\u0000>長<19\u0000>なが<1:\u0000>かったようで<18\u0000>短<19\u0000>みじか<1:\u0000>かったわねえ……。<1\"\u0000>\nあなたのおかげよね、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に！\nこれからもよろしくね！",
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s trial is\nfinally over! I finally got<1\"\u0000>\nmy hands on the last missing\nlegendary equipment!<1\"\u0000>\nI thought it would take a lot\nof time to get all the legendary<1\"\u0000>\nequip...but with you we were\nable to get them all so quick!<1\"\u0000>\nIt's all thanks to you!\nI really really appreciate<1\"\u0000>\nyour help!\nKeep up the good work!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>越<19\u0000>こ<1:\u0000>えて\nようやく<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れた……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を！<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>がこの<18\u0000>手<19\u0000>て<1:\u0000>に……。\nこんな<18\u0000>満足<19\u0000>まんぞく<1:\u0000>した<18\u0000>気持<19\u0000>きも<1:\u0000>ちになるとは……。<1\"\u0000>\nありがとう！<18\u0000>君<19\u0000>きみ<1:\u0000>には<18\u0000>感謝<19\u0000>かんしゃ<1:\u0000>している。\n<18\u0000>私<19\u0000>わたし<1:\u0000>と<18\u0000>君<19\u0000>きみ<1:\u0000>が<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>合<19\u0000>あ<1:\u0000>わせれば<18\u0000>無敵<19\u0000>むてき<1:\u0000>だよ。",
+			"text_contents": "We mastered <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s\ntrials and now got the final<1\"\u0000>\nlegendary equipment! Now all of\nare in our hands...<1\"\u0000>\nI never thought I could feel so\nfulfilled...Thank you!<1\"\u0000>\nI'm so grateful! If we both work\ntogether, we are be unbeatable!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}での<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>終<19\u0000>お<1:\u0000>えて\n<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>りましたよ……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>……。<1\"\u0000>\n<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>がここに……。\n<18\u0000>意外<19\u0000>いがい<1:\u0000>に<18\u0000>軽<19\u0000>かる<1:\u0000>いんですねえ……。<1\"\u0000>\nだけど、あなたとの<18\u0000>冒険<19\u0000>ぼうけん<1:\u0000>の<18\u0000>思<19\u0000>おも<1:\u0000>い<18\u0000>出<19\u0000>で<1:\u0000>は\nこんな<18\u0000>軽<19\u0000>かる<1:\u0000>さじゃなかった……なんて……ふふふ。",
+			"text_contents": "I've finished <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s\nand finally got the last<1\"\u0000>\nlegendary equip...on my hands...\nNow we got all of them!<1\"\u0000>\nThey are surprisingly lightweight\nbut getting them wasn't<1\"\u0000>\nthat light...I'll never forget<1\"\u0000>\nthe memories going through all\nof this with you!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは<18\u0000>真<19\u0000>しん<1:\u0000>の<18\u0000>強者<19\u0000>きょうしゃ<1:\u0000>を<18\u0000>見極<19\u0000>みきわ<1:\u0000>める、<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}。\nオマエ、<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>けに<18\u0000>来<19\u0000>き<1:\u0000>たヤツだな。<1\"\u0000>\nこの<18\u0000>先<19\u0000>さき<1:\u0000>にいる、<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>2<18\u0000>匹<19\u0000>ひき<1:\u0000>のどちらかと<18\u0000>戦<19\u0000>たたか<1:\u0000>い\n<18\u0000>勝利<19\u0000>しょうり<1:\u0000>すれば<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>むことができるぜ。",
+			"text_contents": "Here, in <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message} will\nbe determined true strength.<1\"\u0000>\nYou, came here to do trial.\nCan proceed trial if beat one of<1\"\u0000>\n2 bosses ahead.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>にいる、<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>2<18\u0000>匹<19\u0000>ひき<1:\u0000>のどちらかと<18\u0000>戦<19\u0000>たたか<1:\u0000>い\n<18\u0000>勝利<19\u0000>しょうり<1:\u0000>すれば<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>むことができるぜ。",
+			"text_contents": "If win against one of 2 monsters\nahead, can proceed, next floor.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>魔物<19\u0000>まもの<1:\u0000>たちには<18\u0000>怖<19\u0000>こわ<1:\u0000>がらずに、<18\u0000>話<19\u0000>はな<1:\u0000>しかけてみろ。\n<18\u0000>噂<19\u0000>うわさ<1:\u0000>では<18\u0000>声<19\u0000>こえ<1:\u0000>かけても、すぐに<18\u0000>戦<19\u0000>たたか<1:\u0000>いにならんそうだ。<1\"\u0000>\nまあ、あくまで<18\u0000>噂<19\u0000>うわさ<1:\u0000>なんで\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>かどうかは<18\u0000>自分<19\u0000>じぶん<1:\u0000><18\u0000>自身<19\u0000>じしん<1:\u0000>で<18\u0000>確<19\u0000>たし<1:\u0000>かめてくれ。",
+			"text_contents": "No need to be afraid, talking\nto bosses. Rumor says, fight not<1\"\u0000>\nstart instantly if trying\nto talk with boss.<1\"\u0000>\nBut this just rumor. Check\nfor yourself if really true.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>主<19\u0000>ぬし<1:\u0000>、<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したのか！？<1\"\u0000>\n<18\u0000>挑戦<19\u0000>ちょうせん<1:\u0000>する<18\u0000>者<19\u0000>もの<1:\u0000>には<18\u0000>沢山<19\u0000>たくさん<1:\u0000><18\u0000>会<19\u0000>あ<1:\u0000>ってきたが\n<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>する<18\u0000>者<19\u0000>もの<1:\u0000>に<18\u0000>会<19\u0000>あ<1:\u0000>うのは<18\u0000>初<19\u0000>はじ<1:\u0000>めてだ！<1\"\u0000>\nオマエはすごいヤツだよ！",
+			"text_contents": "<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}'s master\n<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +} was beaten<1\"\u0000>\nby you!? Me met many people\ntrying this challenge. But you<1\"\u0000>\nonly one who beat it!\nYou really great!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>残<19\u0000>のこ<1:\u0000>った<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>たちと<18\u0000>戦<19\u0000>たたか<1:\u0000>うのか？\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>にすごいヤツ！<18\u0000>頑張<19\u0000>がんば<1:\u0000>れよ！！",
+			"text_contents": "Now you defeat rest of the\nmonsters in trial?<1\"\u0000>\nYou really great guy!\nGood luck!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オマエ、ここの<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>けに<18\u0000>来<19\u0000>き<1:\u0000>たのか？",
+			"text_contents": "You, came here to do trial?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,7 +439,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ほう、<18\u0000>挑<19\u0000>いど<1:\u0000>むのか。\nまあ、<18\u0000>上<19\u0000>うえ<1:\u0000>には<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>があるって<18\u0000>噂<19\u0000>うわさ<1:\u0000>だからな。<1\"\u0000>\nだけど……<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>は\nめちゃ<18\u0000>強<19\u0000>つよ<1:\u0000>いヤツが<18\u0000>守<19\u0000>まも<1:\u0000>っているって<18\u0000>噂<19\u0000>うわさ<1:\u0000>だぜ。",
+			"text_contents": "Oh, so you really do trial?\nMe heard rumor, top floor<1\"\u0000>\nhas one of legendary equipment.<1\"\u0000>\nBut...guarded by very strong\nand powerful man.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "とうぜんだ、やめた<18\u0000>方<19\u0000>ほう<1:\u0000>がいい！<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れるより\n<18\u0000>命<19\u0000>いのち<1:\u0000>の<18\u0000>方<19\u0000>ほう<1:\u0000>が<18\u0000>大切<19\u0000>たいせつ<1:\u0000>だからな。",
+			"text_contents": "Of course, you not do this!\nYour life more worth than<1\"\u0000>\nlegendary piece of equipment.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>試練<19\u0000>しれん<1:\u0000>に<18\u0000>挑戦<19\u0000>ちょうせん<1:\u0000>するには\nオレぐらいにならないと<18\u0000>無理<19\u0000>むり<1:\u0000><18\u0000>無理<19\u0000>むり<1:\u0000>！",
+			"text_contents": "Must be as good as me if want\nchallenge trial!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お、おい！\nもしかして、<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>して<18\u0000>落<19\u0000>お<1:\u0000>ちてきたのか？",
+			"text_contents": "Oh, hey! You, complete series\nof trials?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>嘘<19\u0000>うそ<1:\u0000>ついちゃダメだ。\nあの<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>できるヤツなんているワケない。",
+			"text_contents": "Not lie! No one can go through\nthis full trial.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "だろうな！<1\"\u0000>\nちなみに、<18\u0000>全<19\u0000>すべ<1:\u0000>ての<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>完璧<19\u0000>かんぺき<1:\u0000>にこなすと\n<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>が<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>るらしいぞ。",
+			"text_contents": "Of course! By the way, can get\nidol if defeat all bosses.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まあ、<18\u0000>最上<19\u0000>さいじょう<1:\u0000><18\u0000>階<19\u0000>かい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>けない\nオマエじゃ<18\u0000>無理<19\u0000>むり<1:\u0000>な<18\u0000>話<19\u0000>はなし<1:\u0000>だけどな。",
+			"text_contents": "Well, not impossible for you\nif can reach top floor.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>商人<19\u0000>しょうにん<1:\u0000>です。<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>受<19\u0000>う<1:\u0000>ける<18\u0000>方<19\u0000>かた<1:\u0000>ですね。\nぜひ、<18\u0000>万全<19\u0000>ばんぜん<1:\u0000>に<18\u0000>準備<19\u0000>じゅんび<1:\u0000>して<18\u0000>行<19\u0000>い<1:\u0000>ってください。",
+			"text_contents": "Me am traveling merchant.\nWant do trial?<1\"\u0000>\nMake sure, you fully prepared!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおっ！！\nビックリさせるな！！<1\"\u0000>\nオレはこの<18\u0000>試練<19\u0000>しれん<1:\u0000>に<18\u0000>挑<19\u0000>いど<1:\u0000>んでいる<18\u0000>者<19\u0000>もの<1:\u0000>だ。",
+			"text_contents": "Whoa! You surprised me!\nMe, try this trial.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>奥<19\u0000>おく<1:\u0000>のちっこいヤツは、<18\u0000>中々<19\u0000>なかなか<1:\u0000>やるらしいな。\nだが、<18\u0000>黒<19\u0000>くろ<1:\u0000>いせいか<18\u0000>光<19\u0000>ひかり<1:\u0000>に<18\u0000>弱<19\u0000>よわ<1:\u0000>いんだとよ。",
+			"text_contents": "Me heard, guy in back good\nfighter. But weak to<1\"\u0000>\nlight because of dark color.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オレは<18\u0000>今<19\u0000>いま<1:\u0000>、<18\u0000>作戦<19\u0000>さくせん<1:\u0000>をまとめている<18\u0000>所<19\u0000>ところ<1:\u0000>だ。\nオマエが<18\u0000>先<19\u0000>さき<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>け！",
+			"text_contents": "Me right now, figure out\nstrategy plan.<1\"\u0000>\nYou, go first!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだ、もう<18\u0000>倒<19\u0000>たお<1:\u0000>しちまったのか……。\nオレが<18\u0000>考<19\u0000>かんが<1:\u0000>えた<18\u0000>完璧<19\u0000>かんぺき<1:\u0000>な<18\u0000>作戦<19\u0000>さくせん<1:\u0000>で<18\u0000>倒<19\u0000>たお<1:\u0000>そうと<18\u0000>思<19\u0000>おも<1:\u0000>ったのに。",
+			"text_contents": "What, beat him already...?\nMe came up with perfect<1\"\u0000>\nplan, against him.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まあ、<18\u0000>小粒<19\u0000>こつぶ<1:\u0000>なヤツだったし\n<18\u0000>大<19\u0000>たい<1:\u0000>したことなかっただろ？",
+			"text_contents": "Well, was just small and neat,\nnot a strong boss, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおっ！<18\u0000>何<19\u0000>なん<1:\u0000>だ……<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>か！！<1\"\u0000>\nオレ、オマエが<18\u0000>上<19\u0000>うえ<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったんで\n<18\u0000>後<19\u0000>あと<1:\u0000>を<18\u0000>追<19\u0000>お<1:\u0000>ってきたんだが<18\u0000>途中<19\u0000>とちゅう<1:\u0000>で<18\u0000>迷<19\u0000>まよ<1:\u0000>っちまって……。<1\"\u0000>\n<18\u0000>助<19\u0000>たす<1:\u0000>かったよ！",
+			"text_contents": "Whoa! What...Denpa Men! Me\nfollow you on way to top but<1\"\u0000>\ngot lost on way...\nThanks for saving!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,7 +635,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ、オマエは2<18\u0000>周目<19\u0000>しゅうめ<1:\u0000>だぁ！？<1\"\u0000>\nつまり……オレは<18\u0000>周回<19\u0000>しゅうかい<1:\u0000><18\u0000>遅<19\u0000>おく<1:\u0000>れだったのか？\nしょんぼりだ……。",
+			"text_contents": "What, this your second run!?\nHmm...Me was that late?<1\"\u0000>\nMe now disappoint...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -649,7 +649,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>周回<19\u0000>しゅうかい<1:\u0000><18\u0000>遅<19\u0000>おく<1:\u0000>れか……。\nしょんぼりだぜ……。",
+			"text_contents": "Me so slow...\nMe depression...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -663,7 +663,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お<18\u0000>前<19\u0000>まえ<1:\u0000>は<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>した<18\u0000>者<19\u0000>もの<1:\u0000>だな。\n<18\u0000>厳<19\u0000>きび<1:\u0000>しい<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>良<19\u0000>よ<1:\u0000>く<18\u0000>突破<19\u0000>とっぱ<1:\u0000>した、すばらしい！！<1\"\u0000>\nお<18\u0000>前<19\u0000>まえ<1:\u0000>には、<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>にする<18\u0000>資格<19\u0000>しかく<1:\u0000>がある。\n<18\u0000>装備<19\u0000>そうび<1:\u0000>が<18\u0000>欲<19\u0000>ほ<1:\u0000>しければ、<18\u0000>左<19\u0000>ひだり<1:\u0000>の<18\u0000>宝箱<19\u0000>たからばこ<1:\u0000>を<18\u0000>開<19\u0000>あ<1:\u0000>けるが<18\u0000>良<19\u0000>よ<1:\u0000>い。",
+			"text_contents": "You are the one who bravely\ndefeated <17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}. You did<1\"\u0000>\ngreat getting through the\nrigorous trials! Now you're entitled<1\"\u0000>\nto take possession of the\nlegendary equipment.<1\"\u0000>\nOpen the treasure chest on the\nleft side to claim it.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -677,7 +677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "だが、<18\u0000>宝箱<19\u0000>たからばこ<1:\u0000>を<18\u0000>開<19\u0000>あ<1:\u0000>けずに<18\u0000>右<19\u0000>みぎ<1:\u0000>の<18\u0000>穴<19\u0000>あな<1:\u0000>に<18\u0000>落<19\u0000>お<1:\u0000>ちれば\n<18\u0000>残<19\u0000>のこ<1:\u0000>った<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>に<18\u0000>挑戦<19\u0000>ちょうせん<1:\u0000>できるぞ。<1\"\u0000>\n<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000><18\u0000>全<19\u0000>すべ<1:\u0000>てを<18\u0000>倒<19\u0000>たお<1:\u0000>せば<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>をやろう。",
+			"text_contents": "But if you decide to not open\nthe treasure chest and take<1\"\u0000>\nthe hole on the right instead,\nyou can challenge the remaining<1\"\u0000>\ntrial bosses. If you defeat all\nof them, you will get an idol.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お<18\u0000>前<19\u0000>まえ<1:\u0000>は<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>した<18\u0000>者<19\u0000>もの<1:\u0000>だな。\n<18\u0000>厳<19\u0000>きび<1:\u0000>しい<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>良<19\u0000>よ<1:\u0000>く<18\u0000>突破<19\u0000>とっぱ<1:\u0000>した、すばらしい！！<1\"\u0000>\nしかも、<18\u0000>万人<19\u0000>ばんにん<1:\u0000>には<18\u0000>成<19\u0000>な<1:\u0000>し<18\u0000>遂<19\u0000>と<1:\u0000>げられない<18\u0000>事<19\u0000>こと<1:\u0000>をした。",
+			"text_contents": "You are the one who bravely\ndefeated <17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}.\nYou did great getting through the\nrigorous trials!<1\"\u0000>\nThis is something no one has\never before achieved.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,7 +705,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>左<19\u0000>ひだり<1:\u0000>の<18\u0000>宝箱<19\u0000>たからばこ<1:\u0000>を<18\u0000>開<19\u0000>あ<1:\u0000>ければ、<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>。\n<18\u0000>右<19\u0000>みぎ<1:\u0000>の<18\u0000>穴<19\u0000>あな<1:\u0000>に<18\u0000>落<19\u0000>お<1:\u0000>ちれば、<18\u0000>残<19\u0000>のこ<1:\u0000>った<18\u0000>魔物<19\u0000>まもの<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>すチャンス。",
+			"text_contents": "If you open the treasure chest\non the left side, you'll<1\"\u0000>\nreceive the legendary\nequipment. If you fall through<1\"\u0000>\nthe hole of the right side,\nyou have another chance of<1\"\u0000>\ndefeating the rest of the\ntrial bosses.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -719,7 +719,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000><18\u0000>全<19\u0000>すべ<1:\u0000>てを<18\u0000>倒<19\u0000>たお<1:\u0000>せば<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>をやろう。<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2@耀>{4, message}で<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>差<19\u0000>さ<1:\u0000>し<18\u0000>出<19\u0000>だ<1:\u0000>せば\n<18\u0000>新<19\u0000>あら<1:\u0000>たな<18\u0000>試練<19\u0000>しれん<1:\u0000>に<18\u0000>挑戦<19\u0000>ちょうせん<1:\u0000>できるぞ。",
+			"text_contents": "Defeat all bosses of this trial\nand you will obtain an idol.<1\"\u0000>\nThis idol can then be used\nto unlock new trials<1\"\u0000>\nsubmitting it in the <17\u0003>{8, MessageMapName, +}<2@耀>{4, message}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -733,7 +733,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>よ、こっちへ<18\u0000>来<19\u0000>き<1:\u0000>なさい。",
+			"text_contents": "Denpa Men, come over here!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -747,7 +747,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お<18\u0000>前<19\u0000>まえ<1:\u0000>は<18\u0000>試練<19\u0000>しれん<1:\u0000>の<18\u0000>魔物<19\u0000>まもの<1:\u0000>、<18\u0000>全員<19\u0000>ぜんいん<1:\u0000>に<18\u0000>打<19\u0000>う<1:\u0000>ち<18\u0000>勝<19\u0000>か<1:\u0000>った。\nまさかこれほどの<18\u0000>力量<19\u0000>りきりょう<1:\u0000>とは……おみそれした！<1\"\u0000>\n<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>完璧<19\u0000>かんぺき<1:\u0000>にこなした<18\u0000>者<19\u0000>もの<1:\u0000>のあかしに\n<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>をやろう。",
+			"text_contents": "You defeated all of the trial\nbosses. I didn't expect you to be<1\"\u0000>\nthis strong...I will give you\nan idol as a proof<1\"\u0000>\nof perfectly completing this\ntrial.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>後<19\u0000>あと<1:\u0000>は<18\u0000>宝箱<19\u0000>たからばこ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にある\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れるだけだ。<1\"\u0000>\n<18\u0000>宝<19\u0000>たから<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>って<18\u0000>帰<19\u0000>かえ<1:\u0000>りなさい。",
+			"text_contents": "Now all that is left to do is\nto get the legendary equipment<1\"\u0000>\ninside the treasure chest.\nOpen the treasure chest<1\"\u0000>\nand return home.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,7 +775,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>試練<19\u0000>しれん<1:\u0000>は<18\u0000>全<19\u0000>すべ<1:\u0000>て<18\u0000>終<19\u0000>お<1:\u0000>わった。\nやるべき<18\u0000>事<19\u0000>こと<1:\u0000>はもうない、<18\u0000>宝<19\u0000>たから<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>って<18\u0000>帰<19\u0000>かえ<1:\u0000>りなさい。",
+			"text_contents": "All trials are over. There is\nnothing more to do.<1\"\u0000>\nTake the treasure and\nreturn home.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,7 +789,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ブヒッ！！\nお<18\u0000>前<19\u0000>まえ<1:\u0000>は<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>試練<19\u0000>しれん<1:\u0000>に<18\u0000>挑戦<19\u0000>ちょうせん<1:\u0000>しに<18\u0000>来<19\u0000>き<1:\u0000>た<18\u0000>者<19\u0000>もの<1:\u0000>だな。<1\"\u0000>\nオイラは<17\u0003>{9, MonsterParameter, +}<2\n耀>{3, name, +}、<18\u0000>最初<19\u0000>さいしょ<1:\u0000>の<18\u0000>相手<19\u0000>あいて<1:\u0000>だブー！<1\"\u0000>\n<18\u0000>初戦<19\u0000>しょせん<1:\u0000>はオイラ<18\u0000>以外<19\u0000>いがい<1:\u0000>いないけど\nこの<18\u0000>先<19\u0000>さき<1:\u0000>は、2<18\u0000>匹<19\u0000>ひき<1:\u0000><18\u0000>待<19\u0000>ま<1:\u0000>ち<18\u0000>構<19\u0000>かま<1:\u0000>えているんだブー。<1\"\u0000>\n2<18\u0000>匹<19\u0000>ひき<1:\u0000>のどちらかに<18\u0000>勝<19\u0000>か<1:\u0000>てば<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めるんだブヒッ！\nだが……。",
+			"text_contents": "Oink!!\nYou are the one who came to<1\"\u0000>\nthe trial of <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message},\noink? I am <17\u0003>{9, MonsterParameter, +}<2\n耀>{3, name, +},<1\"\u0000>\nthe first boss of this trial.\nYou must defeat me to progress.<1\"\u0000>\nIn the upper floor, you only\nhave to defeat one of the<1\"\u0000>\ntwo bosses to advance, oink.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -803,7 +803,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まずはこの<18\u0000>闇<19\u0000>やみ<1:\u0000><18\u0000>使<19\u0000>つか<1:\u0000>いのオイラに<18\u0000>勝<19\u0000>か<1:\u0000>たないと\n<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めないんだブー！",
+			"text_contents": "First of all, you need to\ndefeat me. Oink!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -817,7 +817,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "どうする、オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うのかブヒッ？",
+			"text_contents": "What will you do?\nFight me or not?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おー、オマエかブヒッ！",
+			"text_contents": "Oh, you now seem to be\nready, oink!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,7 +845,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オイラは<18\u0000>闇<19\u0000>やみ<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>だけではなく\n<18\u0000>風<19\u0000>かぜ<1:\u0000>、<18\u0000>土<19\u0000>つち<1:\u0000>、<18\u0000>電気<19\u0000>でんき<1:\u0000>、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>属性<19\u0000>ぞくせい<1:\u0000>にも<18\u0000>強<19\u0000>つよ<1:\u0000>いんだブー。",
+			"text_contents": "I am not only resistant to\ndarkness but also to the<1\"\u0000>\nearth, wind, electricity and\nwater attributes.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うのかブヒッ？",
+			"text_contents": "Will you fight me now, oink?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -873,7 +873,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お<18\u0000>前<19\u0000>まえ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>、<18\u0000>見<19\u0000>み<1:\u0000>せてもらう……。\n<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>だブーーー！！",
+			"text_contents": "Let's see what you are capable\nof...<1\"\u0000>\nI will show you my power!\nOink!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ブヒッ！まだ<18\u0000>心<19\u0000>こころ<1:\u0000>の<18\u0000>準備<19\u0000>じゅんび<1:\u0000>ができてないようだな。\n<18\u0000>戦<19\u0000>たたか<1:\u0000>う<18\u0000>準備<19\u0000>じゅんび<1:\u0000>ができたら<18\u0000>声<19\u0000>こえ<1:\u0000>をかけるんだブー。",
+			"text_contents": "Oink! It seems that you are\nmentally not ready yet.<1\"\u0000>\nWhen you are ready to fight,\ncall out to me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！！！\n<18\u0000>俺<19\u0000>おれ<1:\u0000>の<18\u0000>名<19\u0000>な<1:\u0000>は<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}。",
+			"text_contents": "Ohhhhhhhhhhhhhhhhhhhhh!\nMy name is <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>火<19\u0000>ひ<1:\u0000>を<18\u0000>操<19\u0000>あやつ<1:\u0000>る<18\u0000>戦士<19\u0000>せんし<1:\u0000>として、<18\u0000>厳<19\u0000>きび<1:\u0000>しい<18\u0000>修行<19\u0000>しゅぎょう<1:\u0000>を<18\u0000>積<19\u0000>つ<1:\u0000>んできた。<1\"\u0000>\nそれだけではない\n<18\u0000>氷<19\u0000>こおり<1:\u0000>、<18\u0000>風<19\u0000>かぜ<1:\u0000>、<18\u0000>土<19\u0000>つち<1:\u0000><18\u0000>攻撃<19\u0000>こうげき<1:\u0000>にも<18\u0000>耐<19\u0000>た<1:\u0000>えられる<18\u0000>体<19\u0000>からだ<1:\u0000>に<18\u0000>鍛<19\u0000>きた<1:\u0000>えた。",
+			"text_contents": "As a warrior who wields fire,\nI have undergone rigorous<1\"\u0000>\ntraining and now can withstand\nattacks from ice, wind and earth.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -929,7 +929,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>俺<19\u0000>おれ<1:\u0000>はイカなる<18\u0000>者<19\u0000>もの<1:\u0000>にも<18\u0000>負<19\u0000>ま<1:\u0000>けない<18\u0000>自信<19\u0000>じしん<1:\u0000>がある……。\n<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "I have the confidence that I'm\nstronger than any other squid...<1\"\u0000>\nWill I be your opponent?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -943,7 +943,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>闘争心<19\u0000>とうそうしん<1:\u0000>に<18\u0000>火<19\u0000>ひ<1:\u0000>はついたか？",
+			"text_contents": "Hasn't your fighting spirit\nignited yet?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -957,7 +957,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ほう、<18\u0000>大<19\u0000>たい<1:\u0000>した<18\u0000>自信<19\u0000>じしん<1:\u0000>だな……<18\u0000>熱<19\u0000>あつ<1:\u0000>いぜっ！！\n<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>！！！",
+			"text_contents": "Wow, you have a lot of\nconfidence in yourself...this<1\"\u0000>\nis hot!! I am sure you will\ndo great!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>戦<19\u0000>たたか<1:\u0000>えるほど、<18\u0000>心<19\u0000>こころ<1:\u0000>が<18\u0000>熱<19\u0000>あつ<1:\u0000>くなってないようだな……。\nお<18\u0000>前<19\u0000>まえ<1:\u0000>のハートが<18\u0000>燃<19\u0000>も<1:\u0000>えてきたら、<18\u0000>声<19\u0000>こえ<1:\u0000>をかけろ。",
+			"text_contents": "It seems your heart is not hot\nenough to fight yet.<1\"\u0000>\nIf your heart is burning,\ncall out to me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！！！<1\"\u0000>\nお<18\u0000>前<19\u0000>まえ<1:\u0000>はこの<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}の<18\u0000>相方<19\u0000>あいかた<1:\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したようだな。<1\"\u0000>\nなかなかやるじゃねえか！",
+			"text_contents": "Ohhhhhhhhhhhhhhhhhh!!!<1\"\u0000>\nYou defeated my partner\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!<1\"\u0000>\nYou're doing pretty great!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>わなくてもこの<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めるが……\nいっちょ<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>ってみるか？",
+			"text_contents": "You don't have to fight me to\ncontinue but you can...<1\"\u0000>\nSo, do you want to fight\nagainst me as well?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,7 +1013,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>挑<19\u0000>いど<1:\u0000>まなくても<18\u0000>良<19\u0000>よ<1:\u0000>い<18\u0000>戦<19\u0000>たたか<1:\u0000>いに<18\u0000>挑<19\u0000>いど<1:\u0000>むなんて……\nなかなかイカしたヤツじゃねえか！！<1\"\u0000>\n<18\u0000>嫌<19\u0000>きら<1:\u0000>いじゃねえ……<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>だ！！",
+			"text_contents": "i am fine with you not taking\non a fight you don't have<1\"\u0000>\nto take on...but it would\nbe really great of you!<1\"\u0000>\nI am not...forcing you!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1027,7 +1027,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>の<18\u0000>為<19\u0000>ため<1:\u0000>に<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>温存<19\u0000>おんぞん<1:\u0000>したいようだな。\nだったらいいぜ、<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>きな。",
+			"text_contents": "You seem that you want to\npreserve your strength for the<1\"\u0000>\nhigher floors. If that is\nthe case, go ahead.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！！！<1\"\u0000>\n<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>が<18\u0000>欲<19\u0000>ほ<1:\u0000>しくて、また<18\u0000>戻<19\u0000>もど<1:\u0000>って<18\u0000>来<19\u0000>き<1:\u0000>ただと！？\nなんて<18\u0000>熱<19\u0000>あつ<1:\u0000>いヤツ……イカすぜ！！",
+			"text_contents": "Ohhhhhhhhhhhhhhhhhh!!!\nYou want the idol and came<1\"\u0000>\nfor more fights!?\nWhat a hot...guy!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1055,7 +1055,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れるには\n<18\u0000>俺<19\u0000>おれ<1:\u0000>を<18\u0000>含<19\u0000>ふく<1:\u0000>む<18\u0000>全員<19\u0000>ぜんいん<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>い、<18\u0000>勝利<19\u0000>しょうり<1:\u0000>する<18\u0000>必要<19\u0000>ひつよう<1:\u0000>がある。<1\"\u0000>\nこの<18\u0000>俺<19\u0000>おれ<1:\u0000>、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "In order to obtain the idol,\nyou need to fight everyone<1\"\u0000>\nincluding me, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.\nWill you fight against me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1069,7 +1069,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うおぉぉぉぉ！！<18\u0000>熱<19\u0000>あつ<1:\u0000>くなってきたぜっ！！\n<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>だっ！！",
+			"text_contents": "Ohhhhh! It's getting hotter!!\nI am getting hotter!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>怖気<19\u0000>おじけ<1:\u0000>づいたヤツと<18\u0000>戦<19\u0000>たたか<1:\u0000>っても、<18\u0000>仕方<19\u0000>しかた<1:\u0000>ねえ。\n<18\u0000>準備<19\u0000>じゅんび<1:\u0000>ができたら<18\u0000>声<19\u0000>こえ<1:\u0000>をかけな。",
+			"text_contents": "Fighting against someone who is\nscared of me is not an option.<1\"\u0000>\nCome back when you are ready.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1097,7 +1097,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～くっくっくっ……。<1\"\u0000>\n<18\u0000>我<19\u0000>われ<1:\u0000>は<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}。\n<18\u0000>闇<19\u0000>やみ<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>を<18\u0000>極<19\u0000>きわ<1:\u0000>めた、イカした<18\u0000>戦士<19\u0000>せんし<1:\u0000>だ。",
+			"text_contents": "Uhhhhhhhohhhhhh...<1\"\u0000>\nI am <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.<1\"\u0000>\nThe coolest warrior who masters\nthe dark attribute.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1111,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>我<19\u0000>われ<1:\u0000>には<18\u0000>闇<19\u0000>やみ<1:\u0000>など<18\u0000>効<19\u0000>き<1:\u0000>かぬ。\nさらに<18\u0000>火<19\u0000>ひ<1:\u0000>、<18\u0000>氷<19\u0000>こおり<1:\u0000>、<18\u0000>風<19\u0000>かぜ<1:\u0000>、<18\u0000>土<19\u0000>つち<1:\u0000><18\u0000>攻撃<19\u0000>こうげき<1:\u0000>も<18\u0000>我<19\u0000>われ<1:\u0000>には<18\u0000>取<19\u0000>と<1:\u0000>るに<18\u0000>足<19\u0000>た<1:\u0000>らない。",
+			"text_contents": "Darkness cannot harm me.\nAlso fire, ice, wind and earth<1\"\u0000>\nattacks will not bother me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,7 +1125,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "イカに<18\u0000>我<19\u0000>われ<1:\u0000>が<18\u0000>偉大<19\u0000>いだい<1:\u0000>か、<18\u0000>分<19\u0000>わ<1:\u0000>かったと<18\u0000>思<19\u0000>おも<1:\u0000>うが\n<18\u0000>我<19\u0000>われ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "Now, that you know how great\nI am, will you fight me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1139,7 +1139,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>懲<19\u0000>こ<1:\u0000>りずに<18\u0000>来<19\u0000>き<1:\u0000>たようだな……。",
+			"text_contents": "Looks like you have learned\nyour lesson...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～～くっくっくっ……。\n<18\u0000>我<19\u0000>わ<1:\u0000>が<18\u0000>槍<19\u0000>やり<1:\u0000>さばきを、とくと<18\u0000>味<19\u0000>あじ<1:\u0000>わうがいい！！！",
+			"text_contents": "Uhhhhhhhhhhhhohhhh....\nTaste my spearmanship!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1167,7 +1167,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>我<19\u0000>われ<1:\u0000>の<18\u0000>闇<19\u0000>やみ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>に<18\u0000>怖気<19\u0000>おじけ<1:\u0000>づいたか……。\nまあ、<18\u0000>念入<19\u0000>ねんい<1:\u0000>りに<18\u0000>準備<19\u0000>じゅんび<1:\u0000>をしろ、くっくっくっ……。",
+			"text_contents": "Are you intimidated by my power\nof darkness...?<1\"\u0000>\nWell, prepare carefully if you\nwant to stand any chance...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1181,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～～～～～～～くっくっくっ……。<1\"\u0000>\n<18\u0000>我<19\u0000>わ<1:\u0000>が<18\u0000>相棒<19\u0000>あいぼう<1:\u0000>、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したようだな。\nあなどれないヤツめ……。",
+			"text_contents": "Uhhhhhhhhhhhhhhhhhohhhhh....<1\"\u0000>\nI see that you have defeated\nmy partner, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}.<1\"\u0000>\nYou are someone who cannot\nbe underestimated...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,7 +1195,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "お<18\u0000>前<19\u0000>まえ<1:\u0000>にはすでに<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>く<18\u0000>権利<19\u0000>けんり<1:\u0000>はあるが\nこの、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "You already have the right to\ngo ahead but will you still<1\"\u0000>\nfight against\nme, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～～くっくっくっ……。\n<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>けばよかったと、<18\u0000>後悔<19\u0000>こうかい<1:\u0000>するがいい！！",
+			"text_contents": "Uhhhhhhhhhhhhohhhh...\nYou will wish you would<1\"\u0000>\nhave gone ahead.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1223,7 +1223,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>賢明<19\u0000>けんめい<1:\u0000>な<18\u0000>判断<19\u0000>はんだん<1:\u0000>だ。\n<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>けるチャンスを<18\u0000>逃<19\u0000>のが<1:\u0000>す<18\u0000>必要<19\u0000>ひつよう<1:\u0000>はないからな。",
+			"text_contents": "This is a wise and sound\ndecision. There is no need<1\"\u0000>\nto fight against someone\nyou do not have to.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1237,7 +1237,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～～くっくっくっ……。\n<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000><18\u0000>欲<19\u0000>ほ<1:\u0000>しさに<18\u0000>戻<19\u0000>もど<1:\u0000>って<18\u0000>来<19\u0000>き<1:\u0000>たようだな。",
+			"text_contents": "Uhhhhhhhhhhhhohhhh...\nI guess you are back<1\"\u0000>\nfor the idol.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1251,7 +1251,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れる<18\u0000>為<19\u0000>ため<1:\u0000>、<18\u0000>最高<19\u0000>さいこう<1:\u0000>の<18\u0000>闇使<19\u0000>やみつか<1:\u0000>いとうたわれる\nこの、<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "To get hold of the idol, will\nyou fight against me,<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}, the greatest\nsquid warrior?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1265,7 +1265,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "く～～～～～～くっくっくっ……。\nこれも<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れる<18\u0000>為<19\u0000>ため<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>だ……いくぞ！！",
+			"text_contents": "Uhhhhhhhhhhhhohhhh...\nThis is one more trial<1\"\u0000>\nfor you to get the idol...\nLet's go!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "くっくっくっ……<18\u0000>我<19\u0000>われ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>わぬのか。\nだが、<18\u0000>我<19\u0000>われ<1:\u0000>ら<18\u0000>全員<19\u0000>ぜんいん<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>さずに<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>は<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>らんぞ。",
+			"text_contents": "Uhhohhh...You will not get the\nidol without defeating me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1293,7 +1293,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふヘヘヘっ。\nオイラは<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}なんだなー。",
+			"text_contents": "Hehehe. Let me introduce myself.\nI am <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1307,7 +1307,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オイラ、<18\u0000>水<19\u0000>みず<1:\u0000>とかがへっちゃらでー\n<18\u0000>風<19\u0000>かぜ<1:\u0000>や<18\u0000>土<19\u0000>つち<1:\u0000>も、けっこう<18\u0000>得意<19\u0000>とくい<1:\u0000>なんだなー。",
+			"text_contents": "I am not afraid of water, wind\nand earth.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1321,7 +1321,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オイラ、オマエと<18\u0000>戦<19\u0000>たたか<1:\u0000>いたい。\nオマエ、オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "I want to fight against you!\nYou want to fight against me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1335,7 +1335,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おーーーっ！！\nオマエ、また<18\u0000>来<19\u0000>き<1:\u0000>てくれた。",
+			"text_contents": "Ooooooh, you withdrew!!\nNow you came back because<1\"\u0000>\nyou seem to be are ready.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1349,7 +1349,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "やったーーー！！！\nオイラ、<18\u0000>一生懸命<19\u0000>いっしょうけんめい<1:\u0000><18\u0000>戦<19\u0000>たたか<1:\u0000>う！<1\"\u0000>\nいざ、<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>なんだなー！！",
+			"text_contents": "Yaaaaay!!! I am going to fight\nwith all my power and might!<1\"\u0000>\nNow it's battle time!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1363,7 +1363,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>何<19\u0000>なん<1:\u0000>だ……オマエ、オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>わないのか。\nオイラ、さびしいんだなー……。",
+			"text_contents": "What is it...with you.\nDo you not want to fight<1\"\u0000>\nagainst me?\nI am so lonely...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1377,7 +1377,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オマエ、すごい。<17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}<18\u0000>倒<19\u0000>たお<1:\u0000>した。<1\"\u0000>\nオイラ、オマエ<18\u0000>尊敬<19\u0000>そんけい<1:\u0000>。\nオマエ、これでこの<18\u0000>先<19\u0000>さき<1:\u0000><18\u0000>行<19\u0000>い<1:\u0000>けるんだなー。",
+			"text_contents": "You are amazing. You defeated\n<17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}.<1\"\u0000>\nI respect you! You can already\ncontinue the trial.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1391,7 +1391,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "だけど……オイラ、オマエと<18\u0000>戦<19\u0000>たたか<1:\u0000>いたい。\nオマエ、オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "But...I want to fight against\nyou, will you fight against me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1405,7 +1405,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "やったーーー！！！\nオイラ、<17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}ぐらいがんばる！！<1\"\u0000>\nいざ、<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>なんだなー！！",
+			"text_contents": "Yaaaaay! I, <17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}, am\ngoing to give my best!!<1\"\u0000>\nNow it is time to fight!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1419,7 +1419,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そっか、それは<18\u0000>仕方<19\u0000>しかた<1:\u0000>ないんだなー。\n<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>急<19\u0000>いそ<1:\u0000>ぐといいんだなー。",
+			"text_contents": "I see that it cannot be helped.\nI suppose you are in a hurry.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1433,7 +1433,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふへへへっ。<1\"\u0000>\n<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>が<18\u0000>欲<19\u0000>ほ<1:\u0000>しくて\nオマエ、また<18\u0000>塔<19\u0000>とう<1:\u0000>を<18\u0000>登<19\u0000>のぼ<1:\u0000>り<18\u0000>直<19\u0000>なお<1:\u0000>しているんだなー。",
+			"text_contents": "Hehehehe. I guess you are\nclimbing up the tower again<1\"\u0000>\nbecause you want to get\nthe idol...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1447,7 +1447,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>が<18\u0000>欲<19\u0000>ほ<1:\u0000>しけりゃ\nオイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うしかないんだなー。<1\"\u0000>\nどうだ、オマエ、オイラと<18\u0000>戦<19\u0000>たたか<1:\u0000>うか？",
+			"text_contents": "If you want the idol, fight\nagainst me.<1\"\u0000>\nI want to fight against you, so\nwill you fight against me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1461,7 +1461,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふへへへっ、そうこなくっちゃなー。\nいざ、<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>なんだなー！",
+			"text_contents": "Heheheh, that is how it should\nbe<1\"\u0000>\nI guess it is time to fight now!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1475,7 +1475,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まだ、<18\u0000>準備<19\u0000>じゅんび<1:\u0000>ができてないのかなー。\n<18\u0000>準備<19\u0000>じゅんび<1:\u0000><18\u0000>終<19\u0000>お<1:\u0000>わるまで、オイラ<18\u0000>待<19\u0000>ま<1:\u0000>ってる。",
+			"text_contents": "I guess you are not prepared yet.\nI will wait till you are<1\"\u0000>\nfully prepared.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1489,7 +1489,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぐわははははっ！！！\n<18\u0000>俺<19\u0000>おれ<1:\u0000>は<18\u0000>鋼鉄<19\u0000>こうてつ<1:\u0000>の<18\u0000>体<19\u0000>からだ<1:\u0000>を<18\u0000>持<19\u0000>も<1:\u0000>つ、<17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}だ。",
+			"text_contents": "Gwahahahaha!\nI am <17\u0003>{9, MonsterParameter, +}<2©耀>{3, name, +}, my body<1\"\u0000>\nis full of steel!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1503,7 +1503,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>俺<19\u0000>おれ<1:\u0000>の、<18\u0000>鋼鉄<19\u0000>こうてつ<1:\u0000>でできた<18\u0000>体<19\u0000>からだ<1:\u0000>は<18\u0000>闇<19\u0000>やみ<1:\u0000>に<18\u0000>強<19\u0000>つよ<1:\u0000>い。\nさらに<18\u0000>氷<19\u0000>こおり<1:\u0000>、<18\u0000>土<19\u0000>つち<1:\u0000>、<18\u0000>水<19\u0000>みず<1:\u0000>にも<18\u0000>耐性<19\u0000>たいせい<1:\u0000>がある。",
+			"text_contents": "My steel body is resistant\nagainst ice, earth and water.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1517,7 +1517,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そこのマヌケな<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>うより\n<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>わないか？",
+			"text_contents": "Would you rather fight me than\nmthat idiot <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1531,7 +1531,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>気<19\u0000>き<1:\u0000>が<18\u0000>変<19\u0000>か<1:\u0000>わったか？",
+			"text_contents": "Have you suddenly changed\nyour mind?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1545,7 +1545,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぐわははははっ！！！<1\"\u0000>\n<18\u0000>戦<19\u0000>たたか<1:\u0000>う<18\u0000>相手<19\u0000>あいて<1:\u0000>に<18\u0000>俺<19\u0000>おれ<1:\u0000>を<18\u0000>選<19\u0000>えら<1:\u0000>んだのは、いいチョイスだ！\n<18\u0000>本気<19\u0000>ほんき<1:\u0000>で<18\u0000>相手<19\u0000>あいて<1:\u0000>になってやろう！さあ、<18\u0000>行<19\u0000>い<1:\u0000>くぜ！！",
+			"text_contents": "Gwahahahaha!!! It is a good\nchoice to select me as your<1\"\u0000>\nopponent. I will be a serious\nopponent! Let's go!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1559,7 +1559,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>戦<19\u0000>たたか<1:\u0000>わないだと！？<1\"\u0000>\n<18\u0000>俺<19\u0000>おれ<1:\u0000>より<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}と<18\u0000>戦<19\u0000>たたか<1:\u0000>いたいのか……。\nしょぼん。",
+			"text_contents": "You do not want to fight!?<1\"\u0000>\nYou rather want to battle\n<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}...<1\"\u0000>\nThen, I am sorry.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1573,7 +1573,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぐわははははっ！！！<1\"\u0000>\n<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}を<18\u0000>倒<19\u0000>たお<1:\u0000>したのだな。\nこれでお<18\u0000>前<19\u0000>まえ<1:\u0000>は<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>めるぞ。",
+			"text_contents": "Gwahahahaha!!!<1\"\u0000>\nYou have defeated\nthat fool <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}.<1\"\u0000>\nYou can move on now.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1587,7 +1587,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、あのマヌケな<17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}が\n<18\u0000>相手<19\u0000>あいて<1:\u0000>じゃ、<18\u0000>物足<19\u0000>ものた<1:\u0000>りなかっただろう。<1\"\u0000>\nどうだ、オレと<18\u0000>戦<19\u0000>たたか<1:\u0000>ってみないか？",
+			"text_contents": "However, that idiot <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}\nwas probably to weak for you.<1\"\u0000>\nHow about you try to\nfight against me?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1601,7 +1601,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぐわははははっ！そうこなくっちゃな！！！\n<18\u0000>本気<19\u0000>ほんき<1:\u0000>を<18\u0000>出<19\u0000>だ<1:\u0000>すぜっ！！！",
+			"text_contents": "Gwahahahaha! That is the way\nto go! I will show you<1\"\u0000>\nwhat true strength is!!!\nLet's get serious!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1615,7 +1615,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アイツとの<18\u0000>戦<19\u0000>たたか<1:\u0000>いで<18\u0000>満足<19\u0000>まんぞく<1:\u0000>しているのか……。\nだったら、<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>急<19\u0000>いそ<1:\u0000>ぐがいい……ふん。",
+			"text_contents": "Are you satisfied with your fight\nagainst that idiot...?<1\"\u0000>\nIf so, then you...\nbetter move on.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1629,7 +1629,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れたくて、<18\u0000>戻<19\u0000>もど<1:\u0000>って<18\u0000>来<19\u0000>き<1:\u0000>たようだな。<1\"\u0000>\n<18\u0000>丁度<19\u0000>ちょうど<1:\u0000><18\u0000>良<19\u0000>よ<1:\u0000>かった……。\n<18\u0000>戦<19\u0000>たたか<1:\u0000>いたくてウズウズしていた<18\u0000>所<19\u0000>ところ<1:\u0000>だ！！！",
+			"text_contents": "I see you came back to get the\nidols. You are just in time...<1\"\u0000>\nI was itching to fight\nagainst you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1643,7 +1643,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>偶像<19\u0000>ぐうぞう<1:\u0000>を<18\u0000>手<19\u0000>て<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>れる<18\u0000>為<19\u0000>ため<1:\u0000>にも\n<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>え！！！",
+			"text_contents": "Now fight me to get the idol!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1657,7 +1657,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "やっと<18\u0000>俺<19\u0000>おれ<1:\u0000>の<18\u0000>出番<19\u0000>でばん<1:\u0000>だ……。\n<18\u0000>気張<19\u0000>きば<1:\u0000>っていくぜっ！！",
+			"text_contents": "Finally, it is my turn...\nI will show my best!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1671,7 +1671,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふっ、<18\u0000>俺<19\u0000>おれ<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>うことに<18\u0000>緊張<19\u0000>きんちょう<1:\u0000>しているのだな。\nいいぜ、<18\u0000>心<19\u0000>こころ<1:\u0000>の<18\u0000>準備<19\u0000>じゅんび<1:\u0000>が<18\u0000>出来<19\u0000>でき<1:\u0000>たら<18\u0000>声<19\u0000>こえ<1:\u0000>をかけな。",
+			"text_contents": "Huh, you must be nervous about\nfighting me. This is okay.<1\"\u0000>\nJust call me when you are ready.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1685,7 +1685,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぶわははははっ！！！<1\"\u0000>\n<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>はこの<17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}の<18\u0000>主<19\u0000>ぬし<1:\u0000>、<17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}だ。\nよくぞここまでの<18\u0000>試練<19\u0000>しれん<1:\u0000>を<18\u0000>突破<19\u0000>とっぱ<1:\u0000>した。<1\"\u0000>\nしかし、<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>得<19\u0000>え<1:\u0000>る<18\u0000>為<19\u0000>ため<1:\u0000>の\n<18\u0000>試練<19\u0000>しれん<1:\u0000>はまだ<18\u0000>終<19\u0000>お<1:\u0000>わりではないぞ。<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>得<19\u0000>え<1:\u0000>たければ、<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>え！！！<1\"\u0000>\n<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>に<18\u0000>勝利<19\u0000>しょうり<1:\u0000>すれば\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>に<18\u0000>相応<19\u0000>ふさわ<1:\u0000>しい<18\u0000>者<19\u0000>もの<1:\u0000>として<18\u0000>認<19\u0000>みと<1:\u0000>めてやろう。",
+			"text_contents": "Bwahahaha!!!<1\"\u0000>\nI am <17\u0003>{9, MonsterParameter, +}<2Ĳ耀>{3, name, +},\nthe master of <17\u0003>{8, MessageMapName, +}<2\u0016耀>{4, message}.<1\"\u0000>\nI am amazed you made it this\nfar. But the trial is not over<1\"\u0000>\nyet! To get the legendary\nequipment, you must fight<1\"\u0000>\nagainst me! If you win, I will\nrecognzie you as the one who<1\"\u0000>\nis worthy of wearing the\nlegendary equipment.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1699,7 +1699,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>は<18\u0000>光<19\u0000>ひかり<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>の<18\u0000>使<19\u0000>つか<1:\u0000>い<18\u0000>手<19\u0000>て<1:\u0000>。<1\"\u0000>\n<18\u0000>闇<19\u0000>やみ<1:\u0000>が<18\u0000>苦手<19\u0000>にがて<1:\u0000>だと<18\u0000>思<19\u0000>おも<1:\u0000>われがちだが<18\u0000>違<19\u0000>ちが<1:\u0000>う。\n<18\u0000>光<19\u0000>ひかり<1:\u0000>と<18\u0000>闇<19\u0000>やみ<1:\u0000>は<18\u0000>表裏<19\u0000>ひょうり<1:\u0000><18\u0000>一体<19\u0000>いったい<1:\u0000>。<18\u0000>闇<19\u0000>やみ<1:\u0000>も<18\u0000>時<19\u0000>とき<1:\u0000>に、<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>の<18\u0000>味方<19\u0000>みかた<1:\u0000>になる。",
+			"text_contents": "I am a warrior of light.\nAlthough I may not be strong<1\"\u0000>\nagainst darkness, it is not\nabsolutely my enemy.<1\"\u0000>\nDarkness can be a friend of\nmine at times...even if<1\"\u0000>\nmy name does not sound like that.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1713,7 +1713,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さあ、<18\u0000>最後<19\u0000>さいご<1:\u0000>の<18\u0000>試練<19\u0000>しれん<1:\u0000>である<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>との<18\u0000>真剣<19\u0000>しんけん<1:\u0000><18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>……。\n<18\u0000>受<19\u0000>う<1:\u0000>ける<18\u0000>覚悟<19\u0000>かくご<1:\u0000>はできたか？",
+			"text_contents": "Now, for the last and final test,\nI am going to have a serious<1\"\u0000>\nbattle of wits against you...\nAre you ready to take it?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1727,7 +1727,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぶわははははっ！<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>得<19\u0000>え<1:\u0000>る<18\u0000>為<19\u0000>ため<1:\u0000>の\n<18\u0000>最終<19\u0000>さいしゅう<1:\u0000><18\u0000>試練<19\u0000>しれん<1:\u0000>は<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>って<18\u0000>勝利<19\u0000>しょうり<1:\u0000>することだ。",
+			"text_contents": "Bwahahaha!\nThe final test to obtain the<1\"\u0000>\nlast legendary equipment,\nagainst me is about to start!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1741,7 +1741,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "それでこそ、<18\u0000>我<19\u0000>わ<1:\u0000>が<18\u0000>元<19\u0000>もと<1:\u0000>にたどり<18\u0000>着<19\u0000>つ<1:\u0000>いた<18\u0000>者<19\u0000>もの<1:\u0000>……。\n<18\u0000>貴様<19\u0000>きさま<1:\u0000>の<18\u0000>勇気<19\u0000>ゆうき<1:\u0000>に<18\u0000>応<19\u0000>こた<1:\u0000>えて、<18\u0000>全力<19\u0000>ぜんりょく<1:\u0000>で<18\u0000>相手<19\u0000>あいて<1:\u0000>するぞ！！！",
+			"text_contents": "Your courage explains how you\ncame this far...<1\"\u0000>\nI will respond to\nyour courageousness<1\"\u0000>\nwith all my power!!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1755,7 +1755,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぶわははははっ！\n<18\u0000>吾輩<19\u0000>わがはい<1:\u0000>と<18\u0000>戦<19\u0000>たたか<1:\u0000>う<18\u0000>覚悟<19\u0000>かくご<1:\u0000>は、まだできていないようだな。<1\"\u0000>\n<18\u0000>戦<19\u0000>たたか<1:\u0000>う<18\u0000>決心<19\u0000>けっしん<1:\u0000>がついたら<18\u0000>声<19\u0000>こえ<1:\u0000>をかけるが<18\u0000>良<19\u0000>よ<1:\u0000>い。",
+			"text_contents": "Bwahahaha! I guess you are not\nready to fight against me yet.<1\"\u0000>\nWhen you have made up your\nmind, come back to me to fight.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1769,7 +1769,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ぶわははははっ、<18\u0000>見事<19\u0000>みごと<1:\u0000>だったぞ<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>！！\n<18\u0000>貴様<19\u0000>きさま<1:\u0000>なら<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>を<18\u0000>得<19\u0000>え<1:\u0000>るに<18\u0000>相応<19\u0000>ふさわ<1:\u0000>しい！！<1\"\u0000>\n<18\u0000>伝説<19\u0000>でんせつ<1:\u0000>の<18\u0000>装備<19\u0000>そうび<1:\u0000>はこの<18\u0000>先<19\u0000>さき<1:\u0000>だ、<18\u0000>行<19\u0000>い<1:\u0000>け。",
+			"text_contents": "Bwahahaha, you did a great job\nDenpa Men! You truly are<1\"\u0000>\nworthy of wearing the legendary\nequipment!!<1\"\u0000>\nGo ahead to claim the\nlegendary equipment.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
