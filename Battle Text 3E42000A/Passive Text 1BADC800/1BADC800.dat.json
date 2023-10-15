@@ -243,14 +243,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{2, id, +} acquired.",
+			"text_contents": "<1ď\u0001>{2, id, +} acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{2, id, +}x<1\u0004\u0001>{3, value} acquired.",
+			"text_contents": "<1ď\u0001>{2, id, +} x <1\u0004\u0001>{3, value} acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2343,84 +2343,84 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} got special\nprotection",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got special\nguard",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} got special\nprotection",
+			"text_contents": "<1ċ\u0001>{3, name, +} got special\nguard",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} got\ndragon protection.",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got\ndragon guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} got\ndragon protection.",
+			"text_contents": "<1ċ\u0001>{3, name, +} got\ndragon guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は\nけもののまもりを得た",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got\nbeast guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +}は\nけもののまもりを得た",
+			"text_contents": "<1ċ\u0001>{3, name, +} got\nbeast guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は\nあくまのまもりを得た",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got\ndemon guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +}は\nあくまのまもりを得た",
+			"text_contents": "<1ċ\u0001>{3, name, +} got\ndemon guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は\nむしのまもりを得た",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got\ninsect guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +}は\nむしのまもりを得た",
+			"text_contents": "<1ċ\u0001>{3, name, +} got\ninsect guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は\nすいせいのまもりを得た",
+			"text_contents": "<1ĉ\u0001>{3, name, +} got\nmarine guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +}は\nすいせいのまもりを得た",
+			"text_contents": "<1ċ\u0001>{3, name, +} got\nmarine guard.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -9301,7 +9301,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -9357,7 +9357,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ハナゲ斬り！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} cut you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -12591,7 +12591,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -13207,7 +13207,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -13921,7 +13921,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -13963,7 +13963,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -14005,7 +14005,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -14131,7 +14131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -14187,7 +14187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -14621,7 +14621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -14677,7 +14677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -17575,7 +17575,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -25331,7 +25331,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -28509,7 +28509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -28831,7 +28831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -36391,7 +36391,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -41585,7 +41585,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}が　ゴースト化した！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} turned\ninto a ghost!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -41613,7 +41613,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "悪くないぞ！ここからは盛大にもてなそう！！",
+			"text_contents": "Not bad! Let's try to\nkeep up with me now!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -41627,7 +41627,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここからが本番だ！！",
+			"text_contents": "This is where it starts!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -46877,7 +46877,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47675,7 +47675,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ガードシールド！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nGuard Shield!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -49131,7 +49131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "それは私だ！!",
+			"text_contents": "That's me!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -49145,7 +49145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "今晩、泊まらせてくれない？",
+			"text_contents": "Can I stay over tonight?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -49159,7 +49159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あれ？ボク映ってる？ねえ？",
+			"text_contents": "What's this? Am I in it? Hey?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -49173,7 +49173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "せいしゅくに！2時間目のチャイム鳴ってますよ！",
+			"text_contents": "To the spirits!\nThe second phase begins!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -49187,7 +49187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "せいしゅくに！最終試験、開始します！",
+			"text_contents": "To the spirits!\nThe final phase begins!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

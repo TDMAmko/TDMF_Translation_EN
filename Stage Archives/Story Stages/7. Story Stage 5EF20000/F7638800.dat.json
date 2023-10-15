@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hehehe! I am <17\u0003>{9, MonsterParameter, +}<2Ë耀>{3, name, +},\nguardion of <17\u0003>{8, MessageMapName, +}<2\u0014耀>{4, message}.<1\"\u0000>\nIn the next room, the wind\nlord <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +} awaits.<1\"\u0000>\nIf you're able to defeat me\nand <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +}, then<1\"\u0000>\nyou'll receive a proof for\nmastering the wind element.<1\"\u0000>\nI, however, am the second\nstrongest guardian behind him<1\"\u0000>\nand I won't go easy on you.\nSo, will you challenge<1\"\u0000>\nme, <17\u0003>{9, MonsterParameter, +}<2Ë耀>{3, name, +}?",
+			"text_contents": "Hehehe! I am <17\u0003>{9, MonsterParameter, +}<2Ë耀>{3, name, +},\nguardion of <17\u0003>{8, MessageMapName, +}<2\u0014耀>{4, message}.<1\"\u0000>\nIn the next room, the wind\nlord <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +} awaits.<1\"\u0000>\nIf you're able to defeat me\nand <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +}, then<1\"\u0000>\nyou'll receive a proof for\nmastering the wind element.<1\"\u0000>\nI, however, am the second\nstrongest guardian<1\"\u0000>\nand I won't go easy on you.\nSo, will you challenge<1\"\u0000>\nme, <17\u0003>{9, MonsterParameter, +}<2Ë耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I am <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +},\nthe strongest guardian of<1\"\u0000>\n.<17\u0003>{8, MessageMapName, +}<2\u0014耀>{4, message}\nI use my great wind powers<1\"\u0000>\nfor my own desire and to\ntear apart greedy adventurers.",
+			"text_contents": "I am <17\u0003>{9, MonsterParameter, +}<2®耀>{3, name, +},\nthe strongest guardian of<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2\u0014耀>{4, message}\nI use my great wind powers<1\"\u0000>\nfor my own desire and to\ntear apart greedy adventurers.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

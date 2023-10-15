@@ -1265,7 +1265,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Uhhhhhhhhhhhhohhhh...\nThis is one more trial<1\"\u0000>\nfor you to get the idol...\nLet's go!",
+			"text_contents": "Uhhhhhhhhhhhhohhhh...\nThis is one more trial<1\"\u0000>\nfor you, to get the idol...\nLet's go!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1461,7 +1461,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Heheheh, that is how it should\nbe<1\"\u0000>\nI guess it is time to fight now!",
+			"text_contents": "Heheheh, that is how it should\nbe.<1\"\u0000>\nI guess it is time to fight now!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1517,7 +1517,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Would you rather fight me than\nmthat idiot <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}?",
+			"text_contents": "Would you rather fight me than\nthat idiot <17\u0003>{9, MonsterParameter, +}<2Ú耀>{3, name, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

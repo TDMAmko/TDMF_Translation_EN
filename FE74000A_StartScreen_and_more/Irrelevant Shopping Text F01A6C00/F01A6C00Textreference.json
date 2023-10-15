@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "Dummy",
+			"text_contents": "ダミー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Welcome.",
+			"text_contents": "いらっしゃい。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Welcome.",
+			"text_contents": "いらっしゃい。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What do you want?",
+			"text_contents": "どうする？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かず、入力にゅうりょくしろ。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>しろ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かず、入力にゅうりょくしろ。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>しろ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もう、これ以上いじょう\n買かえない。",
+			"text_contents": "もう、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>\n<18\u0000>買<19\u0000>か<1:\u0000>えない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nまいどあり。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nまいどあり。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nたしかに。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nたしかに。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オマエ、何なにも、売うるもの、持もってない。",
+			"text_contents": "オマエ、<18\u0000>何<19\u0000>なに<1:\u0000>も、<18\u0000>売<19\u0000>う<1:\u0000>るもの、<18\u0000>持<19\u0000>も<1:\u0000>ってない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで、装備そうび、するか？",
+			"text_contents": "ここで、<18\u0000>装備<19\u0000>そうび<1:\u0000>、するか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かず、入力にゅうりょくして。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>して。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かず、入力にゅうりょくして。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>して。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もう、これ以上いじょう\n買かえない。",
+			"text_contents": "もう、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>\n<18\u0000>買<19\u0000>か<1:\u0000>えない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nありがとね。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nありがとね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nたしかに。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nたしかに。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アナタ、何なんも、売うるもの、持もってない。",
+			"text_contents": "アナタ、<18\u0000>何<19\u0000>なん<1:\u0000>も、<18\u0000>売<19\u0000>う<1:\u0000>るもの、<18\u0000>持<19\u0000>も<1:\u0000>ってない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで、装備そうび、する？",
+			"text_contents": "ここで、<18\u0000>装備<19\u0000>そうび<1:\u0000>、する？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かず、入力にゅうりょく、よろしくです。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>、よろしくです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かず、入力にゅうりょく、よろしくです。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>、よろしくです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もう、これ以上いじょう\n買かえない。",
+			"text_contents": "もう、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>\n<18\u0000>買<19\u0000>か<1:\u0000>えない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nありがとう、ございます。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nありがとう、ございます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nたしかに。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nたしかに。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アナタ、何なんも、売うるもの、持もってない。",
+			"text_contents": "アナタ、<18\u0000>何<19\u0000>なん<1:\u0000>も、<18\u0000>売<19\u0000>う<1:\u0000>るもの、<18\u0000>持<19\u0000>も<1:\u0000>ってない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで、装備そうび、します？",
+			"text_contents": "ここで、<18\u0000>装備<19\u0000>そうび<1:\u0000>、します？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "へっ、へっ、へっ、何なんか、買かってけ。",
+			"text_contents": "へっ、へっ、へっ、<18\u0000>何<19\u0000>なん<1:\u0000>か、<18\u0000>買<19\u0000>か<1:\u0000>ってけ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かず、入力にゅうりょくしろ。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>しろ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かず、入力にゅうりょくしろ。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>、<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>しろ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もう、これ以上いじょう\n買かえない。",
+			"text_contents": "もう、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>\n<18\u0000>買<19\u0000>か<1:\u0000>えない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nまいどあり。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nまいどあり。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nたしかに。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nたしかに。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "オマエ、何なにも、売うるもの、持もってない。",
+			"text_contents": "オマエ、<18\u0000>何<19\u0000>なに<1:\u0000>も、<18\u0000>売<19\u0000>う<1:\u0000>るもの、<18\u0000>持<19\u0000>も<1:\u0000>ってない。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで、装備そうび、するか？",
+			"text_contents": "ここで、<18\u0000>装備<19\u0000>そうび<1:\u0000>、するか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いらっしゃいませ、\nゆっくり見みて行いってね。",
+			"text_contents": "いらっしゃいませ、\nゆっくり<18\u0000>見<19\u0000>み<1:\u0000>て<18\u0000>行<19\u0000>い<1:\u0000>ってね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かずを入力にゅうりょくしてね。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>してね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かずを入力にゅうりょくしてね。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>してね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もうこれ以上買いじょうかえないよ。",
+			"text_contents": "もうこれ<18\u0000>以上買<19\u0000>いじょうか<1:\u0000>えないよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nありがとう！",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nありがとう！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,7 +635,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nですね。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nですね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -663,7 +663,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしますか？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>しますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -677,7 +677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いらっしゃいませ、ゆっくり見みて行いってね。\n（イヤなヤツが来きた…）",
+			"text_contents": "いらっしゃいませ、ゆっくり<18\u0000>見<19\u0000>み<1:\u0000>て<18\u0000>行<19\u0000>い<1:\u0000>ってね。\n（イヤなヤツが<18\u0000>来<19\u0000>き<1:\u0000>た…）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "どうします？\n（早はやくしてよ……）",
+			"text_contents": "どうします？\n（<18\u0000>早<19\u0000>はや<1:\u0000>くしてよ……）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,7 +705,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かずを入力にゅうりょくしてね。\n（ふわぁ…眠ねむい…）",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>してね。\n（ふわぁ…<18\u0000>眠<19\u0000>ねむ<1:\u0000>い…）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -719,7 +719,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かずを入力にゅうりょくしてね。\n（もたもたしないでよね…）",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>入力<19\u0000>にゅうりょく<1:\u0000>してね。\n（もたもたしないでよね…）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -733,7 +733,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もうこれ以上買いじょうかえないよ…\n（欲張よくばってんじゃないわよ！！）",
+			"text_contents": "もうこれ<18\u0000>以上買<19\u0000>いじょうか<1:\u0000>えないよ…\n（<18\u0000>欲張<19\u0000>よくば<1:\u0000>ってんじゃないわよ！！）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -747,7 +747,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ\nありがとう！",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>\nありがとう！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こね。\n（早はやく行いってよ、しっ、しっ！！）",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ね。\n（<18\u0000>早<19\u0000>はや<1:\u0000>く<18\u0000>行<19\u0000>い<1:\u0000>ってよ、しっ、しっ！！）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,7 +775,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにも持もっていませんよ。\n（無む駄だなことしないでよね…）",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>も<18\u0000>持<19\u0000>も<1:\u0000>っていませんよ。\n（<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>駄<19\u0000>だ<1:\u0000>なことしないでよね…）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,7 +789,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしますか？\n（装備そうびとかするの？マジで？）",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>しますか？\n（<18\u0000>装備<19\u0000>そうび<1:\u0000>とかするの？マジで？）",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -803,7 +803,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Welcome.\n見みて行いってちょうだいね。",
+			"text_contents": "いらっしゃい。\n<18\u0000>見<19\u0000>み<1:\u0000>て<18\u0000>行<19\u0000>い<1:\u0000>ってちょうだいね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -817,7 +817,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにをするのかしら？",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>をするのかしら？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい個数こすうを教おしえて。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>個数<19\u0000>こすう<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えて。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,7 +845,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かずを教おしえて。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えて。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もうこれ以上買いじょうかえないわね。",
+			"text_contents": "もうこれ<18\u0000>以上買<19\u0000>いじょうか<1:\u0000>えないわね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -873,7 +873,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こね。\nありがとう。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ね。\nありがとう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こね。\nたしかに受うけ取とったわ。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ね。\nたしかに<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>ったわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あらっ？\n何なにも持もってないみたいよ。",
+			"text_contents": "あらっ？\n<18\u0000>何<19\u0000>なに<1:\u0000>も<18\u0000>持<19\u0000>も<1:\u0000>ってないみたいよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしていく？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>していく？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -943,7 +943,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにをされますか？",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>をされますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -957,7 +957,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かずを教おしえてください。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かずを教おしえてください。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "もうこれ以上いじょう買かえません。",
+			"text_contents": "もうこれ<18\u0000>以上<19\u0000>いじょう<1:\u0000><18\u0000>買<19\u0000>か<1:\u0000>えません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こですね。\nありがとうございます。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ですね。\nありがとうございます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,7 +1013,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こですね。\nたしかに。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ですね。\nたしかに。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1027,7 +1027,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにも持もってないみたいようです。",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>も<18\u0000>持<19\u0000>も<1:\u0000>ってないみたいようです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびされますか？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>されますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1069,7 +1069,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにをします～？",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>をします～？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "欲ほしい数かずを教おしえてくださ～い。",
+			"text_contents": "<18\u0000>欲<19\u0000>ほ<1:\u0000>しい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えてくださ～い。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1097,7 +1097,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "売うりたい数かずを教おしえてくださ～い。",
+			"text_contents": "<18\u0000>売<19\u0000>う<1:\u0000>りたい<18\u0000>数<19\u0000>かず<1:\u0000>を<18\u0000>教<19\u0000>おし<1:\u0000>えてくださ～い。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1111,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ごめんねんさ～い。\nもうこれ以上買いじょうかえませ～ん。",
+			"text_contents": "ごめんねんさ～い。\nもうこれ<18\u0000>以上買<19\u0000>いじょうか<1:\u0000>えませ～ん。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,7 +1125,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こですね。\nありがとうございま～す。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ですね。\nありがとうございま～す。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1139,7 +1139,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こですね。\nたしかに受うけ取とりました～。",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1\u0003\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>ですね。\nたしかに<18\u0000>受<19\u0000>う<1:\u0000>け<18\u0000>取<19\u0000>と<1:\u0000>りました～。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにも持もってないですよ～？",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>も<18\u0000>持<19\u0000>も<1:\u0000>ってないですよ～？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1167,7 +1167,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしちゃう？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>しちゃう？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1181,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "見みていってくださいね。",
+			"text_contents": "<18\u0000>見<19\u0000>み<1:\u0000>ていってくださいね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,7 +1195,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "見みていってくださいね。",
+			"text_contents": "<18\u0000>見<19\u0000>み<1:\u0000>ていってくださいね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "すみません、これ以上いじょうは\n買かえないみたいです。",
+			"text_contents": "すみません、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>は\n<18\u0000>買<19\u0000>か<1:\u0000>えないみたいです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1237,7 +1237,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "さっそく装備そうびしてみますか？",
+			"text_contents": "さっそく<18\u0000>装備<19\u0000>そうび<1:\u0000>してみますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1265,7 +1265,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにかお探さがしですか？",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>かお<18\u0000>探<19\u0000>さが<1:\u0000>しですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "これ以上いじょうは\nご購入こうにゅういただけません。",
+			"text_contents": "これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>は\nご<18\u0000>購入<19\u0000>こうにゅう<1:\u0000>いただけません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1293,7 +1293,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ご購入こうにゅうありがとうございます。",
+			"text_contents": "ご<18\u0000>購入<19\u0000>こうにゅう<1:\u0000>ありがとうございます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1307,7 +1307,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしていきますか？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>していきますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1321,7 +1321,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "掘ほり出だし物ものは見みつかりそうか？",
+			"text_contents": "<18\u0000>掘<19\u0000>ほ<1:\u0000>り<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>物<19\u0000>もの<1:\u0000>は<18\u0000>見<19\u0000>み<1:\u0000>つかりそうか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1335,7 +1335,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "掘ほり出だし物ものは見みつかりそうか？",
+			"text_contents": "<18\u0000>掘<19\u0000>ほ<1:\u0000>り<18\u0000>出<19\u0000>だ<1:\u0000>し<18\u0000>物<19\u0000>もの<1:\u0000>は<18\u0000>見<19\u0000>み<1:\u0000>つかりそうか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1349,7 +1349,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いくつ欲ほしいんだ？",
+			"text_contents": "いくつ<18\u0000>欲<19\u0000>ほ<1:\u0000>しいんだ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1377,7 +1377,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おい、落おちつけよ。\nそれ以上いじょうは買かえないぜ？",
+			"text_contents": "おい、<18\u0000>落<19\u0000>お<1:\u0000>ちつけよ。\nそれ<18\u0000>以上<19\u0000>いじょう<1:\u0000>は<18\u0000>買<19\u0000>か<1:\u0000>えないぜ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1433,7 +1433,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ついでに装備そうびしていくか？",
+			"text_contents": "ついでに<18\u0000>装備<19\u0000>そうび<1:\u0000>していくか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1447,7 +1447,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "買かってくれると嬉うれしいな。",
+			"text_contents": "<18\u0000>買<19\u0000>か<1:\u0000>ってくれると<18\u0000>嬉<19\u0000>うれ<1:\u0000>しいな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1461,7 +1461,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "買かってくれると嬉うれしいな。",
+			"text_contents": "<18\u0000>買<19\u0000>か<1:\u0000>ってくれると<18\u0000>嬉<19\u0000>うれ<1:\u0000>しいな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1475,7 +1475,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わわ、これ以上いじょうは無む理りだよー。",
+			"text_contents": "わわ、これ<18\u0000>以上<19\u0000>いじょう<1:\u0000>は<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だよー。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1503,7 +1503,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いますぐ装備そうびしたい？",
+			"text_contents": "いますぐ<18\u0000>装備<19\u0000>そうび<1:\u0000>したい？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1517,7 +1517,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが流行りゅうこうの最先端さいせんたんよ。",
+			"text_contents": "ここが<18\u0000>流行<19\u0000>りゅうこう<1:\u0000>の<18\u0000>最先端<19\u0000>さいせんたん<1:\u0000>よ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1531,7 +1531,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが流行りゅうこうの最先端さいせんたんよ。",
+			"text_contents": "ここが<18\u0000>流行<19\u0000>りゅうこう<1:\u0000>の<18\u0000>最先端<19\u0000>さいせんたん<1:\u0000>よ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1545,7 +1545,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "嬉うれしいんだけど\nこれ以上いじょうは買かえないわよ。",
+			"text_contents": "<18\u0000>嬉<19\u0000>うれ<1:\u0000>しいんだけど\nこれ<18\u0000>以上<19\u0000>いじょう<1:\u0000>は<18\u0000>買<19\u0000>か<1:\u0000>えないわよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1573,7 +1573,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびしちゃえば？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>しちゃえば？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1587,7 +1587,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "どれもオススメの商品しょうひんだよ。",
+			"text_contents": "どれもオススメの<18\u0000>商品<19\u0000>しょうひん<1:\u0000>だよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1601,7 +1601,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "どれもオススメの商品しょうひんだよ。",
+			"text_contents": "どれもオススメの<18\u0000>商品<19\u0000>しょうひん<1:\u0000>だよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1615,7 +1615,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ううむ、もう限界げんかいのようだね。",
+			"text_contents": "ううむ、もう<18\u0000>限界<19\u0000>げんかい<1:\u0000>のようだね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1629,7 +1629,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "これはもう君きみのものだよ。",
+			"text_contents": "これはもう<18\u0000>君<19\u0000>きみ<1:\u0000>のものだよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1643,7 +1643,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここで装備そうびをしていくかい？",
+			"text_contents": "ここで<18\u0000>装備<19\u0000>そうび<1:\u0000>をしていくかい？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1657,7 +1657,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにか買かって行いってくださいよ。",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>買<19\u0000>か<1:\u0000>って<18\u0000>行<19\u0000>い<1:\u0000>ってくださいよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1671,7 +1671,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "何なにか買かって行いってくださいよ。",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>買<19\u0000>か<1:\u0000>って<18\u0000>行<19\u0000>い<1:\u0000>ってくださいよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1685,7 +1685,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ちょっと欲張よくばりすぎじゃないですか？",
+			"text_contents": "ちょっと<18\u0000>欲張<19\u0000>よくば<1:\u0000>りすぎじゃないですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1713,7 +1713,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "忘わすれないように\nここで装備そうびしたらどうですか？",
+			"text_contents": "<18\u0000>忘<19\u0000>わす<1:\u0000>れないように\nここで<18\u0000>装備<19\u0000>そうび<1:\u0000>したらどうですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1727,7 +1727,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この、アイテム、特別とくべつ、商品しょうひん。\n買かえる、1個こ、だけ。オマエ、買かうか？",
+			"text_contents": "この、アイテム、<18\u0000>特別<19\u0000>とくべつ<1:\u0000>、<18\u0000>商品<19\u0000>しょうひん<1:\u0000>。\n<18\u0000>買<19\u0000>か<1:\u0000>える、1<18\u0000>個<19\u0000>こ<1:\u0000>、だけ。オマエ、<18\u0000>買<19\u0000>か<1:\u0000>うか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1741,7 +1741,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "購入個数が限定されているアイテムです。\nあと{2, num}個購入可能です。",
+			"text_contents": "購入個数が限定されているアイテムです。\nあと<1\u0003\u0001>{2, num}個購入可能です。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1767,10 +1767,26 @@
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
 		}
 	],
 	"old_string_data": [],
 	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
 	"v3_string_data": [
 		3503345664,
 		3503345682,

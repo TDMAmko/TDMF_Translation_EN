@@ -1,0 +1,6 @@
+
+
+1CABF400.dat from game cia (not update) also contains item descriptions and is better extracted
+with extract instead of extract-old (but repacking is still extremly faulty with that command)
+=> probably irrelevant since updated dat file doesn't contain descriptions and they are now
+in an extra archvie

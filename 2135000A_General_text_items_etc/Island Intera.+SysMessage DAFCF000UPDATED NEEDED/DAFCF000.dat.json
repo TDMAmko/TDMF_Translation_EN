@@ -488,14 +488,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\n<1\u0003\u0001>{3, jewel}x Jewel acquired <1\u0003\u0001>{3, jewel}\nas a check-in bonus.",
+			"text_contents": "Total number of Check-ins: <1\u0005\u0001>{2, day}!\n<1\u0003\u0001>{3, jewel}x Jewel acquired\nas a Check-in bonus.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins: <1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
+			"text_contents": "Total number of Check-ins: <1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ć\u0001>{3, value}倍",
+			"text_contents": "x<1ć\u0001>{3, value}",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -992,7 +992,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "？？？",
+			"text_contents": "???",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,14 +1013,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Amber?",
+			"text_contents": "Yellow",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Light blue",
+			"text_contents": "Light Blue",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1048,14 +1048,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Shiro?",
+			"text_contents": "White",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Peach?",
+			"text_contents": "Pink",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1258,7 +1258,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} runned out of magic power.",
+			"text_contents": "<1ĉ\u0001>{3, name, +} ran out of\nmagic power.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1300,7 +1300,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} used\n<1ď\u0001>{3, item, +}?。",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\n<1ď\u0001>{3, item, +}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1727,14 +1727,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Filter",
+			"text_contents": "Search",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Search criteria",
+			"text_contents": "Search Criteria",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1783,7 +1783,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No antenna",
+			"text_contents": "No Antenna",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1839,7 +1839,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Select a search condition\nand press \"search\".",
+			"text_contents": "Select search criteria\nand press \"Search\".",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2042,7 +2042,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Give up and return to\nthe island?\n You will keep your\nexperience but not gold, jewels\nand items you have acquired.",
+			"text_contents": "Give up and return to\nthe island?\n You will keep your\nexperience but not gold, Jewels\nand items you have acquired.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2357,7 +2357,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Processing check-in",
+			"text_contents": "Processing Check-in",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2378,14 +2378,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "When you check-in, you can get\nrewards and will unlock\nevents! Additionally, you\nwill receive updata data.\nDo you want to check-in?",
+			"text_contents": "When you check-in, you can\nget rewards and\nunlock events!\nDo you want to Check-in?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Check-in may be required\nfor some online features.\nPlease check-in, to use them.",
+			"text_contents": "Check-in may be required\nfor some online features.\nPlease Check-in, to use them.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2420,21 +2420,21 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Buy jewels",
+			"text_contents": "Buy Jewels",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow jewels",
+			"text_contents": "Borrow Jewels",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Use Nintendo e-shop funds\nto buy jewels.",
+			"text_contents": "Use Nintendo e-shop funds\nto buy Jewels.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2448,21 +2448,21 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Obtaining jewels",
+			"text_contents": "Obtaining Jewels",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow jewels",
+			"text_contents": "Borrow Jewels",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchase jewels",
+			"text_contents": "Purchase Jewels",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2511,7 +2511,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchased and borrowed jewels\nare not included in the loot.",
+			"text_contents": "Purchased and borrowed Jewels\nare not included in the loot.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2553,7 +2553,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchased data couldn't be saved.\nTry again by connecting to\nthe jewel purchase option.",
+			"text_contents": "Purchased data couldn't be saved.\nTry again by connecting to\nthe Jewel purchase option.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2679,7 +2679,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "End of receiving\nSpotPass messages.",
+			"text_contents": "Receiving of SpotPass not\nsupported. Check system settings.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2798,7 +2798,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Date and time changed.\nCan't use check-in or events\nfor a while.\nDon't change your 3ds's time and date!",
+			"text_contents": "Date and time changed.\nCan't use Check-in or events\nfor a while.\nDon't change your 3ds's time and date!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2812,7 +2812,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wi-fi battle unlocked\nBattle with other players\nfrom far away for rewards!",
+			"text_contents": "Wi-fi battle unlocked!\nBattle with other players\nfrom far away for rewards!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3120,7 +3120,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Date and time changed.\nCan't use check-in or events\nfor a while.\nDon't change your 3ds's time and date!",
+			"text_contents": "Date and time changed.\nCan't use Check-in or events\nfor a while.\nDon't change your 3ds's time and date!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3162,7 +3162,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to finish this\"stage\"\nand return to the <17\u0003>{8, MessageMapName, +}<2\u0006耀>{4, message}?",
+			"text_contents": "Finish this \"stage\" and\nreturn to <17\u0003>{8, MessageMapName, +}<2\u0006耀>{4, message}?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3190,7 +3190,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Data not found for catch mode.\nPlease check-in to reload data.",
+			"text_contents": "Data not found for catch mode.\nPlease Check-in to reload data.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3239,7 +3239,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event Shop data not found\nUse check-in to reload data.",
+			"text_contents": "Event Shop data not found.\nUse Check-in to reload data.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3547,7 +3547,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No record of your data\nfound on server. Not able\nto count number of check-in days.\nWe are sorry for the\ninconvenience caused",
+			"text_contents": "No record of your data\nfound on server. Not able\nto count number of Check-in days.\nWe are sorry for the\ninconvenience caused",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

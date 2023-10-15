@@ -964,7 +964,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The door is tightly closed.",
+			"text_contents": "The door is shut tight.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1405,14 +1405,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĸ\u0001>{3, name, +}\nPlay this stage?",
+			"text_contents": "<1ĸ\u0001>{3, name, +}\nEnter this stage?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ġ\u0001>{3, name, +}\nPlay this stage?",
+			"text_contents": "<1ġ\u0001>{3, name, +}\nEnter this stage?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2791,28 +2791,28 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lucky time!\nMore monsters will appear than usual!<1\"\u0000>\nMake us of this\nby getting as many boosters as possible!",
+			"text_contents": "Lucky chance!\nMore monsters will appear than<1\"\u0000>\nusual! Make us of this by getting\nas many boosters as possible!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lucky time!\nMore monsters will appear than usual!<1\"\u0000>\nMake us of this\nby leveling up as much as possible!",
+			"text_contents": "Lucky chance!\nMore monsters will appear than<1\"\u0000>\nusual! Make us of this by\nleveling up as much as possible!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lucky time!\nMore monsters will appear than usual!<1\"\u0000>\nMake us of this\nby earning as much gold as possible!",
+			"text_contents": "Lucky chance!\nMore monsters will appear than<1\"\u0000>\nusual! Make us of this by\nearning as much gold as possible!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lucky time!\nMore monsters will appear than usual!<1\"\u0000>\nMake us of this\nby obtaining as much delicious food as possible!",
+			"text_contents": "Lucky chance!\nMore monsters will appear than usual!<1\"\u0000>\nMake us of this\nby obtaining as much delicious food as possible!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

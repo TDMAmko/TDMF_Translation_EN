@@ -1,0 +1,829 @@
+{
+	"header": {
+		"text_amount": 48,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 12699,
+		"offset_strings": 12768,
+		"strings_section_size1": 576,
+		"offset3": 13344,
+		"section_size2": 192,
+		"offset4": 13536,
+		"section_size3": 16,
+		"offset5": 13552,
+		"section_size4": 98,
+		"unk3": 0,
+		"offset6": 12690,
+		"offset7": 12698,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Go to reception first if you want\nto enter the fishing grounds.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Do you want to participate in the\n\"Fishing Challenge!\"?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome. This season, we\nhold \"Fishing Challenge\".<1\"\u0000>\nCan win great prizes by catching\ncertain fish as conditions.<1\"\u0000>\nYou want take part in\nthis challeng?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This time, condition is,\ncatch \"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times.<1\"\u0000>\nOther fish not count.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This time, conditions are, catch\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times,<1\"\u0000>\nand catch \"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num} times.\nOther fish not count.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This time, conditions are, catch\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times,<1\"\u0000>\nand \"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num}.\nAlso, need catch<1\"\u0000>\n\"<1Đ\u0001>{4, fish_c, +}\" <1\u000B\u0001>{3, c_num} times.\nOther fish not count.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What...you not participate?<1\"\u0000>\nIf want participate in\n\"Fishing Challenge\", talk to me.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, how you doing?<1\"\u0000>\nOnly need catch\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times.<1\"\u0000>\nNot give up till time\nruns out!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, how you doing?<1\"\u0000>\nOnly need catch\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times and<1\"\u0000>\n\"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num} times.<1\"\u0000>\nNot give up till time\nruns out!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, how you doing?<1\"\u0000>\nOnly need catch\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times and\n\"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num} times.\nAlso, \"<1Đ\u0001>{4, fish_c, +}\" <1\u000B\u0001>{3, c_num} times.<1\"\u0000>\nNot give up till time\nruns out!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you caught all fish, we\nrequested to you.<1\"\u0000>\nYou now reached new rank,\n\"Rank <1\u000B\u0001>{3, rank, +}\"!!<1\"\u0000>\nCongratulations!!\nNow, please accept prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow, you caught really all fish,\nwe requested to you.<1\"\u0000>\nYou now reached final rank,\n\"Rank 5\"!!<1\"\u0000>\nReally congratulations!!\nNow, please accept prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome. You, already\ncomplete all challenges.<1\"\u0000>\nStill want, go fishing?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Challenge over, but still time\nlimit of 3 minutes.<1\"\u0000>\nDuring time, can fish what want.\nEnjoy time you have!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well then, have good time!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh yeah, if catch very rare fish\n\"<1Đ\u0001>{3, fish, +}\" will get<1\"\u0000>\nspecial prize.\nHave good time!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well...gues you not want go\nfishing. But if change mind,<1\"\u0000>\ntalk to me again!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, you...what!?\nCaught \"<1Đ\u0001>{4, fish_a, +}\", you great!!<1\"\u0000>\nMe give you this special prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh wow....\nCaught \"<1Đ\u0001>{4, fish_a, +}\", you awesome!!<1\"\u0000>\nWill give you this special prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Come again! Fishing enthusiasts\nalways welcome!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome back! Guess you not\ncatch all fish we requested...<1\"\u0000>\nBut no problem, can try\nhow much you want during<1\"\u0000>\nthis challenge season. Also,\nduring season your progress not<1\"\u0000>\nreset. As long as not give up,\nwill achieve goal in no time!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you...not have any fishing\ngear? Can use mine if like.<1\"\u0000>\nHere, can take.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, how you doing?\nMe here till end of day.<1\"\u0000>\nJust enjoy as much as can.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you try catch\n\"<1Đ\u0001>{3, fish, +}\" yet?<1\"\u0000>\nIf not give up, can try\ncatch before time running out!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh wow...\nFished \"<1Đ\u0001>{4, fish_a, +}\"!<1\"\u0000>\nIncredible!!\nMe give this as special prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There still some time left.\nIf like, can fish more.<1\"\u0000>\nBut...we not have any\nprize to give now.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh wow...\nFished \"<1Đ\u0001>{4, fish_a, +}\"!<1\"\u0000>\nIncredible!!\nMe give this as special prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You here back again!\nWant continue where you left<1\"\u0000>\nlast time, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome back.\nYou catch lots of fish?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome back.\nYou catch lots of fish?<1\"\u0000>\nWe here for whole week,\nif want go fishing, come back<1\"\u0000>\nand fish here again.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, welcome back.<1\"\u0000>\nMe see, you not catch\n\"<1Đ\u0001>{4, fish_a, +}\".<1\"\u0000>\nBut this no problem, we here\nfor full week.<1\"\u0000>\nCome back anytime, if want\nfishing again!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Only fish left,\"<1Đ\u0001>{4, fish_a, +}\", catch <1\u000B\u0001>{3, a_num}times.<1\"\u0000>\nOther fish not valid.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Only fish left, are\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times<1\"\u0000>\nand \"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num} times.\nOther fish not valid.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Only fish left, are\n\"<1Đ\u0001>{4, fish_a, +}\" <1\u000B\u0001>{3, a_num} times<1\"\u0000>\nand \"<1Đ\u0001>{4, fish_b, +}\" <1\u000B\u0001>{3, b_num} times.<1\"\u0000>\nThen, also \"<1Đ\u0001>{4, fish_c, +}\"\n<1\u000B\u0001>{3, c_num} missing, too.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "To fish, need bait.\nWe have lots of fresh bait here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here, prizes get by beating\nchallenges, can be seen here.<1\"\u0000>\nThe prizes change, depending\non which month.<1\"\u0000>\nMake sure, you check here\noften!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "From \"Fishing Challenge\", can\nget rare and unique \"Baits\".<1\"\u0000>\nTalk to lady at counter,\nshe show you prize.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If catch special fish, will get\nspecial prize!<1\"\u0000>\nThis time, special fish is\n\"<1Đ\u0001>{3, fish, +}\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What? You quit the challenge and\nwant go home?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, come fish here again soon!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, me wish good luck\nwhile fishing!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If use \"<17\u0003>{5, ItemData, +}<2ʣ耀>{3, name, +}\", catching\nbig fish much easier.<1\"\u0000>\nMe should go to Jewel shop,\nand buy it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"<17\u0003>{5, ItemData, +}<2ɍ耀>{3, name, +}\" increase,\nyour fishing experience.<1\"\u0000>\nWhen want use, go to \"Item\",\nafter opening \"Menu\" with \"Y\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "\"Fishing rod\" and \"bait\" can\nbe equipped under \"Tackle Box\".<1\"\u0000>\nCan find it, if press \"Y\" to\nopen \"Menu\"<1\"\u0000>\nIf have equipped, call me then.\nWill teach you fishing<1\"\u0000>\nif not know fishing.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You look like have\n\"Fishing Rod\" equipped.<1\"\u0000>\nBut can't just fish with\nfishing rod.<1\"\u0000>\nAlso need to equip a \"Bait\".\nIf have fishing bait equipped,<1\"\u0000>\ncome back to me, if not know\nfishing, will teach you.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey,hey!<1\"\u0000>\nAlready got \"Fishing Rod\" but you not<1\"\u0000>\nhave rod equipped. Talk to me\nif have equipped.<1\"\u0000>\nThen, if not know fishing,\nme will teach.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let me teach how to fish!\nWhen want fish, press \"A\" at<1\"\u0000>\nwater edge where fish are.\nIf fish bite, then<1\"\u0000>\npress \"A\" again to start catch.\nHold \"A\" to damage fish.<1\"\u0000>\nIf energy of fish run out,\nfish will be caught!<1\"\u0000>\nBut while damaging fish, \"line\nstrength\" on lower left also go<1\"\u0000>\ndown. If too low, fish escpaes,\nso be careful.<1\"\u0000>\nThe more you fish, the higher\nyour fishing level gets.<1\"\u0000>\nWith higher level, much easier\ncatch big fish.<1\"\u0000>\nNow me taught basics.\nYou now try fishing.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483672,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483673,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483683,
+		2147483684,
+		2147483662,
+		2147483663,
+		2147483685,
+		2147483664,
+		2147483665,
+		2147483678,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483691,
+		2147483689,
+		2147483690,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483666,
+		2147483667,
+		2147483674,
+		2147483675,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483676,
+		2147483677,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682
+	]
+}

@@ -90,7 +90,7 @@ Those archives contain a lot of .dat files, most of them are not text files thou
 It seems to be that for each location a stage has, there is a text file 
 (e.g. a dungeon + village + hidden cave => 3 text files for that archive).
 
-	- Archives: 5EFC0000 - 5E790000: Event stage archives
+	- Archives: ??? - ???: Event stage archives
 	 	- 35676C00.dat: Whole text for an event stage 
 		(if there are several places on that stage,there are more text dat files in that archive)
 		- 3E6EC400.dat: Contains only the word "None" in Japanese, sometimes also probably error

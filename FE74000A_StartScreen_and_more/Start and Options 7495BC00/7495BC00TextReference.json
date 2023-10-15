@@ -1,0 +1,784 @@
+{
+	"header": {
+		"text_amount": 91,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 12904,
+		"offset_strings": 12976,
+		"strings_section_size1": 364,
+		"offset3": 13344,
+		"section_size2": 364,
+		"offset4": 13712,
+		"section_size3": 8,
+		"offset5": 13728,
+		"section_size4": 92,
+		"unk3": 0,
+		"offset6": 12886,
+		"offset7": 12898,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "ゲームをはじめる",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "つづきから",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちゅうだんから",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "せってい",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレイ時間じかん",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, hhhh, +}:{2, mm, +}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ver. {2, app}.{3, patch}.{2, res}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "植物しょくぶつが枯かれてしまいました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ニンテンドー3DS本体ほんたいを\n動うごかす遊あそびをするので\n周まわりに十分気じゅうぶんきをつけてください。\nはじめても大丈夫だいじょうぶですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このデータをはじめてよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "中断ちゅうだんしたステージから再開さいかいします。\n再開さいかいすると中断ちゅうだんデータは消きえてしまうので\n早はやめにセーブするようにして下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータが壊こわれている\n可能性かのうせいがあるため使つかえません。\nデータを消去しょうきょしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつの間に通信",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サポート番号",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ON",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "OFF",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チェックイン",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつの間まに通信つうしんの設定せっていを\nOFFにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつの間まに通信つうしんの設定せっていを\nONにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつの間まに通信つうしんで\nこのソフトのおしらせを\n受信じゅしんしてもよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信つうしんの設定せっていを\nOFFにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信つうしんの設定せっていを\nONにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お客様きゃくさまのサポート番号ばんごうが\n発行はっこうされていません。\nサポート番号ばんごうはチェックインから\n発行はっこうすることができます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チェックインの許可きょか設定せっていを\nONにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チェックインの許可きょか設定せっていを\nOFFにしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信つうしんの設定せっていを変更へんこうします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつの間まに通信つうしんの設定せっていを変更へんこうします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お客様きゃくさまのサポート番号ばんごうを確認かくにんします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チェックインの許可きょか設定せっていを変更へんこうします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サポート番号",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サポート番号は、お客様が本ゲームデータの\n持ち主である証しになります。\nお問い合わせを頂いた際に\n必要になることがありますので\n忘れないようにお控え下さい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本体設定ほんたいせっていで日付ひづけと時刻じこくが変更へんこうされました。\nしばらくの間あいだ、チェックインによる\nサービスが受うけられません。\nまた、スタミナなど時間じかん経過けいかによる\n回復かいふくは反映はんえいされていません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームを始はじめてセーブをすると\n24時間後じかんごからチェックインサービスや\n時間じかん経過けいかによるスタミナ回復かいふくなどが\n正常せいじょうに行おこなわれるようになります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエルのデータが壊こわれている\n可能性かのうせいがあるため使つかえません。\nセーブデータを消去しょうきょしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータが壊こわれている\n可能性かのうせいがあるため使つかえません。\nセーブデータを消去しょうきょしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータを変更へんこうされた\n可能性かのうせいがあるため使つかえません。\nセーブデータを消去しょうきょしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本体ほんたい時刻じこくの異常いじょうを検知けんちしました。\nしばらくの間あいだ、チェックインによる\nサービスが受うけられません。\nまた、スタミナなど時間じかん経過けいかによる\n回復かいふくは反映はんえいされていません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "コード入力",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キャンペーンなどで手てに入いれた\nコードを入力にゅうりょくします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "入力されたコードの中に\n使用できない文字が\n含まれています。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームを始はじめていない状態じょうたいでは\nコード入力にゅうりょくができません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータの異常いじょうを検知けんちしました。\n入力にゅうりょくされたコードは使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "入力にゅうりょくされたコードが間違まちがっています。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ソフトのバージョンが古ふるい為ため\n入力にゅうりょくされたコードを受うけ付つけられません。\nチェックインをして、更新こうしんしてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このコードは既すでに使用しようされています。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "入力にゅうりょくされたコードは取扱とりあつかいできません。\nサポート番号ばんごうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "要求ようきゅうされた処理しょりが成功せいこうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "要求ようきゅうされた処理しょりに失敗しっぱいしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "要求ようきゅうされた処理しょりは必要ひつようありません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエルのデータが壊こわれている\n可能性かのうせいがあるため、使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータが壊こわれている\n可能性かのうせいがあるため、使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータが最後さいごにセーブされた\nものではないため、使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータを変更へんこうされた\n可能性かのうせいがあるため、使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームを中断ちゅうだんしている状態じょうたいでは\nコードの入力にゅうりょくができません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "更新こうしんデータを修復しゅうふくのために削除さくじょし\n再起動さいきどうを行おこないます。\nよろしいですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本体時刻ほんたいじこくの異常いじょうを検知けんちしたため\nコードの入力にゅうりょくができません。\nゲーム内ないでセーブをしてから\n再度さいど、操作そうさしてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータの異常いじょうを検知けんちしたため\nコードの入力にゅうりょくができません。\nTYPE-{2, num}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームを中断ちゅうだんしている状態じょうたいでは\nコードの入力にゅうりょくができません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サポートより発行はっこうされたコードの\n入力にゅうりょくを開始かいししますか？\n\nその他ほかのコードは受うけ付つけませんので\nご注意ちゅういください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "入力にゅうりょくされたコードは\nサポート発行はっこうの物ものではありません。\nご確認かくにんの上うえ、再度入力さいどにゅうりょくしてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "入力にゅうりょくされたコードはサポート専用せんようです。\nサポートよりお知しらせした\n入力方法にゅうりょくほうほうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "所持しょじゴールドがいっぱいのため\nコードの受付うけつけをキャンセルいたしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "所持しょじジュエルがいっぱいのため\nコードの受付うけつけをキャンセルいたしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アイテムを受うけ取とれないため\nコードの受付うけつけをキャンセルいたしました。\n所持数しょじすうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アイテムをすべて受うけ取とれないため\nコードの受付うけつけをキャンセルいたしました。\n所持数しょじすうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんボックスがいっぱいなため\nコードの受付うけつけをキャンセルいたしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "既すでに仲間なかまになっているため\nコードの受付うけつけをキャンセルいたしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このコードは有効期限ゆうこうきげんが切きれています。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このコードは使用しようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このコードは既すでに使用しようされている、\nもしくは有効期限ゆうこうきげんが切きれています。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "装備品そうびひんが受うけ取とれないため\nコードの受付うけつけをキャンセルいたしました。\n所持数しょじすうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼントが受うけ取とれないため\nコードの受付うけつけをキャンセルいたしました。\n所持数しょじすうをご確認かくにんください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "コードの受付うけつけに失敗しっぱいしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "処理中しょりちゅうのコードが見みつかりませんでした。\nもう一度いちど、前回ぜんかいと同おなじコードを\n入力にゅうりょくしてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "コード処理中しょりちゅうです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "前回ぜんかいの処理しょりが正常終了せいじょうしゅうりょうしませんでした。\n新あたらしいコードを入力にゅうりょくするためには\nインターネットに接続せつぞくして\n前回ぜんかいの処理しょりを終了しゅうりょうさせる必要ひつようがあります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ver.1.8にて不具合ふぐあいのあった\nインテリアアイテムを回収かいしゅうし\n購入分こうにゅうぶんのゴールドをお返かえしいたしました。\nご迷惑めいわくをおかけいたしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "既すでに対象たいしょうのステージが開ひらいているので\nこのコードは現在使用げんざいしようできません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータが\n最後さいごにセーブされたものではないので\n使つかえません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お心当こころあたりのない方かたは、<1ĳ\u0000>を押おして\nゲームを終了しゅうりょうし、電子説明書でんしせつめいしょに記載きさいの\nお問とい合あわせ先さきまでご連絡れんらくください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブデータを削除さくじょして\nはじめからやり直なおしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セーブのさくじょ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タイトルで、すれちがい通信つうしんの\nチェックを行おこないますか？\n\n注意ちゅうい\nプレゼントはもらえません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{2, num}人にんとすれちがって\n合計ごうけい{3, total}人にんとすれちがいました",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい通信つうしんで受うけ取とった\nデータを読よみ込こんでいます。\n電源でんげんを切きらないでください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すれちがい {3, total}/{3, save, +}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お詫び",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエルショップにて\n本来ほんらい使用しようできる制限数せいげんすう以上いじょうに\nアイテムが購入こうにゅうできてしまう\n不具合ふぐあいがございました。\nこのたびは、ご迷惑めいわくをおかけしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "余分よぶんに購入こうにゅうされた\n「<1Đ\u0001>{3, name, +}」を回収かいしゅうし\n購入分こうにゅうぶんのジュエルを返還へんかんいたします。\nジュエル を {2, num}個こ 返還へんかんしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageMenu",
+			"title"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147484098,
+		2147484099,
+		2147484100,
+		2147484101,
+		2147484125,
+		2147484126,
+		2147484387,
+		2147484106,
+		2147484113,
+		2147484114,
+		2147484115,
+		2147484508,
+		2147484107,
+		2147484108,
+		2147484109,
+		2147484111,
+		2147484112,
+		2147484538,
+		2147484118,
+		2147484119,
+		2147484120,
+		2147484121,
+		2147484122,
+		2147484342,
+		2147484507,
+		2147484540,
+		2147484371,
+		2147484372,
+		2147484373,
+		2147484539,
+		2147484123,
+		2147484124,
+		2147484542,
+		2147484543,
+		2147484584,
+		2147484585,
+		2147484828,
+		2147484587,
+		2147484598,
+		2147484629,
+		2147484670,
+		2147484671,
+		2147484672,
+		2147484673,
+		2147484674,
+		2147484675,
+		2147484678,
+		2147484679,
+		2147484680,
+		2147484681,
+		2147484682,
+		2147484683,
+		2147484684,
+		2147484685,
+		2147484686,
+		2147484687,
+		2147484692,
+		2147484700,
+		2147484701,
+		2147484702,
+		2147484703,
+		2147484704,
+		2147484705,
+		2147484706,
+		2147484707,
+		2147484708,
+		2147484709,
+		2147484710,
+		2147484711,
+		2147484712,
+		2147484714,
+		2147484715,
+		2147484717,
+		2147484718,
+		2147484719,
+		2147484731,
+		2147484713,
+		2147484716,
+		2147484795,
+		2147484796,
+		2147484829,
+		2147484830,
+		2147484831,
+		2147484832,
+		2147484836,
+		2147484837,
+		2147484839,
+		2147484838,
+		2147484871,
+		2147484872,
+		2147484873
+	]
+}

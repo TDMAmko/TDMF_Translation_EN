@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Place ahead <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}\ncalled.<1\"\u0000>\nNo entering allowed, beceause\nmonsters, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}, in there!\n<1\"\u0000>\nIf still want to enter\nask chief in northeast corner<1\"\u0000>\n<1\"\u0000>\nof village for permission.",
+			"text_contents": "Place ahead <17\u0003>{8, MessageMapName, +}<2\u0011耀>{4, message}\ncalled.<1\"\u0000>\nNo entering allowed, beceause\nmonsters, <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}, in there!<1\"\u0000>\nIf still want to enter\nask chief in northeast corner<1\"\u0000>\nof village for permission.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "We defeated <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!\nI'm gald that we were able to\nbring back peace and harmony to\nthis village!",
+			"text_contents": "We defeated <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}!\nI'm gald that we were able to<1\"\u0000>\nbring back peace and harmony to\nthis village!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

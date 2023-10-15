@@ -1,0 +1,4496 @@
+{
+	"header": {
+		"text_amount": 555,
+		"unk1": 4,
+		"header_size": 64,
+		"script_section_size": 110096,
+		"offset_strings": 110160,
+		"strings_section_size1": 2220,
+		"offset3": 112384,
+		"section_size2": 2220,
+		"offset4": 114608,
+		"section_size3": 8,
+		"offset5": 114624,
+		"section_size4": 556,
+		"unk3": 0,
+		"offset6": 110074,
+		"offset7": 110092,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": " ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＨＰをちょっと回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＨＰをそこそこ回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＨＰを完全かんぜんに回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間全員なかまぜんいんのＨＰをそこそこ回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間全員なかまぜんいんのＨＰを完全かんぜんに回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＡＰをちょっと回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＡＰをそこそこ回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＡＰをかなり回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのＡＰを完全かんぜんに回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間全員なかまぜんいんのＡＰをそこそこ回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間全員なかまぜんいんのＡＰを完全かんぜんに回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "倒たおれた仲間なかまひとりを復活ふっかつさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "倒たおれた仲間なかまひとりを完全復活かんぜんふっかつさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "倒たおれた仲間全員なかまぜんいんを復活ふっかつさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "倒たおれた仲間全員なかまぜんいんを完全復活かんぜんふっかつさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのどく・もうどく状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのどく・もうどく状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのやけど状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのやけど状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのみずびたし状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのみずびたし状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのかぜっぴき状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのかぜっぴき状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのどろだらけ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのどろだらけ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりののろい、突然とつぜん死しを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんののろい、突然とつぜん死しを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのかんでん状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのかんでん状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのしもやけ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのしもやけ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのマヒ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのマヒ状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりを眠ねむりから目め覚ざめさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんを眠ねむりから目め覚ざめさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりのブラインド状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかま全員ぜんいんのブラインド状態じょうたいを治なおす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりの興奮こうふんを鎮しずめる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまひとりの下さげられた能力のうりょくを元もとにもどす。\n強化きょうかされている能力のうりょくはもどらない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間なかまのうち数人すうにんを一定時間いっていじかん\n敵てきの攻撃こうげきから守まもってくれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仲間全員なかまぜんいんを興奮状態こうふんじょうたいにする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゴースト状態じょうたいの相手あいてに攻撃こうげきを当あてられるようになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ひの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが火属性攻撃ひぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ひの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが火属性攻撃ひぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが氷属性攻撃こおりぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが氷属性攻撃こおりぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが風属性攻撃かぜぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが風属性攻撃かぜぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土つちの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが土属性攻撃つちぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土つちの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが土属性攻撃つちぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが電気属性攻撃でんきぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが電気属性攻撃でんきぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが水属性攻撃みずぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが水属性攻撃みずぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ひかりの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが光属性攻撃ひかりぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ひかりの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが光属性攻撃ひかりぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、こうげきが闇属性攻撃やみぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからが宿やどる薬くすり。\n少すこしの間あいだ、全員ぜんいんのこうげきが闇属性攻撃やみぞくせいこうげきになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "火ひの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの火属性耐性ひぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの氷属性耐性こおりぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの風属性耐性かぜぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "土つちの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの土属性耐性つちぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの電気属性耐性でんきぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの水属性耐性みずぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ひかりの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの光属性耐性ひかりぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの闇属性耐性やみぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "精霊せいれいの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの全属性耐性ぜんぞくせいたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒どくからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの毒耐性どくたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やけどからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのやけど耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "しもやけからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのしもやけ耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かぜっぴきからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのかぜっぴき耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろだらけからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのどろだらけ耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かんでんからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのかんでん耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みずびたしからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのみずびたし耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "のろいからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんののろい耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マヒからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのマヒ耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねむりからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのねむり耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "みりょうからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの誘惑耐性ゆうわくたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ブラインドからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんのブラインド耐性たいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然死とつぜんしからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの突然死耐性とつぜんしたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わざわいからの守まもりが得えられるお守まもり。\n少すこしの間あいだ、全員ぜんいんの全状態異常耐性ぜんじょうたいいじょうたいせいが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「最大さいだいＨＰ」が増ふえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「最大さいだいＡＰ」が増ふえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「こうげきりょく」が上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「ぼうぎょりょく」が上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「すばやさ」が上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると「つりの経験値けいけんち」が増ふえる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりが上う手まくなるレベルアップアイテム。\n使用しようするとつり経験値けいけんちが100得えられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりが上う手まくなるレベルアップアイテム。\n使用しようするとつり経験値けいけんちが250得えられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりが上う手まくなるレベルアップアイテム。\n使用しようするとつり経験値けいけんちが400得えられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "飲のむと経験値けいけんちが少すこし得えられるドリンク。\nパーティメニューのアイテムから使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "飲のむと経験値けいけんちが得えられるドリンク。\nパーティメニューのアイテムから使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "飲のむとかなりの経験値けいけんちが得えられるドリンク。\nパーティメニューのアイテムから使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "モンスターが食たべるとレベルアップするフルーツ。\n仲間なかまのモンスターにあげてみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "妖精ようせいが食たべるとレベルアップするフルーツ。\n仲間なかまの妖精ようせいにあげてみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底人ちていじんが食たべるとレベルアップするフルーツ。\n仲間なかまの地底人ちていじんにあげてみよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "煙けむりに身みを隠かくしてバトルから逃にげ出だす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ内ないで入手にゅうしゅしたアイテムを\n持もったままステージから脱出だっしゅつする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くらやみのランプの時間じかんを\nちょっと回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くらやみのランプの時間じかんを\nそこそこ回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くらやみのランプの時間じかんを\nかなり回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くらやみのランプの時間じかんを\n完全かんぜんに回復かいふくする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "扉とびらを開あける鍵かぎ。\n一度いちど使つかうとなくなる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "異次元いじげんへとつづく黄金おうごんの扉とびらを開ひらくかぎ。\n黄金おうごんの扉とびらを見みつけたら使つかってみよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、得えられる経験値けいけんちが\n増加ぞうかするブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、得えられるゴールドが\n増加ぞうかするブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、おたからが\n落おちやすくなるブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、レアおたからが\n落おちやすくなるブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、激げきレアおたからが\n落おちやすくなるブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ステージ選択時せんたくじに使つかうと、モンスターを\nつかまえる成功率せいこうりつが上あがるブーストアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "スタミナを100回復かいふくしてくれるチケット。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんの家いえを拡張かくちょうするくすり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "島しまの広ひろさを拡張かくちょうするくすり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n赤色あかいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n赤色あかいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n赤色あかいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n水色みずいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n水色みずいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n水色みずいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n緑色みどりいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n緑色みどりいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n緑色みどりいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n橙色だいだいいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n橙色だいだいいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n橙色だいだいいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黄色きいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黄色きいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黄色きいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n青色あおいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n青色あおいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n青色あおいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n白色しろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n白色しろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n白色しろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n紫色むらさきいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n紫色むらさきいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n紫色むらさきいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n銀色ぎんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n銀色ぎんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n銀色ぎんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n金色きんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n金色きんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n金色きんいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n桃色ももいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n桃色ももいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n桃色ももいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黒色くろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黒色くろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんのボディを\n黒色くろいろに染そめる染料せんりょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ペイントした色いろを落おとす水みず。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "少すこし高たかく売うれる宝石ほうせきの一部いちぶ。\n紫色むらさきいろが大人おとなの魅力みりょくをかもしだす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "少すこし高たかく売うれる宝石ほうせきのかたまり。\n紫色むらさきいろが大人おとなの魅力みりょくをかもしだしまくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高たかく売うれる宝石ほうせきの一部いちぶ。\n橙色だいだいいろが若々わかわかしさを演出えんしゅつ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高たかく売うれる宝石ほうせきのかたまり。\n橙色だいだいいろが若々わかわかしさを加速かそくさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても高たかく売うれる宝石ほうせきの一部いちぶ。\n青色あおいろを見みるとなんだか落おちつく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても高たかく売うれる宝石ほうせきのかたまり。\n青色あおいろが超ちょうクール。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かなり高たかく売うれる宝石ほうせきの一部いちぶ。\n赤色あかいろがなんだかドキドキ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かなり高たかく売うれる宝石ほうせきのかたまり。\n赤色あかいろが多おおくの淑女しゅくじょを狂くるわせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すごく高たかく売うれる宝石ほうせきの一部いちぶ。\n緑色みどりいろでとても目めが休やすまる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すごく高たかく売うれる宝石ほうせきのかたまり。\n緑色みどりいろが穏おだやかな日ひ々びをお約束やくそく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぎんで出で来きた小ちいさなメダル。\n高価こうかで売うり買かいされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ものすごく高たかく売うれる金きんの砂すな。\n砂すなとはいえ夢心地ゆめごこち。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ものすごく高たかく売うれる金きんのコイン。\nあまりにきれいすぎて、かみつきたい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "黄金おうごんで出で来きたメダル。\n手てに入いれると世界一せかいいちになった気分きぶんになれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ものすごく高たかく売うれる金きんのかたまり。\n黄金おうごんは権力けんりょくの証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とんでもなく高たかく売うれる白金はっきんの砂すな。\nジュエリーの原料げんりょうになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とんでもなく高たかく売うれる白金はっきんのメダル。\n透すき通とおるような透明感とうめいかん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とんでもなく高たかく売うれる白金はっきんのかたまり。\nその輝かがやきはしばしば争あらそいの種たねとなる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この世よで最もっとも高たかく売うれる宝石ほうせきの一部いちぶ。\nかけらでも吸すい込こまれそうな虹色にじいろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "幻まぼろしといわれるダイヤの原石げんせき。\nみがけばさらに高価こうかになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この世よで最もっとも高たかく売うれるダイヤのかたまり。\n幸しあわせを手てに入いれるためには必須ひっす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この世よで最もっとも高たかく売うれる幻まぼろしのダイヤ。\n宝石ほうせきコレクターなら全すべてを捨すてても入手にゅうしゅしたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "人魚にんぎょの涙なみだと呼よばれるほど美うつくしい光沢こうたくの粒つぶ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "人魚にんぎょの涙なみだと呼よばれるほど美うつくしい光沢こうたくの宝石ほうせき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海うみの色いろをした美うつくしい宝石ほうせき。\n手てに入いれると幸しあわせになるといわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いい子こにしているともらえる小袋こふくろ。\n換金かんきんアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いい子こにしているともらえる分厚ぶあつい袋ふくろ。\n換金かんきんアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u000C耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2Į耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\r耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2ÿ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0010耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2i耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0010耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2¨耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0011耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0011耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0012耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2É耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0012耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<29耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0013耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2ę耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0014耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2®耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u001A耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2t耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\u0016耀>{4, message}」に住すむ、\n『{9, MonsterParameter, +}<2Ĳ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<24耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˥耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˹耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˜耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˶耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2{耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˭耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ͺ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2þ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ď耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2»耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ˮ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2΄耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2A耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ø耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2B耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2b耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2C耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ƴ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2D耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<28耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2E耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ǋ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2F耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ì耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2G耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ę耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2H耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2c耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2I耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2¹耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2J耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ù耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2K耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ĳ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2L耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ǐ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2M耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2^耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2N耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ò耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2O耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ǒ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2P耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2`耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Q耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2f耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2R耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ǔ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2S耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ã耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2T耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2w耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2U耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2°耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2V耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2º耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2W耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ē耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2X耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Á耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˷耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2¯耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2˓耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2y耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ı耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ü耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ï耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2|耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ě耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2o耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2]耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2c耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2_耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2a耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2`耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2^耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2b耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2\\耀>{4, message}」で手てに入いれた証あかし。\n何なにに使つかうものかよく分わからない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「勇者ゆうしゃ（仮かり）じーさん」のちょー勇者ゆうしゃなシールじゃ！\n（仮かり）だけどカッコいいんじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「ダークネスじーさん」のちょーダークネスな\nシールじゃ！ちょっと憎にくめないヤツじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「めいろじーさん」のちょーめいろなシールじゃ！\nあんがい簡単かんたんなめいろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「体操たいそうのおじーさん」のちょー体操たいそうなシールじゃ！\nとっても爽さわやか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「ゆーれいじーさん」のちょーゆーれいなシールじゃ！\nうっかり「いないいないばー」と言いっちゃう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「恐竜きょうりゅうじーさん」のちょー恐竜きょうりゅうなシールじゃ！\n意外いがいと甘党あまとう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「ドラゴンじーさん」のちょードラゴンなシールじゃ！\nとても礼儀正れいぎただしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2\u000C耀>{4, message}の奥おくに隠かくされた財宝ざいほう。\n{9, MonsterParameter, +}<2Į耀>{3, name, +}が冒険者ぼうけんしゃを集あつめるエサにしていた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カネコから島しまを譲ゆずってもらった証あかし。\nこれがあれば島しまはあなたのもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オリバの工房こうぼうで家いえを作つくるための材料ざいりょう。\nたくさん集あつめるとすごい家いえが出で来きるかも。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "テルとルナが用意よういした母ははへのプレゼント。\nお小遣こづかいを少すこしづつ貯ためて買かった大事だいじなもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カネコがバカンスからの帰かえりに落おとしてしまったもの。\n見みた限かぎりお土産みやげのようにみえるが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりを解とかすお湯ゆを入いれるためのやかん。\nとても頑丈がんじょうにできている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりを解とかすお湯ゆが入はいったやかん。\nこぼさないように。火傷やけどに注意ちゅうい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "乙女おとめの想おもいがこもった手作てづくりチョコ。\n隠かくし味あじは愛情あいじょうです。味あじは……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはフライパン。\n美お味いしい料理りょうりを作つくっちゃおう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはパンダのぬいぐるみ。\nぎゅっと抱だきしめて一緒いっしょに眠ねむりたくなる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはあんころもち。\nしぶめのお茶ちゃが欲ほしくなる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "でんぢゃらすじゃがとーっても珍めずらしいイモじゃ！\n食たべたらおしりがでんぢゃらすになるんじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大地だいちの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "炎ほのおの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電気でんきの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "氷こおりの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "風かぜの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "闇やみの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "光ひかりの力ちからが封ふうじられた偶像ぐうぞう。\n手てに入いれた者ものをさらなる戦たたかいに誘いざなうと伝つたわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3つのオーブのひとつ。\n聖せいなる力ちからを象徴 しょうちょうする伝説でんせつの宝珠ほうじゅ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3つのオーブのひとつ。\n暗闇くらやみの力ちからを象徴 しょうちょうする伝説でんせつの宝珠ほうじゅ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "3つのオーブのひとつ。\n真実しんじつの力ちからを象徴 しょうちょうする伝説でんせつの宝珠ほうじゅ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "パーティを6人にんにする権利けんり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "パーティを8人にんにする権利けんり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんキャッチにエネルギーを収集しゅうしゅうして\nビームを発射はっしゃする機能きのうを追加ついかする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんボックスを1部屋へや増ふやす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "スタミナの最大値さいだいちを上あげる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "福引ふくびき屋やでつかえるチケット。\nチケット3枚まいで1回かい、福引ふくびきができる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふくびきけんの10枚まいセット。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふくびきけんの25枚まいセット。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふくびきけんの40枚まいセット。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかながいる水辺みずべで使つかうと、そこにいる魚種ぎょしゅが分わかる。\n釣つり名人めいじんの秘密道具ひみつどうぐと言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小ちいさなジュエルの欠片かけら。\n集あつめるとジュエルに加工かこうできる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "甘あまい味あじの実み。\nやわらかく食たべやすくて子供こどもたちに大人気だいにんき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すっぱい味あじの実み。\nビタミンたっぷりで美容効果びようこうかバツグン。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "辛からい味あじがする実み。\n舌したが燃もえるような刺激しげきにやみつき間違まちがいなし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "渋しぶい味あじがする実み。\n甘あまそうな見みた目めに惑まどわされそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "苦にがい味あじがする実み。\n栄養えいようたっぷりで健康けんこうにいい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いい香かおりがする実み。\n口くちに広ひろがる芳醇ほうじゅんな香かおりにうっとり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまずっぱい味あじがする実み。\n甘あまみと酸味さんみが絶妙ぜつみょうなバランス。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とても珍めずらしい実み。\nトゲトゲした見みた目めがインパクト大だい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "甘酸あまずっぱくおいしい実み。\nしばし切きり方かたに迷まようこともある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "とっても酸すっぱい実み。\nかつては海うみの男おとこたちがよく食たべていたらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "非常ひじょうに辛からい実み。\n辛からいモノ好ずきにはたまらないが、注意ちゅういは必要ひつよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "生なまでは渋しぶくて食たべにくい実み。\n砂糖漬さとうづけやお酒さけに使つかわれることが多おおい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "刺々とげとげしい見みた目めの植物しょくぶつ。\n外皮がいひは苦にがいので、むいて食たべるのが一般的いっぱんてき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いい香かおりがする実み。\n最古さいこに栽培さいばいされたブドウ種しゅとのウワサが。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "甘あまくて愛あいらしい実み。\nデザートに乗のっていると最後さいごに食たべたくなる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "柔やわらかくてジューシーな実み。\n産地さんちによっては非常ひじょうに高級品こうきゅうひんである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんごくのきから収穫しゅうかくできる食たべ物もの。\n栄養価えいようかが高たかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぶきみなかれきから収穫しゅうかくできる食たべ物もの。\nぞくぞくするほどおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ハートカカオのきから収穫しゅうかくできる食たべ物もの。\n愛あいを伝つたえたい人ひとに贈おくろう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さとうがしのきから収穫しゅうかくできる食たべ物もの。\n星ほしに似にた形かたちで、口くちに入いれると溶とける。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "子こどもが大好だいすきな袋ふくろ入いりのお菓か子し。\n食たべると幸福度こうふくどが8上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サクサクとした歯はごたえがたまらない焼やき菓が子し。\n食たべると幸福度こうふくどが20上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リング状じょうに形成けいせいされた甘あまいたべもの。\n食たべると幸福度こうふくどが50上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どこか異次元いじげんから持もち込こまれたとされるたべもの。\n食たべると幸福度こうふくどが80上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "口くちにした人ひとは天てんにも昇のぼる気き持もちになると言いわれる。\n食たべると幸福度こうふくどが100上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お正月しょうがつに焼やいたり、スープに入いれたりして食たべる。\nのどに詰つまらせないように気きをつけよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お正月しょうがつによく見みかけるめでたいたべもの。\nなぜモンスターが落おとしていくのかはミステリー。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底人ちていじんのたまご祭まつりで使つかわれるイベントアイテム。\n食たべることもできるお得とくアイテム。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "和わ菓が子し、洋菓子ようがしどちらとも相性あいしょうのいい実み。\nトゲは触ふれると普通ふつうに痛いたい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "加熱かねつするととても甘あまくおいしくなる芋いも。\n石焼いしやき芋いもは女性じょせいの心こころをソワソワさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "壊こわれやすいので取扱とりあつかい注意ちゅういのたべもの。\n煮にてよし焼やいてよし生なまでもおいしいご飯はんのとも。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "栄養価えいようかが非常ひじょうに高たかい、濃厚のうこうさが売うりの飲のみ物もの。\nキンキンに冷ひやしてお風ふ呂ろあがりに飲のむと幸しあわせ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ハチが頑張がんばって集あつめたさくもつの蜜みつ。\n何なんのさくもつから採とれたかは謎なぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると、出生しゅっせいがもう一度いちど\n出来できるようになるふしぎなキノコ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食たべると、世代限界せだいげんかい7まで世代限界せだいげんかいが\n1つ上あがるふしぎなタケノコ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世代限界せだいげんかいを突破とっぱできる成分せいぶんを含ふくむ珍めずらしいタケノコ。\n通常つうじょうでは到達とうたつできない世代せだいへ転生てんせいが可能かのうになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんの世代せだいをひとつ下さげる。レベルと幸福度こうふくども\nその世代せだいの上限値じょうげんちまで下さがるので取扱注意とりあつかいちゅうい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにたまに生はえてくる。\n食たべると幸福度こうふくどが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにごくまれに生はえてくる。\n食たべると幸福度こうふくどがとても上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにたまに生はえてくる。\n食たべると幸福度こうふくどが上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにごくまれに生はえてくる。\n食たべると幸福度こうふくどがものすごく上あがる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにたまに生はえてくる。\nバトル中ちゅうに使つかうとラッキーな効果こうかが発生はっせいする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "花壇かだんや畑はたけにごくまれに生はえてくる。\nバトル中ちゅうに使つかうと超ちょうラッキーな効果こうかが発生はっせいする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "木きで出で来きた竿さお。\n手作てづくりらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "頑丈がんじょうな釣つり竿ざお。\n魚さかなの体力たいりょくを多おおく減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不思議ふしぎな竿さお。\n糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "手てになじむ特殊とくしゅな造形ぞうけいの竿さお。\nクリティカル発生率はっせいりつがアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "柔軟じゅうなんな素材そざいで出で来きた竿さお。\n魚さかなの暴あばれ時間じかんを半減はんげんさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "伝説でんせつの職人しょくにんが作つくった幻まぼろしの竿さお。\n1/3の確率かくりつでエサがなくならない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不思議ふしぎな気配けはいを放はなつ竿さお。\n珍めずらしい魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりの達人たつじんの魂たましいが宿やどった竿さお。\nアワセ成功時間せいこうじかんが倍ばいになる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はがねのさおよりも頑丈がんじょうな釣つり竿ざお。\n魚さかなの体力たいりょくをさらに多おおく減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "鋼鉄こうてつでできた頑丈がんじょうなさお。\nはがねのさお+よりも、多おおく魚さかなの体力減たいりょくへらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不思議ふしぎな竿さお。\nまもりのさおよりも、糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不思議ふしぎな竿さお。\nまもりのさお+よりも、糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "手てになじむ特殊とくしゅな造形ぞうけいの竿さお。\nクリティカル発生率はっせいりつがさらにアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "匠たくみの技わざで作つくられた、会心かいしんのダメージを与あたえる竿さお。\nクリティカル発生率はっせいりつがアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "柔軟じゅうなんな素材そざいで出で来きた竿さお。あばれずのさお以上いじょうに\n魚さかなの暴あばれ時間じかんを減少げんしょうさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "伝説でんせつの職人しょくにんが作つくった幻まぼろしの竿さお。\n1/2の確率かくりつでエサがなくならない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こうてつのさおよりも頑丈がんじょうな釣つり竿ざお。\n魚さかなの体力たいりょくをより多おおく減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カーボンでできた頑丈がんじょうなさお。\nはがねのさお++よりも、多おおく魚さかなの体力減たいりょくへらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不思議ふしぎな竿さお。\nてっぺきのさおよりも、糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不思議ふしぎな竿さお。\nまもりのさお++よりも、糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "匠たくみの技わざで作つくられた、会心かいしんのダメージを与あたえる竿さお。\nかいしんのさお以上いじょうにクリティカル発生率はっせいりつアップ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくまの力ちからを得えて会心かいしんのダメージを与あたえる竿さお。\nかなりクリティカル発生率はっせいりつがアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "柔軟じゅうなんな素材そざいで出で来きた竿さお。魚さかなを自在じざいに操あやつり\n暴あばれ時間じかんを減少げんしょうさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不ふ思し議ぎな気配けはいを放はなつ竿さお。\n激げきレアな魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不ふ思し議ぎな気配けはいを放はなつ竿さお。\n神かみレアな魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "普通ふつうのエサ。\nほどよい甘あまみで魚さかなたちを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アルビノフィッシュが好このむ白しろいエサ。\nこれを普段ふだん食たべて白しろくなったのかもしれない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "キンメダイが好このむフレーバーのエサ。\n美うつくしい金色こんじきでキンメダイを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タイが好このむフレーバーのエサ。\n磯いその香かおりでタイを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ライギョが好このむフレーバーのエサ。\nワイルドな見みた目めと固かたさでライギョを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラニアが好このむフレーバーのエサ。\n歯はごたえのある硬かたさがピラニアを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サケが好このむフレーバーのエサ。\n故郷こきょうの川かわの匂においでサケを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クロマグロが好このむフレーバーのエサ。\nくせのない味あじでクロマグロを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サメが好このむフレーバーのエサ。\nジューシーな味あじでサメを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マンボウが好このむフレーバーのエサ。\nさわやかな味あじでマンボウを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カジキが好このむフレーバーのエサ。\n深ふかい味あじでカジキを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イトウが好このむフレーバーのエサ。\n塩辛しおからい味あじでイトウを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "バラマンディが好このむフレーバーのエサ。\nまろやかな味あじでバラマンディを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ＧＴが好このむフレーバーのエサ。\nグレートな味あじでＧＴを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ナポレオンフィッシュが好このむフレーバーのエサ。\n甘あまい味あじでナポレオンフィッシュを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "シーラカンスやオウムガイが好このむエサ。\nマイルドな味あじで化石系かせきけいを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アカメが好このむフレーバーのエサ。\n甘酸あまずっぱい味あじでアカメを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ドラードが好このむフレーバーのエサ。\nフルーティな味あじでドラードを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラルクが好このむフレーバーのエサ。\n淡白たんぱくな味あじでピラルクを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダイオウイカやダイオウグソクムシが好このむエサ。\nダイナミックな味あじでダイオウ系けいを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リュウグウノツカイが好このむフレーバーのエサ。\n斬新ざんしんな味あじでリュウグウノツカイを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダンクレオステウスなど伝説級でんせつきゅうの魚さかなが好このむエサ。\n究極きゅうきょくの味あじで伝説級でんせつきゅうを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "マンタが好このむフレーバーのエサ。\n多種多様たしゅたような味あじわいでマンタを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんたい系けいが好このむフレーバーのエサ。\nふんわりした味あじわいでなんたい系けいを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "コウカク類るいが好このむフレーバーのエサ。\nコリコリとした歯はごたえでコウカク類るいを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フグが好このむフレーバーのエサ。\n豊満ほうまんでグルメな味あじわいでフグを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はさみ系けいが好このむフレーバーのエサ。\n鋭するどい味あじわいではさみ系けいを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンコウが好このむフレーバーのエサ。\n滑なめらかな味あじわいでアンコウを魅了みりょうする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アワセの成功時間せいこうじかんが倍ばいになるエサ。\nこれで巨大魚きょだいぎょに大だいダメージを与あたえよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クリティカル発生率はっせいりつがアップするエサ。\nさまざまな竿さおの効果こうかと組くみ合あわせて使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "クリティカル発生率はっせいりつがアップするエサ。\nかいしんのえさよりも確率かくりつアップ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "固定こていダメージを与あたえるエサ。\n確実かくじつに釣つりたいときに使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "固定こていダメージを与あたえるエサ。\n確実かくじつに釣つりたいときに使つかおう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする小ちいさな魚さかな。\n色々いろいろな魚さかな釣つりの餌えさにされてしまう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする小ちいさな魚さかな。\n体からだの斑点はんてんが美うつくしく、人気にんきがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない海水かいすいに生息せいそくする薄うすい魚さかな。\n普段ふだんは砂泥中さでいちゅうに身みを潜ひそめている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない海水かいすいに生息せいそくする薄うすい魚さかな。\nヒラメと見み分わけにくいが、ヒラメと向むきが違ちがう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする背中せなかが黒くろい魚さかな。\nコイと似にてるが、コイのようにヒゲがない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする赤あかい魚さかな。\n陸りくからでも釣つることができる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない海水かいすいに生息せいそくする出世魚しゅっせうお。\n成長せいちょうするごとに名前なまえが変かわる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする細長ほそながい魚さかな。\n塩焼しおやきにするとおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする小こぶりの魚さかな。\nニジマスより色いろが暗くらい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする魚さかな。\n生うまれると海うみへ行いき、産卵期さんらんきに戻もどってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする大おおきなめずらしい魚さかな。\nとても凶暴きょうぼうで、近ちかづくのは危険きけん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする角つののような頭あたまのめずらしい魚さかな。\nＧＴに並ならび、海うみの釣つり人びとに人気にんきの魚さかな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする巨大きょだいなめずらしい魚さかな。\nとても凶暴きょうぼうな肉食魚にくしょくぎょ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする小ちいさな魚さかな。\n飼育しいくが簡単かんたんな為ため、子供こどもたちに人気にんきのペット。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする小ちいさな魚さかな。\nふつうにおいしいが、子こ持もちは格別かくべつ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする小ちいさな魚さかな。\n冬釣ふゆづりの人気魚にんきざかな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする小ちいさい白身魚しろみざかな。\n浜はまからの投なげ釣つりで人気にんき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする群むれで行動こうどうする魚さかな。\n稚魚ちぎょはしらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする魚さかな。\n耐久力たいきゅうりょくと速度そくどがブラックバスよりある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする青縞あおしまの魚さかな。\n小柄こがらながらとても攻撃的こうげきてき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする観賞用かんしょうようの魚さかな。\n体からだが赤あかくヒレの先端せんたんが白しろいキンギョは素赤すあかと呼よぶ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする銀白色ぎんはくしょくの魚さかな。\n水みずの澄すんだ場所ばしょに多おおく生息せいそくしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする魚さかな。\n川釣かわづりでの外道げどうとして有名ゆうめい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする目めがギョロッとした魚さかな。\n金魚きんぎょすくいでは難易度なんいどが高たかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする釣つり人びとに人気にんきの魚さかな。\n色々いろいろなものを口くちに入いれてしまうらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする斑模様まだらもようの魚さかな。\nから揚あげにして食たべるとおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする斑点模様はんてんもようの魚さかな。\n体からだの虹色にじいろの斑点模様はんてんもようが美うつくしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする黒くろい魚さかな。\n地震じしんを感知かんちするらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする黒くろい魚さかな。\n食たべる事こともできるらしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする背せに白しろい斑まだらがある魚さかな。\n一部いちぶマニアが付ついている人気にんきの魚さかな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくする青魚あおざかな。\n味噌煮みそににするとごはんが進すすむ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない海水かいすいに生息せいそくする大おおきな目めの魚さかな。\n実じつは深海しんかいに生息せいそくしている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする縞模様しまもようのめずらしい魚さかな。\n巨大きょだいな口くちと歯はが怖こわい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする観賞用かんしょうようのめずらしい魚さかな。\n赤黒白あかくろしろの斑点はんてんが美うつくしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない海水かいすいに生息せいそくする赤あかい魚さかな。\nめでたい時ときの定番ていばんのごちそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくする斑点模様はんてんもようの魚さかな。\n大おおきな口くちと強力きょうりょくなアゴを持もっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい白しろい魚さかな。\n突然とつぜん変異へんいで生うまれたと言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない淡水たんすいに生息せいそくするキバの鋭するどい魚さかな。\n小ちいさいがとても凶暴きょうぼうで人ひとを襲おそうこともある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする大おおきなめずらしい魚さかな。\nわずかにとれるトロがおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする大おおきなめずらしい魚さかな。\n淡水魚たんすいぎょではかなり巨大きょだい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするめずらしい魚さかな。\nターコイズブルーの体からだが美うつくしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする丸まるい体からだのめずらしい魚さかな。\n目めが泳およいでいる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする大おおきなとてもめずらしい魚さかな。\nダイナミックに釣つりたい海うみの釣つり人憧びとあこがれの魚さかな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくするとてもめずらしい長ながい魚さかな。\n古代こだいから生いきてきたと言いわれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする大おおきなとてもめずらしい魚さかな。\n赤あかい目めが特徴とくちょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくするとてもめずらしい金色きんいろの魚さかな。\n神かみの魚さかなと呼よばれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするとてもめずらしい化石魚かせきうお。\n古代こだいからほぼそのままの姿すがたで生いきている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするとても長ながい幻まぼろしの魚さかな。\n発見はっけんされた例れいは少すくない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする巨大きょだいな幻まぼろしのイカ。\n深海しんかいに住すんでいるらしいが釣つった者ものは少すくない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする凶暴きょうぼうな幻まぼろしの魚さかな。\n古代こだいの魚さかなで、実際じっさいには誰だれも見みたことがなかった。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい金色きんいろボディのライギョ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい金色きんいろのキンギョ。\nある意い味み、真しんの金魚きんぎょかもしれない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい白しろい金魚きんぎょ。\n白しろいのに金魚きんぎょとはこれいかに。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい青色あおいろボディのブラックバス。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい赤あかい色いろをしたドラード。\n泳およぐ姿すがたを見みたものはほとんどいない",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするいきもの。\n種類しゅるいによっては淡水たんすいにもおり、大人おとなしい性格せいかく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするタコに似にたクラゲ。\n静しずかな海うみを好このんで漂ただよっている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするとても古ふるい種しゅのカニ。\nとても大おおきく、とても大味おおあじとの評価ひょうかである。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいの深ふかい場所ばしょに生息せいそくするいきもの。\nかなりの少食しょうしょくで数年すうねんほど食たべなくても平気へいき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "泥どろの溜たまった海底かいていに生息せいそくするいきもの。\nとても数かずが少すくなく、貴重きちょうとされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする星形ほしがたのいきもの。\n実じつは真まっ二ぷたつになると、2匹ひきに再生さいせいする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいの深ふかい場所ばしょに生息せいそくする貝かい。\n生いきた化石かせきの1つで、ロマンに溢あふれている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする、高級こうきゅうな魚さかな。\nおいしいが、調理ちょうりには免許めんきょが必要ひつよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "高級食材こうきゅうしょくざいとして珍重ちんちょうされる大型おおがたのエビ。\n食たべた時ときのプリプリ感かんがたまらない！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいの深ふかい場所ばしょに生息せいそくする魚さかな。\n見みた目めは恐こわいが、とてもおいしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする、比較的身近ひかくてきみぢかな存在そんざい。\n名前なまえにカニとつくが、カニの一種いっしゅではない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つり上あげた瞬間しゅんかんのガッカリ感かんは何なんとも言いえない。\n戻もどさず、資源しげんとしてリサイクルしよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "セット装備そうびの枠わくを増ふやす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆1アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆2アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆3アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆4アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆5アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆6アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆7アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆8アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "リサイクルショップで☆9アイテムの\n代かわりに使用しよう出来できる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カーボンでできたより頑丈がんじょうなさお。\nカーボンのさおよりも、多おおく魚さかなの体力たいりょくを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "チタンでできた頑丈がんじょうなさお。\nより多おおく魚さかなの体力たいりょくを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからをより吸収きゅうしゅうする不ふ思し議ぎな竿さお。\nふどうのさおより糸いとへのダメージを減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "魚さかなの力ちからを吸収きゅうしゅうする不ふ思し議ぎな竿さお。\n糸いとへのダメージをかなり減へらす。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あくまの力ちからを得えて会心かいしんのダメージを与あたえる竿さお。\nいちげきのさおよりクリティカル発生率はっせいりつがアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仕事人しごとにんの念ねんが込こめられた特殊とくしゅな竿さお。\nクリティカル発生率はっせいりつがかなりアップする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "柔軟じゅうなんな素材そざいで出で来きた竿さお。魚さかなを自在じざいに操あやつり、\nじざいのさおより多おおく暴あばれ時間じかんを減少げんしょうさせる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "伝説でんせつの職人しょくにんが作つくった幻まぼろしの竿さお。\n2/3の確率かくりつでエサがなくならない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不ふ思し議ぎな気配けはいを放はなつ竿さお。\nレアよびのさおより、珍めずらしい魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不ふ思し議ぎな気配けはいを放はなつ竿さお。\nげきレアよびのさおより、激げきレアな魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "不ふ思し議ぎな気配けはいを放はなつ竿さお。\nかみレアよびのさおより、神かみレアな魚さかなが出でやすい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくする大おおきな魚。さかな\n真まっ白しろな歯はが自慢じまん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かなり珍めずらしい淡水たんすいに生息せいそくする巨大きょだいな魚さかな。\nその頭蓋ずがいは船ふねをも粉々こなごなにしてしまうほど。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける淡水たんすいに生息せいそくするザリガニ。\n食たべるものによってまれに青あおくなることがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくするアルビノのザリガニ。\n透すき通とおった体からだが美うつくしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "かなり珍めずらしい淡水たんすいに生息せいそくするザリガニ。\n輝かがやく金色きんいろがまぶしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかけるハサミの大おおきなエビ。\nザリガニとは遠とおい親戚しんせき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける海水かいすいに生息せいそくするイカ。\nどんな風ふうに食たべても美お味いしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり見みかけない巨大きょだいな鮭さけ。\n日本にほんの名前なまえはマスノスケ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくするかなりめずらしい魚さかな。\n光ひかり輝かがやくその体からだは最高級さいこうきゅうそのもの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいの深ふかい場所ばしょに生息せいそくするいきもの。\nかなり珍めずらしく釣つり上あげるのは難むずかしい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする伝説でんせつの魚さかな。\n嵐あらしの夜よるに現あらわれると言いい伝つたえられている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たまに見みかける淡水たんすいに生息せいそくする小ちいさな魚さかな。\n鮮あざやかなその体からだはまさに宝石ほうせき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいに生息せいそくする星形ほしがたのいきもの。\nもしかしたら願ねがいが叶かなうかもしれない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする観賞用かんしょうようのめずらしい魚さかな。\n儚はかなげな色合いろあいが恋こいしさを誘さそう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "泥どろの溜たまった海底かいていに生息せいそくするいきもの。\nフライパンにそっくりなことからこの名前なまえがついた。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする縦縞たてじまの魚さかな。\n毒どくをもっている場合ばあいがあるので注意ちゅういが必要ひつよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海水かいすいの深ふかい場所ばしょに生息せいそくする貝かい。\nトラのような縞模様しまもようが特徴的とくちょうてき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "淡水たんすいに生息せいそくする巨大きょだいな魚さかな。\n鋭するどいキバを持もち殺人魚さつじんぎょとも呼よばれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海うみの底そこに生息せいそくする大おおきな生いき物もの。\n見みた目めに反はんして意外いがいと人気にんき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける小型こがたの観賞魚かんしょうぎょ。\n背せビレがないのが特徴とくちょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく見みかける小型こがたの観賞魚かんしょうぎょ。\nシンプルだが味あじわい深ふかい赤色あかいろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たまに見みかける小型こがたの観賞魚かんしょうぎょ。\n黒くろければ黒くろいほど価か値ちが高たかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たまに見みかける小型こがたの観賞魚かんしょうぎょ。\n控ひかえ目めな金色きんいろが人気にんき。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "使つかうと敵全体てきぜんたいに\n大だいダメージを与あたえられる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "別名べつめい、電気石でんきせきとも呼よばれている宝石ほうせき。\n青あお、黄色きいろ、ピンクなど様々さまざまな色合いろあいのものがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしいピンクのダイヤモンド。\nその希少性きしょうせいから驚おどろくほどの高値たかねで取引とりひきされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい青あおいダイヤモンド。\nその希少性きしょうせいから恐おそろしいほどの高値たかねで取引とりひきされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "世よにも珍めずらしい赤あかいダイヤモンド。\nちょっと信しんじられないくらい高値たかねで取引とりひきされる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ネオンブルーの美うつくしい宝石ほうせき。\nあまりに入手にゅうしゅが困難こんなんで、幻まぼろしの宝石ほうせきとも呼よばれる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最もっとも高価こうかな宝石ほうせきの王様おうさま、ダイヤモンドのかたまり。\nこれほど大おおきいものはそうそうお目めにかかれない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ü耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2҂耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2¿耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ѿ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2à耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ñ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ç耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ӄ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2È耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ʆ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2É耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2}耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ê耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ԅ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ë耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ԇ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ì耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ԉ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Í耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2m耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Î耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ԉ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ï耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ӡ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ð耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2æ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「絶対神ぜったいしんじーさん」のちょー神かみなシールじゃ！\n後光ごこうが眩まぶしすぎるのじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「世界滅亡せかいめつぼうじーさん」のちょー滅亡めつぼうなシールじゃ！\nブラックホールが見みえるのじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「華麗かれいなるじーさん」のちょー華麗かれいなシールじゃ！\n華麗かれいにスパイシーなのじゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「白米はくまいじーさん」のちょー白米はくまいなシールじゃ！\n1粒つぶ1粒つぶがじーさん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「カレールゥじーさん」のちょールゥなシールじゃ！\n子供こどもにはちょっと厳きびしい辛口からくち。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「牛肉ぎゅうにくじーさん」のちょー牛肉ぎゅうにくなシールじゃ！\nカレー以外いがいに入いれられる気きはない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「ジャガイモじーさん」のちょージャガイモなシールじゃ！\nホクホクなのでもう火ひは通とおってる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「ニンジンじーさん」のちょーニンジンなシールじゃ！\n好すき嫌きらいは言いわせない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「悪騎士あくきしじーさん」のちょー悪騎士あくきしなシールじゃ！\n斧おのを人ひとに向むけるのは危険きけん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「サイボーグじーさん」のちょーサイボーグな\nシールじゃ！燃料ねんりょうが切きれると動うごけない。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「デビルじーさん」のちょーデビルなシールじゃ！\n赤あかいフォークで刺さしてくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「金角きんかくじーさん」のちょー金角きんかくなシールじゃ！\nキンキラに輝かがやいている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小麦こむぎを細こまかくした粉こな。ケーキ、クッキーなど\n焼やき菓が子しをつくるならまずこれが必要ひつよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "甘あまみを加くわえる調味料ちょうみりょう。コーヒー、紅茶こうちゃにいれたり\nお菓か子し作づくりでも大活躍だいかつやく。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "金属きんぞくの缶かんに入はいったシロップづけのパイン。\n中なかのパインはとても甘あまくてやわらかい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん変異へんいで目めとヒゲがついた白米はくまい。\nまばたきしていても一応いちおう食たべ物もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん変異へんいで目めとヒゲがついたカレー粉こ。\n睨にらみつけてくるけど一応いちおう食たべ物もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん変異へんいで目めとヒゲがついた牛肉ぎゅうにく。\n涙目なみだめでみつめてきても一応いちおう食たべ物もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん変異へんいで目めとヒゲがついたニンジン。\nウィンクしてきても一応いちおう食たべ物もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん変異へんいで目めとヒゲがついたジャガイモ。\nこちらをガン見みしてきても一応いちおう食たべ物もの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "地底人ちていじんさん愛用あいようのつるはし。\n固かたい地盤じばんも大おおきな岩いわも楽々らくらく掘ほり進すすめる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "水みずが綺麗きれいな川かわに生息せいそくする魚さかな。\n苔こけを好このんで食たべるため、とても良よい香かおりがする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ウナギに似にた大型おおがたの淡水魚たんすいぎょ。\n電気でんきを発生はっせいさせると、自分じぶんもちょっと感電かんでんする。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "太古たいこの昔むかしから姿すがたが変かわらない、大おおきな淡水魚たんすいぎょ。\n卵たまごの塩しお漬づけは、とても美び味み。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "カマキリのような前脚まえあしをもった、エビの遠とおい親戚しんせき。\n繰くり出だすパンチには、岩いわをも砕くだく破壊力はかいりょくがある。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海上かいじょうを滑空かっくうできる、翼つばさのようなヒレを持もつ魚さかな。\n600メートルほど飛とび続つづけることもあるとか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "暖あたたかい海うみの水面すいめん近ちかくを回遊かいゆうする、巨大きょだいな魚さかな。\nオスは、成長せいちょうすると額ひたいが大おおきく盛もり上あがってくる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "海うみに生息せいそくする、全身ぜんしんトゲだらけのいきもの。\nトゲは、歩あるいたり身みを守まもるために動うごかすことができる。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはパンダのきぐるみ。\nふわもこな肌触はだざわりでパジャマにもぴったり。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはサッカーボール。\nサッカー選手せんしゅを目め指ざすなら、欠かかせない友達ともだち。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさんのプレゼントはスポーツシューズ。\n汚よごれをはじく鮮あざやかな赤あかい色いろがカッコイイ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Á耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ӊ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Â耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ѿ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ã耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ә耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Ä耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ӗ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Å耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2Ӕ耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{8, MessageMapName, +}<2Æ耀>{4, message}」で遭遇そうぐうした\n『{9, MonsterParameter, +}<2ä耀>{3, name, +}』を倒たおした証あかし。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"MessageItemFlavor",
+			"Use"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483735,
+		2147483736,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483741,
+		2147483742,
+		2147483743,
+		2147483744,
+		2147483745,
+		2147483746,
+		2147483747,
+		2147483748,
+		2147483749,
+		2147483750,
+		2147483751,
+		2147483752,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483763,
+		2147483764,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483772,
+		2147483773,
+		2147483774,
+		2147483775,
+		2147483776,
+		2147483777,
+		2147483778,
+		2147483779,
+		2147483780,
+		2147483781,
+		2147483782,
+		2147483783,
+		2147483784,
+		2147483785,
+		2147483786,
+		2147483787,
+		2147483788,
+		2147483789,
+		2147483790,
+		2147483791,
+		2147483792,
+		2147483793,
+		2147483794,
+		2147483795,
+		2147483796,
+		2147483797,
+		2147483798,
+		2147483799,
+		2147483800,
+		2147483801,
+		2147483802,
+		2147483803,
+		2147483804,
+		2147483805,
+		2147483806,
+		2147483807,
+		2147483808,
+		2147483809,
+		2147483810,
+		2147483811,
+		2147483812,
+		2147483813,
+		2147483814,
+		2147483815,
+		2147483816,
+		2147483817,
+		2147483818,
+		2147483819,
+		2147483820,
+		2147483821,
+		2147483822,
+		2147483823,
+		2147483824,
+		2147483825,
+		2147483826,
+		2147483827,
+		2147483828,
+		2147483829,
+		2147483830,
+		2147483831,
+		2147483832,
+		2147483833,
+		2147483834,
+		2147483835,
+		2147483836,
+		2147483837,
+		2147483838,
+		2147483839,
+		2147483840,
+		2147483841,
+		2147483842,
+		2147483843,
+		2147483844,
+		2147483845,
+		2147483846,
+		2147483847,
+		2147483848,
+		2147483849,
+		2147483850,
+		2147483851,
+		2147483852,
+		2147483853,
+		2147483854,
+		2147483855,
+		2147483856,
+		2147483857,
+		2147483858,
+		2147483859,
+		2147483860,
+		2147483861,
+		2147483862,
+		2147483863,
+		2147483864,
+		2147483865,
+		2147483866,
+		2147483867,
+		2147483868,
+		2147483869,
+		2147483870,
+		2147483871,
+		2147483872,
+		2147483873,
+		2147483874,
+		2147483875,
+		2147483876,
+		2147483877,
+		2147483878,
+		2147483879,
+		2147483880,
+		2147483881,
+		2147483882,
+		2147483883,
+		2147483884,
+		2147483885,
+		2147483886,
+		2147483887,
+		2147483888,
+		2147483889,
+		2147483890,
+		2147483891,
+		2147483892,
+		2147483893,
+		2147483894,
+		2147483895,
+		2147483896,
+		2147483897,
+		2147483898,
+		2147483899,
+		2147483900,
+		2147483901,
+		2147483902,
+		2147483903,
+		2147483904,
+		2147483905,
+		2147483906,
+		2147483907,
+		2147483908,
+		2147483909,
+		2147483910,
+		2147483911,
+		2147483912,
+		2147483913,
+		2147483914,
+		2147483915,
+		2147483916,
+		2147483917,
+		2147483918,
+		2147483919,
+		2147483920,
+		2147483921,
+		2147483922,
+		2147483923,
+		2147483924,
+		2147483925,
+		2147483926,
+		2147483927,
+		2147483928,
+		2147483929,
+		2147483930,
+		2147483931,
+		2147483932,
+		2147483933,
+		2147484153,
+		2147484154,
+		2147484155,
+		2147484156,
+		2147484157,
+		2147484158,
+		2147484159,
+		2147484160,
+		2147484161,
+		2147484162,
+		2147484163,
+		2147484164,
+		2147484165,
+		2147484166,
+		2147484167,
+		2147484168,
+		2147484169,
+		2147484170,
+		2147484171,
+		2147484172,
+		2147484173,
+		2147484174,
+		2147484175,
+		2147484176,
+		2147484177,
+		2147484178,
+		2147484179,
+		2147484180,
+		2147484181,
+		2147484182,
+		2147484183,
+		2147484184,
+		2147484185,
+		2147484186,
+		2147484187,
+		2147484188,
+		2147484189,
+		2147484190,
+		2147484191,
+		2147484192,
+		2147484193,
+		2147484194,
+		2147484195,
+		2147484212,
+		2147484213,
+		2147484214,
+		2147484215,
+		2147484216,
+		2147484217,
+		2147484218,
+		2147484219,
+		2147484220,
+		2147484221,
+		2147484222,
+		2147484223,
+		2147484224,
+		2147484225,
+		2147484226,
+		2147484227,
+		2147484228,
+		2147484229,
+		2147484230,
+		2147484231,
+		2147484232,
+		2147484233,
+		2147484234,
+		2147484235,
+		2147484236,
+		2147484237,
+		2147484238,
+		2147484239,
+		2147484240,
+		2147484241,
+		2147484242,
+		2147484243,
+		2147484244,
+		2147484245,
+		2147484246,
+		2147484247,
+		2147484248,
+		2147484249,
+		2147484250,
+		2147484251,
+		2147484252,
+		2147484253,
+		2147484254,
+		2147484255,
+		2147484256,
+		2147484257,
+		2147484258,
+		2147484259,
+		2147484260,
+		2147484261,
+		2147484262,
+		2147484263,
+		2147484264,
+		2147484265,
+		2147484266,
+		2147484267,
+		2147484268,
+		2147484269,
+		2147484275,
+		2147484276,
+		2147484277,
+		2147484278,
+		2147484279,
+		2147484280,
+		2147484281,
+		2147484282,
+		2147484283,
+		2147484284,
+		2147484285,
+		2147484286,
+		2147484287,
+		2147484288,
+		2147484289,
+		2147484290,
+		2147484291,
+		2147484292,
+		2147484293,
+		2147484294,
+		2147484295,
+		2147484296,
+		2147484297,
+		2147484298,
+		2147484299,
+		2147484300,
+		2147484301,
+		2147484302,
+		2147484303,
+		2147484304,
+		2147484305,
+		2147484306,
+		2147484307,
+		2147484308,
+		2147484309,
+		2147484310,
+		2147484311,
+		2147484312,
+		2147484313,
+		2147484314,
+		2147484315,
+		2147484316,
+		2147484317,
+		2147484318,
+		2147484319,
+		2147484320,
+		2147484321,
+		2147484322,
+		2147484323,
+		2147484324,
+		2147484325,
+		2147484326,
+		2147484327,
+		2147484328,
+		2147484329,
+		2147484330,
+		2147484331,
+		2147484332,
+		2147484333,
+		2147484334,
+		2147484335,
+		2147484336,
+		2147484337,
+		2147484338,
+		2147484339,
+		2147484340,
+		2147484341,
+		2147486042,
+		2147486216,
+		2147486217,
+		2147486218,
+		2147486219,
+		2147486220,
+		2147486221,
+		2147486222,
+		2147486223,
+		2147486224,
+		2147486238,
+		2147486239,
+		2147486240,
+		2147486241,
+		2147486242,
+		2147486243,
+		2147486244,
+		2147486245,
+		2147486246,
+		2147486247,
+		2147486248,
+		2147486186,
+		2147486187,
+		2147486188,
+		2147486189,
+		2147486190,
+		2147486191,
+		2147486192,
+		2147486193,
+		2147486194,
+		2147486195,
+		2147486196,
+		2147486197,
+		2147486198,
+		2147486199,
+		2147486200,
+		2147486201,
+		2147486202,
+		2147486203,
+		2147486204,
+		2147486205,
+		2147486206,
+		2147486207,
+		2147486208,
+		2147486746,
+		2147486748,
+		2147486749,
+		2147486750,
+		2147486751,
+		2147486752,
+		2147486753,
+		2147486726,
+		2147486727,
+		2147486728,
+		2147486735,
+		2147486736,
+		2147486737,
+		2147486738,
+		2147486739,
+		2147486740,
+		2147486741,
+		2147486742,
+		2147486743,
+		2147486744,
+		2147486757,
+		2147486758,
+		2147486759,
+		2147486760,
+		2147486761,
+		2147486762,
+		2147486763,
+		2147486801,
+		2147486802,
+		2147486803,
+		2147486804,
+		2147486805,
+		2147486268,
+		2147486269,
+		2147486270,
+		2147486271,
+		2147486764,
+		2147486765,
+		2147486766,
+		2147486767,
+		2147486719,
+		2147486209,
+		2147486210,
+		2147486211,
+		2147486212,
+		2147486213,
+		2147486214,
+		2147486215,
+		2147486272,
+		2147486273,
+		2147486274,
+		2147486729,
+		2147486730,
+		2147486731,
+		2147486732,
+		2147486733,
+		2147486734
+	]
+}

@@ -7,10 +7,9 @@ Be sure that the arc files are not "read-only" before replacing
 edited bcflyt files (by right-clicking and checking "properties" of arc file)
 
 Problems:
--Yes/No button for Start Menu
-and General Messages not
-translatable with wexos
-(fix either by Hex-edit/tdm3 comparison)
+-Shopping dialogue text must be stored here
+-Sort button for the Denpa Box untranslated, must be here
+
 
 Hint: 
 -Redundancy, some text already translated (and applied in-game)

@@ -1,0 +1,861 @@
+{
+	"header": {
+		"text_amount": 50,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 11589,
+		"offset_strings": 11664,
+		"strings_section_size1": 600,
+		"offset3": 12272,
+		"section_size2": 200,
+		"offset4": 12480,
+		"section_size3": 16,
+		"offset5": 12496,
+		"section_size4": 102,
+		"unk3": 0,
+		"offset6": 11580,
+		"offset7": 11588,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "「いけす」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "制限せいげん時間じかんが残のこった状態じょうたいで\n「ステージ」を終了しゅうりょうしても\n釣つった魚さかなは持もち帰かえることができます。\nここで「ステージ」を終了しゅうりょうしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「川かわ」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「湖みずうみ」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「海うみ」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「いけす」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「海うみ」で釣つりをしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オッス！オレは釣つり協会きょうかいの者ものだ。\n釣つり普及ふきゅうの為ため「{5, ItemData, +}<2ɻ耀>{3, name, +}」と\n「{5, ItemData, +}<2ʍ耀>{3, name, +}」を配くばっている。\nオマエにもやろう、ほら。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「つりざお」「つりエサ」は\n「Yパーティ」の「つりどうぐ」で装備そうびできる。\n装備そうびしたら声こえをかけてくれ。\n釣つりの仕方しかた、知しらないなら教おしえてやるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「つりざお」を装備そうびしているみたいだな。\nしかし「つりざお」だけでは釣つりはできないぞ。\n「つりエサ」も装備そうびしたら声こえをかけてくれ。\n釣つりの仕方しかた、知しらないなら教おしえてやるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいおい！\n「つリエサ」を装備そうびしているが\n釣つりで大事だいじな「つりざお」を装備そうびしてないぞ。\n「つりざお」も装備そうびしたら声こえをかけてくれ。\n釣つりの仕方しかた、知しらないなら教おしえてやるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりのやり方かたを伝授でんじゅしよう！\n釣つりをする時ときは\n魚影ぎょえいがある水辺みずべで「Aボタン」だ。\n「Aボタン」を押おし続つづけることで\n魚さかなにダメージをあたえられる。\n魚さかなの体力たいりょくがなくなれば、魚さかなが釣つれるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "だが、ダメージをあたえ続つづけていると左下ひだりしたの\n「糸いと耐久たいきゅうゲージ」が振ふり切きって、糸いとが切きれる。\n糸いとが切きれれば、魚さかなが逃にげるから気きをつけろよ。\n魚さかなを釣つり上あげると、釣つりレベルがアップする。\n釣つりレベルが高たかければ、大物おおものが釣つりやすくなる。\n基本きほんはこんな所ところだ、あとは釣つってみな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは、{8, MessageMapName, +}<29耀>{4, message}。\nオマエも釣つりしに来きたんだな。\nオレは今日きょう、<1Đ\u0001>{4, fish_a, +}と\n<1Đ\u0001>{4, fish_b, +}\n<1Đ\u0001>{4, fish_c, +}が釣つれたぞ。\nオマエも頑張がんばって釣つれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレは今日きょう、<1Đ\u0001>{4, fish_a, +}と\n<1Đ\u0001>{4, fish_b, +}\n<1Đ\u0001>{4, fish_c, +}が釣つれたぞ。\nオマエも頑張がんばって釣つれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの{8, MessageMapName, +}<29耀>{4, message}はすごいぞ！！\nなんと\n<1Đ\u0001>{4, fish_a, +}が現あらわれたらしいんだ！\n情報じょうほうが本当ほんとうなら、一度いちどは釣つってみたいもんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Đ\u0001>{4, fish_a, +}が現あらわれたんだってよ。\n情報じょうほうが本当ほんとうなら、一度いちどは釣つってみたいもんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わたち　たくさん　さかなを　つったの。\nうれしい！！\nおともだちに　じまん　しちゃおうっと！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全然ぜんぜん釣つれねえじゃねえか！！\n釣つり堀ぼりめ、金かね返かえせ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "むひひひっ！\nオレ、今日きょうはまあまあ釣つれたんっすよ。\nアンタもがんばってください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったー！！いっぱい釣つれたわ！！\n大丈夫だいじょうぶかしら、この釣つり堀ぼり？\nワタシのせいで大赤字おおあかじじゃない？？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全然ぜんぜん釣つれなかった……やっぱり釣つりは好すかん。\nオレには農業のうぎょうが一番いちばんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふう、何匹なんびきか釣つれてよかった！\n釣つれた魚さかなは、どう料理りょうりしてやろうかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つり堀ぼりでの釣つりは、時間じかん制限せいげんがあるんだ。\nただし、カウントされるのは釣つり堀ぼりの中なかだけ。\nなので時間じかんを気きにせず\nエサが足たりなければ、店みせで買かい足たすといいよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はいよ、釣つり道具屋どうぐやだ。\n日ひによって品揃しなぞろえが違ちがうぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オヌシこの先さきの釣つり堀ぼりで、釣つりをしたいのかね？\nだが、オヌシ「つりざお」を持もってないぞ。\n釣つりは「つりざお」がないとできぬ。\n表おもてにいる、がたいのいい地底人ちていじんから\n「{5, ItemData, +}<2ɻ耀>{3, name, +}」をもらって来くるのじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オヌシこの先さきの釣つり堀ぼりで、釣つりをしたいのかね？\nだが、「つりざお」だけでは釣つりはできぬぞ。\n「つりエサ」を手てに入いれてから、また来くるのじゃ。\n「つりエサ」はそこの店みせでも売うっておるからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「いけす」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「川かわ」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「湖みずうみ」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「海うみ」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フォフォフォ。\nこの先さきが釣つり堀ぼりじゃ。\n制限せいげん時間じかんは3分ふんじゃ。その間あいだは出入ではいりできるぞ。\nでは、がんばるんじゃぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "釣つりをしないのかね？\nでは、挑戦ちょうせんしたくなったら声こえをかけなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "横よこの出口でぐちから、釣つり堀ぼりへ行いけるぞ。\nそれとも、「ステージ」を終了しゅうりょうするかのう？\n釣つった魚さかなは持もち帰かえることができるが、どうする？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "続つづけるんじゃな。\nでは、がんばるんじゃぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "では、ここで終了しゅうりょうじゃ。\nおつかれさま。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいの{8, MessageMapName, +}<29耀>{4, message}は、終了しゅうりょうじゃ。\nオヌシ、魚さかなを1匹ぴきも釣つれなかったようだな。\n……どんまいじゃ。\nやり残のこしたことが、ないのなら\n「ステージ」を終了しゅうりょうするかのう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいの{8, MessageMapName, +}<29耀>{4, message}は、終了しゅうりょうじゃ。\nオヌシ、魚さかなを{2, ?l, +}尾び釣つったようだな。\nほうほう、まあまあ釣つれたようじゃのう。\nやり残のこしたことが、ないのなら\n「ステージ」終了しゅうりょうするかのう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今回こんかいの{8, MessageMapName, +}<29耀>{4, message}は、終了しゅうりょうじゃ。\nオヌシ、魚さかなを{2, ?l, +}尾び釣つったようだな。\n大漁たいりょうじゃな！！やるのう！！\nやり残のこしたことが、ないのなら\n「ステージ」終了しゅうりょうするかのう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうかそうか。\nでは、また来くるが良よい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やり残のこしたことが、あるようじゃのう。\n終おわったら来きなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "残のこり、秒びょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「いけす」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "今日きょうの釣つり堀ぼりは「海うみ」だ。\nオヌシ、釣つりをしていくかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "昔むかしは、熱血ねっけつのアングラーと呼よばれ\n大漁たいりょうに釣つったもんだぜ。\n今日きょうは……ちょっと調子ちょうしが出でないがな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たくさん　さかなを　つってやるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全然ぜんぜん釣つれない……。\nでもミーはあきらめない！！\nミーのフィシングスピリッツ。\n見みせてやるざんす！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大漁たいりょう大漁たいりょう！！\nやっぱり釣つりで大事だいじなのは\nエサとタイミングですよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やーん。\n魚さかなが釣つれたけど、逃にげちゃった！！\nまた魚影ぎょえい見みつけなきゃ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "つりざおがいいのか……オレの腕うでがいいのか……\nうん、きっとオレの腕うでがいいんだな！！\n今日きょうも入いれ食ぐい状態じょうたいだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345685,
+		3503345684,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345681,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483683,
+		2147483684,
+		2147483689,
+		2147483690,
+		2147483685,
+		2147483686,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483687,
+		2147483691,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483688,
+		2147483696,
+		2147483697,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682
+	]
+}

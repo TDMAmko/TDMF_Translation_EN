@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "English Patch DEMO",
+			"text_contents": "English Patch V.0.1",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -96,7 +96,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "104Resuming from a suspended\ngame deletes suspended data.\nWe recommend saving quickly.\nDo you want to resume?",
+			"text_contents": "The save file is corrupted and\ncan't be loaded.\nDo you want to erase\nthe data.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Due to invalid jewel data\nthe save file is corrupted.\nDo you want to delete\nthe save data?",
+			"text_contents": "Due to invalid jewel data\nthe save file is corrupted.\nDo you want to erase\nthe save data?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -278,7 +278,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Save data is corrupted and\nand can't be used.\nDo you want to delete\nthe save data?",
+			"text_contents": "Save data cannot be used due to\nfaulty modification.\nDo you want to erase\nthe save data?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Saved data may be corrupted\nand so can't be used.",
+			"text_contents": "Saved data may be corrupted\nand can't be used.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

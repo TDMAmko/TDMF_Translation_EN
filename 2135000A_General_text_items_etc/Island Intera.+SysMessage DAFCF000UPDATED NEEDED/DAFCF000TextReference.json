@@ -1,25 +1,25 @@
 {
 	"header": {
-		"text_amount": 526,
+		"text_amount": 534,
 		"unk1": 4,
 		"header_size": 64,
-		"script_section_size": 32082,
-		"offset_strings": 32160,
-		"strings_section_size1": 2104,
-		"offset3": 34272,
-		"section_size2": 2104,
-		"offset4": 36384,
+		"script_section_size": 34535,
+		"offset_strings": 34608,
+		"strings_section_size1": 2136,
+		"offset3": 36752,
+		"section_size2": 2136,
+		"offset4": 38896,
 		"section_size3": 8,
-		"offset5": 36400,
-		"section_size4": 527,
+		"offset5": 38912,
+		"section_size4": 535,
 		"unk3": 0,
-		"offset6": 32068,
-		"offset7": 32082,
+		"offset6": 34520,
+		"offset7": 34534,
 		"unk4": 0
 	},
 	"text_info": [
 		{
-			"text_contents": "none",
+			"text_contents": "なし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -334,14 +334,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Denpa Men",
+			"text_contents": "電波人間たち",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Enemies",
+			"text_contents": "モンスターたち",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -404,98 +404,98 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Owned",
+			"text_contents": "もっているかず",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +} acquired!",
+			"text_contents": "<1ď\u0001>{3, name, +}を手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "☆{3, rare, +}<1ď\u0001>{3, name, +}acquired!",
+			"text_contents": "☆{3, rare, +}<1ď\u0001>{3, name, +}を手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}x{2, num}acquired!",
+			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ、手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gave <1ď\u0001>{3, name, +}.",
+			"text_contents": "<1ď\u0001>{3, name, +}を渡わたした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": " Gave <1ď\u0001>{3, name, +}x{2, num}.",
+			"text_contents": "<1ď\u0001>{3, name, +}を{2, num}個こ、渡わたした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}<1Đ\u0001>{5, treasure, +} acquired?",
+			"text_contents": "<1ď\u0001>{3, name, +}を<1Đ\u0001>{5, treasure, +}に入いれた。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found {3, gold, +}G!",
+			"text_contents": "{3, gold, +}Gを手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gave {3, gold, +}G.",
+			"text_contents": "{3, gold, +}Gを渡わたした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{3, medal} acquired!",
+			"text_contents": "メダルを{3, medal}枚まい、手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found {3, jewel} Jewel.",
+			"text_contents": "ジュエルを{3, jewel}個こ手てに入いれた！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Check-in bonus of\n{3, gold, +}G acquired!",
+			"text_contents": "チェックインボーナスとして\n{3, gold, +}Gをゲットしました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins:{2, day}!\nJewel acquired {3, jewel}\nas a check-in bonus.",
+			"text_contents": "通算つうさんチェックイン{2, day}日にち！\n通算つうさんチェックインボーナスとして\nジュエルを{3, jewel}個こゲットしました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of check-ins:{2, day}!\nCheck-in bonus of {3, gold, +}G acquired!",
+			"text_contents": "通算つうさんチェックイン{2, day}日にち！\n通算つうさんチェックインボーナスとして\nゴールドを{3, gold, +}Gゲットしました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,245 +523,245 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Max HP",
+			"text_contents": "さいだいHP",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Max AP",
+			"text_contents": "さいだいAP",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Attack",
+			"text_contents": "こうげきりょく",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Defence",
+			"text_contents": "ぼうぎょりょく",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Speed",
+			"text_contents": "すばやさ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Evade",
+			"text_contents": "かいひりつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bliss",
+			"text_contents": "幸福度",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Discovered?",
+			"text_contents": "発見者",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No element resistance",
+			"text_contents": "属性たいせいなし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No status resistance",
+			"text_contents": "状態たいせいなし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Player：",
+			"text_contents": "プレイヤー：",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "1stgen",
+			"text_contents": "第世代",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": ". Gen",
+			"text_contents": "代目",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "(Max Gen: )",
+			"text_contents": "(代まで転生可能)",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fi",
+			"text_contents": "火",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I",
+			"text_contents": "氷",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wi",
+			"text_contents": "風",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ea",
+			"text_contents": "土",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "El",
+			"text_contents": "電",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wa",
+			"text_contents": "水",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "L",
+			"text_contents": "光",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "D",
+			"text_contents": "闇",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Po",
+			"text_contents": "毒",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bu",
+			"text_contents": "火",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "So",
+			"text_contents": "水",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sn",
+			"text_contents": "風",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "M",
+			"text_contents": "泥",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "C",
+			"text_contents": "呪",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sh",
+			"text_contents": "電",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fr",
+			"text_contents": "氷",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Pa",
+			"text_contents": "マ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sl",
+			"text_contents": "眠",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ch",
+			"text_contents": "誘",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bl",
+			"text_contents": "ブ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found",
+			"text_contents": "入居日",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,35 +789,35 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Dwarf??",
+			"text_contents": "地底人ちていじん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Beginning, end, underworld?",
+			"text_contents": "始はじまり地底人ちていじん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fairy wings?",
+			"text_contents": "妖精ようせい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Yes",
+			"text_contents": "はい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No",
+			"text_contents": "いいえ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,14 +831,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gold",
+			"text_contents": "ゴールド",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "x{3, medal}",
+			"text_contents": "{3, medal}枚",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -852,7 +852,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel",
+			"text_contents": "ジュエル",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -880,7 +880,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{3, rank, +} place",
+			"text_contents": "{3, rank, +}位",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "none",
+			"text_contents": "なし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,84 +999,84 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Red",
+			"text_contents": "あか",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Blue",
+			"text_contents": "あお",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Amber?",
+			"text_contents": "きいろ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Light blue",
+			"text_contents": "みずいろ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Orange",
+			"text_contents": "だいだい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Green",
+			"text_contents": "みどり",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Black",
+			"text_contents": "くろ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Shiro?",
+			"text_contents": "しろ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Peach?",
+			"text_contents": "もも",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purple",
+			"text_contents": "むらさき",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gold",
+			"text_contents": "きん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Silver",
+			"text_contents": "ぎん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1202,63 +1202,63 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{2, num}x<1ď\u0001>{3, name, +} used.",
+			"text_contents": "<1ĉ\u0001>{2, num}は<1ď\u0001>{3, name, +}を使つかった",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "But nothing happened.",
+			"text_contents": "しかし　何なにも起おきなかった",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1đ\u0001>{3, name, +} has no effect.",
+			"text_contents": "<1đ\u0001>{3, name, +}は　使つかっても\n効果こうかがないので使つかうのをやめた",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No more monsters showing\nup",
+			"text_contents": "モンスターは　出だしても\n効果こうかがないので出だすのをやめた",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +} has no effect.",
+			"text_contents": "<1ď\u0001>{3, name, +}は　使つかっても\n効果こうかがないので使つかうのをやめた",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ď\u0001>{3, name, +}can't be\nused again.",
+			"text_contents": "<1ď\u0001>{3, name, +}は\nこれ以上いじょう 使つかえない",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "But it won't work anymore.",
+			"text_contents": "しかし　これ以上いじょうは効きかない",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Not enough AP to use\n<1đ\u0001>{3, name, +}",
+			"text_contents": "APが足りなくて\n<1đ\u0001>{3, name, +}が使えない",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} runned out of magic power.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は、わざを使おうとした\nしかし、魔力が足らなかった",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1272,497 +1272,497 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "But nothing happened.",
+			"text_contents": "しかし何なにも起おきなかった。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} equips <1ď\u0001>{3, item, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n<1ď\u0001>{3, item, +}を装備そうびした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} removed\n<1ď\u0001>{3, item, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n<1ď\u0001>{3, item, +}をはずした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} was changed\nto <1ď\u0001>{3, item, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n<1ď\u0001>{3, item, +}にきがえた。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} used\n<1ď\u0001>{3, item, +}?。",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n<1ď\u0001>{3, item, +}をぬいだ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equipment set applied on <1ĉ\u0001>{3, name, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\nおまかせ装備そうびにきがえた。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equipment set applied.\nHowever, there was no effect.",
+			"text_contents": "おまかせ装備そうびにきがえた。\nしかし変化へんかがなかった。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Not enough AP",
+			"text_contents": "APがたりない",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Free monster",
+			"text_contents": "モンスターをにがす",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Remove equipment",
+			"text_contents": "そうびをはずす",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Back",
+			"text_contents": "もどる",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Conf.",
+			"text_contents": "けってい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Next",
+			"text_contents": "次へ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Prev.",
+			"text_contents": "前へ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Antenna Tower",
+			"text_contents": "電波人間でんぱにんげんキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Denpa Box",
+			"text_contents": "電波人間でんぱにんげんボックス",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Spirit",
+			"text_contents": "精霊せいれいのほこら",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Birth",
+			"text_contents": "出生しゅっせいのほこら",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Reincarnation",
+			"text_contents": "転生てんせいのほこら",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Boutique",
+			"text_contents": "ショッピングモール",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Shop",
+			"text_contents": "ショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Record",
+			"text_contents": "きろくてちょう",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Coliseum",
+			"text_contents": "通信対戦つうしんたいせん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchase\njewels",
+			"text_contents": "ジュエル販売所はんばいじょ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "StreetPass",
+			"text_contents": "すれちがい通信つうしん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Exterior",
+			"text_contents": "エクステリア",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Plants",
+			"text_contents": "しょくぶつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Interior",
+			"text_contents": "インテリア",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fertilizer?",
+			"text_contents": "栄養剤えいようざい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "All",
+			"text_contents": "ぜんぶ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Use",
+			"text_contents": "つかうもの",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Plants",
+			"text_contents": "しょくぶつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fish",
+			"text_contents": "さかな",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Valuables",
+			"text_contents": "きちょうひん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Food",
+			"text_contents": "たべもの",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fertiliz.",
+			"text_contents": "さいばいどうぐ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bait",
+			"text_contents": "つりエサ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Rod",
+			"text_contents": "つりざお",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Body",
+			"text_contents": "ふく",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Mask",
+			"text_contents": "かおそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Head gear",
+			"text_contents": "くびそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Back gear",
+			"text_contents": "せなかそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Arm gear",
+			"text_contents": "うでそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Leg gear",
+			"text_contents": "あしそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Interior",
+			"text_contents": "インテリア",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Exterior",
+			"text_contents": "エクステリア",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Statues?",
+			"text_contents": "さいばい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Decor",
+			"text_contents": "おきもの",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Table",
+			"text_contents": "テーブル",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Chair",
+			"text_contents": "イス",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lamp",
+			"text_contents": "ランプ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bed",
+			"text_contents": "ベッド",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wallpaper",
+			"text_contents": "かべがみ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Floor",
+			"text_contents": "ゆか",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "House",
+			"text_contents": "いえ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gate",
+			"text_contents": "アーチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fence",
+			"text_contents": "かべ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Tile",
+			"text_contents": "タイル",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Seed",
+			"text_contents": "たね",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Flower",
+			"text_contents": "はな",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fruit",
+			"text_contents": "フルーツ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Food",
+			"text_contents": "たべもの",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Special",
+			"text_contents": "とくしゅ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Tree",
+			"text_contents": "き",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Training",
+			"text_contents": "トレーニング",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Filter",
+			"text_contents": "けんさく",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Search criteria",
+			"text_contents": "けんさくじょうけん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found data",
+			"text_contents": "ならび順",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Body color",
+			"text_contents": "ボディカラー",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Skill",
+			"text_contents": "アンテナ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gen",
+			"text_contents": "せだい",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1776,98 +1776,98 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "All",
+			"text_contents": "ぜんぶ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No antenna",
+			"text_contents": "アンテナなし",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Root",
+			"text_contents": "ねっこ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Bonus",
+			"text_contents": "お得",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Recovery",
+			"text_contents": "回復",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Cure",
+			"text_contents": "治療",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Buff",
+			"text_contents": "増強",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Debuff",
+			"text_contents": "補助",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Attack",
+			"text_contents": "攻撃",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Select a search condition\nand press \"search\".",
+			"text_contents": "けんさくじょうけんを　えらんで\n『けんさく』を　タッチしてください",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{2, num} Denpa Men",
+			"text_contents": "{2, num}人　見つかりました",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Result {2, num}",
+			"text_contents": "けんさくけっか{2, num}",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Stamina",
+			"text_contents": "スタミナ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Refill {4, minute, +}:{4, second, +}",
+			"text_contents": "あと{4, minute, +}:{4, second, +}",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1888,133 +1888,133 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Shop",
+			"text_contents": "ショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Item shop",
+			"text_contents": "アイテムショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equip shop",
+			"text_contents": "そうびショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Decor shop",
+			"text_contents": "デコレショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel shop",
+			"text_contents": "ジュエルショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sell",
+			"text_contents": "買い取り屋",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event shop",
+			"text_contents": "イベントショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Buy",
+			"text_contents": "買う",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Sell",
+			"text_contents": "売る",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you really\nwant to sell your\n<1ď\u0001>{3, name, +}?",
+			"text_contents": "<1ď\u0001>{3, name, +}を\n売却ばいきゃくしてもよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equip <1ď\u0001>{3, name, +}?",
+			"text_contents": "<1ď\u0001>{3, name, +}を\n今いますぐ装備そうびしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This item is not available\nat the moment, right???",
+			"text_contents": "このアイテムは現在購入げんざいこうにゅうしても\n使用しようできませんがよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You own this item already.\nDo you want to buy more?",
+			"text_contents": "既すでに持もっているアイテムですが\nさらに購入こうにゅうしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You can't buy any more\nthan this.",
+			"text_contents": "これ以上いじょう購入こうにゅうできません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Stage summary",
+			"text_contents": "ステージ確認",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Stage result",
+			"text_contents": "ステージリザルト",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Loot",
+			"text_contents": "戦利品",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Loot",
+			"text_contents": "手に入れたもの",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Retire",
+			"text_contents": "リタイア",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2028,7 +2028,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Rec. Lv.{3, level}",
+			"text_contents": "推奨Lv.{3, level}",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2042,196 +2042,196 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Give up and return to\nthe island?\n You will keep your\nexperience but not gold, jewels\nand items you have acquired.",
+			"text_contents": "ステージをあきらめて\n<1Ķ\u0000>に戻もどりますか？\n経験値けいけんちは引ひき継つぎますが\n手てに入いれたゴールド、ジュエル、\nアイテムは全すべて失うしないます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A <1ķ\u0001>{3, tribe} named <1č\u0001>{3, name, +}is\nnow one of your companions!",
+			"text_contents": "<1ķ\u0001>{3, tribe}の<1č\u0001>{3, name, +}が\n仲間なかまになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Extra stage\n<1ĸ\u0001>{3, name, +} unlocked!",
+			"text_contents": "エクストラステージ\n<1ĸ\u0001>{3, name, +} で\n遊あそべるようになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Your team can now have\nup to {2, num} members!",
+			"text_contents": "{2, num}人にんパーティで冒険ぼうけんできるようになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Maximum stamina increased to{3, value}!\nStamina {4, recover} recoverd!",
+			"text_contents": "スタミナの最大値さいだいちが{3, value}になった！\nスタミナが{4, recover}回復かいふくした！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Right of 8 is already in use.",
+			"text_contents": "既すでに8人にんの権利けんりを持もっているため、\n効果こうかが無なかった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This dungeon contains\na warp hole.\nStart again from B{3, class}F?",
+			"text_contents": "このダンジョンには\nワープホールの記録きろくがあります。\n以前いぜんワープホールをくぐった\n地下ちか{3, class}階かいから始はじめますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This dungeon contains\na warp hole.\nStart again from{3, class}F?",
+			"text_contents": "このダンジョンには\nワープホールの記録きろくがあります。\n以前いぜんワープホールをくぐった\n{3, class}階かいから始はじめますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Processing",
+			"text_contents": "データをセーブしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Saving data or",
+			"text_contents": "データをロードしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Creating data.",
+			"text_contents": "ステージデータをセーブしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Stage data is erased?",
+			"text_contents": "ステージデータを消去しています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Save completed!",
+			"text_contents": "セーブが完了かんりょうしました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Save completed! Do you\nwish to return to the title?",
+			"text_contents": "セーブが完了かんりょうしました！\nタイトルに戻もどりますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Created suspended data.\nReturning to title screen.",
+			"text_contents": "中断ちゅうだんデータを作成さくせいしました。\nタイトルに戻もどります。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you wish to save?",
+			"text_contents": "データをセーブしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you wish to create\nsuspended data and\nsuspend the game?",
+			"text_contents": "中断ちゅうだんデータを作成さくせいして\nタイトルに戻もどりますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you wish to create\nsuspended data and\nsuspend the game?\nHowever, the data\ncannot be transfered.",
+			"text_contents": "中断ちゅうだんデータを作成さくせいして\nゲームを中断ちゅうだんしますか？\n※ただし、中断ちゅうだんデータは\n製品版せいひんばんに引ひき継つげません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you wish to quit\nand return to the title?",
+			"text_contents": "ゲームを終了しゅうりょうして\nタイトルに戻もどりますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Saving failed.\nPlease press the HOME button\nto quit.",
+			"text_contents": "セーブファイルの作成さくせいに\n失敗しっぱいしました。\nゲームが起動きどうできません。\nHOMEボタンを押おして下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Loading failed.\nPlease try again after\nrestarting your console.\nIf it still won't work,\nplease refer to the instructions.",
+			"text_contents": "ロードに失敗しっぱいしました。\nHOMEボタンを押おして下ください。\n何度なんども失敗しっぱいする場合ばあいは、\n取扱説明書とりあつかいせつめいしょをお読よみ下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Saving failed.\nPlease try again after\nrestarting your console.\nIf it still won't work,\nplease refer to the instructions.",
+			"text_contents": "セーブに失敗しっぱいしました。\n何度なんども失敗しっぱいする場合ばあいは、\n取扱とりあつかい説明書せつめいしょをお読よみ下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Preparing to start\na new game.",
+			"text_contents": "ゲームを始はじめる\n準備じゅんびをしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Preparing save data.",
+			"text_contents": "セーブデータを\n準備じゅんびしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This is an unoffical\nfan-translation made by fans\nfor fans.\nAll rights belong to the\noriginal creators.",
+			"text_contents": "追加ついかデータを作成さくせいしました。\n本体ほんたい設定せっていのデータ管理かんりで\n誤あやまって消去しょうきょしないよう\nご注意ちゅういください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This console doesn't have a\nregistered Nintendo Network ID.\nYou can register one in\nthe system settings.",
+			"text_contents": "この本体ほんたいにはニンテンドーネットワークIDが\n登録とうろくされていません。本体設定ほんたいせっていの\n「ニンテンドーネットワークID設定せってい」から\n登録とうろくできます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Server maintenance ongoing.\nWe apoligize for any\ninconvenience caused.",
+			"text_contents": "サーバーのメンテナンス中ちゅうです。\nご迷惑めいわくをおかけしますが\nしばらくお待まちください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The online service has been\nterminated.\nThank you for using it.",
+			"text_contents": "このネットワークサービスは終了しゅうりょうしました。\nご利用りようありがとうございました。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2245,91 +2245,91 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Communicating.",
+			"text_contents": "通信中つうしんちゅうです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Connect to Internet. OK?",
+			"text_contents": "インターネットに接続せつぞくします。\nよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Communication complete.",
+			"text_contents": "通信つうしんを終了しゅうりょうしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Autocatch stopped?",
+			"text_contents": "オートキャッチの停止中ていしちゅうです。\n停止ていしするまでインターネットができません。\n時間じかんをおいてからもう一度いちどお試ためしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Communication error occured.",
+			"text_contents": "通信つうしんエラーが発生はっせいしました。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wireless communication is\ndeactivated. Please\nturn wireless communication\nON in the game's setting.",
+			"text_contents": "無線通信むせんつうしんがOFFになっているため\n利用りようできません。\n無線通信むせんつうしんをONにしてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Update confirmation.",
+			"text_contents": "更新こうしんの確認かくにんを行おこなっています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "An update is available.\nAfter updating, the software\nwill restart. Do you want\nto update now?",
+			"text_contents": "更新こうしんデータがありました。\n更新こうしんの終了後しゅうりょうご、ソフトを再起動さいきどうします。\n更新こうしんしてもよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Update complete.\nThe software will\nbe restarted.",
+			"text_contents": "更新こうしんデータを適用てきようしました。\nソフトを再起動さいきどうします。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Updating data.",
+			"text_contents": "データを更新こうしんしています。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "An problem occured while\nupdating. You have to update\nbefore you can play.\nTry updating again now?",
+			"text_contents": "更新こうしんデータに問題もんだいがありました。\n更新こうしんデータを再度さいどダウンロードするまで\nこのソフトで遊あそぶことができません。\n更新こうしんデータをダウンロードしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Downloading update data failed.\nConnect to Internet\nand try again?",
+			"text_contents": "更新こうしんデータのダウンロードに失敗しっぱいしました。\nインターネットに接続せつぞくしなおしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Stopped updating, to return to HOME menu,\npress tbe <1ĳ\u0000> button!",
+			"text_contents": "更新こうしんデータのダウンロードをやめました。\nHOMEメニューに戻もどりたいときは\n<1ĳ\u0000>を押おして下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2343,126 +2343,126 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "After updating, the software\nwill restart. Do you really\nwant to update?",
+			"text_contents": "更新こうしんの終了後しゅうりょうご、ソフトを再起動さいきどうします。\n更新こうしんしてもよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Updating failed. Please\ndelete the updata data\nin the Nintendo 3DS settings\nand try again.",
+			"text_contents": "更新こうしんデータの適用てきように失敗しっぱいしました。\n本体設定ほんたいせっていで「データ管理かんり」→\n「3ＤＳデータ管理かんり」→\n「追加ついかコンテンツ管理かんり」から\nこのソフトの更新こうしんデータを消去しょうきょしてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Processing check-in",
+			"text_contents": "チェックイン処理中しょりちゅうです。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Updating failed. Please return\nto the HOME menu and\nread the manual\ninstructions for more advice.",
+			"text_contents": "更新こうしんデータのダウンロードに失敗しっぱいしました。\nHOMEボタンを押おして下ください。\n何度なんども失敗しっぱいする場合ばあいは、このソフトの\n電子説明書でんしせつめいしょをお読よみ下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Check-in failed.\nTry again later.",
+			"text_contents": "チェックインに失敗しっぱいしました。\nしばらくたってから再度さいどお試ためし下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "When you check-in, you can get\nrewards and will unlock\nevents! Additionally, you\nwill receive updata data.\nDo you want to check-in?",
+			"text_contents": "チェックインをすると運営うんえいからのおしらせや\n更新こうしんデータを受信じゅしんすることができます。\nまた、サービス向上こうじょうのため\nお客様きゃくさまのプレイデータの一部いちぶを送信そうしんします。\nチェックインをしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Check-in may be required\nfor some online features.\nPlease check-in, to use them.",
+			"text_contents": "チェックインをしないと一部いちぶの通信機能つうしんきのうが\n使用しようできなくなる可能性かのうせいがあります。\nご了承りょうしょうください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Update available.\nDo you want to update now?",
+			"text_contents": "パッチの更新こうしんがありました。\n更新こうしんしてもよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Update is recommended to\nbe able to normally\nplay the game.",
+			"text_contents": "データの更新こうしんを行おこなわないと\n正常せいじょうにゲームを遊あそべません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Not enough Jewels.\nGet Jewels (borrow/buy)?",
+			"text_contents": "ジュエルが足たりません。\n獲得かくとくしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow {2, num} Jewels?",
+			"text_contents": "ジュエルを{2, num}個こ借かりますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Buy jewels",
+			"text_contents": "ジュエル販売所で買う",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow jewels",
+			"text_contents": "ジュエルを借りる",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Use Nintendo e-shop funds\nto buy jewels.",
+			"text_contents": "ニンテンドーeショップの残高ざんだかを使つかって\nジュエルを購入こうにゅうします。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow Jewels from dwarfs.",
+			"text_contents": "地底人ちていじんからジュエルを借かります。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Obtaining jewels",
+			"text_contents": "ジュエル獲得",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Borrow jewels",
+			"text_contents": "ジュエルを借りる",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchase jewels",
+			"text_contents": "ジュエル販売所",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2476,175 +2476,175 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Credit",
+			"text_contents": "残高",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": " pcs.",
+			"text_contents": "個",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": " pcs. set",
+			"text_contents": "個 セット",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Is {3, item, +} for {3, price}\nyour choice?",
+			"text_contents": "{3, item, +}\n代金　{3, price}\nこれでよろしいですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to reconnect?",
+			"text_contents": "接続せつぞくしなおしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchased and borrowed jewels\nare not included in the loot.",
+			"text_contents": "購入こうにゅう、または借かりたジュエルは\n戦利品せんりひんに含ふくまれません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Select the product\nyou wish to purchase.",
+			"text_contents": "購入こうにゅうする商品しょうひんを選えらんで下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Communication failed.\nTry again after waiting a bit.",
+			"text_contents": "サーバーと通信つうしんができません。\nしばらく経たってからお越こしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Server maintenance ongoing.\nTry again after waiting a bit.",
+			"text_contents": "現在げんざいメンテナンス中ちゅうです。\nしばらく経たってからお越こしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Servers are overloaded.\nTry again after waiting a bit.",
+			"text_contents": "現在げんざいサーバーが混こみ合あっています。\nしばらく経たってからお越こしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Received malformed data.\nTry again.",
+			"text_contents": "データ改かいざんのおそれがあります。\nもう一度いちどやり直なおしてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Purchased data couldn't be saved.\nTry again by connecting to\nthe jewel purchase option.",
+			"text_contents": "購入こうにゅうしたデータがセーブできませんでした。\n再度さいどジュエル購入こうにゅうへ接続せつぞくしてください。\nデータ復旧ふっきゅう処理しょりを行おこないます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Data for price list couldn't\nbe obtained correctly. Try again\nin a few days.",
+			"text_contents": "サーバーから販売はんばいリストの情報じょうほうが\n正ただしく取得しゅとくできませんでした。\nしばらく経たってからお越こしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Maximum Jewel count reached.\nUse Jewels before\npurchasing more.",
+			"text_contents": "ジュエルをこれ以上いじょう持もてません。\nジュエルを消費しょうひしてからお越こしください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Exchange game play records\nwith others via StreetPass!",
+			"text_contents": "すれちがい通信つうしんをすると、\n他ほかのプレイヤーと\nゲームのプレイ記録きろくを\n交換こうかんできるようになります。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "StreetPass feature locked\nby parental restrictions.\nCheck the 3DS settings\nto change it.",
+			"text_contents": "「保護者ほごしゃによる使用制限しようせいげん」で\nすれちがい通信つうしんが\n制限せいげんされています。\n本体設定ほんたいせっていをご確認かくにんください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Online services not available.\nAgree to the latest\nterms of use of Nintendo\nNetwork Service to enable it.",
+			"text_contents": "最新さいしんの利用規約りようきやくに同意どういしていないため\nすれちがい通信つうしんを利用りようできません。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Turn on StreetPass for\nthis software?",
+			"text_contents": "このソフトのすれちがい通信つうしんを\n登録とうろくしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "StreetPass activated for this\nsoftware. The game doesn't need\nto be open to encounter\nother players via StreetPass!",
+			"text_contents": "すれちがい通信つうしんを登録とうろくしました。\nこのソフトを終了しゅうりょうしても\nすれちがい通信つうしんは\n自動じどうで行おこなわれます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "View your own and other\nplayers gameplay records\nin the StreetPass section\nof the main menu!",
+			"text_contents": "「メイン」の「すれちがい通信つうしん」から\n自分じぶんや他ほかのプレイヤーの\n記録きろくを見みる事ことができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Turn ON Wi-Fi connections\nto use StreetPass.",
+			"text_contents": "すれちがい通信つうしんをするには\n無線通信むせんつうしんをONにして下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Limit of software that uses\nStreetPass already reached.\nRemove other software from\nthe StreetPass feature\nto be able to use it here.",
+			"text_contents": "すれちがい通信つうしんをこれ以上いじょう\n本体ほんたいに登録とうろくできません。\n本体設定ほんたいせっていのすれちがい通信管理つうしんかんりで\nほかのソフトのすれちがい通信つうしんを\nやめて下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The Denpa Men FREE!",
+			"text_contents": "電波人間のRPG FREE!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "StreetPass encounter!",
+			"text_contents": "すれちがい通信をしました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Activate SpootPass to receive\nin-game news on your\nHOME menu.",
+			"text_contents": "いつの間まに通信つうしんを利用りようすると\nこのソフトからのおしらせを\n受信じゅしんすることができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2693,7 +2693,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いつの間まに通信つうしんとすれちがい通信つうしんの\n登録とうろくは、あとで\"せってい\"から\n変更へんこうすることができます。",
+			"text_contents": "いつの間まに通信つうしんとすれちがい通信つうしんの\n登録とうろくは、あとで「せってい」から\n変更へんこうすることができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2847,35 +2847,35 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Antenna Tower",
+			"text_contents": "電波人間キャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Normal catch",
+			"text_contents": "ノーマルキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Rare catch",
+			"text_contents": "レアキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ultra rare catch",
+			"text_contents": "イベントキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "電波人間でんぱにんげんボックスがいっぱいなので\nキャッチを行おこなうことができません。\n誰だれかと\"さよなら\"して、\n電波人間でんぱにんげんボックスに空あきを作つくって下ください。",
+			"text_contents": "電波人間でんぱにんげんボックスがいっぱいなので\nキャッチを行おこなうことができません。\n誰だれかと「さよなら」して、\n電波人間でんぱにんげんボックスに空あきを作つくって下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2917,168 +2917,168 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Auto Equip",
+			"text_contents": "おまかせそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Previous gear",
+			"text_contents": "前のそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Fire res",
+			"text_contents": "対【火属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ice res",
+			"text_contents": "対【氷属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wind res",
+			"text_contents": "対【風属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Earth res",
+			"text_contents": "対【土属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Elec res",
+			"text_contents": "対【電気属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Water res",
+			"text_contents": "対【水属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Light res",
+			"text_contents": "対【光属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Dark res",
+			"text_contents": "対【闇属性】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Abilities",
+			"text_contents": "能力重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Antenna focus",
+			"text_contents": "アンテナ重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "High catch rate",
+			"text_contents": "つかまえる重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "High exp",
+			"text_contents": "経験値重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gold focus",
+			"text_contents": "ゴールド重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Normal up",
+			"text_contents": "おたから重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Rare up",
+			"text_contents": "レアおたから重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ultra rare up",
+			"text_contents": "激レアおたから重視",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Remove all equip",
+			"text_contents": "すべてはずす",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "High-Class item",
+			"text_contents": "こうきゅうひん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "High-Class",
+			"text_contents": "こうきゅう",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Removed all equipment.",
+			"text_contents": "すべての装備そうびをはずした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1Ļ\u0001>{3, color}{3, grade} type?",
+			"text_contents": "<1Ļ\u0001>{3, color}{3, grade}等",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{5, ItemData, +}<2ख耀>{3, name, +}{2, num}枚まいを使つかって\n福引ふくびきを1回引かいひくことができます。\n{5, ItemData, +}<2ख耀>{3, name, +}は\"すれちがいバトル\"で\n手てに入いれることができます。",
+			"text_contents": "{5, ItemData, +}<2ख耀>{3, name, +}{2, num}枚まいを使つかって\n福引ふくびきを1回引かいひくことができます。\n{5, ItemData, +}<2ख耀>{3, name, +}は「すれちがいバトル」で\n手てに入いれることができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3092,7 +3092,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lucky Draw",
+			"text_contents": "福引きをする",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3127,7 +3127,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Produce?",
+			"text_contents": "さくもつ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3155,140 +3155,140 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "times?",
+			"text_contents": "回",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Do you want to finish this\"stage\"\nand return to the {8, MessageMapName, +}<2\u0006耀>{4, message}?",
+			"text_contents": "「ステージ」を終了しゅうりょうして\n{8, MessageMapName, +}<2\u0006耀>{4, message}へ帰かえりますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event Catch",
+			"text_contents": "とくべつキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ultra Rare catch",
+			"text_contents": "ゲキレアキャッチ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Catch Denpa Men from other\ndimensions by using Jewels!",
+			"text_contents": "『とくべつキャッチ』では、\n特別とくべつな電波人間でんぱにんげんのみ登場とうじょうします。\nまた、キャッチした電波人間でんぱにんげんが\n必かならず仲間なかまになって終了しゅうりょうします。\nよく狙ねらいをつけてキャッチをしましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Data not found for catch mode.\nPlease check-in to reload data.",
+			"text_contents": "電波人間でんぱにんげんのデータが\n見みつかりませんでした。\nチェックインをして\nデータを更新こうしんし直なおして下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "In \"Event Catch\" you can find\nseasonal Denpa Men with Equip!",
+			"text_contents": "『ゲキレアキャッチ』では、キャッチした\n電波人間でんぱにんげんが必かならず仲間なかまになって終了しゅうりょうします。\nよく狙ねらいをつけてキャッチをしましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Seasonal Denpa Men with equip\nonly available for a limited time.\n.",
+			"text_contents": "期間限定きかんげんていで出現しゅつげんする\n特別とくべつな電波人間でんぱにんげんをキャッチすることができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Catch Denpa Men with exclusive\nantennas in \"Ultra Rare Catch\"!",
+			"text_contents": "ジュエルを使用しようして、異次元いじげんに住すむ能力のうりょくの高たかい\n電波人間でんぱにんげんをキャッチすることができます。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} is now\na new team member!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}が\n仲間なかまになりました。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} is already a team\nmember, receiving gift instead.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\nすでに仲間なかまになっているため\nプレゼントを置おいていきました。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event Shop",
+			"text_contents": "特別ショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Event Shop data not found\nUse check-in to reload data.",
+			"text_contents": "商品しょうひんのデータが\n見みつかりませんでした。\nチェックインをして\nデータを更新こうしんし直なおして下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{7, MessageCommon}<2ǽ耀>{4, message} has new\nequipment to offer.",
+			"text_contents": "{7, MessageCommon}<2ǽ耀>{4, message}に\n装備そうびが追加ついかされました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "{7, MessageCommon}<2ǿ耀>{4, message} has new\nequipment to offer.",
+			"text_contents": "{7, MessageCommon}<2ǿ耀>{4, message}に\n装備そうびが追加ついかされました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1Đ\u0001>{3, item, +} has been added\nto {7, MessageCommon}<2ǿ耀>{4, message}!",
+			"text_contents": "{7, MessageCommon}<2ǿ耀>{4, message}に\n<1Đ\u0001>{3, item, +}が追加ついかされました！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The <1Ď\u0001>{3, tribe} <1č\u0001>{3, name, +}\nis now a companion.",
+			"text_contents": "<1Ď\u0001>{3, tribe}の<1č\u0001>{3, name, +}が\n仲間なかまになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Obtaining Gold",
+			"text_contents": "ゴールド獲得",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Obtaining Jewels",
+			"text_contents": "ジュエル獲得",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Obtaining items",
+			"text_contents": "アイテム獲得",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3302,196 +3302,196 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No sorting",
+			"text_contents": "きほん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Name",
+			"text_contents": "なまえ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Rarity",
+			"text_contents": "レア度",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Cost",
+			"text_contents": "ねだん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel",
+			"text_contents": "ジュエル",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Type",
+			"text_contents": "タイプ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Neutral aura unlocked\nin the Spirit Shrine!",
+			"text_contents": "精霊せいれいのほこらで\nぜん属性ぞくせいに転身てんしんできるようになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Holy aura unlocked\nin the Spirit Shrine!",
+			"text_contents": "精霊せいれいのほこらで\nあく属性ぞくせいに転身てんしんできるようになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Generation level decreased by 1.",
+			"text_contents": "世代せだいが1つ下さがった。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Abnormalities occured\nin save data.\nSystem restarted.\nContact support if it\noccurs again.",
+			"text_contents": "セーブデータの異常いじょうを検知けんちしたため\n再起動さいきどうをいたしました。\n何度なんども発生はっせいする場合ばあいは、\nサポートにお問とい合あわせ下ください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Found",
+			"text_contents": "入居日",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Max gen",
+			"text_contents": "最大世代",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Antenna",
+			"text_contents": "アンテナ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ghost res",
+			"text_contents": "対【ゴースト】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Demon res",
+			"text_contents": "対【デーモン】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Dragon res",
+			"text_contents": "対【ドラゴン】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Beast res",
+			"text_contents": "対【ビースト】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Insect res",
+			"text_contents": "対【インセクト】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Marine res",
+			"text_contents": "対【マリーン】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Plant res",
+			"text_contents": "対【プラント】",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1č\u0001>{3, name, +} is now\na companion!",
+			"text_contents": "<1č\u0001>{3, name, +}が\n仲間なかまになった！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Saving failed. Please exit the\ngame with the HOME button.\nContact support if it happens\nagain.",
+			"text_contents": "セーブに失敗しっぱいしました。\n何度なんども失敗しっぱいする場合ばあいは\nサポートにご連絡れんらくください。\nHOMEボタンを押おしてゲームを\n終了しゅうりょうしてください。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equip set",
+			"text_contents": "セットそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Equip set",
+			"text_contents": "セットそうび",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": " return",
+			"text_contents": "  もどる",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Overwrite set \"{5, set_name, +}\"\nwith their equipment?",
+			"text_contents": "{5, set_name, +}に\nこの電波人間でんぱにんげんの装備そうびを上書うわがきしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Clear set \"{5, set_name, +}\"?",
+			"text_contents": "{5, set_name, +}の\nセットをクリアしますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} is changed\nto {5, set_name, +}.",
+			"text_contents": "<1ĉ\u0001>{3, name, +}は\n{5, set_name, +}にきがえた。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3519,14 +3519,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "\"<1ď\u0001>{3, name, +}\"の\n所持数しょじすうがいっぱいになったので\nステージ内ないで手てに入いれた一部いちぶが\n持もち帰かえれませんでした。",
+			"text_contents": "「<1ď\u0001>{3, name, +}」の\n所持数しょじすうがいっぱいになったので\nステージ内ないで手てに入いれた一部いちぶが\n持もち帰かえれませんでした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "\"<1ď\u0001>{3, name, +}\"の\n所持数しょじすうがいっぱいだったので\nステージ内ないで手てに入いれたものが\n持もち帰かえれませんでした。",
+			"text_contents": "「<1ď\u0001>{3, name, +}」の\n所持数しょじすうがいっぱいだったので\nステージ内ないで手てに入いれたものが\n持もち帰かえれませんでした。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3554,7 +3554,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Lottery?",
+			"text_contents": "福袋ショップ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3687,7 +3687,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gold",
+			"text_contents": "きん",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3699,10 +3699,83 @@
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエル販売所はんばいじょは終了しゅうりょうしました。\nWi-Fiコロシアムは終了しゅうりょうしました。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジュエルが足たりません。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
 		}
 	],
 	"old_string_data": [],
 	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [],
 	"attributes": {
 		"attributeStrings": [
 			"message",
@@ -4241,6 +4314,14 @@
 		2147484360,
 		2147484361,
 		2147484362,
-		2147484363
+		2147484363,
+		2147484364,
+		2147484365,
+		2147484368,
+		2147484369,
+		2147484370,
+		2147484371,
+		2147484366,
+		2147484367
 	]
 }
