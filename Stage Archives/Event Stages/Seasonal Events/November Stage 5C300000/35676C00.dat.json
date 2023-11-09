@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "<18\u0000>助<19\u0000>たす<1:\u0000>けてあげますか？",
+			"text_contents": "Do you need help?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>犯人<19\u0000>はんにん<1:\u0000>がわかりましたか？",
+			"text_contents": "Have you identified\nthe culprit?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ļ\u0001>{5, npc_name, +}が<18\u0000>犯人<19\u0000>はんにん<1:\u0000>ですか？",
+			"text_contents": "Is <1ļ\u0001>{5, npc_name, +} the culprit?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ざわざわ……。",
+			"text_contents": "Ugh...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "イリス",
+			"text_contents": "Iris",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "モース",
+			"text_contents": "Mose",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アスト",
+			"text_contents": "Asto",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ビルネ",
+			"text_contents": "Birne",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>村<19\u0000>むら<1:\u0000>って<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>なところだね！",
+			"text_contents": "So, this is <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message.\nA famous place where everyone<1\"\u0000>\nworks hard!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}ですね。\n<18\u0000>働<19\u0000>はたら<1:\u0000>き<18\u0000>者<19\u0000>もの<1:\u0000>が<18\u0000>多<19\u0000>おお<1:\u0000>くて<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>なところらしいですよ！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}.\nIt is said to be a well known<1\"\u0000>\nplace with lots of workers!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}ですか。\n<18\u0000>働<19\u0000>はたら<1:\u0000>き<18\u0000>者<19\u0000>もの<1:\u0000>が<18\u0000>多<19\u0000>おお<1:\u0000>くて<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>だとか。<18\u0000>見習<19\u0000>みなら<1:\u0000>いたいものです。",
+			"text_contents": "Is this <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}?\nI heard it's famous for<1\"\u0000>\nits hard working people. Maybe\nI can learn something from here.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>村<19\u0000>むら<1:\u0000>って<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>らしいぜ！",
+			"text_contents": "So, that's <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}.\nI heard that this is a famous<1\"\u0000>\nand prestigious village where\neveryone works hard!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}かあ。\nみんなよく<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>村<19\u0000>むら<1:\u0000>って<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>なんだって！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}.\nIt's a place where every<1\"\u0000>\nvillager works hard!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}ね。\nみんなよく<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>村<19\u0000>むら<1:\u0000>って<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>なんだって！",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}.?\nI heard it's a famous<1\"\u0000>\nvillage where everyone works\nhard and gives their best!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}か。\nみんなよく<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>村<19\u0000>むら<1:\u0000>だと<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>らしいぞ。",
+			"text_contents": "So, this is<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}.\nThis is a well-known village<1\"\u0000>\nwhere the people work hard!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが<17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}ですか。\n<18\u0000>働<19\u0000>はたら<1:\u0000>き<18\u0000>者<19\u0000>もの<1:\u0000>が<18\u0000>多<19\u0000>おお<1:\u0000>くて<18\u0000>有名<19\u0000>ゆうめい<1:\u0000>とか。<18\u0000>私<19\u0000>わたし<1:\u0000>には<18\u0000>合<19\u0000>あ<1:\u0000>いませんね。",
+			"text_contents": "Is this <17\u0003>{8, MessageMapName, +}<2¨耀>{4, message}?\nI've heard this place is<1\"\u0000>\nfamous for its hard working\npeople.<1\"\u0000>\nI don't think I belong here...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "だけど、どうしたんだろう？",
+			"text_contents": "But what's going on?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ですが、どうしたんでしょう？",
+			"text_contents": "But what's happening?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、どうしたのでしょうか？",
+			"text_contents": "But what happened?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "けど、どうしたんだ、これ。",
+			"text_contents": "But what's up with this, though?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "でも、ちょっとおかしいよね？",
+			"text_contents": "But, what is now?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "でも、どうしたのかしら？",
+			"text_contents": "But what's wrong?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、これはいったい？",
+			"text_contents": "But what is this?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "と、<18\u0000>思<19\u0000>おも<1:\u0000>いましたが……おやあ？",
+			"text_contents": "I was thinking...oh?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>ててるみたい……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみよう！",
+			"text_contents": "It looks like the fields are\ngoing wild...Let's take a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>ててるみたいです……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみましょう！",
+			"text_contents": "It seems that the fields are\ncovered with wild mushrooms...<1\"\u0000>\nLet's see what's going on!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>てているようですね……。\n<18\u0000>様子<19\u0000>ようす<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみましょう！",
+			"text_contents": "Aren't the fields looking sort\nof unkempt? Let's take a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れてねえか？\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみようぜ！",
+			"text_contents": "What wild looking fields, right?\nLet's go take a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>枯<19\u0000>か<1:\u0000>れちゃってるみたいだよ……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみよう！",
+			"text_contents": "It looks like the fields are\nrunning low on bamboo...<1\"\u0000>\nI'll go check it out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>ててるみたいね……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみましょうよ！",
+			"text_contents": "It looks like the fields are\ngrowing wildly...<1\"\u0000>\nLet's go take a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,7 +439,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "どうやら<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>ててるみたいだな……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみようか！",
+			"text_contents": "It looks like the fields are not\nin their best state...<1\"\u0000>\nLet's go take a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>畑<19\u0000>はたけ<1:\u0000>が<18\u0000>荒<19\u0000>あ<1:\u0000>れ<18\u0000>果<19\u0000>は<1:\u0000>ててますねえ……。\nちょっと、<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってみましょうか！",
+			"text_contents": "The fields are looking a bit\nwild...Let's go and have a look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ねえ、<18\u0000>聞<19\u0000>き<1:\u0000>いて！\nみんな、<18\u0000>急<19\u0000>きゅう<1:\u0000>に<18\u0000>働<19\u0000>はたら<1:\u0000>かなくなっちゃったの！！<1\"\u0000>\n<18\u0000>大人<19\u0000>おとな<1:\u0000>にこの<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>未来<19\u0000>みらい<1:\u0000>を<18\u0000>任<19\u0000>まか<1:\u0000>せるのは\n<18\u0000>不安<19\u0000>ふあん<1:\u0000>だわあ。",
+			"text_contents": "Hey, listen! Everyone suddenly\nstopped working! Me worried<1\"\u0000>\nleaving futurre of village in\nhands of lazy adults...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここは<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>村<19\u0000>むら<1:\u0000>だよ。ふああ……。\n<18\u0000>睡眠<19\u0000>すいみん<1:\u0000>の<18\u0000>秋<19\u0000>あき<1:\u0000>っていいもんだなやー。",
+			"text_contents": "This village of hard workers...\nZzz...sleep good thing...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>本当<19\u0000>ほんとう<1:\u0000>は<18\u0000>働<19\u0000>はたら<1:\u0000>きたいんだけど\nどうにも、やる<18\u0000>気<19\u0000>き<1:\u0000>がでなくってなあ。<1\"\u0000>\nうーん、<18\u0000>体<19\u0000>からだ<1:\u0000>を<18\u0000>動<19\u0000>うご<1:\u0000>かさないと\nなまっちまっていけねえや。",
+			"text_contents": "Me really want work, but not\nhave energy. Really hard for<1\"\u0000>\nme now, keep body moving.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "なんだか<18\u0000>働<19\u0000>はたら<1:\u0000>くのがおっくうになっちゃって。\nこのままじゃいけないとは<18\u0000>思<19\u0000>おも<1:\u0000>うんだけどさ……。",
+			"text_contents": "Me tired of working. Not can go\non like this...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ああ、そこのお<18\u0000>方<19\u0000>かた<1:\u0000>！\nもし<18\u0000>良<19\u0000>よ<1:\u0000>ければ、わしのお<18\u0000>願<19\u0000>ねが<1:\u0000>いを<18\u0000>聞<19\u0000>き<1:\u0000>いておくれ！！<1\"\u0000>\nこの<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>中央<19\u0000>ちゅうおう<1:\u0000>には、「<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>」と<18\u0000>呼<19\u0000>よ<1:\u0000>ばれる\n<18\u0000>像<19\u0000>ぞう<1:\u0000>がありましてな……。<1\"\u0000>\n<18\u0000>村<19\u0000>むら<1:\u0000>のみんなが、<18\u0000>楽<19\u0000>たの<1:\u0000>しく<18\u0000>働<19\u0000>はたら<1:\u0000>けるようにしてくださる\nありがたい<18\u0000>神様<19\u0000>かみさま<1:\u0000>なんじゃ。<1\"\u0000>\nところが<18\u0000>先日<19\u0000>せんじつ<1:\u0000>、<18\u0000>皆<19\u0000>みな<1:\u0000>が<18\u0000>寝<19\u0000>ね<1:\u0000><18\u0000>静<19\u0000>しず<1:\u0000>まった<18\u0000>後<19\u0000>あと<1:\u0000>に\nこの<18\u0000>神様<19\u0000>かみさま<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれてしまったんじゃ！<1\"\u0000>\nそれ<18\u0000>以来<19\u0000>いらい<1:\u0000>、<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>皆<19\u0000>みな<1:\u0000>は<18\u0000>働<19\u0000>はたら<1:\u0000>く<18\u0000>気力<19\u0000>きりょく<1:\u0000>をなくし\n<18\u0000>畑<19\u0000>はたけ<1:\u0000>は<18\u0000>荒<19\u0000>あ<1:\u0000>れ……このままじゃ、<18\u0000>村<19\u0000>むら<1:\u0000>は<18\u0000>壊滅<19\u0000>かいめつ<1:\u0000>じゃ！<1\"\u0000>\nそこで、お<18\u0000>願<19\u0000>ねが<1:\u0000>いじゃ！\n<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>像<19\u0000>ぞう<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>つけ<18\u0000>出<19\u0000>だ<1:\u0000>してはくださらんか？",
+			"text_contents": "Oh, you there! If willing,\ncan please do me favor!!<1\"\u0000>\nIn center of village, there\nstatue called<1\"\u0000>\n\"Statue of hard working dwarfs\".\nStatue makes possible for<1\"\u0000>\neveryone in village to work\nhappily and efficiently.<1\"\u0000>\nBut one day, statue was stolen!\nSince then, everyone in village<1\"\u0000>\nlost will to work and fields now\nlook devastated. If situation<1\"\u0000>\ncontinues, village soon destroyed!\nSo, me ask you for help!<1\"\u0000>\nYou find stolen statue and\nbring it here?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そうじゃろうな……。\nぶしつけなお<18\u0000>願<19\u0000>ねが<1:\u0000>いをして、すまんですじゃ……。",
+			"text_contents": "Oh, you right...Sorry for this\nblunt request...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おお、やはり<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>像<19\u0000>ぞう<1:\u0000>を\n<18\u0000>見<19\u0000>み<1:\u0000>つけ<18\u0000>出<19\u0000>だ<1:\u0000>していただけますかな？",
+			"text_contents": "Oh, still here. Now want\nhelp find stolen statue?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ありがとうございますじゃ！<1\"\u0000>\nぜひ<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>り<18\u0000>戻<19\u0000>もど<1:\u0000>して\n<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>皆<19\u0000>みな<1:\u0000>が<18\u0000>元<19\u0000>もと<1:\u0000>どおり<18\u0000>働<19\u0000>はたら<1:\u0000>けるようにしてくだされ！",
+			"text_contents": "Thanks so very much! Please make\nimage of village of working<1\"\u0000>\npeople restore. Make people\nwork happily as used to do!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うん、まかせて！",
+			"text_contents": "Yeah, I'll take care of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>でお<18\u0000>力<19\u0000>ちから<1:\u0000>になれるなら\nがんばります！",
+			"text_contents": "If I can be of any help, I will\ndo my best!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>放<19\u0000>ほう<1:\u0000>ってはおけません！\n<18\u0000>私<19\u0000>わたし<1:\u0000>たちが<18\u0000>像<19\u0000>ぞう<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>り<18\u0000>戻<19\u0000>もど<1:\u0000>しましょう！",
+			"text_contents": "We can't leave them alone! Let\nus restore the image of<1\"\u0000>\nthis village!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "こんなのほっとけねえぜ！\n<18\u0000>俺<19\u0000>おれ<1:\u0000>たちにまかせろ！",
+			"text_contents": "We can't just leave them like\nthis! I'll take care of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,7 +635,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>神様<19\u0000>かみさま<1:\u0000>がいなくなっちゃうなんて<18\u0000>大変<19\u0000>たいへん<1:\u0000>だよ！\n<18\u0000>僕<19\u0000>ぼく<1:\u0000>たちにまかせて！",
+			"text_contents": "Gosh, it's so terrible that the\nstatue is gone!<1\"\u0000>\nI'll take care of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -649,7 +649,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>泥棒<19\u0000>どろぼう<1:\u0000>なんて<18\u0000>許<19\u0000>ゆる<1:\u0000>せないわ！\nアタシたちにまかせて！",
+			"text_contents": "We can't allow the thief to get\naway with this!<1\"\u0000>\nWe'll take care of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -663,7 +663,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うむ！\nこの<18\u0000>難事件<19\u0000>なんじけん<1:\u0000>、<18\u0000>必<19\u0000>かなら<1:\u0000>ず<18\u0000>解決<19\u0000>かいけつ<1:\u0000>してみせよう！",
+			"text_contents": "Mhm! I will solve this difficult\ncase without any issues!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -677,7 +677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここまで<18\u0000>聞<19\u0000>き<1:\u0000>いて<18\u0000>放<19\u0000>ほう<1:\u0000>っておくのもねえ。\nまあ、<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>受<19\u0000>う<1:\u0000>けますよ。",
+			"text_contents": "I've heard this whole sad story,\nI just can't leave them like<1\"\u0000>\nthis. I'll take care of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "だけど、どこから<18\u0000>手<19\u0000>て<1:\u0000>を<18\u0000>付<19\u0000>つ<1:\u0000>ければいいのかな？\nなにか<18\u0000>手<19\u0000>て<1:\u0000>がかりでもあれば<18\u0000>良<19\u0000>い<1:\u0000>いんだけど……。",
+			"text_contents": "But where do I start? I'd like\nto know how to approach<1\"\u0000>\nthis mysterious caase...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,7 +705,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "でも、どこから<18\u0000>手<19\u0000>て<1:\u0000>を<18\u0000>付<19\u0000>つ<1:\u0000>ければいいんでしょう？\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりがあればいいのですが……。",
+			"text_contents": "But where do I start? I wish\nI had some clues...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -719,7 +719,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、どこから<18\u0000>手<19\u0000>て<1:\u0000>を<18\u0000>付<19\u0000>つ<1:\u0000>ければいいのか。\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりでもあればいいのですが……。",
+			"text_contents": "But where to start? I wish I knew\na tad bit more about this...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -733,7 +733,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "けど、どこから<18\u0000>探<19\u0000>さが<1:\u0000>したらいいんだ？\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりでもあれば<18\u0000>良<19\u0000>い<1:\u0000>いんだが……。",
+			"text_contents": "But where do I start looking?\nI need some starting help...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -747,7 +747,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "でも、どうやって<18\u0000>探<19\u0000>さが<1:\u0000>したらいいんだろう？\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりはないのかなあ？",
+			"text_contents": "But how do we find the thief?\nIs there anyone that can<1\"\u0000>\nhelp us?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "って、<18\u0000>意<19\u0000>い<1:\u0000><18\u0000>気<19\u0000>き<1:\u0000><18\u0000>込<19\u0000>ご<1:\u0000>んでみたは<18\u0000>良<19\u0000>い<1:\u0000>いけど\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりはないのかしら？",
+			"text_contents": "So, I've been thinking about it\nbut I wonder if there is anyone<1\"\u0000>\nor anything that can help us?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,7 +775,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "しかし、どこから<18\u0000>手<19\u0000>て<1:\u0000>を<18\u0000>付<19\u0000>つ<1:\u0000>けてよいものやら……。\nなにか<18\u0000>手<19\u0000>て<1:\u0000>がかりはないのかな？",
+			"text_contents": "But I don't know where to\nstart...Is there any clue?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,7 +789,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "でも、<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>手<19\u0000>て<1:\u0000>がかりはないんですか？\nあてずっぽうに<18\u0000>探<19\u0000>さが<1:\u0000>すのはどうかと<18\u0000>思<19\u0000>おも<1:\u0000>いますよ。",
+			"text_contents": "But are there any clues? I don't\nthink it's a good idea to look<1\"\u0000>\nfor something by random.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -803,7 +803,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふむ……<18\u0000>実<19\u0000>じつ<1:\u0000>は、ある<18\u0000>程度<19\u0000>ていど<1:\u0000>\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>の<18\u0000>目星<19\u0000>めぼし<1:\u0000>は<18\u0000>付<19\u0000>つ<1:\u0000>いておる。<1\"\u0000>\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>を<18\u0000>盗<19\u0000>ぬす<1:\u0000>んだ<18\u0000>疑<19\u0000>うたが<1:\u0000>いのある<18\u0000>者<19\u0000>もの<1:\u0000>は\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>てもらっている4<18\u0000>人<19\u0000>にん<1:\u0000>じゃ。<1\"\u0000>\nそして、<18\u0000>村<19\u0000>むら<1:\u0000>の<18\u0000>神<19\u0000>かみ<1:\u0000>のおつげによると……。",
+			"text_contents": "Hmm...actually, to some extent\nhave good idea who culprit<1\"\u0000>\ncould be. Suspected thieves are\nthe four people in the house.<1\"\u0000>\nAccording to the villagers,\nthey...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -817,7 +817,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「4<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して\n<18\u0000>村人<19\u0000>むらびと<1:\u0000>は<18\u0000>皆<19\u0000>みな<1:\u0000>、ウソを<18\u0000>付<19\u0000>つ<1:\u0000>いていないそうじゃ。",
+			"text_contents": "It was midday when statue\nwas stolen, it said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 4 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAs far as testimony of incident\ngoes, no villager lied.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「4<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して\n<18\u0000>村人<19\u0000>むらびと<1:\u0000>は<18\u0000>皆<19\u0000>みな<1:\u0000>、ウソを<18\u0000>付<19\u0000>つ<1:\u0000>いていないそうじゃ。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 4 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAs far as testimony of incident\ngoes, no villager lied.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,7 +845,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「4<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して\n<18\u0000>村人<19\u0000>むらびと<1:\u0000>は<18\u0000>皆<19\u0000>みな<1:\u0000>、ウソを<18\u0000>付<19\u0000>つ<1:\u0000>いていないそうじゃ。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 4 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAs far as testimony of incident\ngoes, no villager lied.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「4<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して\n<18\u0000>村人<19\u0000>むらびと<1:\u0000>は<18\u0000>皆<19\u0000>みな<1:\u0000>、ウソを<18\u0000>付<19\u0000>つ<1:\u0000>いていないそうじゃ。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 4 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAs far as testimony of incident\ngoes, no villager lied.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -873,7 +873,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「3<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して4<18\u0000>人<19\u0000>にん<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>で\nひとりだけ<18\u0000>全<19\u0000>まった<1:\u0000>くのウソをついているらしい。<1\"\u0000>\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>だからなのか、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>をかばうためなのかは\n<18\u0000>分<19\u0000>わ<1:\u0000>からないがのぉ……。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 3 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAnd only one of four, it seems,\ntell utterly lies as testimony.<1\"\u0000>\nMe not sure if lier culprit\nor want to protect culprit.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「3<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して4<18\u0000>人<19\u0000>にん<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>で\nひとりだけ<18\u0000>全<19\u0000>まった<1:\u0000>くのウソをついているらしい。<1\"\u0000>\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>だからなのか、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>をかばうためなのかは\n<18\u0000>分<19\u0000>わ<1:\u0000>からないがのぉ……。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 3 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAnd only one of four, it seems,\ntell utterly lies as testimony.<1\"\u0000>\nMe not sure if lier culprit\nor want to protect culprit.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「3<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して4<18\u0000>人<19\u0000>にん<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>で\nひとりだけ<18\u0000>全<19\u0000>まった<1:\u0000>くのウソをついているらしい。<1\"\u0000>\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>だからなのか、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>をかばうためなのかは\n<18\u0000>分<19\u0000>わ<1:\u0000>からないがのぉ……。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 3 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAnd only one of four, it seems,\ntell utterly lies as testimony.<1\"\u0000>\nMe not sure if lier culprit\nor want to protect culprit.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>昼<19\u0000>ひる<1:\u0000>のうちに、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>は\n<18\u0000>犯行<19\u0000>はんこう<1:\u0000>の<18\u0000>下見<19\u0000>したみ<1:\u0000>をしていたらしい。<1\"\u0000>\nそして、この<18\u0000>日<19\u0000>ひ<1:\u0000>の「3<18\u0000>時<19\u0000>じ<1:\u0000>」に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>者<19\u0000>もの<1:\u0000>こそが<18\u0000>犯人<19\u0000>はんにん<1:\u0000>とのことじゃ。<1\"\u0000>\nこの<18\u0000>時間<19\u0000>じかん<1:\u0000>の<18\u0000>周辺<19\u0000>しゅうへん<1:\u0000>で<18\u0000>外<19\u0000>そと<1:\u0000>に<18\u0000>出<19\u0000>で<1:\u0000>ていたのが\nいま<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる4<18\u0000>人<19\u0000>にん<1:\u0000>なのじゃ。<1\"\u0000>\n4<18\u0000>人<19\u0000>にん<1:\u0000>はそれぞれ、1<18\u0000>時<19\u0000>じ<1:\u0000>・2<18\u0000>時<19\u0000>じ<1:\u0000>・3<18\u0000>時<19\u0000>じ<1:\u0000>・4<18\u0000>時<19\u0000>じ<1:\u0000>に\nひとりずつ<18\u0000>像<19\u0000>ぞう<1:\u0000>へお<18\u0000>参<19\u0000>まい<1:\u0000>りをしている。<1\"\u0000>\nまた、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>時間<19\u0000>じかん<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にもひとりずつが<18\u0000>居<19\u0000>い<1:\u0000>たようじゃ。<1\"\u0000>\n<18\u0000>皆<19\u0000>みな<1:\u0000>それぞれの<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へは1<18\u0000>回<19\u0000>かい<1:\u0000>ずつ<18\u0000>行<19\u0000>い<1:\u0000>き\n<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>場所<19\u0000>ばしょ<1:\u0000>へ<18\u0000>何度<19\u0000>なんど<1:\u0000>も<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>者<19\u0000>もの<1:\u0000>はいない。<1\"\u0000>\nそして、<18\u0000>事件<19\u0000>じけん<1:\u0000>の<18\u0000>証言<19\u0000>しょうげん<1:\u0000>に<18\u0000>関<19\u0000>かん<1:\u0000>して4<18\u0000>人<19\u0000>にん<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>で\nひとりだけ<18\u0000>全<19\u0000>まった<1:\u0000>くのウソをついているらしい。<1\"\u0000>\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>だからなのか、<18\u0000>犯人<19\u0000>はんにん<1:\u0000>をかばうためなのかは\n<18\u0000>分<19\u0000>わ<1:\u0000>からないがのぉ……。",
+			"text_contents": "It was midday when statue\nwas stolen. It said culprit<1\"\u0000>\nviewed crime scene.<1\"\u0000>\nAlso said, culprit visit shrine\nat 3 o'clock on same day.<1\"\u0000>\nThe four people outside on\nthat time, now in house.<1\"\u0000>\nEach of 4 people visit statue\nusually at 1,2, 3 or 4 o'clock.<1\"\u0000>\nOne of them was at fountain\non same day and time.<1\"\u0000>\nNo one visit same place\nmore than once.<1\"\u0000>\nAnd only one of four, it seems,\ntell utterly lies as testimony.<1\"\u0000>\nMe not sure if lier culprit\nor want to protect culprit.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -929,7 +929,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>家<19\u0000>いえ<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>にいる<18\u0000>者<19\u0000>もの<1:\u0000>から<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>いて\n<18\u0000>犯人<19\u0000>はんにん<1:\u0000>がわかったら、ワシに<18\u0000>教<19\u0000>おし<1:\u0000>えてくだされ！",
+			"text_contents": "If know, who culprit,\nplease tell me!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -943,7 +943,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nあたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>る<18\u0000>時<19\u0000>とき<1:\u0000>\nお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるモースさんを<18\u0000>見<19\u0000>み<1:\u0000>たよ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen? Me visit\nfountain when saw Mr. Mose<1\"\u0000>\npaying respect to statue.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -957,7 +957,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\n<18\u0000>時間<19\u0000>じかん<1:\u0000>は<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないが、おいらが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったのは\nイリスちゃんよりも<18\u0000>後<19\u0000>あと<1:\u0000>だったはずだよ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nMe not sure about time, but\nwent to fountain after Iris.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nオレはお<18\u0000>参<19\u0000>まい<1:\u0000>りに<18\u0000>行<19\u0000>い<1:\u0000>ったすぐ<18\u0000>後<19\u0000>あと<1:\u0000>\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>休憩<19\u0000>きゅうけい<1:\u0000>しに<18\u0000>行<19\u0000>い<1:\u0000>ったぜ。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nMe went to fountain to take\nbrake after visiting shrine.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nわたしがお<18\u0000>参<19\u0000>まい<1:\u0000>りしたすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nイリスちゃんがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしてたと<18\u0000>思<19\u0000>おも<1:\u0000>うわ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nMe think Iris came to pray\nto statue shortly after me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nたしか、あたしは2<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったよ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nWent to fountain at 2 o'clock.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,7 +1013,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\nおいらが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>時間<19\u0000>じかん<1:\u0000>は\nアストよりも<18\u0000>前<19\u0000>まえ<1:\u0000>だったはずだよ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nWent to fountain\nbefore Asto.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1027,7 +1027,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nオレが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>る<18\u0000>時<19\u0000>とき<1:\u0000>\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>がお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たぜ。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nWhen was at fountain, saw\nthat idiot Mose visit shrine.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\n<18\u0000>何時<19\u0000>なんじ<1:\u0000>かは<18\u0000>忘<19\u0000>わす<1:\u0000>れたけど、わたしのすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nイリスちゃんがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしてたわ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nNot remember time, but know\nIris visit Shrine after me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1055,7 +1055,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nあたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>る<18\u0000>時<19\u0000>とき<1:\u0000>\nモースさんがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのが<18\u0000>見<19\u0000>み<1:\u0000>えたわ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nWhen was at fountain, me saw\nMr. Mose pay respect in shrine.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1069,7 +1069,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\n<18\u0000>時間<19\u0000>じかん<1:\u0000>は<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないけど、あの<18\u0000>日<19\u0000>ひ<1:\u0000>は\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>くより<18\u0000>前<19\u0000>まえ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたはずだよ。<1\"\u0000>\nあと、アストは\nおいらより<18\u0000>後<19\u0000>あと<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りに<18\u0000>行<19\u0000>い<1:\u0000>ったはずだ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nMe not remember time but sure,\nvisit shrine before fountain<1\"\u0000>\non that day. Asto visited\nfountain after me.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nオレが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったのは\nイリスちゃんのすぐ<18\u0000>後<19\u0000>あと<1:\u0000>だったぜ。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nMe visit fountain right\nafter Iris.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1097,7 +1097,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったと<18\u0000>思<19\u0000>おも<1:\u0000>うわ。\n<18\u0000>言<19\u0000>い<1:\u0000>っとくけど、わたしは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからね！",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったと<18\u0000>思<19\u0000>おも<1:\u0000>うわ。\n<18\u0000>言<19\u0000>い<1:\u0000>っとくけど、わたしは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1111,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nたしか、4<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nでも<18\u0000>言<19\u0000>い<1:\u0000>っとくけど\nあたしは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからね！",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nたしか、4<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nでも<18\u0000>言<19\u0000>い<1:\u0000>っとくけど\nあたしは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,7 +1125,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は、2<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたと<18\u0000>思<19\u0000>おも<1:\u0000>うだ。<1\"\u0000>\nあんた、おいらを<18\u0000>疑<19\u0000>うたが<1:\u0000>ってるのか？\n……お、おいらは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないだよ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は、2<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたと<18\u0000>思<19\u0000>おも<1:\u0000>うだ。<1\"\u0000>\nあんた、おいらを<18\u0000>疑<19\u0000>うたが<1:\u0000>ってるのか？\n……お、おいらは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないだよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1139,7 +1139,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nオレが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>る<18\u0000>時<19\u0000>とき<1:\u0000>\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>がお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たぜ。<1\"\u0000>\nあと<18\u0000>言<19\u0000>い<1:\u0000>っておくが\nオレは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからな！",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nオレが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>る<18\u0000>時<19\u0000>とき<1:\u0000>\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>がお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たぜ。<1\"\u0000>\nあと<18\u0000>言<19\u0000>い<1:\u0000>っておくが\nオレは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないからな！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nよく<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないけど、お<18\u0000>参<19\u0000>まい<1:\u0000>りした<18\u0000>時間<19\u0000>じかん<1:\u0000>は\n3<18\u0000>時<19\u0000>じ<1:\u0000>ではなかったと<18\u0000>思<19\u0000>おも<1:\u0000>うわ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nよく<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないけど、お<18\u0000>参<19\u0000>まい<1:\u0000>りした<18\u0000>時間<19\u0000>じかん<1:\u0000>は\n3<18\u0000>時<19\u0000>じ<1:\u0000>ではなかったと<18\u0000>思<19\u0000>おも<1:\u0000>うわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1167,7 +1167,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nたしか、1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nあと、あたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったすぐ<18\u0000>後<19\u0000>あと<1:\u0000>には\nモースさんが<18\u0000>来<19\u0000>き<1:\u0000>たみたい。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nたしか、1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nあと、あたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったすぐ<18\u0000>後<19\u0000>あと<1:\u0000>には\nモースさんが<18\u0000>来<19\u0000>き<1:\u0000>たみたい。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1181,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、おいらは\n4<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りに<18\u0000>行<19\u0000>い<1:\u0000>っただよ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、おいらは\n4<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りに<18\u0000>行<19\u0000>い<1:\u0000>っただよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,7 +1195,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nたしか、2<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったかな。<1\"\u0000>\nあとは<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるイリスちゃんを<18\u0000>見<19\u0000>み<1:\u0000>たよ。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nたしか、2<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったかな。<1\"\u0000>\nあとは<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるイリスちゃんを<18\u0000>見<19\u0000>み<1:\u0000>たよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、わたしがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nアストがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたみたいね。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、わたしがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nアストがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたみたいね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1223,7 +1223,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、あたしがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nモースさんがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしてたよ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>、あたしがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたすぐ<18\u0000>後<19\u0000>あと<1:\u0000>に\nモースさんがお<18\u0000>参<19\u0000>まい<1:\u0000>りをしてたよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1237,7 +1237,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\nおいらは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないだよ。\n3<18\u0000>時<19\u0000>じ<1:\u0000>には<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってたしな。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nおいらは<18\u0000>犯人<19\u0000>はんにん<1:\u0000>じゃないだよ。\n3<18\u0000>時<19\u0000>じ<1:\u0000>には<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってたしな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1251,7 +1251,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\n<18\u0000>何時<19\u0000>なんじ<1:\u0000>かは<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないが、オレは\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>のすぐ<18\u0000>後<19\u0000>あと<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたぜ。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\n<18\u0000>何時<19\u0000>なんじ<1:\u0000>かは<18\u0000>覚<19\u0000>おぼ<1:\u0000>えてないが、オレは\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>のすぐ<18\u0000>後<19\u0000>あと<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたぜ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1265,7 +1265,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nわたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったすぐ<18\u0000>前<19\u0000>まえ<1:\u0000>に\nアストさんが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>たみたいね。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nイリスちゃんがお<18\u0000>参<19\u0000>まい<1:\u0000>りしているのを<18\u0000>見<19\u0000>み<1:\u0000>たわよ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nわたしが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったすぐ<18\u0000>前<19\u0000>まえ<1:\u0000>に\nアストさんが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>居<19\u0000>い<1:\u0000>たみたいね。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nイリスちゃんがお<18\u0000>参<19\u0000>まい<1:\u0000>りしているのを<18\u0000>見<19\u0000>み<1:\u0000>たわよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>はお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>後<19\u0000>あと<1:\u0000>\nすぐに<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nあとは、たしか<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nアストさんがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たよ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>はお<18\u0000>参<19\u0000>まい<1:\u0000>りをした<18\u0000>後<19\u0000>あと<1:\u0000>\nすぐに<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったわ。<1\"\u0000>\nあとは、たしか<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nアストさんがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1293,7 +1293,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\nおいらが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>く<18\u0000>直前<19\u0000>ちょくぜん<1:\u0000>に\nイリスちゃんが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいたみたいだな。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nビルネがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>ただよ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\nおいらが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>く<18\u0000>直前<19\u0000>ちょくぜん<1:\u0000>に\nイリスちゃんが<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいたみたいだな。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nビルネがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>ただよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1307,7 +1307,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったな。<1\"\u0000>\nあと、たしか<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りしているモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>たかな。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は1<18\u0000>時<19\u0000>じ<1:\u0000>に<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ったな。<1\"\u0000>\nあと、たしか<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りしているモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>たかな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1321,7 +1321,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nわたしの<18\u0000>直前<19\u0000>ちょくぜん<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りしてたのは\nアストさん<18\u0000>以外<19\u0000>いがい<1:\u0000>の<18\u0000>誰<19\u0000>だれ<1:\u0000>かだった<18\u0000>気<19\u0000>き<1:\u0000>がするわ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nわたしの<18\u0000>直前<19\u0000>ちょくぜん<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りしてたのは\nアストさん<18\u0000>以外<19\u0000>いがい<1:\u0000>の<18\u0000>誰<19\u0000>だれ<1:\u0000>かだった<18\u0000>気<19\u0000>き<1:\u0000>がするわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1335,7 +1335,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>さん、あたしイリスよ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きたいの？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>だったら\nあたしは1<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたわよ。",
+			"text_contents": "Hello Denpa Men. Me, Iris.\nWant hear my testimony about day<1\"\u0000>\nwhen statue was stolen?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>だったら\nあたしは1<18\u0000>時<19\u0000>じ<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたわよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1349,7 +1349,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "おいらの<18\u0000>名前<19\u0000>なまえ<1:\u0000>は、モースっていうだ。\n<18\u0000>勤労<19\u0000>きんろう<1:\u0000>の<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことだべ？<1\"\u0000>\n<18\u0000>時間<19\u0000>じかん<1:\u0000>は<18\u0000>忘<19\u0000>わす<1:\u0000>れたけど、お<18\u0000>参<19\u0000>まい<1:\u0000>りよりも<18\u0000>先<19\u0000>さき<1:\u0000>に\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってたと<18\u0000>思<19\u0000>おも<1:\u0000>うだよ。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nビルネがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>ただ。",
+			"text_contents": "My name, Mose. Want hear my\ntestimony about theft of statue?<1\"\u0000>\n<18\u0000>時間<19\u0000>じかん<1:\u0000>は<18\u0000>忘<19\u0000>わす<1:\u0000>れたけど、お<18\u0000>参<19\u0000>まい<1:\u0000>りよりも<18\u0000>先<19\u0000>さき<1:\u0000>に\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってたと<18\u0000>思<19\u0000>おも<1:\u0000>うだよ。<1\"\u0000>\nあとは、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>\nビルネがお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>ただ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1363,7 +1363,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "よう、オレがアストだ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>のことを<18\u0000>知<19\u0000>し<1:\u0000>りたいのか？<1\"\u0000>\nたしか、お<18\u0000>参<19\u0000>まい<1:\u0000>りを<18\u0000>先<19\u0000>さき<1:\u0000>にして\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>には<18\u0000>後<19\u0000>あと<1:\u0000>から<18\u0000>行<19\u0000>い<1:\u0000>ったと<18\u0000>思<19\u0000>おも<1:\u0000>うぜ。<1\"\u0000>\nあと、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>時間<19\u0000>じかん<1:\u0000>に\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>がお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たな。",
+			"text_contents": "Hey, me Asto. Want know more\nabout day statue was stolen?<1\"\u0000>\nたしか、お<18\u0000>参<19\u0000>まい<1:\u0000>りを<18\u0000>先<19\u0000>さき<1:\u0000>にして\n<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>には<18\u0000>後<19\u0000>あと<1:\u0000>から<18\u0000>行<19\u0000>い<1:\u0000>ったと<18\u0000>思<19\u0000>おも<1:\u0000>うぜ。<1\"\u0000>\nあと、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>時間<19\u0000>じかん<1:\u0000>に\nモースの<18\u0000>野郎<19\u0000>やろう<1:\u0000>がお<18\u0000>参<19\u0000>まい<1:\u0000>りしてるのを<18\u0000>見<19\u0000>み<1:\u0000>たな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1377,7 +1377,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "わたしはビルネよ。\n<18\u0000>像<19\u0000>ぞう<1:\u0000>が<18\u0000>盗<19\u0000>ぬす<1:\u0000>まれた<18\u0000>日<19\u0000>ひ<1:\u0000>の<18\u0000>事<19\u0000>こと<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>きにきたのね？<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってから\nすぐ<18\u0000>後<19\u0000>あと<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたわね。<1\"\u0000>\nそういえば、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをするイリスちゃんを<18\u0000>見<19\u0000>み<1:\u0000>たわ。",
+			"text_contents": "Me am Birne. Want ask me\nabout day of statue theft?<1\"\u0000>\nあの<18\u0000>日<19\u0000>ひ<1:\u0000>は、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>ってから\nすぐ<18\u0000>後<19\u0000>あと<1:\u0000>にお<18\u0000>参<19\u0000>まい<1:\u0000>りをしたわね。<1\"\u0000>\nそういえば、<18\u0000>噴水<19\u0000>ふんすい<1:\u0000>にいる<18\u0000>時<19\u0000>とき<1:\u0000>に\nお<18\u0000>参<19\u0000>まい<1:\u0000>りをするイリスちゃんを<18\u0000>見<19\u0000>み<1:\u0000>たわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

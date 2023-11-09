@@ -1,0 +1,285 @@
+{
+	"header": {
+		"text_amount": 14,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4713,
+		"offset_strings": 4784,
+		"strings_section_size1": 168,
+		"offset3": 4960,
+		"section_size2": 56,
+		"offset4": 5024,
+		"section_size3": 16,
+		"offset5": 5040,
+		"section_size4": 30,
+		"unk3": 0,
+		"offset6": 4704,
+		"offset7": 4712,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "私わたしは闇やみの貴公子きこうし、\nその名なも{9, MonsterParameter, +}<2w耀>{3, name, +}！\n貴殿きでんも私わたしへの挑戦者ちょうせんしゃかね？\n強者つわものであれば、歓迎かんげいするぞ！\n言いっておくが、ここまで99戦せん99勝しょうだ。\n貴殿きでんを倒たおせば100勝しょうだ。挑戦ちょうせんするかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "その勇気ゆうき、ほめてやろう！\nでは、{9, MonsterParameter, +}<2w耀>{3, name, +}、参まいる！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いいだろう。\n準備じゅんびができたら、再ふたたび声こえをかけてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "準備じゅんびは出で来きたかね？\nこちらの準備じゅんびは万全ばんぜんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしは闇やみの貴公子きこうし、{9, MonsterParameter, +}<2w耀>{3, name, +}！\n貴殿きでんを待まっていたぞ。\n先日せんじつは少すこし槍やりの調子ちょうしが悪わるかったのだが\n今度こんどはしっかり手入ていれしておいたぞ。\nさあ、100勝しょうは目前もくぜん！\n改あらためて勝負しょうぶといこうではないか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "準備じゅんびを言いい訳わけにされてはかなわんからな！\nいつでも声こえをかけてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "むむ、槍やりの持もち手てがガタつく……。\n残念ざんねんだが、勝負しょうぶはあずける。さらば！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "むっ！もしやアナタは冒険者ぼうけんしゃ？\nどうも、ワタシは{8, MessageNpcName, +}<2\u001F耀>{4, message}です。\n行商人ぎょうしょうにんをしているのですが、方向音痴ほうこうおんちで……。\n目的もくてきの町まちにたどり着つけなくて困こまっているんです。\nそこで、考かんがえました！\nいっそ冒険者ぼうけんしゃに同行どうこうして、商売しょうばいしようかと！！\nお願ねがいです、冒険ぼうけんに同行どうこうさせてください！\nワタシが冒険ぼうけんでいっしょだとお得とくですよ。\n敵てきが落おとすお金かねが、多おおくなるんです！\n悪わるくない話はなしでしょ？\nこの行商人ぎょうしょうにんの{8, MessageNpcName, +}<2\u001F耀>{4, message}を仲間なかまにしてくれます？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "話はなしが分わかる方かたで良よかった！！\nこれからよろしくお願ねがい致いたします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おやっ？どうやらアナタの島しまに\nワタシが滞在たいざいできるスペースがないようですよ。\n電波人間でんぱにんげんボックスに空あきを作つくってから\n今いま一度いちど、ワタシに声こえをかけてくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうですか……無理強むりじいはいたしません。\nでは、気きが変かわったら声こえをかけてくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "では、ワタシはアナタの島しまへ行いっています。\n冒険ぼうけんにワタシを連つれて行いきたい時ときは\n電波人間でんぱにんげんボックスでワタシを選えらんでくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうやらアナタの島しまに\nワタシが滞在たいざいできるスペースがないようですよ。\n電波人間でんぱにんげんボックスに空あきを作つくってから\n今いま一度いちど、ワタシに声こえをかけてくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "気きが変かわってこの行商人ぎょうしょうにん{8, MessageNpcName, +}<2\u001F耀>{4, message}を\n仲間なかまにしてくれる気きになりました？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662
+	]
+}
