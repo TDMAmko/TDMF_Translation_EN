@@ -1,0 +1,1149 @@
+{
+	"header": {
+		"text_amount": 68,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 10515,
+		"offset_strings": 10592,
+		"strings_section_size1": 816,
+		"offset3": 11408,
+		"section_size2": 272,
+		"offset4": 11680,
+		"section_size3": 16,
+		"offset5": 11696,
+		"section_size4": 138,
+		"unk3": 0,
+		"offset6": 10498,
+		"offset7": 10514,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2ß耀>{3, name, +}」を渡わたしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2à耀>{3, name, +}」を渡わたしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2á耀>{3, name, +}」を渡わたしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "固かたく戸と締じまりされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきが降ふり積つもってホワイトクリスマスだね。\nみんなプレゼントはもらったかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "럕똧⿟⟦D8CC⟧폂꼧㯃⟦DCCE⟧쒲⟦D8B8⟧➽뷏⟦DEC0⟧젯퀮엝찯⟦DADF⟧븧⟦DDDE⟧⟦DCC4⟧팯꿗⟀얶?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わぁ、ホワイトクリスマスですね。\nみんなプレゼントはもらったでしょうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⿜粱츲닜룄뷘켧쎽뷞젯퀮엝찯⟦DADF⟧븧⟦DDDE⟧⟦DCC4⟧팯꿗⟀⟦DEC3⟧꺼뚵?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきが降ふり積つもってホワイトクリスマスですね。\nみんなプレゼントはもらったでしょうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "럕똧⿟⟦D8CC⟧폂꼧㯃⟦DCCE⟧쒲⟦D8B8⟧➽뷏⟦DEC3⟧⾽⻈⟦DDD0⟧⿅⟦DFCC⟧⟚⟦DEBE⟧쓝⿜ퟓ삯쌧볞떮㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきが降ふったらホワイトクリスマスって言いうんだよな。\nみんなプレゼントもらってんのかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "럕똧⿟⟌삯㯗⟦DCCE⟧쒲⟦D8B8⟧➽뷏쎯눯➳생훞씯퀮엝찯⟦DADF⟧븧⟦DDDE⟧⿄ퟓ쎯⟦DD27⟧뛉㿅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わぁ、ホワイトクリスマスだね。\nみんなプレゼントはもらったのかなあ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⿜粱츲닜룄뷘켧삽⿞⻈⟦DDD0⟧⿅⟦DFCC⟧⟚⟦DEBE⟧쓝⿜ퟓ삯줧얶㾧",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきが降ふり積つもってホワイトクリスマスね。\nみんなプレゼントはもらったのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "럕똧⿟⟦D8CC⟧폂꼧㯃⟦DCCE⟧쒲⟦D8B8⟧➽뷏젯퀮엝찯⟦DADF⟧븧⟦DDDE⟧⟦DCC4⟧팯꿗⟀뛉ힼ?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "雪ゆきが降ふり積つもってホワイトクリスマスだな。\nみんな、プレゼントはもらっただろうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "럕똧⿟⟦D8CC⟧폂꼧㯃⟦DCCE⟧쒲⟦D8B8⟧➽뷏⟦DEC0⟧⻅⟦DDD0⟧㯅⟦DFCC⟧⟚⟦DEBE⟧쓝⿜ퟓ삯쀧⟦DBDE⟧뚵㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ホワイトクリスマスですね。雪ゆきが冷つめたい……。\nみんな、プレゼントもらったでしょうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DCCE⟧쒲⟦D8B8⟧➽뷏⟦DEC3⟧⾽꫈픮➷⟦DFB6⟧숯샒눧⺰⟦DDD0⟧㯅⟦DFCC⟧⟚⟦DEBE⟧쓝팯꿗⟀⟦DEC3⟧꺼뚵?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こ、今年ことしこそは\nサンタさんに会あいたかったんだけど……。\nもう、ねむくてねむくて……ふああ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ついさっき、大量たいりょうのモンスターが\n森もりの中なかに逃にげていったのを見みたんだ！\nいやー、びっくりしたよ……！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さっきから気きになってるんだけどさ。\n村むらの外はずれにいるじいさん\nここらじゃ、あんまり見みかけない顔かおなんだよな。\nまさか泥棒どろぼうじゃねえだろうなあ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさん、ボクが欲ほしいのはね……。\n白黒しろくろの色いろをしたものなんだ……。\n……むにゃむにゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさん、ボクが欲ほしいのはね……。\nスポーツで使つかうものなんだ……。\n……むにゃむにゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさん、ボクが欲ほしいのはね……。\n身みにつけて使つかうものなんだ……。\n……むにゃむにゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "サンタさん、プレゼントありがとう……。\n……むにゃむにゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ウチの子こ、二人ふたりともいい子こにしてたのに\nお兄にいちゃんだけプレゼントがないみたいなの。\nおかしいわねえ……。\nサンタさん、どうしちゃったのかしら……？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お兄にいちゃんだけプレゼントがないなんて……。\nサンタさん、どうしちゃったのかしら……？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もし、そこのお方かた！\nこの老おいぼれの話はなしをきいてくれんか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わっ、サンタさん！？\nいったいどうしたの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿜㉼➻생⟦DDBB⟧눿삯⾲⟦DEC4⟧뀧㺼지?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、サンタさん！？\nどうしたんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼➻생⟦DDBB⟧쐿⟞벰쀾쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、まさかサンタさん！？\nど、どうしたんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼⟏뚻묯⟦DD27⟧므㿝⟦DEC4⟧쐻⟞벰쀾쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わっ、もしかしてサンタさんか？\nどうしたんだよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿜㉼⟓㺼벶쌾묯⟦DD27⟧므뛝쐿⟞벰쀾생훞㈿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わっ、サンタさん！？\nどうしたの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟜꾧㉼➻생⟦DDBB⟧쐿⟞벰쀾㿉",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、サンタさん！？\nどうしたの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼➻생⟦DDBB⟧쐿⟞벰쀾㿉",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ややっ、サンタさんか！？\n何なにかあったのかい？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "퓔粯묲⟦DD27⟧므뛝씿옧⾶➱삯뛉㾲",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、サンタさん！？本物ほんもの！？\nいったいどうしたんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼➻생⟦DDBB⟧츿폝㿉꾲닀쐯⟞벰쀾쏝뷞똾?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "実じつは、この村むらでプレゼントを配くばっていたんじゃが\n困こまったことになってのう……。\nあと少すこしで配くばり終おわる所ところで、プレゼントの中身なかみを\nモンスターに奪うばわれてしまったんじゃ……。\nそのせいで、青あおい屋や根ねの家いえに住すんでいる男おとこの子こに\nまだプレゼントを渡わたせていないんじゃよ。\nもしよければ、男おとこの子こへのプレゼントを\n取とり返かえしてもらえんかのう……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、ありがとうよ！\nモンスターはこの森もりへ逃にげたんじゃが……。\nそれがのう……。\nびっくりした拍子ひょうしに\nプレゼントがなんだったか忘わすれてしまったんじゃ。\nしかし、森もりにいるモンスターが\n持もっていることは間違まちがいない。\n男おとこの子こが欲ほしがっていたプレゼントを\nなんとか取とり返かえしてきておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いや、無む理りを言いってすまんかった。\n年寄としよりのたわごとと思おもって忘わすれておくれ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、やはり男おとこの子こへのプレゼントを\n取とり返かえしてもらえるかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "男おとこの子こへのプレゼントを\n取とり返かえしていただけましたかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たしか、白黒しろくろのもの\nだったと思おもうのじゃが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たしか、スポーツで使つかうもの\nだったと思おもうのじゃが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たしか、身みにつけて使つかうもの\nだと思おもうのじゃが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、取とり返かえして来きていただけたようじゃの！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なるほど、{5, ItemData, +}<2ß耀>{3, name, +}ですか……。\nあの男おとこの子こへのプレゼントは\nそれで良よいですかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふむ、{5, ItemData, +}<2à耀>{3, name, +}ですか……。\nあの男おとこの子こへのプレゼントは\nそれで良よいですかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほほお、{5, ItemData, +}<2á耀>{3, name, +}ですか……。\nあの男おとこの子こへのプレゼントは\nそれで良よいですかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、もう少すこし考かんがえるということですかな？\nプレゼントが取とり返かえせたら\nまた声こえをかけてくだされ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、ありがとうよ！\nさっそく枕元まくらもとに置おいてくるとしよう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるかな？\n明日あしたが楽たのしみだね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧얶넿㺼⟀⟦DFB6⟧쀯볉퀧⟦DEC0⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるでしょうか？\n明日あしたが楽たのしみですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧⟦DEC3⟧꺼뚵넿㺼⟀⟦DFB6⟧쀯볉퀧⟦DEC3⟧⾽⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるでしょうか？\n明日あしたが楽たのしみですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧⟦DEC3⟧꺼뚵넿㺼⟀⟦DFB6⟧쀯볉퀧⟦DEC3⟧좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるかな？\n明日あしたが楽たのしみだな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧얶넿㺼⟀⟦DFB6⟧쀯볉퀧⟦DEC0⟧씯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるかな？\n明日あしたが楽たのしみだね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧얶넿㺼⟀⟦DFB6⟧쀯볉퀧⟦DEC0⟧젯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるかしら？\n明日あしたが楽たのしみね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧벶㿗벱쀾똧⿟지➼⿐⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれるだろうか？\n明日あしたが楽たのしみだな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞⟦D9DA⟧⟦DEC0⟧뗛㾶벱쀾똧⿟지➼샐엞.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "プレゼント、喜よろこんでくれますかね？\n明日あしたを楽たのしみにしましょうか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCC⟧⟚⟦DEBE⟧쓝㉼⟦DBD6⟧➺쏝룞쿚㺽좶넿㺼⟀⾵지➼원쾼꺼뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあ、ボクの欲ほしかった\n「{5, ItemData, +}<2ß耀>{3, name, +}」だ！\n寝ねるときも、大好だいすきなパンダさんの\n格好かっこうが出で来きるなんて嬉うれしいな！\nサンタさん、ありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあ、ボクの欲ほしかった\n「{5, ItemData, +}<2à耀>{3, name, +}」だ！\nこれでたくさん練習れんしゅうして\n将来しょうらいはプロになるんだ！\nサンタさん、ありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わあ、ボクの欲ほしかった\n「{5, ItemData, +}<2á耀>{3, name, +}」だ！\n前まえの靴くつはボロボロになっちゃったから\n新あたらしいのが欲ほしかったんだ！\nサンタさん、ありがとう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれれ、ボクが欲ほしかったのとは違ちがう……。\nサンタさん、間違まちがえちゃったのかなあ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっほっほ。\n男おとこの子こは喜よろこんでくれたようじゃな。\nキミたちのおかげじゃ。ありがとう。\nコレはワシからのプレゼントじゃ。\n受うけ取とっておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふうむ、どうやら\n違ちがうプレゼントをあげてしまったようじゃな……。\nじゃが、わがままを聞きいてくれてありがとう。\nコレはワシからのプレゼントじゃ。\n受うけ取とっておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それではまたな！\nせーのっ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "メリークリスマス！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8D2⟧낰⾲⟦D8B8⟧➽뇏낰붰꼾.敭獳条e潶捩e敍獳条䍥湯整瑮s",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345685,
+		3503345682,
+		3503345684,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483673,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483709,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483751,
+		2147483752,
+		2147483753,
+		2147483742,
+		2147483743,
+		2147483744,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483678,
+		2147483745,
+		2147483746,
+		2147483747,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483748,
+		2147483749,
+		2147483750,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708
+	]
+}

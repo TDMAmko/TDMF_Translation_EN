@@ -1,0 +1,285 @@
+{
+	"header": {
+		"text_amount": 14,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 3553,
+		"offset_strings": 3632,
+		"strings_section_size1": 168,
+		"offset3": 3808,
+		"section_size2": 56,
+		"offset4": 3872,
+		"section_size3": 16,
+		"offset5": 3888,
+		"section_size4": 30,
+		"unk3": 0,
+		"offset6": 3544,
+		"offset7": 3552,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "よ、よくここにたどり着ついたな。\nお、おれは{9, MonsterParameter, +}<2ø耀>{3, name, +}。\nこ、ここに来きたやつの力ちからを試ためせって言いわれてる。\nお、お前まえ、弱よわそうだけど、おれと戦たたかうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そ、そうか、やるのか。\nど、どうなってもしらないぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そ、そうか。\n（ほっ。）",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "な、なに。\nや、やっぱり戦たたかうのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お、お前まえか。\nな、何なにしに来きたんだよ……。\nい、1度ど戦たたかったんだから、もういいだろ。\nえ、また戦たたかうのか……？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お、お前まえな……。\nや、やっぱり戦たたかうのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お、おれに勝かっても、\n兄貴あにきたちには勝かてないんだからな！\nいまにみてろー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "毒どくか……困こまったな、ここから抜ぬけ出だせ……ん！？\nおお、電波人間でんぱにんげん！！これは助たすかった！！\n地底ちていを掘ほって、出でた先さきの周まわりが毒どくで\nなかなか抜ぬけ出だせなかったんだ！！\nオマエのおかげで、抜ぬけ出だせそうだぜ。\n感謝かんしゃ、感謝かんしゃ！是非ぜひ、礼れいをさせてくれ！！\n礼れいにこの{8, MessageNpcName, +}<2\u000E耀>{4, message}が、オマエの仲間なかまになって\n冒険ぼうけんへついて行いってやるよ。\nオレがパーティにいれば魔物まものが多おおめに現あらわれるぞ。\nしかも、普段ふだん逃にげる魔物まものがよってくるんだ！\nどうだ？\nオレ、仲間なかまにするか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見みる目めある、ヤツ！！\nオレ、オマエの島しまへ行いくな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ん？仲間なかまになりたいがオマエの島しまに\nオレ、暮くらせるスペースがないぞ。\n電波人間でんぱにんげんボックスに空あきができたら\n声こえをかけてくれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……えっ！？\nそうか、オレを必要ひつようとしていないんだな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレ、オマエの仲間なかま！！\nオレ、オマエの島しま行いくから\n帰かえったら、電波人間でんぱにんげんボックスをのぞいてみろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエの島しまにオレ、暮くらせるスペースないぞ。\n電波人間でんぱにんげんボックスに空あきができたら\n声こえをかけてくれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "気きが変かわったか？\nオレがパーティにいれば魔物まものが多おおめに現あらわれるぞ。\nしかも、普段ふだん逃にげる魔物まものがよってくるんだ！\nオマエの役やくに立たてるとおもうぜ。\nどうだ？オレ、仲間なかまにするか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662
+	]
+}
