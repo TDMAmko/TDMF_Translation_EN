@@ -3,23 +3,23 @@
 		"text_amount": 14,
 		"unk1": 12,
 		"header_size": 64,
-		"script_section_size": 3553,
-		"offset_strings": 3632,
+		"script_section_size": 2819,
+		"offset_strings": 2896,
 		"strings_section_size1": 168,
-		"offset3": 3808,
+		"offset3": 3072,
 		"section_size2": 56,
-		"offset4": 3872,
+		"offset4": 3136,
 		"section_size3": 16,
-		"offset5": 3888,
+		"offset5": 3152,
 		"section_size4": 30,
 		"unk3": 0,
-		"offset6": 3544,
-		"offset7": 3552,
+		"offset6": 2810,
+		"offset7": 2818,
 		"unk4": 0
 	},
 	"text_info": [
 		{
-			"text_contents": "How did you get here? \nWell, I'm <17\u0003>{9, MonsterParameter, +}<2ø耀>{3, name, +}.<1\"\u0000>\nMy duty is to test the strength\nof those that come to this<1\"\u0000>\nplace. You look a little weak.<1\"\u0000>\nAre you sure you\nwant to fight me?",
+			"text_contents": "……。\n…………。\n……ウルサイ。\n……ワレノ、ネムリヲ、サマタゲルモノ\nタダデハ、スマサヌ……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, so you really want to fight\nme. Well, I don't mind that.",
+			"text_contents": "……コウカイセヨ……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I see.\n(Hehe.)",
+			"text_contents": "……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wait, what. You still want\nto fight against me?",
+			"text_contents": "……。\n…………。\n……キサマ。\n……マタ、ネムリヲ、サマタゲルカ。\nタダデハ、スマサヌ……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, it's you. What are you\ndoing here...?<1\"\u0000>\nYou already beat me once, so why\ndon't you just let it go?<1\"\u0000>\nDo you really want to fight\nagainst me again...?",
+			"text_contents": "……キサマカ。\n……ナンド、タタカエバ、キガスム……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, it's you...\nDo you still want to fight?",
+			"text_contents": "……ヤハリ、マタキタカ。\n……コンドハ、タタカウノカ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You can beat me in this form,\nbut just wait till you grasp<1\"\u0000>\nmy real power.\nYou'll see!",
+			"text_contents": "…………。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Me in trouble, poison here,\npoison there....<1\"\u0000>\nPoison everywhere! Was digging\naround here, got into<1\"\u0000>\ntoxic cave...Thank so much\nfor finding and saving me!<1\"\u0000>\nMe, <17\u0003>{8, MessageNpcName, +}<2\u000E耀>{4, message}, want be\nyour companion.<1\"\u0000>\nIf me in your team, more\nmonsters appear in dungeon.<1\"\u0000>\nAlso, monsters who usually run\naway, will come to me!<1\"\u0000>\nWhat you think? Can be\nyour friend?",
+			"text_contents": "あれれ？電波人間でんぱにんげん？\n毒どくの中なか、ここまでごくろうさま。\nこの妖精ようせいの{8, MessageNpcName, +}<26耀>{4, message}が\nかわいいから思おもわず声こえをかけに来きたんだね！\nそこまで、私わたしを気きに入いったのなら\n仲間なかまになってあげてもいいよ！！\n戦闘中せんとうちゅう、私わたしがいれば土つち属性ぞくせいの耐性たいせいがつくの。\nうふ、かわいい子こといっしょにいられる上うえ\nお得とくな特典とくてんがつくなんて、いいこと尽づくめだね！\nどう？\n私わたしを仲間なかまにしちゃう？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Very good choice!! Me sure,\nwill be very useful.",
+			"text_contents": "当然とうぜんだよね！\nじゃあ、君きみの島しまに花はなを添そえに行いくね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hm? Me want be your friend\nbut you not have room for me on<1\"\u0000>\nisland. If have empty space\nin Denpa Box, come back again.",
+			"text_contents": "あれれ？仲間なかまになりたくても君きみの島しまに\n私わたしが待機たいきできるスペースがないみたい。\n電波人間でんぱにんげんボックスに空あきを作つくってから\nまた来きてね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...What? Me see, not need me...",
+			"text_contents": "……あれれ？\n後悔こうかいしても、知しらないんだからね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Me now your friend! When return\nfrom your island, can<1\"\u0000>\nfind me in Denpa Box.",
+			"text_contents": "これからは、いつでも私わたしに会あえるわよ。\n電波人間でんぱにんげんボックスにいるから\n島しまに帰かえったら、会あいに来きてもいいわよ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "There no space for me on your\nisland. If have room again,<1\"\u0000>\nnot forget come back here.\nNot want miss out my skills!",
+			"text_contents": "仲間なかまになりたくても君きみの島しまに\n私わたしが待機たいきできるスペースがないみたい。\n電波人間でんぱにんげんボックスに空あきを作つくってから\nまた来きてね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You changed your mind? If me in\nyour party, will find<1\"\u0000>\nlots of monsters. And monsters\nwho usually escape,<1\"\u0000>\nwill chase you! Me think, this\nvery helpful for you!<1\"\u0000>\nWhat you think? Want me be\nyour friend?",
+			"text_contents": "うふ！やっぱりこのかわいい私わたしを\n忘わすれられなくて戻もどってきたのね！\nどう？\n私わたしを仲間なかまにしちゃう？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -241,13 +241,13 @@
 		3503345686,
 		3503345686,
 		3503345686,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681
 	],
 	"attributes": {
 		"attributeStrings": [

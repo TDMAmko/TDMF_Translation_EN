@@ -3,23 +3,23 @@
 		"text_amount": 14,
 		"unk1": 12,
 		"header_size": 64,
-		"script_section_size": 3553,
-		"offset_strings": 3632,
+		"script_section_size": 2819,
+		"offset_strings": 2896,
 		"strings_section_size1": 168,
-		"offset3": 3808,
+		"offset3": 3072,
 		"section_size2": 56,
-		"offset4": 3872,
+		"offset4": 3136,
 		"section_size3": 16,
-		"offset5": 3888,
+		"offset5": 3152,
 		"section_size4": 30,
 		"unk3": 0,
-		"offset6": 3544,
-		"offset7": 3552,
+		"offset6": 2810,
+		"offset7": 2818,
 		"unk4": 0
 	},
 	"text_info": [
 		{
-			"text_contents": "How did you get here? \nWell, I'm <17\u0003>{9, MonsterParameter, +}<2ø耀>{3, name, +}.<1\"\u0000>\nMy duty is to test the strength\nof those that come to this<1\"\u0000>\nplace. You look a little weak.<1\"\u0000>\nAre you sure you\nwant to fight me?",
+			"text_contents": "...<1\"\u0000>\n.........<1\"\u0000>\n……Chew.<1\"\u0000>\n…...Chum, yum, yam\ncrisp, cram...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, so you really want to fight\nme. Well, I don't mind that.",
+			"text_contents": "...crunch...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I see.\n(Hehe.)",
+			"text_contents": "...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Wait, what. You still want\nto fight against me?",
+			"text_contents": "……。<1\"\u0000>\n…………。<1\"\u0000>\n……キサマ。<1\"\u0000>\n……マタ、ネムリヲ、サマタゲルカ。\nタダデハ、スマサヌ……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, it's you. What are you\ndoing here...?<1\"\u0000>\nYou already beat me once, so why\ndon't you just let it go?<1\"\u0000>\nDo you really want to fight\nagainst me again...?",
+			"text_contents": "……キサマカ。\n……ナンド、タタカエバ、キガスム……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, it's you...\nDo you still want to fight?",
+			"text_contents": "……ヤハリ、マタキタカ。\n……コンドハ、タタカウノカ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You can beat me in this form,\nbut just wait till you grasp<1\"\u0000>\nmy real power.\nYou'll see!",
+			"text_contents": "…………。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Me in trouble, poison here,\npoison there....<1\"\u0000>\nPoison everywhere! Was digging\naround here, got into<1\"\u0000>\ntoxic cave...Thank so much\nfor finding and saving me!<1\"\u0000>\nMe, <17\u0003>{8, MessageNpcName, +}<2\u000E耀>{4, message}, want be\nyour companion.<1\"\u0000>\nIf me in your team, more\nmonsters appear in dungeon.<1\"\u0000>\nAlso, monsters who usually run\naway, will come to me!<1\"\u0000>\nWhat you think? Can be\nyour friend?",
+			"text_contents": "あれれ？<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>？\n<18\u0000>毒<19\u0000>どく<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>、ここまでごくろうさま。<1\"\u0000>\nこの<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<17\u0003>{8, MessageNpcName, +}<26耀>{4, message}が\nかわいいから<18\u0000>思<19\u0000>おも<1:\u0000>わず<18\u0000>声<19\u0000>こえ<1:\u0000>をかけに<18\u0000>来<19\u0000>き<1:\u0000>たんだね！<1\"\u0000>\nそこまで、<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>気<19\u0000>き<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>ったのなら\n<18\u0000>仲間<19\u0000>なかま<1:\u0000>になってあげてもいいよ！！<1\"\u0000>\n<18\u0000>戦闘中<19\u0000>せんとうちゅう<1:\u0000>、<18\u0000>私<19\u0000>わたし<1:\u0000>がいれば<18\u0000>土<19\u0000>つち<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>の<18\u0000>耐性<19\u0000>たいせい<1:\u0000>がつくの。<1\"\u0000>\nうふ、かわいい<18\u0000>子<19\u0000>こ<1:\u0000>といっしょにいられる<18\u0000>上<19\u0000>うえ<1:\u0000>\nお<18\u0000>得<19\u0000>とく<1:\u0000>な<18\u0000>特典<19\u0000>とくてん<1:\u0000>がつくなんて、いいこと<18\u0000>尽<19\u0000>づ<1:\u0000>くめだね！<1\"\u0000>\nどう？\n<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にしちゃう？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Very good choice!! Me sure,\nwill be very useful.",
+			"text_contents": "<18\u0000>当然<19\u0000>とうぜん<1:\u0000>だよね！\nじゃあ、<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に<18\u0000>花<19\u0000>はな<1:\u0000>を<18\u0000>添<19\u0000>そ<1:\u0000>えに<18\u0000>行<19\u0000>い<1:\u0000>くね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hm? Me want be your friend\nbut you not have room for me on<1\"\u0000>\nisland. If have empty space\nin Denpa Box, come back again.",
+			"text_contents": "あれれ？<18\u0000>仲間<19\u0000>なかま<1:\u0000>になりたくても<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に\n<18\u0000>私<19\u0000>わたし<1:\u0000>が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないみたい。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きを<18\u0000>作<19\u0000>つく<1:\u0000>ってから\nまた<18\u0000>来<19\u0000>き<1:\u0000>てね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...What? Me see, not need me...",
+			"text_contents": "……あれれ？\n<18\u0000>後悔<19\u0000>こうかい<1:\u0000>しても、<18\u0000>知<19\u0000>し<1:\u0000>らないんだからね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Me now your friend! When return\nfrom your island, can<1\"\u0000>\nfind me in Denpa Box.",
+			"text_contents": "これからは、いつでも<18\u0000>私<19\u0000>わたし<1:\u0000>に<18\u0000>会<19\u0000>あ<1:\u0000>えるわよ。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスにいるから\n<18\u0000>島<19\u0000>しま<1:\u0000>に<18\u0000>帰<19\u0000>かえ<1:\u0000>ったら、<18\u0000>会<19\u0000>あ<1:\u0000>いに<18\u0000>来<19\u0000>き<1:\u0000>てもいいわよ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "There no space for me on your\nisland. If have room again,<1\"\u0000>\nnot forget come back here.\nNot want miss out my skills!",
+			"text_contents": "<18\u0000>仲間<19\u0000>なかま<1:\u0000>になりたくても<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に\n<18\u0000>私<19\u0000>わたし<1:\u0000>が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないみたい。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きを<18\u0000>作<19\u0000>つく<1:\u0000>ってから\nまた<18\u0000>来<19\u0000>き<1:\u0000>てね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You changed your mind? If me in\nyour party, will find<1\"\u0000>\nlots of monsters. And monsters\nwho usually escape,<1\"\u0000>\nwill chase you! Me think, this\nvery helpful for you!<1\"\u0000>\nWhat you think? Want me be\nyour friend?",
+			"text_contents": "うふ！やっぱりこのかわいい<18\u0000>私<19\u0000>わたし<1:\u0000>を\n<18\u0000>忘<19\u0000>わす<1:\u0000>れられなくて<18\u0000>戻<19\u0000>もど<1:\u0000>ってきたのね！<1\"\u0000>\nどう？\n<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にしちゃう？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -241,13 +241,13 @@
 		3503345686,
 		3503345686,
 		3503345686,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682,
-		3503345682
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681
 	],
 	"attributes": {
 		"attributeStrings": [
