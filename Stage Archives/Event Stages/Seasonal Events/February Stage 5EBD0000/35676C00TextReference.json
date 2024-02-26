@@ -1,0 +1,557 @@
+{
+	"header": {
+		"text_amount": 31,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 10107,
+		"offset_strings": 10176,
+		"strings_section_size1": 372,
+		"offset3": 10560,
+		"section_size2": 124,
+		"offset4": 10688,
+		"section_size3": 16,
+		"offset5": 10704,
+		"section_size4": 64,
+		"unk3": 0,
+		"offset6": 10090,
+		"offset7": 10106,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "なし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "固かたく戸と締じまりされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお、電波人間でんぱにんげんさん。\nアンタ、見みるからに頼たよりになりそうだな。\n良よかったらオラの頼たのみを\n聞きいてくれねえか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そっかー。\nいきなり、すまなかったな……。\nじゃあ、自分じぶんでなんとか\nやってみるよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや？\nもしかして、頼たのみを聞きいてくれるのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "助たすかるよ。\n実じつは最近さいきん、オラの畑はたけが荒あらされててよ。\nそれでさっき畑はたけを調しらべてたら\n巣穴すあなみたいなのが見みつかったんだ。\nお前まえさん、巣穴すあなの中なかを調しらべて\n畑はたけを荒あらした魔物まものを退治たいじしてもらえねえか？\n急せかして悪わるいけど「5分ふん」以内いないに\n出で来きるだけ退治たいじして欲ほしいんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それじゃあ、頼たのんだよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "畑はたけの中なかにある穴あなが魔物まものの巣すだよ。\n短時間たんじかんで悪わるいけど「5分以内ぷんいない」に\n出で来きるだけたくさん倒たおして来きて欲ほしいんだ。\n魔物まものをたくさん倒たおしてくれれば\nもちろんお礼れいもするからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いや～、お疲つかれ様さま。\nどれくらい倒たおせたんだ？\n……ふんふん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと……1匹ぴきも倒たおせなかったのか。\nうん、まあ気きにするな。\nとりあえず、穴あなを塞ふさいで\n今日きょうは乗のり切きっておくよ。\n手伝てつだってくれてありがとよ。\n気き持もちはうれしかったぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, count}匹ぴき倒たおしてくれたのか！\nこれで畑はたけも、少すこしは荒あらされなくなるな！\nありがとうよ！\nこれはオラからのお礼れいの気き持もちだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, count}匹ひきも倒たおせたのか！\nこれで畑はたけの被害ひがいも、大分少だいぶすくなくなるな！！\n本当ほんとうに助たすかった！\nこれはオラからのお礼れいだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと！{3, count}匹ひきも倒たおしたのか！？\nアンタ、見みた目め通どおり強つよいんだな……。\nこれで畑はたけは安泰あんたいだな！\nこれ、オラからの感謝かんしゃの気き持もちだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "え！？\nこれで巣穴すあなのモンスターを全部ぜんぶ倒たおせたのか？\nそれはたまげたな～。\nこれもやる！！\n本当ほんとうに感謝かんしゃしても、し足たりねえな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この季節きせつになると、若わかい子こらは\nみんな浮足うきあし立だっとるのお～。\nワシも若わかい頃ころはドキドキしながら\nチョコレートを渡わたしたものじゃ。ほっほ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うちのカカオ畑ばたけで、チョコレートの材料ざいりょうになる\n「{5, ItemData, +}<2ȱ耀>{3, name, +}」を育そだててるんだけどね……。\n最近さいきん、せっかく育そだった{5, ItemData, +}<2ȱ耀>{3, name, +}を盗ぬすんでいく\nモンスターが出でて困こまってるんだよ。\nどうやら、畑はたけに巣すを作つくられたみたいでねぇ……。\n良よかったら旦那だんなに話はなしを聞きいてくれないかい？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{8, MessageMapName, +}<2耀>{4, message}へようこそ！\nここではチョコレートを作つくるために必要ひつような\n「{5, ItemData, +}<2ȱ耀>{3, name, +}」を育そだててるんだ。\nバレンタイン近ちかくになると、沢山たくさんの女おんなの子こが\n材料ざいりょうを買かいに来きてくれるんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大好だいすきな彼かれのために\n今年ことしは手作てづくりチョコを贈おくりたいの。\nこの村むらのカカオは有名ゆうめいだから\n女おんなの子こがみんな買かいにくるのよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "大人おとながみんなチョコレートを作つくってるから\nアタシも作つくり方かた教おしえてもらうの！\n……えっ？\nもちろん、全部ぜんぶ自分じぶんで食たべるのよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HEY！電波人間でんぱにんげん！！\n今年ことしもこの季節きせつがやってきたな！\nチョコレートを食たべ過すぎても太ふとらないように\n体からだを動うごかしてる最中さいちゅうなんだ。\nモテる男おとこはツライぜ！！\nFu～！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あそこにいる素敵すてきなカレに\nチョコレートを渡わたしたいんだけど……。\nカレ、モテるから\nいつも沢山たくさんもらってるのよね。\nなんとかアタシの気き持もちに\n気きづいてもらえないかしら……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お～い、アンタ。\nそろそろ戻もどって来きてくれるか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスターを\n全部ぜんぶ倒たおせたみたいだね！\nさあ、地底人ちていじんさんの所ところに戻もどって\n報告ほうこくしよう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝냀⾵⟦DEBE⟧⟦DD27⟧⟦DECC⟧쀯➵삾샐삲죞⑼慰敧⼤➻粰㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼냎뢺밯⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスターを全部ぜんぶ\n倒たおせたようですね！\nでは、地底人ちていじんさんの所ところに戻もどって\n報告ほうこくをしましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧훀쎰뷞糈瀤条⑥⟦DEC3⟧糜㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼냎뢺⾵쾼꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスターをすべて\n倒たおせたようですね。\nそれでは、依頼主いらいぬしの地底人ちていじんさんの\n所ところへ戻もどり報告ほうこくをしましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰봯촧쏞쀯➵삾냖⟦DEC3⟧좽␮慰敧⼤⟦DABF⟧⟦DEC3⟧⟦DC27⟧뉼⟗잲즼섯쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧됧팯⟦DEC4⟧⟦D827⟧㉼냎뢺⾵쾼꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスターを\nぜーんぶやっつけちまったな！\nじゃ、地底人ちていじんさんの所ところに戻もどって\n全部ぜんぶ倒たおしたって自慢じまんしようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞⟦DDB0⟧⟦DECC⟧퐯슯뤧쿁삯糅瀤条⑥⟦DEBC⟧粬㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼⟦DEBE⟧⟦DD27⟧⟦DECC⟧쀯➵㺼꿀⿃⟦DEBC⟧⟦DDCF⟧밯⟖뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスターを全部ぜんぶ\n倒たおせたみたいだね！\nじゃあ、地底人ちていじんさんの所ところに戻もどって\n報告ほうこくをしようか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧타닀⟦DEC0⟧糈瀤条⑥밯곞뀧셼쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧옧팯⟦DEC4⟧꼧糃츲몰떸밯⟖뚰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やったわ……巣穴すあなの中なかのモンスターを\n全部ぜんぶ、倒たおせたようね……。\nそれじゃ！地底人ちていじんさんの所ところに戻もどって\n報告ほうこくをしましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀糜놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧훀좰␮慰敧⼤⟦DABF⟧⟦DEBC⟧➬셼쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧옧팯⟦DEC4⟧꼧糃츲몰떸밯볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふむ。どうやら巣穴すあなの中なかのモンスターは\nすべて一掃いっそう出で来きたようだな。\nでは、地底人ちていじんの元もとへ戻もどり\n報告ほうこくをするかね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "퇌쐮⟞풰⿗놽짅씯똧⿉⟓뷝쀾⟦DCB0⟧㉼➽⟦DECD⟧⿃꾲낿쌯⟞㺷훀산엞␮慰敧쌤⟦DCDE⟧셼쌾뀧⟦DEBC⟧짝팯쐧⾴쓓⟞糘츲몰떸⟦D9BD⟧똧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "巣穴すあなの中なかのモンスター\n討伐完了とうばつかんりょうのようですね。\n地底人ちていじんさんの所ところへ戻もどって報告ほうこくしたら\n温泉おんせんにでも浸つかりに行いきたいです……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾粰쐲쪰⟞㻂똯⟦D8DD⟧낮훉뀧⟦DEC3⟧좽␮慰敧⼤㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⾴쓓⟞쎯츯몰➸㺼⟀糗딲뻝웝쌧폞숯⟦D8B6⟧⿆랲쀾눧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483651,
+		2147483696,
+		2147483652,
+		2147483653,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706
+	]
+}

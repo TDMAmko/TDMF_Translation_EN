@@ -1,0 +1,173 @@
+{
+	"header": {
+		"text_amount": 7,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 1571,
+		"offset_strings": 1648,
+		"strings_section_size1": 84,
+		"offset3": 1744,
+		"section_size2": 28,
+		"offset4": 1776,
+		"section_size3": 16,
+		"offset5": 1792,
+		"section_size4": 16,
+		"unk3": 0,
+		"offset6": 1562,
+		"offset7": 1570,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "ワシは<17\u0003>{9, MonsterParameter, +}<2ƴ耀>{3, name, +}。\n<18\u0000>大地<19\u0000>だいち<1:\u0000>の<18\u0000>行<19\u0000>ゆ<1:\u0000>く<18\u0000>末<19\u0000>すえ<1:\u0000>を<18\u0000>見守<19\u0000>みまも<1:\u0000>る<18\u0000>者<19\u0000>もの<1:\u0000>。<1\"\u0000>\nこの<18\u0000>大地<19\u0000>だいち<1:\u0000>はすべてワシにつながっておる。\n<18\u0000>地上<19\u0000>ちじょう<1:\u0000>での<18\u0000>事<19\u0000>こと<1:\u0000>は<18\u0000>全<19\u0000>すべ<1:\u0000>て<18\u0000>知<19\u0000>し<1:\u0000>っておるぞ。<1\"\u0000>\n<18\u0000>最強<19\u0000>さいきょう<1:\u0000>の<18\u0000>強<19\u0000>つよ<1:\u0000>さを<18\u0000>求<19\u0000>もと<1:\u0000>める<18\u0000>者<19\u0000>もの<1:\u0000>よ。\nワシの、<18\u0000>大地<19\u0000>だいち<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>に<18\u0000>挑<19\u0000>いど<1:\u0000>んでみるか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よい<18\u0000>返事<19\u0000>へんじ<1:\u0000>じゃ。\nでは、<18\u0000>始<19\u0000>はじ<1:\u0000>めるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フフフ、<18\u0000>少<19\u0000>すこ<1:\u0000>し<18\u0000>驚<19\u0000>おどろ<1:\u0000>かせすぎたかの。\nいつでも<18\u0000>挑<19\u0000>いど<1:\u0000>みにくるがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ。<18\u0000>恐怖<19\u0000>きょうふ<1:\u0000>を<18\u0000>乗<19\u0000>の<1:\u0000>り<18\u0000>越<19\u0000>こ<1:\u0000>え<18\u0000>挑<19\u0000>いど<1:\u0000>んできたか。\n<18\u0000>最近<19\u0000>さいきん<1:\u0000>の<18\u0000>若<19\u0000>わか<1:\u0000>い<18\u0000>者<19\u0000>もの<1:\u0000>も<18\u0000>捨<19\u0000>す<1:\u0000>てたものではないな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お<18\u0000>主<19\u0000>ぬし<1:\u0000>か。<1\"\u0000>\nほう、さらに<18\u0000>力<19\u0000>ちから<1:\u0000>をつけたようだな。\n<18\u0000>強<19\u0000>つよ<1:\u0000>くなったお<18\u0000>主<19\u0000>ぬし<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>、ワシに<18\u0000>見<19\u0000>み<1:\u0000>せてみよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうした？\nワシと<18\u0000>戦<19\u0000>たたか<1:\u0000>うために<18\u0000>来<19\u0000>き<1:\u0000>たのではないのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お<18\u0000>主<19\u0000>ぬし<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>、<18\u0000>見<19\u0000>み<1:\u0000>せてもらった。\n……よい<18\u0000>戦<19\u0000>たたか<1:\u0000>いだったぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655
+	]
+}

@@ -1,0 +1,557 @@
+{
+	"header": {
+		"text_amount": 31,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 10107,
+		"offset_strings": 10176,
+		"strings_section_size1": 372,
+		"offset3": 10560,
+		"section_size2": 124,
+		"offset4": 10688,
+		"section_size3": 16,
+		"offset5": 10704,
+		"section_size4": 64,
+		"unk3": 0,
+		"offset6": 10090,
+		"offset7": 10106,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Help the dwarf?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "The door is shut tight.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, Denpa Men. You look like\nreliable people. Want help me?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me see...Sorry for suddenly\nasking for help. Then, me<1\"\u0000>\nfix problem , on my own...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh? You really want help me?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks for help! Now, probelm\nhave recently, cocoa fields<1\"\u0000>\nravaged by monsters. After\nchecking devastated field, saw<1\"\u0000>\nburrowed hole. Please, can check\nhole and get rid of monsters<1\"\u0000>\nfor me? Sorry to rush, but me\nwant you defeat as many monsters<1\"\u0000>\nas you can in next\n5 minutes. Good luck!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me counting on you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hole middle of cocoa field,\nfull of monsters.<1\"\u0000>\nNeed defeat as many monsters\nas can in 5 minutes.<1\"\u0000>\nGratitude of me, greater\nif more monsters killed.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks for hard work! How many\nmonsters, you beat? Hmmm...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What...not even beat 1? Well,\nno need, worry.<1\"\u0000>\nWill just plug hole and\ncontinue with work today.<1\"\u0000>\nStill, thanks for help!\nMade me real happy!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Beat <1\u000C\u0001>{3, count} monsters! Good job!\nNow, fields safer from monsters!<1\"\u0000>\nThank you for help! Take this\nas proof of gratitude from me!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Beat <1\u000C\u0001>{3, count} monsters! Great job!\nFields now much safer!<1\"\u0000>\nThank you for help! Take this\nas proof of gratitude from me!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh wow! Beat <1\u000C\u0001>{3, count} monsters!\nYou crazy strong, me knew!<1\"\u0000>\nFields now safer than ever!<1\"\u0000>\nThank you for help! Take this\nas proof of gratitude from me!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What!? You defeat all monsters\nin hole! This amazing!<1\"\u0000>\nMe give you this, too!\nMe not can thank you enough!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When this season, come around,\nyoung children, very cheerful.<1\"\u0000>\nWhen me was young, used to give\nchildren chocolate. Hohoho.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We grow \"<17\u0003>{5, ItemData, +}<2ȱ耀>{3, name, +}\" on cocoa fild,\nto make chocolate from it...<1\"\u0000>\nRecently, some monsters steal\n<17\u0003>{5, ItemData, +}<2ȱ耀>{3, name, +} and ravage fields.<1\"\u0000>\nIt seem, they made nest hole on\nfields, maybe you should<1\"\u0000>\ntalk to husband, then can\nhelp us if not mind.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome to <17\u0003>{8, MessageMapName, +}<2耀>{4, message}!<1\"\u0000>\nHere, we grow \"<17\u0003>{5, ItemData, +}<2ȱ耀>{3, name, +}\"\nwhich then use, make chocolate!<1\"\u0000>\nWhen Valentine's Day is soon,\nmany girls come here, buy<1\"\u0000>\nlots of ingredients!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This year, me want gift handmade\nchocolate to boyfriend.<1\"\u0000>\nLove him so much! This village,\nfamous for cacao so all girls<1\"\u0000>\nand woman go here, buy cacao,\nmake tasty chocolate as gift.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Since all adults, here make\nchocolate, me want learn to make,<1\"\u0000>\ntoo! ...What!? No, of course,\nwill not eat all myself!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "HEY！It is this season of the\nyear again. Me in middle of<1\"\u0000>\ntraining, want keep body\nfit, so not get fat from<1\"\u0000>\neating too much chocolate me\nget! Being popular guy, is<1\"\u0000>\nvery tough! Fu, Hu!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me want give some chocolate to\nwonderful boyfriend over there...<1\"\u0000>\nHe very popular, so always\ngets lots of chocolates.<1\"\u0000>\nMe hope, will notice my feelings<1\"\u0000>\ntowards him somehow...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you. You can come back\nsoon?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It looks like we defeated the\nmonsters down here! Now let's<1\"\u0000>\nreturn back to the dwarf to\nreport it to him!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝냀⾵⟦DEBE⟧⟦DD27⟧⟦DECC⟧쀯➵삾샐삲죞⑼慰敧⼤➻粰㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼냎뢺밯⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It seems that we have defeated\nall the monsters in the nest!<1\"\u0000>\nLet's go back to the dwarf\nand tell him about our success!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧훀쎰뷞糈瀤条⑥⟦DEC3⟧糜㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼냎뢺⾵쾼꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, I guess we defeated all\nthe monsters in this hole!<1\"\u0000>\nNow, let's go back to the dwarf\nand tell him about it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰봯촧쏞쀯➵삾냖⟦DEC3⟧좽␮慰敧⼤⟦DABF⟧⟦DEC3⟧⟦DC27⟧뉼⟗잲즼섯쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧됧팯⟦DEC4⟧⟦D827⟧㉼냎뢺⾵쾼꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We beat the monsters in this\nnest! Now, let's report this<1\"\u0000>\nto the dwarf!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞⟦DDB0⟧⟦DECC⟧퐯슯뤧쿁삯糅瀤条⑥⟦DEBC⟧粬㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⿆쓓⟞쎯㉼⟦DEBE⟧⟦DD27⟧⟦DECC⟧쀯➵㺼꿀⿃⟦DEBC⟧⟦DDCF⟧밯⟖뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It looks like we defeated all\nthe monsters down here!<1\"\u0000>\nLet's get back outside to tell\nthe dwarf about our success!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧타닀⟦DEC0⟧糈瀤条⑥밯곞뀧셼쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧옧팯⟦DEC4⟧꼧糃츲몰떸밯⟖뚰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We did it...we defeated all the\nmonsters inside the nest...<1\"\u0000>\nLet's talk to the dwarf above!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿔⟀糜놽짅씯똧⿉⟓뷝쀾떰븯⟞쳝⿞뗀븧훀좰␮慰敧⼤⟦DABF⟧⟦DEBC⟧➬셼쌾뀧⟦DEBC⟧믝짝쐯⟦DBBA⟧옧팯⟦DEC4⟧꼧糃츲몰떸밯볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hm. It seems that all the\nmonsters here are gone.<1\"\u0000>\nNow, let's get back to the\ndwarf to tell him about this.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "퇌쐮⟞풰⿗놽짅씯똧⿉⟓뷝쀾⟦DCB0⟧㉼➽⟦DECD⟧⿃꾲낿쌯⟞㺷훀산엞␮慰敧쌤⟦DCDE⟧셼쌾뀧⟦DEBC⟧짝팯쐧⾴쓓⟞糘츲몰떸⟦D9BD⟧똧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It looks like we defeated all\nthe monsters here in the nest.<1\"\u0000>\nNow, let's go back to the dwarf\nand tell him about our success,<1\"\u0000>\nthen I'd like to soak in the\nhot spring...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "놽짅씯똧⿉⟓뷝쀾粰쐲쪰⟞㻂똯⟦D8DD⟧낮훉뀧⟦DEC3⟧좽␮慰敧⼤㻁⟃벰⟦DDDE⟧⟦DDBB⟧⿉뫄⟛⾴쓓⟞쎯츯몰➸㺼⟀糗딲뻝웝쌧폞숯⟦D8B6⟧⿆랲쀾눧⟦DEC3⟧㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345685,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483651,
+		2147483696,
+		2147483652,
+		2147483653,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706
+	]
+}

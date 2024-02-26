@@ -1,0 +1,349 @@
+{
+	"header": {
+		"text_amount": 18,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4715,
+		"offset_strings": 4784,
+		"strings_section_size1": 216,
+		"offset3": 5008,
+		"section_size2": 72,
+		"offset4": 5088,
+		"section_size3": 16,
+		"offset5": 5104,
+		"section_size4": 38,
+		"unk3": 0,
+		"offset6": 4706,
+		"offset7": 4714,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "「{5, ItemData, +}<2ȼ耀>{3, name, +}」{2, num}個こと\n「<1Đ\u0001>{3, item, +}」を交換こうかんしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タマゴ祭まつり開催中かいさいちゅう！！\n参加さんかしたい人ひとは、おばちゃんに話はなしかけてね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "固かたく戸と締じまりされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よく来きたね。\nこの村むらでは今いま、タマゴ祭まつりの真まっ最中さいちゅうだよ！\n森もりに隠かくしてある「{5, ItemData, +}<2ȼ耀>{3, name, +}」を集あつめると\n特別とくべつな景品けいひんと交換こうかんしてくれるんだ。\n興味きょうみがあるなら森もりの入いり口ぐちにいる\nおばちゃんに話はなしかけてごらん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2ȼ耀>{3, name, +}」は食たべることも出で来きるのよ。\nあまった分ぶんは子こどものおやつにしようかしら。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "子こどもたちが楽たのしそうで、何なによりだよ。\nあんたたちも楽たのしんで行いきなさいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タマゴは大人おとなたちが隠かくしたんだ。\n森もりにある木箱きばことかタルとかの\n怪あやしい場所ばしょを調しらべると見みつかるかもね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小ちいさいモンスターもタマゴを\n落おとすことがあるんだって。\nアタシじゃ倒たおすのは無む理りだから\n隠かくしてあるタマゴを探さがさなきゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、電波人間でんぱにんげんのお客きゃくさんなんて珍めずらしい。\nタマゴ祭まつりに参加さんかしに来きたの？\nお祭まつりのルールは簡単かんたんよ。\nアタシたちが森もりの中なかに隠かくした\n「{5, ItemData, +}<2ȼ耀>{3, name, +}」を集あつめてくるだけ。\n「{5, ItemData, +}<2ȼ耀>{3, name, +}」をたくさん集あつめるほど\n良いいものと交換こうかんしてあげるからね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2ȼ耀>{3, name, +}」を集あつめてきたら\nまたおばちゃんに話はなしかけてね。\n一番いちばん少すくない数かずだと、3個こから交換こうかんできるからね！\nそれじゃあ、がんばって！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、どれもいらないの？\nじゃあ「{5, ItemData, +}<2ȼ耀>{3, name, +}」だけ記念きねんに持もち帰かえる？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はい、どうぞ。\nがんばって集あつめたわね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "タマゴ祭まつりは何度なんどでも参加さんかできるから\nまた遊あそびにいらっしゃい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そう、おつかれさま。\nタマゴ祭まつりは何度なんどでも参加さんかできるから\nまた遊あそびにいらっしゃい！\nちなみに「{5, ItemData, +}<2ȼ耀>{3, name, +}」は記念きねんにとっておいても\n良いいし、おやつで食たべても美お味いしいわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ集あつめるのね。\nおばちゃん待まってるから、頑張がんばるのよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、お帰かえりなさい。\n「{5, ItemData, +}<2ȼ耀>{3, name, +}」を集あつめてきたのね？\nさあ、交換こうかんしたい景品けいひんをひとつ選えらんでちょうだい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2ȼ耀>{3, name, +}」{2, num}個こで\n「<1Đ\u0001>{3, item, +}」と交換こうかんするのね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、交換こうかんしないの？\nもしかして、もう帰かえりたいのかしら？\n交換こうかんしない場合ばあいでも、集あつめた「{5, ItemData, +}<2ȼ耀>{3, name, +}」は\n記念きねんに持もち帰かえって良いいわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345685,
+		3503345685,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483667,
+		2147483668,
+		2147483672,
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665
+	]
+}
