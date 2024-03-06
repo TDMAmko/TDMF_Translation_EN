@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」<1\u000C\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>と\n「<1Đ\u0001>{3, item, +}」を<18\u0000>交換<19\u0000>こうかん<1:\u0000>しますか？",
+			"text_contents": "Exchange <1\u000C\u0001>{2, num}<18\u0000>x \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\"\nfor \"<1Đ\u0001>{3, item, +}\"?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "タマゴ<18\u0000>祭<19\u0000>まつ<1:\u0000>り<18\u0000>開催中<19\u0000>かいさいちゅう<1:\u0000>！！\n<18\u0000>参加<19\u0000>さんか<1:\u0000>したい<18\u0000>人<19\u0000>ひと<1:\u0000>は、おばちゃんに<18\u0000>話<19\u0000>はな<1:\u0000>しかけてね。",
+			"text_contents": "The Egg Festival is underway!\nTalk to the lady dwarf<1\"\u0000>\non the entrance of the forest\nto participate!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>固<19\u0000>かた<1:\u0000>く<18\u0000>戸<19\u0000>と<1:\u0000><18\u0000>締<19\u0000>じ<1:\u0000>まりされている。",
+			"text_contents": "The door is shut tight.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>良<19\u0000>よ<1:\u0000>く<18\u0000>来<19\u0000>き<1:\u0000>たね。\nこの<18\u0000>村<19\u0000>むら<1:\u0000>では<18\u0000>今<19\u0000>いま<1:\u0000>、タマゴ<18\u0000>祭<19\u0000>まつ<1:\u0000>りの<18\u0000>真<19\u0000>ま<1:\u0000>っ<18\u0000>最中<19\u0000>さいちゅう<1:\u0000>だよ！<1\"\u0000>\n<18\u0000>森<19\u0000>もり<1:\u0000>に<18\u0000>隠<19\u0000>かく<1:\u0000>してある「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」を<18\u0000>集<19\u0000>あつ<1:\u0000>めると\n<18\u0000>特別<19\u0000>とくべつ<1:\u0000>な<18\u0000>景品<19\u0000>けいひん<1:\u0000>と<18\u0000>交換<19\u0000>こうかん<1:\u0000>してくれるんだ。<1\"\u0000>\n<18\u0000>興味<19\u0000>きょうみ<1:\u0000>があるなら<18\u0000>森<19\u0000>もり<1:\u0000>の<18\u0000>入<19\u0000>い<1:\u0000>り<18\u0000>口<19\u0000>ぐち<1:\u0000>にいる\nおばちゃんに<18\u0000>話<19\u0000>はな<1:\u0000>しかけてごらん。",
+			"text_contents": "Good see you here! We in middle\nof Egg Festival in village now!<1\"\u0000>\nIf collect \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\",\nhidden in forest, can exchange<1\"\u0000>\nthem, for special items.\nIf interested, talk to lady<1\"\u0000>\nat entrance of forest.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」は<18\u0000>食<19\u0000>た<1:\u0000>べることも<18\u0000>出<19\u0000>で<1:\u0000><18\u0000>来<19\u0000>き<1:\u0000>るのよ。\nあまった<18\u0000>分<19\u0000>ぶん<1:\u0000>は<18\u0000>子<19\u0000>こ<1:\u0000>どものおやつにしようかしら。",
+			"text_contents": "\"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\" can be eaten, too!\nMe think, will use<1\"\u0000>\nthem, as snacks for children.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子<19\u0000>こ<1:\u0000>どもたちが<18\u0000>楽<19\u0000>たの<1:\u0000>しそうで、<18\u0000>何<19\u0000>なに<1:\u0000>よりだよ。\nあんたたちも<18\u0000>楽<19\u0000>たの<1:\u0000>しんで<18\u0000>行<19\u0000>い<1:\u0000>きなさいね。",
+			"text_contents": "Me happy, see kids enjoying\nthemselves. Me hope, you enjoy<1\"\u0000>\nfestival, too!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "タマゴは<18\u0000>大人<19\u0000>おとな<1:\u0000>たちが<18\u0000>隠<19\u0000>かく<1:\u0000>したんだ。<1\"\u0000>\n<18\u0000>森<19\u0000>もり<1:\u0000>にある<18\u0000>木箱<19\u0000>きばこ<1:\u0000>とかタルとかの\n<18\u0000>怪<19\u0000>あや<1:\u0000>しい<18\u0000>場所<19\u0000>ばしょ<1:\u0000>を<18\u0000>調<19\u0000>しら<1:\u0000>べると<18\u0000>見<19\u0000>み<1:\u0000>つかるかもね。",
+			"text_contents": "Eggs, hidden by adults. You\nmight find some, if check<1\"\u0000>\ncertain spots in forest\nlike wooden boxes or barrels.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>小<19\u0000>ちい<1:\u0000>さいモンスターもタマゴを\n<18\u0000>落<19\u0000>お<1:\u0000>とすことがあるんだって。<1\"\u0000>\nアタシじゃ<18\u0000>倒<19\u0000>たお<1:\u0000>すのは<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だから\n<18\u0000>隠<19\u0000>かく<1:\u0000>してあるタマゴを<18\u0000>探<19\u0000>さが<1:\u0000>さなきゃ。",
+			"text_contents": "Me heard, little monsters can\ndrop eggs sometimes.<1\"\u0000>\nBut me not have any chance,\ndefeating monsters.<1\"\u0000>\nSo me need find hidden eggs,\nin boxes and so on.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あら、<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>のお<18\u0000>客<19\u0000>きゃく<1:\u0000>さんなんて<18\u0000>珍<19\u0000>めずら<1:\u0000>しい。\nタマゴ<18\u0000>祭<19\u0000>まつ<1:\u0000>りに<18\u0000>参加<19\u0000>さんか<1:\u0000>しに<18\u0000>来<19\u0000>き<1:\u0000>たの？<1\"\u0000>\nお<18\u0000>祭<19\u0000>まつ<1:\u0000>りのルールは<18\u0000>簡単<19\u0000>かんたん<1:\u0000>よ。<1\"\u0000>\nアタシたちが<18\u0000>森<19\u0000>もり<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>に<18\u0000>隠<19\u0000>かく<1:\u0000>した\n「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」を<18\u0000>集<19\u0000>あつ<1:\u0000>めてくるだけ。<1\"\u0000>\n「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」をたくさん<18\u0000>集<19\u0000>あつ<1:\u0000>めるほど\n<18\u0000>良<19\u0000>い<1:\u0000>いものと<18\u0000>交換<19\u0000>こうかん<1:\u0000>してあげるからね！",
+			"text_contents": "Oh, Denpa Men as guest here,\nvery rare. You come here,<1\"\u0000>\nparticipate in Egg Festival?\nRules very easy and simple.<1\"\u0000>\nAll need do is, collect\nas many \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\"<1\"\u0000>\nas can! Have hidden them\nin forest. The more \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\"<1\"\u0000>\nyou have, can exchange for\nmore good things!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」を<18\u0000>集<19\u0000>あつ<1:\u0000>めてきたら\nまたおばちゃんに<18\u0000>話<19\u0000>はな<1:\u0000>しかけてね。<1\"\u0000>\n<18\u0000>一番<19\u0000>いちばん<1:\u0000><18\u0000>少<19\u0000>すく<1:\u0000>ない<18\u0000>数<19\u0000>かず<1:\u0000>だと、3<18\u0000>個<19\u0000>こ<1:\u0000>から<18\u0000>交換<19\u0000>こうかん<1:\u0000>できるからね！\nそれじゃあ、がんばって！！",
+			"text_contents": "If think, have collected all\nof \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\", please talk<1\"\u0000>\nto me again. Already can get\nsomething with 3 eggs.<1\"\u0000>\nGood luck!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あら、どれもいらないの？\nじゃあ「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」だけ<18\u0000>記念<19\u0000>きねん<1:\u0000>に<18\u0000>持<19\u0000>も<1:\u0000>ち<18\u0000>帰<19\u0000>かえ<1:\u0000>る？",
+			"text_contents": "Oh, you not want any of those?\nSo, you just want take<1\"\u0000>\n\"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\" home as souvenir?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "はい、どうぞ。\nがんばって<18\u0000>集<19\u0000>あつ<1:\u0000>めたわね！",
+			"text_contents": "Here you go. You did best,\ncollect the eggs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "タマゴ<18\u0000>祭<19\u0000>まつ<1:\u0000>りは<18\u0000>何度<19\u0000>なんど<1:\u0000>でも<18\u0000>参加<19\u0000>さんか<1:\u0000>できるから\nまた<18\u0000>遊<19\u0000>あそ<1:\u0000>びにいらっしゃい！",
+			"text_contents": "Can participate in Egg Festival\nas many times as want!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "そう、おつかれさま。<1\"\u0000>\nタマゴ<18\u0000>祭<19\u0000>まつ<1:\u0000>りは<18\u0000>何度<19\u0000>なんど<1:\u0000>でも<18\u0000>参加<19\u0000>さんか<1:\u0000>できるから\nまた<18\u0000>遊<19\u0000>あそ<1:\u0000>びにいらっしゃい！<1\"\u0000>\nちなみに「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」は<18\u0000>記念<19\u0000>きねん<1:\u0000>にとっておいても\n<18\u0000>良<19\u0000>い<1:\u0000>いし、おやつで<18\u0000>食<19\u0000>た<1:\u0000>べても<18\u0000>美<19\u0000>お<1:\u0000><18\u0000>味<19\u0000>い<1:\u0000>しいわよ。",
+			"text_contents": "Well, thanks for your time!<1\"\u0000>\nCan participate in Egg Festival\nas many times as want!<1\"\u0000>\nAlso, can keep \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\"\nand use as sweet snack!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "まだ<18\u0000>集<19\u0000>あつ<1:\u0000>めるのね。\nおばちゃん<18\u0000>待<19\u0000>ま<1:\u0000>ってるから、<18\u0000>頑張<19\u0000>がんば<1:\u0000>るのよ！",
+			"text_contents": "You still collecting. Me wait\nhere for you, so keep<1\"\u0000>\ncollecting eggs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あら、お<18\u0000>帰<19\u0000>かえ<1:\u0000>りなさい。\n「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」を<18\u0000>集<19\u0000>あつ<1:\u0000>めてきたのね？<1\"\u0000>\nさあ、<18\u0000>交換<19\u0000>こうかん<1:\u0000>したい<18\u0000>景品<19\u0000>けいひん<1:\u0000>をひとつ<18\u0000>選<19\u0000>えら<1:\u0000>んでちょうだい！",
+			"text_contents": "Oh, welcome back. Me see, you\ncollected \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\", right?<1\"\u0000>\nNow, please choose one of the\nprices to exchange with eggs!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」<1\u000C\u0001>{2, num}<18\u0000>個<19\u0000>こ<1:\u0000>で\n「<1Đ\u0001>{3, item, +}」と<18\u0000>交換<19\u0000>こうかん<1:\u0000>するのね！",
+			"text_contents": "Exchanged <1\u000C\u0001>{2, num}x \"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\"\nfor \"<1Đ\u0001>{3, item, +}\"!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あら、<18\u0000>交換<19\u0000>こうかん<1:\u0000>しないの？\nもしかして、もう<18\u0000>帰<19\u0000>かえ<1:\u0000>りたいのかしら？<1\"\u0000>\n<18\u0000>交換<19\u0000>こうかん<1:\u0000>しない<18\u0000>場合<19\u0000>ばあい<1:\u0000>でも、<18\u0000>集<19\u0000>あつ<1:\u0000>めた「<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}」は\n<18\u0000>記念<19\u0000>きねん<1:\u0000>に<18\u0000>持<19\u0000>も<1:\u0000>ち<18\u0000>帰<19\u0000>かえ<1:\u0000>って<18\u0000>良<19\u0000>い<1:\u0000>いわよ。",
+			"text_contents": "Oh, you not want exchange? Want\nto go home already?<1\"\u0000>\nEven if not exchange, can keep\n\"<17\u0003>{5, ItemData, +}<2ȼ耀>{3, name, +}\" as souvenir.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

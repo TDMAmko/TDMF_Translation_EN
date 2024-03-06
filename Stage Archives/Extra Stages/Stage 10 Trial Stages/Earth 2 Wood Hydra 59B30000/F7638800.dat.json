@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...<1\"\u0000>\n...<1\"\u0000>\n……yum.<1\"\u0000>\n...excuse me, just...hungry...\n...Mmmmmm.",
+			"text_contents": "...<1\"\u0000>\n...<1\"\u0000>\n……yum.<1\"\u0000>\n...excuse me,...hungry...\n...Mmmmmm.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh? Denpa Men, here? Thank\nyou for paying a visit in these<1\"\u0000>\npoisonous fields!<18\u0000>毒<19\u0000>どく<1:\u0000>の<18\u0000>中<19\u0000>なか<1:\u0000>、ここまでごくろうさま。<1\"\u0000>\nこの<18\u0000>妖精<19\u0000>ようせい<1:\u0000>の<17\u0003>{8, MessageNpcName, +}<26耀>{4, message}が\nかわいいから<18\u0000>思<19\u0000>おも<1:\u0000>わず<18\u0000>声<19\u0000>こえ<1:\u0000>をかけに<18\u0000>来<19\u0000>き<1:\u0000>たんだね！<1\"\u0000>\nそこまで、<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>気<19\u0000>き<1:\u0000>に<18\u0000>入<19\u0000>い<1:\u0000>ったのなら\n<18\u0000>仲間<19\u0000>なかま<1:\u0000>になってあげてもいいよ！！<1\"\u0000>\n<18\u0000>戦闘中<19\u0000>せんとうちゅう<1:\u0000>、<18\u0000>私<19\u0000>わたし<1:\u0000>がいれば<18\u0000>土<19\u0000>つち<1:\u0000><18\u0000>属性<19\u0000>ぞくせい<1:\u0000>の<18\u0000>耐性<19\u0000>たいせい<1:\u0000>がつくの。<1\"\u0000>\nうふ、かわいい<18\u0000>子<19\u0000>こ<1:\u0000>といっしょにいられる<18\u0000>上<19\u0000>うえ<1:\u0000>\nお<18\u0000>得<19\u0000>とく<1:\u0000>な<18\u0000>特典<19\u0000>とくてん<1:\u0000>がつくなんて、いいこと<18\u0000>尽<19\u0000>づ<1:\u0000>くめだね！<1\"\u0000>\nどう？\n<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にしちゃう？",
+			"text_contents": "Huh? Denpa Men, here? Thank\nyou for paying a visit in these<1\"\u0000>\npoisonous fields! Well, I'm\n<17\u0003>{8, MessageNpcName, +}<26耀>{4, message}, a cute little fairy<1\"\u0000>\nwho wants to join you on your\njourney! I can help you resist<1\"\u0000>\nearth attacks! Sounds\ngood, right? So what do you<1\"\u0000>\nthink? Can I be your cute\nlittle companion?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>当然<19\u0000>とうぜん<1:\u0000>だよね！\nじゃあ、<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に<18\u0000>花<19\u0000>はな<1:\u0000>を<18\u0000>添<19\u0000>そ<1:\u0000>えに<18\u0000>行<19\u0000>い<1:\u0000>くね！",
+			"text_contents": "Of course! Might as well plant\nsome cute flowers on your<1\"\u0000>\nisland as well!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あれれ？<18\u0000>仲間<19\u0000>なかま<1:\u0000>になりたくても<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に\n<18\u0000>私<19\u0000>わたし<1:\u0000>が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないみたい。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きを<18\u0000>作<19\u0000>つく<1:\u0000>ってから\nまた<18\u0000>来<19\u0000>き<1:\u0000>てね。",
+			"text_contents": "Huh? I really want to be your\ncompanion but I'm afraid you<1\"\u0000>\ndon't have any space for me.\nWell, please come back when<1\"\u0000>\nthere's at least one free spot\nin the Denpa Box.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……あれれ？\n<18\u0000>後悔<19\u0000>こうかい<1:\u0000>しても、<18\u0000>知<19\u0000>し<1:\u0000>らないんだからね！",
+			"text_contents": "...Huh? Even if you don't know\nit yet, you'll regret not<1\"\u0000>\naccepting me as your\ncompanion.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "これからは、いつでも<18\u0000>私<19\u0000>わたし<1:\u0000>に<18\u0000>会<19\u0000>あ<1:\u0000>えるわよ。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスにいるから\n<18\u0000>島<19\u0000>しま<1:\u0000>に<18\u0000>帰<19\u0000>かえ<1:\u0000>ったら、<18\u0000>会<19\u0000>あ<1:\u0000>いに<18\u0000>来<19\u0000>き<1:\u0000>てもいいわよ！",
+			"text_contents": "From now on, you can see me\nanytime in the Denpa Box.<1\"\u0000>\nSo when you return to your\nisland, make sure to see me!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>仲間<19\u0000>なかま<1:\u0000>になりたくても<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>島<19\u0000>しま<1:\u0000>に\n<18\u0000>私<19\u0000>わたし<1:\u0000>が<18\u0000>待機<19\u0000>たいき<1:\u0000>できるスペースがないみたい。<1\"\u0000>\n<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>ボックスに<18\u0000>空<19\u0000>あ<1:\u0000>きを<18\u0000>作<19\u0000>つく<1:\u0000>ってから\nまた<18\u0000>来<19\u0000>き<1:\u0000>てね。",
+			"text_contents": "Even though I want to be your\nfriend, there unfortunately is<1\"\u0000>\nno space on your island for me.\nPlease come back when you have<1\"\u0000>\na free spot in the Denpa Box\nagain.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うふ！やっぱりこのかわいい<18\u0000>私<19\u0000>わたし<1:\u0000>を\n<18\u0000>忘<19\u0000>わす<1:\u0000>れられなくて<18\u0000>戻<19\u0000>もど<1:\u0000>ってきたのね！<1\"\u0000>\nどう？\n<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>仲間<19\u0000>なかま<1:\u0000>にしちゃう？",
+			"text_contents": "Ugh! I knew you couldn't forget\nme, the cute little fairy!<1\"\u0000>\nSince you came back, would you\nnow want me to be<1\"\u0000>\nyour companion?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

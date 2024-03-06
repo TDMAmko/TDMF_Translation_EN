@@ -1,0 +1,173 @@
+{
+	"header": {
+		"text_amount": 7,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 1681,
+		"offset_strings": 1760,
+		"strings_section_size1": 84,
+		"offset3": 1856,
+		"section_size2": 28,
+		"offset4": 1888,
+		"section_size3": 16,
+		"offset5": 1904,
+		"section_size4": 16,
+		"unk3": 0,
+		"offset6": 1672,
+		"offset7": 1680,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "……電波人間でんぱにんげんがここに来くるとは驚おどろいた。\n私わたしは水みずの力ちからを極きわめた者もの。\n本来ほんらいであれば、神かみに近ちかい私わたしが\n電波人間でんぱにんげんなどと戯たわむれることもないのだが、\n今日きょうは気分きぶんが良よい……。\n5分ふんだ……。その間あいだだけ戯たわむれる事ことを許可きょかしよう。\nさあ、またと無ない機会きかいだ。喜よろこぶがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "せいぜい足掻あがいてみよ。\nフフフフフフ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんなんだ、貴様きさまは……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フフ、やはり相手あいてしてほしくなったか。\nまあいいだろう。来くるがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……ほう、いつぞやの電波人間でんぱにんげんか。\nこの間あいだは運うんがよかったな。\n今日きょうは少すこしパワーを上あげて戯たわむれてやろう。\nさあ、どうする？フフフフ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フフ、やはり相手あいてしてほしくなったか。\nまあいいだろう。来くるがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フ、フフ。ま、まあ、少すこしはやるようだな。\n今日きょうはこれで終しまいにしてやる。さらばだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655
+	]
+}

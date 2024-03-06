@@ -488,14 +488,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of Check-ins: <1\u0005\u0001>{2, day}!\n<1\u0003\u0001>{3, jewel}x Jewel acquired\nas a Check-in bonus.",
+			"text_contents": "Total number of\nCheck-ins: <1\u0005\u0001>{2, day}!\n<1\u0003\u0001>{3, jewel}x Jewel acquired\nas a Check-in bonus.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Total number of Check-ins: <1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
+			"text_contents": "Total number of\nCheck-ins: <1\u0005\u0001>{2, day}!\nCheck-in bonus of <1\u0008\u0001>{3, gold, +}G acquired!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2868,7 +2868,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ultra R. Catch",
+			"text_contents": "Event Catch",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2889,7 +2889,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "In \"Event Catch\" you can get\nseasonal Denpa Men with\nunique Equipment! Aim well\nto catch your favorites!",
+			"text_contents": "In \"Event Catch\" you can get\nseasonal Denpa Men with\nunique equipment! Aim well\nto catch your favorites!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3176,7 +3176,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ultra R. catch",
+			"text_contents": "Ultra R. Catch",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

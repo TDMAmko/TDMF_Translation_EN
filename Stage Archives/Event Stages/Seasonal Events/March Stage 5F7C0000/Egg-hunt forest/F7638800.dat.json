@@ -1,0 +1,77 @@
+{
+	"header": {
+		"text_amount": 1,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 67,
+		"offset_strings": 144,
+		"strings_section_size1": 12,
+		"offset3": 160,
+		"section_size2": 4,
+		"offset4": 176,
+		"section_size3": 16,
+		"offset5": 192,
+		"section_size4": 4,
+		"unk3": 0,
+		"offset6": 58,
+		"offset7": 66,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Nothing found...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648
+	]
+}
