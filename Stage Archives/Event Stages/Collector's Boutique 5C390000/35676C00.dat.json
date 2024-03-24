@@ -1,0 +1,813 @@
+{
+	"header": {
+		"text_amount": 47,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 11761,
+		"offset_strings": 11840,
+		"strings_section_size1": 564,
+		"offset3": 12416,
+		"section_size2": 188,
+		"offset4": 12608,
+		"section_size3": 16,
+		"offset5": 12624,
+		"section_size4": 96,
+		"unk3": 0,
+		"offset6": 11744,
+		"offset7": 11760,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Do you know what\n\"Total Assets\" means?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that this is the\nCollector's Boutique. What kind<1\"\u0000>\nof items they might sell?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧렧쀾⾰⟦DEBA⟧냖변뗉뻐⟦DFB6⟧➱⟦DDD9⟧⟦DEC0⟧쎯쐮⟞엝짓⾵꾳⟦D9C3⟧㈧생⟦DBDE⟧⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that this shop is for\ncollectors. Do they sell<1\"\u0000>\nanything unusual there?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⿆⟦DABA⟧㺸냀색⟒⿉킵뚾뇟⟦D927⟧낿⟦DEC3⟧⾽⻈⟅뛆툯⟦DEBD⟧볗눧짓⟦DFB6⟧넯⟦D927⟧쏝볞떮㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that this place is for\ncollectors. Does this mean they<1\"\u0000>\nsell special items here?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧렧쀾⾰⟦DEBA⟧냖변⿉킵뚾⿟➱뿙쎰뷞⸾룄⟦DECD⟧엂얼⾵슱똾쎯⟙⿄뎲쒺쌧볞떮㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that there is a huge\nshop ahead of us! ...So there<1\"\u0000>\nare probably lots of exclusive\nitems available here, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻⿆➵랰⿅뻐똧⿟➱ퟙ늼씯썼쒺⟦DC27⟧ㅼ⟓㺼벶쌾딯糚옲싓팧웁숯쏚ힺ⟦DA27⟧지㾶",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that this is a shop for\ncollectors. Is it any different<1\"\u0000>\nfrom a reqular store?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧렧쀾즰쀯짒딯뻐⟦DFB6⟧넯ퟙ➼⾲⻖㻌냂⿉킵쒾씻옧⾶뛁돟줧⾶⟅㾰2",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard this place is a must\nfor collectors. Well, is our<1\"\u0000>\nwallet ready for this?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧㺸냀맑⿉킵뚾뇟⟦D927⟧볗⟦DCB2⟧젯딮늻짌밯귞⟦DD27⟧⟦DECB⟧⿜➲뚰ힼ?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard this shop caters to\ncollectors. I hope there are<1\"\u0000>\nenough items to satisfy our\nneeds.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧렧쀾⾰⟦DEBA⟧냖변탉➾⟦DFB6⟧넯ퟙ➼얲찮턧㉼샜떼켯⟦DD27⟧⟦DEBF⟧㺸묯⟦D9BE⟧밯뛅뇟⟦D927⟧⿄⟖즲⟦DEC0⟧⟦DFB6⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This is a store for collectors.\nSo, this time no<1\"\u0000>\nadventure, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟆⿜⟦DABA⟧렧쀾⾰⟦DEBA⟧냖변탉➾⟦DFB6⟧넯⟦D927⟧낿⟦DEC3⟧횽쐮눻몳⟄糜먲⟦DD27⟧늶⿜⟦DECE⟧린볝곞씯눧쏝뷞㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is there anything useful here\nfor our adventures? Let's<1\"\u0000>\ncheck it out now!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DECE⟧린웝퐯삸⟞폂평넯⟦D927⟧뛉㿅⟊룔눯쎯훐뀧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Sometimes it's nice to relax by\ngoing shoping. I hope we'll<1\"\u0000>\nfind something good!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쿀⟆糜줱쯝⟞쓘딯늶짓⿓➲쎰뷞젯눮뀧짓⟦DFB6⟧퀯㻂⟦D8B6⟧⟏횽⾰⻆",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's interesting to visit a shop\nwith different goods than the<1\"\u0000>\nusual ones. Let's go into\nit right now!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㻌냂⿉뻐쐧섯⟦DFB6⟧⾳얼⟦DEBF⟧⟦DB27⟧운⿜꺷뀧뛐⿟⟦D8B1⟧⟏㺽묮뀧粧퀲➾⿆닊쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh well, I'll stick with you\nwherever you want to go,<1\"\u0000>\nso let's get into the shop!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏㮰➲풰쐮쒺⟦DD27⟧숯뜾➱쎯⟦D9D4⟧ힶ㉼⟊룔퀯➾⿆닊⟛⾵⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I would be happy if we could\nbuy something for me as well.<1\"\u0000>\nLet's go to the shop\nand buy some goods.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DECE⟧렧폆씯옧⾶꾶룃샚휧댯볚눧씯쨮퐧⾸킵욾쨯⟦DBB2⟧딧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let alone just taking a look\nat the products can be fun.<1\"\u0000>\nLet's go!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뚵펲꿉㯃꺼뀧⟦DDCB⟧⾵뛅틟⟦D927⟧⟦DEC0⟧쎹폞쀯볉눧훜젯묮뀧粧눱쾷꺼㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm looking forward to what rare\nand unusual items this shop<1\"\u0000>\nhas in store for us. So what\nare we waiting for? Let's go!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧⟦DD27⟧⿅뷒ퟞ➼⾲얼⟦DFB6⟧넯⟦D927⟧㮶지➼샐⻞뛎평⟉⿆뢵뗚⟄엙㿖➲⟦DEBB⟧픯➶냝⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Does this now mean I'm instead\nforced to shop? I don't want<1\"\u0000>\nto pressure you but I'd\nappreciate it if we can<1\"\u0000>\nkeep the shoping short and\nsimple.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "늶짓⿆㻂놷믜⟚쓙눯몳⟄⟦DEC3⟧㺽⺶㺼삶⟅눳⟦DEC3⟧좽粴쌳볐뛞⿆좵⟦DFB6⟧벲⟏⾽⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, you are collector too?\nYou must have come to this<1\"\u0000>\nplace, look for something\nexclusive... Ah, me look for<1\"\u0000>\nitem that failed to get earlier...\nMe sure, can find in shop!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, there fellow collectors.\nYou know what<1\"\u0000>\n\"Total Assets\" are?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, me apologize for asking. But\ndid you know about this? Can<1\"\u0000>\ncheck \"Total Assets\" by opening\n\"Menu\" with \"Y-Button\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yikes, this not good. Let me\nexplain. Total assets is amount<1\"\u0000>\nof gold which you would obtain\nif all of your property like<1\"\u0000>\nitems, interior, exterior and other\nbelongings get converted into<1\"\u0000>\ngold and then being added\nwith gold you own. This means in<1\"\u0000>\nother words, if have high total\nassets, you also own much!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome to Collector's Boutique.\nIn our boutique, we offer wide<1\"\u0000>\nvariety of items for\ncollectors. Can try out our<1\"\u0000>\nequipment by standing in front\nof displayed mannequins and<1\"\u0000>\npushing \"A-Button\". If wish to\nreturn home, please not<1\"\u0000>\nhesistate to talk to me. We\nthen send you back home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You already back? If have\nnothing left to do, will<1\"\u0000>\nsend you back to your island.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you for visiting our\nboutique. We look forward<1\"\u0000>\nseeing you again soon.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Please take time and enjoy\nshopping. Talk to me again<1\"\u0000>\nplease if you wish to return.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "On 1st floor, can find gold\nshop. On 2nd floor, is jewel<1\"\u0000>\nshop. In back of each floor,\ncan find VIP room for<1\"\u0000>\nspecial customers.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This counter handles items.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This counter handles equipment\nand decorations.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This special VIP area, only\nfor customers with total assets<1\"\u0000>\nhigher than <1\u0011\u0001>{4, assets, +}G.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me see, you have more than\n<1\u0011\u0001>{4, assets, +}G in total assets.<1\"\u0000>\nPlease take time and enjoy\nyour shopping here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We apologize for any\ninconvenience but it seems, you<1\"\u0000>\nnot meet demands.\nPlease enjoy shopping in front<1\"\u0000>\nof this floor. We look forward\nseeing you again.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome to our shop. Please take\nlook at our wide selection<1\"\u0000>\nof products. We very proud\nof it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "The shop in the back of boutique\non this floor is only available<1\"\u0000>\nfor exclusive collectors with\ntotal assets of more than<1\"\u0000>\n<1\u0011\u0001>{4, assets, +}G. This crazy.\n<1\u0011\u0001>{4, assets, +}, me tell you, <1\u0011\u0001>{4, assets, +}...<1\"\u0000>\nNever have seen\nsuch large amount of gold.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow, you part of exclusive VIP\nmembers? That's amazing.<1\"\u0000>\nMe impressed. Rich people not\nalways look rich as seems.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Sigh...she never finishes\nshoping,...If she not stop,<1\"\u0000>\nmight get very poor...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me want this, want that! Next\ntime you come back, these items<1\"\u0000>\nmight not be available again.\nWhenever you find something<1\"\u0000>\nyou not own yet, then it's\ntime to buy it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome. The 2nd floor is the\njewel shop floor. Please note,<1\"\u0000>\nwe not accept gold for our\nitems.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This counter handles items.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This counter handles equipment\nand decorations.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This area of the boutique is\nonly for VIP customers who<1\"\u0000>\npurchased at least <1\u000C\u0001>{3, jewel} jewels.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me see, you purchased more\nthan <1\u000C\u0001>{3, jewel} jewels (HOW!?).<1\"\u0000>\nWe hope, you enjoy shopping\nin the VIP area.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We very sorry. But it seems, you\nnot meet demands.<1\"\u0000>\nPlease enjoy shooping in front\narea of boutique.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome to our shop. Please take\nlook at our wide selection<1\"\u0000>\nof products which western<1\"\u0000>\nplayers not can purchase.\n<1\"\u0000>\nExcept you, cheater.\nStill very proud of products.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me have been saving up jewels\nfor this day... and now<1\"\u0000>\nwill buy super exclusive\nstuff! Will spend my precious<1\"\u0000>\njewels for something great!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hahaha hahaha hahaha!\nMe can't stop laughing because<1\"\u0000>\nshopping is so much fun!\nShoping is my life passion<1\"\u0000>\nHahahahaha! Also funny, how\nplayers from west can't enter<1\"\u0000>\nhere, haha! But you still here...\nHow!?\nYou cheater!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You need think about whether you\nbuy this one...or that one so<1\"\u0000>\nthat you not regret it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701
+	]
+}

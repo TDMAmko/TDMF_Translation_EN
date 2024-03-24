@@ -1,0 +1,532 @@
+{
+	"header": {
+		"text_amount": 29,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6140,
+		"offset_strings": 6208,
+		"strings_section_size1": 352,
+		"offset3": 6560,
+		"section_size2": 116,
+		"offset4": 6688,
+		"section_size3": 16,
+		"offset5": 6704,
+		"section_size4": 60,
+		"unk3": 0,
+		"offset6": 6132,
+		"offset7": 6140,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Be careful to avoid getting\nsoaked ahead!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Do you know what this light\ndoes?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This place, so gloomy and\nuncomfortable... Most important<1\"\u0000>\nthing to remember, here you\nfind lots of water monsters.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Blue Denpa Men resist water\nattacks very well, but red<1\"\u0000>\nDenpa Men weak against water\nattacks, so be careful.<1\"\u0000>\nSkills like \"<17\u0003>{5, SkillData}<2Í耀>{3, name, +}\" and\n\"<17\u0003>{5, SkillData}<2Ñ耀>{3, name, +}\" very effective<1\"\u0000>\nagainst water monsters.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Monsters ahead use water\nattacks. Me recommend, use<1\"\u0000>\n\"Water res\"via auto equip.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You know, what light does?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What, you already know... Me\nwanted to tell you...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Once you enter, you can leave\nthis place. Can also take with<1\"\u0000>\nyou, all items you got.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here should be 13 treasure\nchests in total in this cave.<1\"\u0000>\nBut me not able to find two\nof them... Maybe there is hidden<1\"\u0000>\npath somewhere around here?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hmmmmm, oh, I'm soooo sleepy...\nSnore...<1\"\u0000>\nHuh, I was sleeping here all<1\"\u0000>\nthe time thinking no one would\ncome here... I just woke up when<1\"\u0000>\nyou came in. I'm <17\u0003>{8, MessageNpcName, +}<28耀>{4, message}.\nWhat are you doing here?<1\"\u0000>\n... So you're adventuring to get\nstronger, right? Well, I think<1\"\u0000>\nI got enough sleep and I'd like\nto join you now. How about that?<1\"\u0000>\nIf I'm in your team, I can\nincrease your party's water<1\"\u0000>\nresistance. So you take me\nwith you, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Alright! I'll adventure with\nyou from now on!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, there's no empty space in\nyour Denpa Box, right?<1\"\u0000>\nGuess I can't join you\nthen... Zzz...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I see... Then I'll continue\nsleeping I guess... Good night...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'll go to the Denpa Box and\nsleep there. You'll have to<1\"\u0000>\nwake me up when you\nget back.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Zzz...when there's an empty\nspace in your Denpa Box...<1\"\u0000>\n...come back and wake\nme up... Zzz...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Zzz...hm? So do you now want\nme to join you?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wait! You little brat! I'm the\nchief of the water monsters<1\"\u0000>\nliving here. <17\u0003>{9, MonsterParameter, +}<2ª耀>{3, name, +}!\nYou've been slipping into other<1\"\u0000>\npeople's dwellings! This is a\nholy place created by the<1\"\u0000>\nspirits of water! I'm going to\ndrill holes all over you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let's goooo!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You're afraid of me! Then, go\nhome, go home you brat!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey kid! You're here again!?\nCome on! Move it! Or I'll drill<1\"\u0000>\nsome huge holes into you if\nyou don't!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, I lost...\nHow could I! My drills...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm extremely soaked... I'm\ngoing home now so that I don't<1\"\u0000>\ncatch a cold!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰퍼뀧⾰⟦DECB⟧꺼⟦DECB⟧꺼쀯⟞糖뺶뗞쬯똾닅⟖우㍼⟊룔⼾뒶⟛⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My whole body is soaked... Let's\ngo back home before I catch<1\"\u0000>\na cold or get fever.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟓낰븯⟦DDDE⟧➼⿝⟦DECB⟧꺼⟦DECB⟧꺼쌯⟞횽뙼⟦DEBE⟧⾵㻋얶뎲웁똯⟦D8B4⟧볏➮⺵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My whole body is soaking wet.\nLet's go home and dry off<1\"\u0000>\nas soon as possible.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧볝뛝⿟꾽➶⿘⟦DECB⟧꺼⟦DECB⟧꺼쌯⟞횽뭼뀧粰⟊룔⼾➶꾴糃똱뛜쾼꺼딧⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow, what a damp place.\nI don't want to come back<1\"\u0000>\nto such a humid cave.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺳듍簻튼캯닟쨯볞⾮⟦DEC0⟧꼧뻀㻞멼햰⾰⟦DEBC⟧툧⟦DEBC⟧볒쀾뫄⟦DCDB⟧논⟦D8CF⟧뜯쀾렧씯눧⻅.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow, I'm super soaked. I'll have\nto warm up and go to bed<1\"\u0000>\nwhen I get home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜粰⟓낰쬯볞쮮볞삮⟞糖➶꾴ퟀ넯샀➶㺸㺼죃씯렧⼾곁⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh no, I'm drenched all over my\nbody... I need to change my<1\"\u0000>\nclothes as soon as I get\nback home...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풲낰⟦DD2F⟧簧⟓⾰⟦DEBE⟧볝⿝⟦DECB⟧꺼⟦DECB⟧꺼㝼➶꾴⿃➽⟦DFB8⟧⿆뚷⟟살눧⟦DC2F⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm all wet... I think we should\ngo back home and take a rest.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾽➶⿘⟦DAC7⟧볃꿏죀뙼됧쎯픯뢯⟦D827⟧퐯펽딧⟦DEC3⟧⿜⟅뚲⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My body is completely drenched\nand I feel sick. Next time<1\"\u0000>\nwe should visit a much\ncooler place.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ힶ⟦DEC0⟧⟦DEBC⟧낭쬯볞쮮볞쎮⿞펷⿁⟦D9DC⟧눧⟦DEC3⟧횽숮⟦DFB7⟧⟦DC27⟧㉼⟓쒯똯⟗쒯㺼⿀⟦DECA⟧꺼⿆랲쀾눧짓⟦DEC3⟧㺽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "敭獳条e潶捩eつ弱獭g",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483749,
+		2147483750,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483751,
+		2147483752,
+		2147483711,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483736,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719
+	]
+}

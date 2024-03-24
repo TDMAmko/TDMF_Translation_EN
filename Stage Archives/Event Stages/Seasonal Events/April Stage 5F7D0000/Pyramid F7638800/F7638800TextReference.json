@@ -1,0 +1,1101 @@
+{
+	"header": {
+		"text_amount": 65,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 15267,
+		"offset_strings": 15344,
+		"strings_section_size1": 780,
+		"offset3": 16128,
+		"section_size2": 260,
+		"offset4": 16400,
+		"section_size3": 16,
+		"offset5": 16416,
+		"section_size4": 132,
+		"unk3": 0,
+		"offset6": 15258,
+		"offset7": 15266,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "本当ほんとうにスイッチを押おしますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "1ジュエルを渡わたして\n引ひき上あげてもらいますか？\n\nジュエルの所持数しょじすう　{3, jewel}個こ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエ、このピラミッドの謎なぞを解といたのか！？\nすごいじゃないか！！\n……ああ、オレは{8, MessageNpcName, +}<2#耀>{4, message}だ。\n金儲かねもうけのために来きたんだが、今回こんかいは失敗しっぱいだった。\nそれより、オマエと一緒いっしょにいれば\nもっと上う手まく稼かせぐことができそうだ。\nなあ、オレを仲間なかまにしてくれないか？\nオレがパーティにいれば\n敵てきがレアな物ものを落おとす確率かくりつが上あがるぜ！\nなあ、連つれて行いってくれないか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よし来きた！\n協力きょうりょくしてガッポリもうけようぜ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……オマエの島しま、オレが住すめる場所ばしょがないぞ。\n電波人間でんぱにんげんボックスが空あいたら、また来きてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダメなのか？\nお互たがいいい話はなしだと思おもうんだがな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オレは先さきに島しまに戻もどってるぜ。\nオマエはピラミッドの宝たからをとったら\n電波人間でんぱにんげんボックスを見みに来きてくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエの島しま、オレが住すめる場所ばしょがないぞ。\n電波人間でんぱにんげんボックスが空あいたら、また来きてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やはり、オレを仲間なかまにするのか？\nオレがパーティにいれば\n敵てきがレアな物ものを落おとす確率かくりつが上あがるぜ！\nなあ、連つれて行いってくれないか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このピラミッドにお宝たからがあるって聞きいたんで\n部ぶ下かを雇やとってわざわざ来きたんだ。\n……しかし、あいつら全然役ぜんぜんやくに立たたん！\nさっきも間違まちがった答こたえでひとり穴あなに落おとされたが\n全然戻ぜんぜんもどってくる気配けはいが無なくて困こまってるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おーい！\nちょっと待まて！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな、電波人間でんぱにんげん。\nお前まえも、このピラミッドの謎なぞに\n挑戦ちょうせんしに来きたんだろう？\nこの先さきにある4つの石像せきぞうの向むきを\n正ただしく合あわせれば、宝たからへの扉とびらが開ひらくぞ。\n正ただしい石像せきぞうの向むきのヒントは、ここを出でて\n南みなみに行いった所ところにある集落しゅうらくで聞きけるからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "謎なぞを解といたのか！？\nお前まえ、やるじゃないか！\nさあ、宝たからはお前まえのものだ。\n奥おくの部へ屋やに行いって、持もっていけ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく戻もどって来きたな、電波人間でんぱにんげん。\nまた、このピラミッドの謎なぞに\n挑戦ちょうせんしに来きたんだろう？\n分わかってると思おもうが、謎なぞを解とくヒントは\n南みなみの集落しゅうらくで聞きけるからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このピラミッドでは、知ち恵えのあるものには\nそれにふさわしい宝たからを授さずけている。\n何度なんども謎なぞを解とけば、その度たびに\n与あたえられる宝たからが変かわっていくんだ。\nだから、毎日まいにちここに来きて知ち恵えを試ためして行いってくれ！\n与あたえられる宝たからはこの通とおりだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "無ぶ事じに謎なぞが解とけたんだな！！\nさあ、奥おくの部へ屋やから宝たからを持もって行いってくれ！\n明日あしたも謎なぞを解とければ、別べつの宝たからが手てに入はいるからな。\n忘わすれずにまた来きてくれよ！\nちなみに、明日あした以降いこうに与あたえられる宝たからはこれだ。\n欲ほしい物ものがあったら、忘わすれずに来こいよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "無ぶ事じに謎なぞが解とけたんだな！！\nさあ、奥おくの部へ屋やから宝たからを持もって行いってくれ！\n最後さいごの宝たからがお前まえを待まっているぞ。\nよく頑張がんばったな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "無ぶ事じに謎なぞが解とけたんだな！！\nさあ、奥おくの部へ屋やから宝たからを持もって行いってくれ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "石像せきぞうを正ただしい向むきにすれば良いいらしいんだが\n向むきの呼よび方かたがなかなか覚おぼえられん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ええっと……\nこの方向ほうこうは「北きた」だろ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こっちが「東ひがし」だっけか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それで、こっちは「南みなみ」か……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最後さいごに、こっちが「西にし」と……。\nうう……むずかしい……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うう……ダメだ……。\nまだ覚おぼえられん……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まずは「北きた」から……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そこにある4色しょくの石像せきぞうを正ただしい向むきにして\n中央ちゅうおうのスイッチを押おせば、宝たからへの扉とびらが開ひらくらしい。\n石像せきぞうは前まえに立たって「Ａボタン」を押おせば\nちょっとずつ回まわせるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエ、扉とびらを開あけられたのか！？\n悔くやしいが、ここの宝たからはオマエのものだな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オマエ、大丈夫だいじょうぶだったか？\nまた、落おとされないように慎重しんちょうに考かんがえろよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうに押おしちゃって良いい？\n間違まちがってたら大変たいへんなことになりそうだよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵섾꾬⿃➲늰✿콼뛁⟟쎯ퟀ㉼닀⟦DDCD⟧뫅⟄⿆⟦D8C5⟧➿산훞?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうに押おして良いいですか？\n間違まちがっていたらどうなることか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵쌾눯눧⟦DEC3⟧㺽㾶콼뛁⟟쎯삲⿗쐷⟞얰뫙뛄⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうに押おして良いいですか？\nまあ、何なにがあっても私わたしは大丈夫だいじょうぶですけれど。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵쌾눯눧⟦DEC3⟧㺽㾶콼뀧야옧⟦DFB6⟧넯꼧폃㉼샜⟦DCBC⟧쀯닞⟦DEBC⟧➮첰쏞뷞뤾쓚⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうに押おしちまって良いいのか？\nあんたが良いいって言いうなら俺おれは従したがうぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵섾꿏⿃➲즲㾶논⟦DD27⟧뛀⿟➲꾲⿃뎲⟅糗⟦DAB5⟧⿜㺼뛀⿟댳⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "じゃあ、スイッチを押おしちゃうよ？\n君きみが言いうならきっと大丈夫だいじょうぶだもんね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBC⟧➬粰➽꾲뗁딯㺼곁➳㿖라뛐⿟뎲⟅糗뜳쒯쀯닞⟦DEBC⟧낮⟦DECC⟧쀯폞⿝⟈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このスイッチを押おすのね？\n押おしても怖こわいことは起おきないわよね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➽죉簿벵쌾팧먯⟜몲⟦DCC4⟧딯➷닅훜㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このスイッチを押おすのかね？\n君きみはもちろん自信じしんがあるんだろうね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➽뛉㿈라⟦DCD0⟧팯⟁⟦DDDB⟧㍼⟦DEBC⟧⟦DDBC⟧⟦DFB6⟧넯⟦D927⟧생⟦DBDE⟧좵?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このスイッチを押おせば良いいんですよねえ。\nもし間違まちがってても、私わたし責任せきにんとりませんよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➾⟦DECA⟧눯눧쏝뷞죖簮⟓⾼쇏⟦DFB6⟧꼧쏃糓샜粼븳욷쓝쿘➾훝?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この場所ばしょにお宝たからが眠ねむってるらしいよ！\nまずは、まわりの人ひとに話はなしを聞きいてみよう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟈꿑⟦D9C3⟧볗눧㻖콼봧⟦DCDE⟧콼⟦D8DC⟧⿉㻋⟄⿆엊밧⾵늷탃⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この場所ばしょにお宝たからが眠ねむってるらしいですよ。\nまずは、まわりのひとに話はなしを聞きいてみましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟈꿑⟦D9C3⟧볗눧⟦DEC3⟧횽콼봧⟦DCDE⟧콼⟦D8DC⟧⿉㻋웄쨯⟅떼뜯쎲쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この場所ばしょにお宝たからが眠ねむってるらしいです。\nまずは、情報収集じょうほうしゅうしゅうから始はじめましょうか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟퇈쎯ퟙ➼쎲뷞簾⟏⟦DEBD⟧糜⟦DEBC⟧낮냎밯낭궼뚰⿗볊틞볏➮뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この場所ばしょにお宝たからがあるらしいな。\nとりあえず、片かたっ端ぱしから話はなしを聞きいてみようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟦D9B1⟧볗눧⻅⟦D8C4⟧➱붴糞삶쪯볟똾⟗엊밧⾵늷⟃훐댧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここに宝物たからものがあるらしいねー。\nまずは地底人ちていじんさんたちに話はなしを聞きいてみようよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺糆쀲ힶ짓⟦DFB6⟧넯ퟙ➼좲⺰⟏⟦DEBD⟧糜섲쌾뀧⟦DEBC⟧믝생웁쨯⟅떼뜯쎲훐뀧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここに宝物たからものが眠ねむってるのよね？\nじゃあ、まずは情報収集じょうほうしゅうしゅうから始はじめるわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺糆쀲ힶ짓⟦DFB6⟧젯꿑⟦D9C3⟧줧죖밿곞뀧콼봧⟦DCDE⟧밯껞캰⾰궼뀧궼뚰糗쨲⟦DEBC⟧⟦D9D2⟧⟦DC27⟧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この場所ばしょにお宝たからがあるというのかね？\nでは、さっそく調しらべてみようではないか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟➱쓙눯➳뛉㿈⟦DEC3⟧⟦DC27⟧뭼뾯㺸밯췗쏞퀯⟖쎰⟞⿜⟅뚲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここに宝物たからものがあるんですよねえ？\nまわりの人ひとに聞きいて、本当ほんとうか確たしかめましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⿆뛀폗뛉⿟➱⟦DDD9⟧⟦DEC3⟧횽냈켿⟦D8DC⟧⿉㻋웄뜯쎲칼쓝뚰쀯㺼튶볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "君きみのおかげで宝物たからものに辿たどりつけたよ！\n次つぎも頼たよりにしてるからね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧쀯ힶ짓⿆쓀⟦D8DE⟧㻂뤧훀쉼⟦DFB7⟧팧쀯혧웘밯쌾⟙ힶ⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あなたのおかげで宝物たからものに辿たどりつけましたよ。\nさすがの推理力すいりりょくですね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀폗웉쀯⟦DEC4⟧싘뤾⟏㺼훀묮뚽짟봯⟦D8B2⟧⟦D827⟧뢮⟦DEC3⟧좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あなたのおかげで宝たからに到達とうたつできました。\n私わたしほどではないですが、中々なかなかやりますね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧뗉릶쏟糞쀲➶웗쐯산쏂럞⟏㺼⻀샜㺼쓎⟞⟦DEC3⟧⿜⟅쎲뷞⟦DFB6⟧야얶⾶⟦D8D4⟧⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あんたのおかげで宝物たからものが手てに入はいったぜ！\nやっぱり頼たよりになるな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱생⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀휧짓⟦DEB6⟧쌯⟆닊삯⟦DEBE⟧푼쪯⟟⿘⟀⟦D8D6⟧없⟦D927⟧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "君きみのおかげで宝物たからものが見みつかったよー！\n僕ぼくひとりでは多分たぶんムリだったと思おもうよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀휧짓⟦DFB6⟧퀯㻂꾶⿀⟖粰⟦DECE⟧렧⼾㻋⟄쏘⟦DCDE⟧쀯찧⟦DDDE⟧㉼⟑샘꿞쓀딯⟓횳.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "宝物たからものがみつかったのはあなたのおかげね。\n知的ちてきな人ひとって嫌きらいじゃないわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛀폗뛉⿟싐똾삯줧糜넲⟅지딯릶죟섮쌾얷쬯쐾꼧⿃ힷ➲⟦DEBC⟧⾬⟅⟦DCB2⟧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "君きみのおかげで宝たからが見みつかったね。\nさすが私わたしの見み込こんだパートナーだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀⟗⟦DFB6⟧퀯㻂꾶죀묮뚽⿟샜즼퀯➺생⿞⟦DFCA⟧뀧엄산⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "宝物たからもの、無ぶ事じに見みつかりましたねえ。\nあなた中々なかなか、頼たよりになると思おもいますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛀폗糉⟦DECC⟧⟦DEBC⟧⿆싐똾쿘밧쀾냈넮⟅糀씲얶粶⟀⟦D8D6⟧없쓙딯닓⟏횽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "きゃーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "겷뀾낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわーーーーー……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おーい、大丈夫だいじょうぶか！？\n良よかったら引ひき上あげてやろうか？\nそのかわり、引ひき上あげてやったら\nお礼れいとして、オレに1ジュエルでどうだ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうか……。\nまあ、せいぜい化ばけて出でないでくれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オーケー！\nじゃあ、縄なわを下おろすぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はぁはぁ……。\nじゃあ、約束やくそくの1ジュエルをもらうぞ。\nまた落おとされないように\n次つぎは慎重しんちょうにやれよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……って、オマエ、ジュエル持もってないじゃないか。\nじゃあ、助たすけてやることは出で来きないな。\nまあ、せいぜい化ばけて出でないでくれよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483720,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483671,
+		2147483672,
+		2147483656,
+		2147483673,
+		2147483721,
+		2147483657,
+		2147483674,
+		2147483719,
+		2147483728,
+		2147483658,
+		2147483709,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483675,
+		2147483710,
+		2147483662,
+		2147483676,
+		2147483722,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727
+	]
+}

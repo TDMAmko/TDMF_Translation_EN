@@ -1,0 +1,1101 @@
+{
+	"header": {
+		"text_amount": 65,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 15267,
+		"offset_strings": 15344,
+		"strings_section_size1": 780,
+		"offset3": 16128,
+		"section_size2": 260,
+		"offset4": 16400,
+		"section_size3": 16,
+		"offset5": 16416,
+		"section_size4": 132,
+		"unk3": 0,
+		"offset6": 15258,
+		"offset7": 15266,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Are you sure you want\nto push the switch?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Spend 1 Jewel for another try?\n\nJewels in possession:　<1\u0006\u0001>{3, jewel}",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You, solved riddle of pyramid!?\nThis great!!<1\"\u0000>\n…...Me am <17\u0003>{8, MessageNpcName, +}<2#耀>{4, message}. Came here\nto make money, but failed.<1\"\u0000>\nThink, can make more money\nif stay with you. Hey, can<1\"\u0000>\nyou make me your buddy?\nWill increase probability, of<1\"\u0000>\nmonsters dropping rare items!\nWill you take me wiht you, now?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Okay, me am ready! Let's\ncorporate and earn big!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...On your island, no place for\nme. Come back when have space<1\"\u0000>\nin Denpa Box.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "No?\nMe am disappoint.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me will go to island. After you\nget pyramid treasure, check<1\"\u0000>\nout Denpa Box to find me.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "On your island, no space for me.\nCome back when have space<1\"\u0000>\nin Denpa Box.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You still want me as buddy?\nWill increase chance of<1\"\u0000>\nrare drops during battle! Hey,\nwill take me now with you?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me heard, can find great\ntreasure in pyramid, so me<1\"\u0000>\nhired group of men to come\nall the way here. But they<1\"\u0000>\nnot helpful at all! One guy fell\ninto hole for giving wrong<1\"\u0000>\nanswer, just few minutes ago.\nNo sign of him coming back.<1\"\u0000>\nThis really annoying.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey!\nWait!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome, Denpa Men. You have\ncome to challenge the mystery<1\"\u0000>\nof this pyramid, right? If you\ncorrectly align all 4 statues<1\"\u0000>\nahead of you, the door to the\ntreasure room will open.<1\"\u0000>\nFor clues about the right\nformation of the stone statues<1\"\u0000>\nvisit the village south\nof here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You solved the riddle! Now the\ntreasure is yours. Go to the<1\"\u0000>\nback of the pyramid to\nclaim it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome back, Denpa Men. You've\ncome to challenge the pyramid's<1\"\u0000>\nriddle again, right? I'm sure\nyou already know the answer but<1\"\u0000>\nif you need more clues, you\ncan always check the village.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "In this pyramid, those with\nknowledge and wisdom will<1\"\u0000>\nbe able to get the treasure\nthey deserve. The treasure will<1\"\u0000>\nchange after each clear.\nSo come here every day<1\"\u0000>\nto test your knowledge and\nwisdom. The treasures that you<1\"\u0000>\ncan obtain are as follows.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You've solved the riddle!\nNow, please take the treasure<1\"\u0000>\nfrom the back of the pyramid\nto return home. If you solve<1\"\u0000>\nthe riddle tomorrow, you'll\nget a different reward.<1\"\u0000>\nDon't forget to come back\nagain! By the way, here is<1\"\u0000>\nthe list of treasures that you\ncan get from tomorrow onwards.<1\"\u0000>\nIf there's anything you wish to\nget, don't forget to come back!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You've solved the riddle!\nNow, please take the treasure<1\"\u0000>\nfrom the back of the pyramid\nto return home.<1\"\u0000>\nThe final treasure awaits you.\nYou did an incredible job!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You've solved the last riddle!\nNow, please take the treasure<1\"\u0000>\nfrom t he back of the pyramid\nto return home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "All you need do is, turn statues\nin right way, but can't<1\"\u0000>\nremember how the directions\nare called...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me see...\nThis direction, \"north\", right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This one \"east\", me guess?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "So, this one, \"south\"...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Finally, last one, \"west\"...\nUgh...difficult...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ugh...no good...\nStill can't remember...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Start with \"north\"...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If turn the 4 statues\ncorrectly and press switch<1\"\u0000>\nin center, door to\ntreasure room will open.<1\"\u0000>\nIf stand in front of one\nstatue and press \"A\", can<1\"\u0000>\nturn it a little.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You opened door! Me sorry,\ntreasure belongs to you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You alright? Should think\ncarefully, then you<1\"\u0000>\nnot fall of again.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Can I really push it? If we do\nit wrong, I'll be in trouble...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵섾꾬⿃➲늰✿콼뛁⟟쎯ퟀ㉼닀⟦DDCD⟧뫅⟄⿆⟦D8C5⟧➿산훞?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is it really okay if I push now?\nWell, no matter what happens,<1\"\u0000>\nI should be fine.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵쌾눯눧⟦DEC3⟧㺽㾶콼뛁⟟쎯삲⿗쐷⟞얰뫙뛄⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is it really okay to push the\nswitch? I don't know what will<1\"\u0000>\nhappen if we got it wrong...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵쌾눯눧⟦DEC3⟧㺽㾶콼뀧야옧⟦DFB6⟧넯꼧폃㉼샜⟦DCBC⟧쀯닞⟦DEBC⟧➮첰쏞뷞뤾쓚⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Are you sure you want me to\npush the switch?<1\"\u0000>\nIf you say so, I'll do it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDCE⟧냄⿆벵섾꿏⿃➲즲㾶논⟦DD27⟧뛀⿟➲꾲⿃뎲⟅糗⟦DAB5⟧⿜㺼뛀⿟댳⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Then,I'll push the switch.\nIf you agree, I'm sure<1\"\u0000>\neverything will be fine.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBC⟧➬粰➽꾲뗁딯㺼곁➳㿖라뛐⿟뎲⟅糗뜳쒯쀯닞⟦DEBC⟧낮⟦DECC⟧쀯폞⿝⟈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We are going to push the switch,\nright? If I push the switch,<1\"\u0000>\nnothing scary will\nhappen, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➽죉簿벵쌾팧먯⟜몲⟦DCC4⟧딯➷닅훜㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Will we push the switch?\nYou are confident, right?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➽뛉㿈라⟦DCD0⟧팯⟁⟦DDDB⟧㍼⟦DEBC⟧⟦DDBC⟧⟦DFB6⟧넯⟦D927⟧생⟦DBDE⟧좵?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "All we have to do is press the\nswitch. If something goes<1\"\u0000>\nwrong, I won't take the\nresponsibility.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺➽꾲뗁딯➾⟦DECA⟧눯눧쏝뷞죖簮⟓⾼쇏⟦DFB6⟧꼧쏃糓샜粼븳욷쓝쿘➾훝?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It is said that a great treasure\ncan be found in this place!<1\"\u0000>\nFirst, let's t talk to the\npeople around us to find<1\"\u0000>\nout more!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟈꿑⟦D9C3⟧볗눧㻖콼봧⟦DCDE⟧콼⟦D8DC⟧⿉㻋⟄⿆엊밧⾵늷탃⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that a huge treasure\ncan be found here.<1\"\u0000>\nLet's talk to the people\naround us for more information.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟈꿑⟦D9C3⟧볗눧⟦DEC3⟧횽콼봧⟦DCDE⟧콼⟦D8DC⟧⿉㻋웄쨯⟅떼뜯쎲쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that a great treasure\ncan be found in this place.<1\"\u0000>\nLet's find out more about\nthis!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟퇈쎯ퟙ➼쎲뷞簾⟏⟦DEBD⟧糜⟦DEBC⟧낮냎밯낭궼뚰⿗볊틞볏➮뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard there is a huge treasure\nlocated in this place.<1\"\u0000>\nLet's hear what the people\nhere know about it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟⟦D9B1⟧볗눧⻅⟦D8C4⟧➱붴糞삶쪯볟똾⟗엊밧⾵늷⟃훐댧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard there are treasure to\nbe found here. Let's talk to<1\"\u0000>\nthe dwarfs and listen to\nwhat they have to say!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺糆쀲ힶ짓⟦DFB6⟧넯ퟙ➼좲⺰⟏⟦DEBD⟧糜섲쌾뀧⟦DEBC⟧믝생웁쨯⟅떼뜯쎲훐뀧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There is a great treasure\naround here, right? Well, let's<1\"\u0000>\nstart gathering some\ninformation.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺糆쀲ힶ짓⟦DFB6⟧젯꿑⟦D9C3⟧줧죖밿곞뀧콼봧⟦DCDE⟧밯껞캰⾰궼뀧궼뚰糗쨲⟦DEBC⟧⟦D9D2⟧⟦DC27⟧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Can we find a treasure here?\nWell, we'll find out.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺⟦DECA⟧꺼糆딲뛀뛗⿟➱쓙눯➳뛉㿈⟦DEC3⟧⟦DC27⟧뭼뾯㺸밯췗쏞퀯⟖쎰⟞⿜⟅뚲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There's a treasure here, right?\nLet's ask the people around<1\"\u0000>\nhere to confirm this.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⿆뛀폗뛉⿟➱⟦DDD9⟧⟦DEC3⟧횽냈켿⟦D8DC⟧⿉㻋웄뜯쎲칼쓝뚰쀯㺼튶볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we found the\ntreasure! I'll be counting on<1\"\u0000>\nyou the next time too!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧쀯ힶ짓⿆쓀⟦D8DE⟧㻂뤧훀쉼⟦DFB7⟧팧쀯혧웘밯쌾⟙ힶ⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we were able to\nfind the treasure.<1\"\u0000>\nYou are indeed a very\ngood puzzle solver!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀폗웉쀯⟦DEC4⟧싘뤾⟏㺼훀묮뚽짟봯⟦D8B2⟧⟦D827⟧뢮⟦DEC3⟧좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we got the\ntreasure. I wouldn't have<1\"\u0000>\nbeen able to achieve this\nwithout you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧뗉릶쏟糞쀲➶웗쐯산쏂럞⟏㺼⻀샜㺼쓎⟞⟦DEC3⟧⿜⟅쎲뷞⟦DFB6⟧야얶⾶⟦D8D4⟧⟏좽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we got this\ntreasure! I knew I could<1\"\u0000>\nrely on you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱생⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀휧짓⟦DEB6⟧쌯⟆닊삯⟦DEBE⟧푼쪯⟟⿘⟀⟦D8D6⟧없⟦D927⟧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we got to the\ntreasure room. I probably<1\"\u0000>\nwouldn't have been able\nto do this on my own.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀휧짓⟦DFB6⟧퀯㻂꾶⿀⟖粰⟦DECE⟧렧⼾㻋⟄쏘⟦DCDE⟧쀯찧⟦DDDE⟧㉼⟑샘꿞쓀딯⟓횳.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You are the reason why we found\nthe treasure. I don't mind<1\"\u0000>\nworking together with\na smart person.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛀폗뛉⿟싐똾삯줧糜넲⟅지딯릶죟섮쌾얷쬯쐾꼧⿃ힷ➲⟦DEBC⟧⾬⟅⟦DCB2⟧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks to you, we got it! As\nexpected, you were a great help!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷⿉뚵⟦DFB9⟧⟦DEC3⟧㉼뛀⟗⟦DFB6⟧퀯㻂꾶죀묮뚽⿟샜즼퀯➺생⿞⟦DFCA⟧뀧엄산⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We found the treasre without\na hitch. I believe you are<1\"\u0000>\na very reliable partner.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뛀폗糉⟦DECC⟧⟦DEBC⟧⿆싐똾쿘밧쀾냈넮⟅糀씲얶粶⟀⟦D8D6⟧없쓙딯닓⟏횽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ahhhhh...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "겷뀾낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oooooops...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜낰낰낰낰낰낰⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, you okay? Can raise you\nup, if like. In return,<1\"\u0000>\nme get one Jewel from\nyou for helping.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me see... Make sure, you not\nturn into monster down there.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Okay!\nMe will lower rope!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Heehee... Me take 1 Jewel as\npromised for helping you.<1\"\u0000>\nNext time, be more careful,\nto not fall off again!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...you not have any Jewels.\nCan't help you then.<1\"\u0000>\nMake sure, you not turn\ninto monster down there.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483720,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483671,
+		2147483672,
+		2147483656,
+		2147483673,
+		2147483721,
+		2147483657,
+		2147483674,
+		2147483719,
+		2147483728,
+		2147483658,
+		2147483709,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483675,
+		2147483710,
+		2147483662,
+		2147483676,
+		2147483722,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483711,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727
+	]
+}

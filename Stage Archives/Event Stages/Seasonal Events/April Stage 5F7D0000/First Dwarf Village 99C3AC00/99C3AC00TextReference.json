@@ -1,0 +1,829 @@
+{
+	"header": {
+		"text_amount": 48,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 17949,
+		"offset_strings": 18016,
+		"strings_section_size1": 576,
+		"offset3": 18592,
+		"section_size2": 192,
+		"offset4": 18784,
+		"section_size3": 16,
+		"offset5": 18800,
+		"section_size4": 98,
+		"unk3": 0,
+		"offset6": 17940,
+		"offset7": 17948,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "お前まえもピラミッドの謎なぞを解とくための\nヒントを聞ききに来きたのか？\nオレたちも話はなしを聞きいて何度なんども試ためしてるんだが\nぜんぜん分わからないんだ……。\nう～ん……オレたちじゃ、頭あたまを使つかう仕事しごとは\nやっぱり無む理りなんじゃないか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの仕し掛かけを解とく\nヒントが知しりたいんだろう？\nいいか、4つの像ぞうはすべて\n違ちがう向むきを向むかせる必要ひつようがあるんだ。\n間違まちがえるなよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの仕し掛かけを解とく\nヒントが知しりたいんだろう？\n赤あかい像ぞうと緑みどりの像ぞうは\n真逆まぎゃくの向むきにする必要ひつようがあるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドのヒミツを知しりたいか？\nじゃあ、よく聞きけよ。\n赤あかい像ぞうは東ひがしの方ほうを向むけろ。\n……あともうひとつ。\n北きたを向むいている像ぞうは\n1体たいだけになるようにするんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんとは珍めずらしい。\nピラミッドのことを聞ききに来きたのか？\n俺おれが知しってるのはオレンジ色いろの石像せきぞうは\n西向にしむきにするってことかな。\nあと子供こどものいうことは信しんじるなよ。\nどうも間違まちがったことを覚おぼえてるみたいだからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんとは珍めずらしい。\nピラミッドのことを聞ききに来きたのか？\n赤あかい像ぞうはピラミッドの入いり口ぐちへ。\nオレンジの像ぞうは西にしに向むけると良いいぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仕し掛かけのヒントを聞ききたいって？\n俺おれが知しってるのは、赤あかい像ぞうは\n北きたの方ほうを向むけるってことだけだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの仕し掛かけを解とく\nヒントが知しりたいんだろう？\n赤あかい像ぞうは東ひがしを向むけるんだ。\nあと、青あおい像ぞうとオレンジの像ぞうは\n真逆まぎゃくの向むきにする必要ひつようがあるからな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんとは珍めずらしい。\nいいか、赤あかい像ぞうは東ひがしを向むけるんだ。\nあと、青あおい像ぞうは宝たからの部へ屋やの方向ほうこうに向むけろ。\n……間違まちがえるなよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの事ことが知しりたいの？\n……そうね、赤あかい像ぞうは東ひがしに向むけなさい。\n私わたしが知しってるのは、それだけよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの事ことが知しりたいの？\nそれじゃあ、ひとつ教おしえてあげるわ。\n青あおい像ぞうと緑みどりの像ぞうは同おなじ方向ほうこうを向むけるのよ。\n間違まちがえないでね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの事ことが知しりたいの？\nじゃあ、2つ教おしえてあげるわ。\nまず、オレンジの像ぞうは\n北きたを向むける必要ひつようがあるわ。\nそれから、4体たいの像ぞうの内うち\n2体たいは南みなみを向むかせるのよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、いらっしゃい。\nピラミッドの話はなしでしょ？\nそうね、赤色あかいろの石像せきぞうは東向ひがしむき\nオレンジ色いろは北向きたむきよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、いらっしゃい。\nピラミッドの話はなしでしょ？\n赤あかい像ぞうは北向きたむき\nオレンジの像ぞうは東向ひがしむきが正解せいかいよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ピラミッドの事ことが知しりたいの？\nたしか……赤あかい像ぞうは南向みなみむきだったはずよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、いらっしゃい。\nピラミッドの話はなしでしょ？\nえーとね、オレンジの像ぞうは\n東向ひがしむきが正解せいかいだったと思おもうわ。\nあとは、赤あかい像ぞうが西向にしむきだったと思おもうわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、いらっしゃい。\nピラミッドの話はなしでしょ？\nたしか、緑みどりの像ぞうとオレンジの像ぞうは\n同おなじ方角ほうがくを向むける必要ひつようがあるわ。\nあと、赤あかい像ぞうは北きたに向むけなさい。\nがんばってね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボク、大人おとなたちが話はなしてるのを聞きいたんだ。\n緑色みどりいろの像ぞうは入いり口ぐちの方ほうをむけるんだって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクもピラミッドのヒミツ知しってるよ！\nえーとね、緑色みどりいろの像ぞうは東ひがしを向むけないと\nいけないんだって。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクの知しってることを教おしえてあげる！\n青あおい色いろの像ぞうは南側みなみがわに向むけるんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボク知しってるよ！\n青あおい石像せきぞうは東ひがしに向むけるのが正解せいかいなんだ！！\nあと、顎あごヒゲのおじいちゃんの言いうことは\n信しんじない方ほうがいいよ。\n最近忘さいきんわすれっぽいから間違まちがうことが多おおいんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボク知しってるよ！\n4つの像ぞうは、ぜんぶ違ちがう向むきにしないと\nいけないんだって。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクもピラミッドのヒミツ知しってるよ！\nオレンジ色いろの像ぞうは西側にしがわで\n青あおい色いろの像ぞうは南側みなみがわに向むけるんだよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボク一生懸命いっしょうけんめいおぼえたんだよ！\n青あおい色いろの像ぞうは北側きたがわで\n緑色みどりいろの像ぞうは西側にしがわに向むけるんだよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクの知しってることを教おしえてあげる！\n緑色みどりいろの像ぞうは北側きたがわに向むけるんだよ。\nあとね、杖つえを持もってるリーダーは\nウソをついてるんだ。\nリーダーの言いうことは、信しんじちゃだめだよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お主ぬしもピラミッドの謎なぞに挑戦ちょうせんしておるのか？\nでは、ワシからもヒントをやろう。\nいいか、青あおい像ぞうは北きた\nオレンジの像ぞうは南みなみを向むけるんじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっほ、良よく来きたのう。\nピラミッドのヒミツを聞ききたいのじゃろ？\nワシが知しっておるのは、赤あかい像ぞうが北きた\n青あおい像ぞうは東向ひがしむきが正解せいかいということじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、石像せきぞうのことを教おしえて欲ほしいのかの？\nそれじゃあ、よくお聞きき。\n緑色みどりいろの像ぞうを入いり口ぐちの方ほうへ向むけるのじゃよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっほ、良よく来きたのう。\nピラミッドのヒミツを聞ききたいのじゃろ？\nワシが知しっておるのは、赤色あかいろの石像せきぞうを\n北きたの方角ほうがくに向むけると良よい、ということじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっほ、良よく来きたのう。\nピラミッドのヒミツを聞ききたいのじゃろ？\nワシが知しっておるのは\n緑色みどりいろの像ぞうは西向にしむきということだけじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほっほ、良よく来きたのう。\nピラミッドのヒミツを聞ききたいのじゃろ？\nワシが知しっておるのは\n緑色みどりいろの像ぞうは東向ひがしむきということじゃ。\nあと、南東なんとうにいる女性じょせいの言いうことは\nウソみたいじゃの。\nこれを踏ふまえて\n正ただしい向むきを考かんがえてみなされ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、なんの用ようじゃ？\nもしかしてピラミッドの事ことかの？\n青あおい像ぞうとオレンジの像ぞうは\nどちらも南向みなみむきが正解せいかいじゃよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お主ぬしもピラミッドの謎なぞに挑戦ちょうせんしておるのか？\nでは、ワシからもヒントをやろう。\nまず、いくつかは分わからんが\n4体たいの中なかには同おなじ向むきの像ぞうがあるはずじゃよ。\nさらに、もうひとつ。\n青あおい像ぞうは南側みなみがわに向むけるのじゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな。\nお前まえにも宝たからへのヒントをやろう。\n緑色みどりいろの像ぞうとオレンジ色いろの像ぞうは\n真逆まぎゃくの向むきにする必要ひつようがあるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんか……めずらしい客きゃくだな。\n宝たからへのヒントが欲ほしいのだろう？\nいいか？\nオレンジの像ぞうは南みなみを向むけるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな。\n宝たからへのヒントを授さずけよう。\n4体たいの像ぞうの中なかで\n1体たいだけは西にしを向むけるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんか……めずらしい客きゃくだな。\nお前まえたちも宝たからのヒントが欲ほしいのか？\nでは、良よく聞きくんだぞ。\nまず、緑色みどりいろの石像せきぞうを南みなみに向むけろ。\nそして赤色あかいろの石像せきぞうは東向ひがしむきだ。\n間違まちがえるとひどい目めにあうから注意ちゅういしろ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんか……めずらしい客きゃくだな。\nお前まえたちも宝たからのヒントが欲ほしいのか？\nでは、良よく聞きくんだぞ。\n青色あおいろの像ぞうは北向きたむきが正解せいかいだ。\nあと、南東なんとうにいる女性じょせいは\n正ただしい事ことを言いっているはずだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな。\nお前まえにも宝たからへのヒントをやろう。\nよく聞きけ！\nオレンジの像ぞうは南側みなみがわを向むけろ。\nそして、4体たいの像ぞうはすべて\n違ちがう方向ほうこうにする必要ひつようがあるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "宝たからへのヒントだな？\n緑色みどりいろの像ぞうは北きたを向むけろ。\nもうひとつ、4体たいの像ぞうの中なかに\n同おなじ向むきになるものは無ないからな。\n間違まちがえないように気きをつけろよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな。\nお前まえにも宝たからへのヒントをやろう。\nまず、オレンジ色いろの像ぞうを\n西向にしむきにするんだ。\nあと、緑色みどりいろの像ぞうと青色あおいろの像ぞうは\n真逆まぎゃくの向むきにする必要ひつようがあるぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よく来きたな、謎なぞに挑いどむ者ものよ！\nここはピラミッドを見守みまもる一族いちぞくの集落しゅうらくだ。\n宝たからの仕し掛かけを解とくためのヒントは\n中なかの者ものたちから聞きいてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ただし、中なかには「一人ひとり」だけ\nウソをついている者ものがいる。\nウソをついている者ものは\n間違まちがったことしか言いわないぞ。\nこの事ことをよく踏ふまえて\n正ただしい答こたえを見みつけるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ただし、中なかにはウソをついている者ものが\n「二人ふたり」いる。\nウソをついている者ものは\n間違まちがったことしか言いわないぞ。\nこの事ことをよく踏ふまえて\n正ただしい答こたえを見みつけるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ただし、中なかにはウソをついている者ものが\n「三人さんにん」いる。\nウソをついている者ものは\n間違まちがったことしか言いわないぞ。\nこの事ことをよく踏ふまえて\n正ただしい答こたえを見みつけるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうだ、謎なぞは解とけそうか？\n奥おくにいる者ものたちの中なかで\nウソをついているのは「一人ひとり」だけだ。\n間違まちがわないようによく考かんがえるんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうだ、謎なぞは解とけそうか？\n奥おくにいる者ものたちの中なかで\nウソをついているのは「二人ふたり」だ。\n間違まちがわないようによく考かんがえるんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうだ、謎なぞは解とけそうか？\n奥おくにいる者ものたちの中なかで\nウソをついているのは「三人さんにん」だ。\n間違まちがわないようによく考かんがえるんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483696,
+		2147483697,
+		2147483698
+	]
+}

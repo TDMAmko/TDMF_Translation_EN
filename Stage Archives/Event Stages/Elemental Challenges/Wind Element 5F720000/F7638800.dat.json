@@ -1,0 +1,365 @@
+{
+	"header": {
+		"text_amount": 19,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4729,
+		"offset_strings": 4800,
+		"strings_section_size1": 228,
+		"offset3": 5040,
+		"section_size2": 76,
+		"offset4": 5120,
+		"section_size3": 16,
+		"offset5": 5136,
+		"section_size4": 40,
+		"unk3": 0,
+		"offset6": 4720,
+		"offset7": 4728,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "I wonder how many days I've\nbeen lost wandering around<1\"\u0000>\nhere... The fallen trees on\nthe road renders are a huge<1\"\u0000>\nobstacle, not even the map can\nhelp... The monsters are getting<1\"\u0000>\nstronger and more dangerous, so\nwe have to be well prepared...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Be careful in forest, there\nare many wind monsters<1\"\u0000>\nwandering around there.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ice attacks and skills very\neffective against monsters in<1\"\u0000>\nthis forest. For your kind,\nskills like \"<17\u0003>{5, SkillData}<2¯耀>{3, name, +}\" or <1\"\u0000>\n\"<17\u0003>{5, SkillData}<2³耀>{3, name, +}\" very\nuseful here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me think, in this forest would\nbe good to equip yourself<1\"\u0000>\nwith \"Wind res\" equipment.\nIf not have such equipment,<1\"\u0000>\nthen please buy here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me...tired of this forest.\nIt's so wide and boring...<1\"\u0000>\nThink, will probably go home\ntaking the warp...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Green Denpa Men are resistant to\nwind attacks while orange ones<1\"\u0000>\nweak against them. Please be\ncareful up ahead.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Stop right there! What do you\nlowly creatures, that you are,<1\"\u0000>\nwant here? I forbid you to\nenter this sacred and peaceful<1\"\u0000>\nland. This an order from me,\nthe <17\u0003>{9, MonsterParameter, +}<2&耀>{3, name, +}, as the guardian<1\"\u0000>\nof this place chosen by the\nspirits of wind. If you desire<1\"\u0000>\nto fight against me, then I don't\nmind but let me tell<1\"\u0000>\nyou right away...\nGive up and go home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If you insist on battling,\nbetter be prepared.<1\"\u0000>\nDo you really think you'll be\nable to withstand my windstorms?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You made a very wise and\nthoughtful decision. Now, please<1\"\u0000>\nreturn home as soon as possible.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What do you still want? Do you\nreally desire to battle me?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I can't...believe that I, the\nguardian sent by the spirits<1\"\u0000>\nof wind, would be beaten up by\ncreatures like you.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you for your support.\nI hope this made us all<1\"\u0000>\na little stronger.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚糏⟦DABA⟧⟦DEC3⟧츯⟞㺸쇀㉼샏봻먾밧⼾⟂룖씯⟦DA27⟧뛀㿅.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you so much for helping\nme. I feel a little stronger.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⟚쾻⟦DEC3⟧밧쀾콼㯀㺽➺㺼숯혧⾸⟅샚냖⿅뚷⿟쾼봧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you for your time. I feel\nlike I've become stronger now.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⟚쾻쌧뷞簾⟦DABA⟧⟦DEC3⟧켻⿀㻋⟄㻂쉼혧⾸⟅샚뚷⿟쾼봧⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well done! Let's keep up the\ngood work to get even stronger!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾㯚멼쇉낮쎼㯞⟦DEC4⟧⟦DD27⟧⟦DEC4⟧⿝⟂룖씯㌧쎯눯➺뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Good job. It was tough but I\nfeel like I'm a little<1\"\u0000>\nstronger now!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⿚쾻낰쁼춲생⟞삯쒹糞샏봻먾밧⼾⟂룖씯⟦DA27⟧⿀뚷⿟⟦D9BD⟧⟖.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you for your hard work.\nI hope I got a little stronger.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚糏삱펼섯➮쒯⿜⟂룖씯⟦DA27⟧뛀ힼ⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This was pretty tough. I hope\nthis experience made us all<1\"\u0000>\na little stronger.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧➸냛⟦DEC0⟧삯糈⟦DABA⟧⟦DEC3⟧⟦DC2F⟧⟦DCDA⟧폚㉼㺽➺⟦DCBC⟧숯혧⾸⟅샚쏉⟦DCDE⟧씯눧좶⸿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thank you for putting so much\nhard work into us. I guess this<1\"\u0000>\nmade us a little stronger...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚쏏⟞㺼糀⟦DABA⟧⟦DEC3⟧섯➮쒯⿜⟂룖씯쿚밧쀾좶⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483675,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674
+	]
+}

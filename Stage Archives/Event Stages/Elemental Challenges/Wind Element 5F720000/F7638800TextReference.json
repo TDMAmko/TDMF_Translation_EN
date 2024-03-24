@@ -1,0 +1,365 @@
+{
+	"header": {
+		"text_amount": 19,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4729,
+		"offset_strings": 4800,
+		"strings_section_size1": 228,
+		"offset3": 5040,
+		"section_size2": 76,
+		"offset4": 5120,
+		"section_size3": 16,
+		"offset5": 5136,
+		"section_size4": 40,
+		"unk3": 0,
+		"offset6": 4720,
+		"offset7": 4728,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "もう何日迷なんにちまよっただろうか……。\n道みちにある倒木とうぼくのせいで、地ち図ずも役やくに立たたない……。\nモンスターも手強てごわくなってきたので\n覚悟かくごして進すすまねば……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この森もりの中なかには風属性かぜぞくせいのモンスターが\nうろついているから、気きをつけるんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この森もりのモンスターには\n氷こおりの特技とくぎが良よく効きくわよ。\nアンタたちだと「{5, SkillData}<2¯耀>{3, name, +}」とか\n「{5, SkillData}<2³耀>{3, name, +}」とかの特技とくぎかしらね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この森もりでは、対たい【風属性かぜぞくせい】のそうびをすると\n良いいかと思おもいますよ。\n装備そうびするものが無ないならば\nここでお買かい求もとめください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふぅ……この森もり、広ひろくて疲つかれちゃったよ……。\nもう、そこのワープポイントから帰かえろうかな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "緑色みどりいろの電波人間でんぱにんげんは風かぜに強つよいですが\n橙色だいだいいろの電波人間でんぱにんげんはその逆ぎゃくなんです。\n橙色だいだいいろの電波人間でんぱにんげんの方かたは\nこの先さき、お気きをつけ下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お待まちなさい！貴方あなたたちのような\n下等かとうな生いき物ものが何なんの用ようかしら？\n気安きやすくこの神聖しんせいな地ちに\n立たち入いらないでもらいたいわね。\n私わたしは風かぜの精霊せいれいの盾たて、{9, MonsterParameter, +}<2&耀>{3, name, +}。\nもし私わたしを倒たおしにきたのなら、悪わるいことは\n言いわないわ……諦あきらめてお帰かえりなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうしても向むかってくるのなら、覚悟かくごすることね。\nさあ、私わたしの巻まき起おこす風かぜを打うち破やぶれるかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "賢明けんめいな判断はんだんだわ。\nさあ、早はやくお帰かえりなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ何なにか用ようなの？\nもしかして、本当ほんとうに私わたしを倒たおすつもり？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そんな……この私わたしが\n貴方達あなたたちみたいなのに負まけるなんて……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お疲つかれさま。\nこれでボクたち、また少すこし強つよくなれたかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚糏⟦DABA⟧⟦DEC3⟧츯⟞㺸쇀㉼샏봻먾밧⼾⟂룖씯⟦DA27⟧뛀㿅.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お疲つかれさまでした。\nまた少すこし強つよくなれたような気きがしますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⟚쾻⟦DEC3⟧밧쀾콼㯀㺽➺㺼숯혧⾸⟅샚냖⿅뚷⿟쾼봧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お疲つかれさまです。\nこれでまたひとつ、強つよくなれた気きがしますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⟚쾻쌧뷞簾⟦DABA⟧⟦DEC3⟧켻⿀㻋⟄㻂쉼혧⾸⟅샚뚷⿟쾼봧⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おつかれ！\nこの調子ちょうしでどんどん強つよくなっていこうぜ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾㯚멼쇉낮쎼㯞⟦DEC4⟧⟦DD27⟧⟦DEC4⟧⿝⟂룖씯㌧쎯눯➺뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おつかれさまー。\n大変たいへんだったけど、また少すこし強つよくなれた気きがするよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾⿚쾻낰쁼춲생⟞삯쒹糞샏봻먾밧⼾⟂룖씯⟦DA27⟧⿀뚷⿟⟦D9BD⟧⟖.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お疲つかれさま。\nアタシもちょっとは強つよくなれたかしらね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚糏삱펼섯➮쒯⿜⟂룖씯⟦DA27⟧뛀ힼ⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ご苦労くろうだったね。\nこれで我々われわれも少すこしは強つよくなれたのではないかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧➸냛⟦DEC0⟧삯糈⟦DABA⟧⟦DEC3⟧⟦DC2F⟧⟦DCDA⟧폚㉼㺽➺⟦DCBC⟧숯혧⾸⟅샚쏉⟦DCDE⟧씯눧좶⸿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お疲つかれさまでした。\nこれでちょっとは強つよくなれましたかねぇ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "습똾믚쏏⟞㺼糀⟦DABA⟧⟦DEC3⟧섯➮쒯⿜⟂룖씯쿚밧쀾좶⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483649,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483675,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674
+	]
+}

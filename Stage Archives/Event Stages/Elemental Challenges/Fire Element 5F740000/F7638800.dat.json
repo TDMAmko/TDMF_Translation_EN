@@ -1,0 +1,461 @@
+{
+	"header": {
+		"text_amount": 25,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6403,
+		"offset_strings": 6480,
+		"strings_section_size1": 300,
+		"offset3": 6784,
+		"section_size2": 100,
+		"offset4": 6896,
+		"section_size3": 16,
+		"offset5": 6912,
+		"section_size4": 52,
+		"unk3": 0,
+		"offset6": 6394,
+		"offset7": 6402,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "Rumor says deep in volcanic\nmountain, there is huge treasure.<1\"\u0000>\nBut if it falls into magma,\ntreasure will melt immediately.<1\"\u0000>\nThere are also lots of fire\nmonsters here...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Red Denpa Men are resisting fire\nattacks quite well while<1\"\u0000>\nlight blue Denpa Men are weak\nagainst fire. If bring light blue<1\"\u0000>\nDenpa Men, you should\nbe careful.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ugh...ah, it's sooo hot.<1\"\u0000>\nGet rid of heat by using\n\"Fire res\" auto equip.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me got burned after got hit by\nmonsters ahead! If get<1\"\u0000>\nburned, damage from fire attack\nwill be much greater! Be careful!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Denpa Men can use \"<17\u0003>{5, SkillData}<2×耀>{3, name, +}\"\nand \"<17\u0003>{5, SkillData}<2Û耀>{3, name, +}\", right?<1\"\u0000>\nIf use these on fire monsters,\nwill be very effective!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Huh? A Denpa Man? Don't tell\nme you went here because you<1\"\u0000>\nheard <17\u0003>{8, MessageNpcName, +}<23耀>{4, message} was here.\n...What? That's not the reason?<1\"\u0000>\nWell, actually I am <17\u0003>{8, MessageNpcName, +}<23耀>{4, message}.\nI'm here on my free day but<1\"\u0000>\nI'm bored to death and have\nnothing to do here...<1\"\u0000>\nYeah, you got that right! I'd\nlike to join your party! Can you<1\"\u0000>\ntake <17\u0003>{8, MessageNpcName, +}<23耀>{4, message} with you?\nIf <17\u0003>{8, MessageNpcName, +}<23耀>{4, message} is in your party,<1\"\u0000>\nshe'll increase the fire\nresistance of your whole team.<1\"\u0000>\nSo what do you think?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Woooow! I'm so happy! I'm\nlooking forward to working with<1\"\u0000>\nyou from now on.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Huh? Your Denpa Box is full?\nPlease come back again when<1\"\u0000>\nit's not full.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Whyyyyyyy!!\nDon't you want <17\u0003>{8, MessageNpcName, +}<23耀>{4, message} on<1\"\u0000>\nyour team? I'm shocked...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<17\u0003>{8, MessageNpcName, +}<23耀>{4, message} is now on her way\nto your island. Please take a<1\"\u0000>\nlook at the Denpa Box when you\nreturn home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Because your Denpa Box is full,\n<17\u0003>{8, MessageNpcName, +}<23耀>{4, message} can't join you.<1\"\u0000>\nPlease come back when your\nDenpa Box is not full.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Huh? I guess you will take\n<17\u0003>{8, MessageNpcName, +}<23耀>{4, message} with you after all?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...I am <17\u0003>{9, MonsterParameter, +}<2Ï耀>{3, name, +} and I guard\na treasure chest in the back.<1\"\u0000>\nAs you can clearly see, I am\nweak against water and strong<1\"\u0000>\nagainst fire and I am aware\nthat you can freely change<1\"\u0000>\nyour attributes. I am not sure\nwhether I will be able to keep<1\"\u0000>\nthis treasure protected. But I\nam sure you want to fight me.<1\"\u0000>\nI'll beyour opponent if you\nlike. I'm not that strong<1\"\u0000>\nbut I'm tough.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Alright, let's fight!\nGo for it with all your might!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...Are you really quitting?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...You still want to fight me,\ndon't you? I'll be your opponent.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...I lost. I had a lot of\nconfidence in my<1\"\u0000>\nfire attribute...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Phew, it was really hot! Let's\ngo home to cool down!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰논숧똾삯㝼⟊룔⼾➶꾴⿃붽폞딧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It was really hot, right? Now we\nshould go back home to cool off.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰논숧똾삯⟦DEC3⟧좽똮됧쎯픯뢯⟦D827⟧봯⟦DEBD⟧쿐꺼딧⺶.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's really hot in here, right?\nLet's go home and cool off.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "슱눧쀯뛀쎲⟞㺼죀묮뀧뙼됧쎯렯⟦D9B0⟧⟦DEC0⟧댧볝볏떮⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It was a really hot battle!\nLet's come back for another<1\"\u0000>\nchallenge some time!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "슱눧쨯⟞⿄샙⟞삯⟦DEBE⟧콼⿀껁뺰볝⿆횺뀧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It was so hot! I want to go\nhome and eat ice cream.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱㻂꾶⿀냈粰➶꾴⿃➱붲⟦DEC3⟧⿓췀샞눧냅⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm...so sweaty...I'll have to\ntake a shower when I get home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰논븧똯눧곁삯⟦DC2F⟧㝼➶꾴ퟀ뵼렧웟밯➬냜⾵쮱⟞럅좬⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm so tired of all those hot\nmonsters. I want to go back home<1\"\u0000>\nto relax and cool down.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "슱렾볙눧팯⟦DD27⟧㺽냀⟦DECA⟧⟦D8B6⟧⟦DEC3⟧켯눧삯⻖➶꾴⿃꿕➸쓘봯⟦DEBD⟧샐눧짓⟦DEC0⟧⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Phew...I'm full of sweat...\nI really don't want to come<1\"\u0000>\nback here anymore.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰논븧⟦DEC3⟧팯뀧㉼⟦DECD⟧췄쓞⟦DEC3⟧봧糖⟦DEC3⟧➷쫚糞몺⟆⿜⟓粰뜲쀾렧씯눧⟦DEC3⟧좽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345685,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668
+	]
+}

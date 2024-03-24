@@ -1,0 +1,413 @@
+{
+	"header": {
+		"text_amount": 22,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 5185,
+		"offset_strings": 5264,
+		"strings_section_size1": 264,
+		"offset3": 5536,
+		"section_size2": 88,
+		"offset4": 5632,
+		"section_size3": 16,
+		"offset5": 5648,
+		"section_size4": 46,
+		"unk3": 0,
+		"offset6": 5176,
+		"offset7": 5184,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "This place, called \"<17\u0003>{8, MessageMapName, +}<2`耀>{4, message}\".\nIt is home for monsters with<1\"\u0000>\nelectric powers. If want climb up,\nmake sure, you prepared<1\"\u0000>\nagainst electric attacks!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You know about this? Yellow\nDenpa Men can resist electric<1\"\u0000>\nattacks well, but blue Denpa Men\nweak against electricity.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You got right equipment against\nelectricity? After shopping, can<1\"\u0000>\neasily choose equipment with\nauto equip and \"Elec res\".",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When you are hit with electric\nattacks, may get \"Shock\".<1\"\u0000>\nIf have this effect, will get\n1.5 times more damage from<1\"\u0000>\nelectric attacks! Me shocked!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ahh! After he touched light,\nhe disappeared!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It is said, this tower was built\nlong time ago by the<1\"\u0000>\n\"First Dwarfs\". Tower began to\ncrumble in some places, be<1\"\u0000>\ncareful to not fall off.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "From here, floors will be much\ntougher than someone like<1\"\u0000>\nyou can handle! Should take\nthis warp as soon as possible!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Me have very sensitive nose!\n...Sniff...sniff...<1\"\u0000>\nCan smell 9 green treasure\nchests and 3 brown ones.<1\"\u0000>\nYou not believe me? Me sure,\nthat am right!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Some of your kind, can use\nskills like \"<17\u0003>{5, SkillData}<2Ã耀>{3, name, +}\"<1\"\u0000>\nor \"<17\u0003>{5, SkillData}<2Ç耀>{3, name, +}\". These skills,\nvery effective in this tower!<1\"\u0000>\nThese moves are the coolest\nme know of.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Grrr...you, seem yummy. You look\nlike tasty fish, don't you?<1\"\u0000>\nI'm <17\u0003>{9, MonsterParameter, +}<2·耀>{3, name, +}. Let the\nelectric spirits be on my side.<1\"\u0000>\nI'm mastering the electrical\nattribute and I'll defeat you!<1\"\u0000>\nGrrrr...still want to try\nout your luck, tasty one?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Grrr...time for sushi!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Disappointing...\nI'm hungry...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Grrr...are you now ready\nto be my tasty, fishy meal?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm a loser...a hungry loser...\nYou lucky fish...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Phew... I'm still chattering...\nI hope it's gone by the time<1\"\u0000>\nI get back to the island...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰콼쀧⿞⟦DECB⟧⟦D827⟧⟦DECB⟧볘쌾훙뱼⟏⿆쓓⟞뫙웛⿜㉼⟄쏚쓙눯눧㻅낰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Phew... I'm still fidgeting...\nHopefully it will get better<1\"\u0000>\nwhen I get back to the island...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰콼쀧⿞⟦DECB⟧⟦D827⟧⟦DECB⟧⿘㺼쿃봧糖쾼옧팯⟦DEC4⟧⟦D927⟧⟦DBBA⟧⟦DCC6⟧씯➵쓙혯눧쏉뷞⟦DFB6⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My body is still numb and\ntingeling. I'm sure it will be gone<1\"\u0000>\nby the time I return to\nthe island.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧ㅼힶ⟦DEC0⟧⟦DFB6⟧쬯⟞쯘⟦D8DE⟧쐯밾⟦DECB⟧⟦DA27⟧쿃좽콼뀧뱼⟏⿆뒶⟦D927⟧⟦DBBA⟧⟦DCC6⟧씯➵쏙볞떮⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My body is still shaking...\nI hope it will get better<1\"\u0000>\nwhen we return to the island.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧㉼ힶ⟦DEC0⟧⟦DFB6⟧쬯⟞쯘⟦D8DE⟧밯퐧⟦DEB6⟧⟦D927⟧⟦DEBE⟧簾쾼옧팯⟦DEC4⟧⟦D927⟧⟦DBBA⟧⟦DCC6⟧씯➵쓙눯눧생뛞⿟⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow, my body is still shaking!\nI hope it will get better<1\"\u0000>\nby the time I get home...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜粰ힶ⟦DEC0⟧⟦DFB6⟧켯쀧⿞⟦DECB⟧⟦D827⟧⟦DECB⟧⿘⟦D9BD⟧혯뀧뙼됧뫙웛⿜뗅꼧⟦D9C3⟧⿄➲얰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My body is still kind of\nchattering around... I've had<1\"\u0000>\nenough of those shocking\nmonsters.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ힶ⟦DEC0⟧⟦DFB6⟧씯쓝⟅粸쬲⟞쯘⟦D8DE⟧봯⟦D927⟧糜⟦DEC3⟧⟦DD27⟧즷팯⟦DD27⟧㺽냀糜팲뀧먯뫘⟞⿘⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I still feel some tingles in my\nbody. I hope it gets better by<1\"\u0000>\ntime I return home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧㉼ힶ⟦DEC0⟧⟦DFB6⟧쬯⟞쯘⟦D8DE⟧쐯⟦D9BD⟧똯볝샞⟞糖➶⟦D9B4⟧⟦DBBA⟧⟦DCC6⟧씯➵쎯⟦D9B2⟧⿄⟖즲⟦DEC0⟧⟦DFB6⟧⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ugh...my body is still\nchattering... Do you think<1\"\u0000>\nit will heal properly any time\nsoon?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⾳粳⟏⟦DEC0⟧똯샗뛞⿟⟦DECB⟧⟦D827⟧⟦DECB⟧⿘쾼㺽멼⿚곁쓝씯➵⟦DDD9⟧⟦DEC3⟧꺼뚵㿈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698
+	]
+}

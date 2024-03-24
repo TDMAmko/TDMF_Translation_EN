@@ -1,0 +1,493 @@
+{
+	"header": {
+		"text_amount": 27,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6719,
+		"offset_strings": 6784,
+		"strings_section_size1": 324,
+		"offset3": 7120,
+		"section_size2": 108,
+		"offset4": 7232,
+		"section_size3": 16,
+		"offset5": 7248,
+		"section_size4": 56,
+		"unk3": 0,
+		"offset6": 6710,
+		"offset7": 6718,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "ここは「{8, MessageMapName, +}<2b耀>{4, message}」と呼よばれていて\n精霊様せいれいさまを祭まつる場所ばしょでした。\nそれが最近さいきん、どこからかモンスターが侵入しんにゅうしてきて\nここを占拠せんきょしてしまったのです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "白色しろいろの電波人間でんぱにんげんは光ひかりに強つよいのよね。\nでも紫色むらさきいろの電波人間でんぱにんげんは光ひかりに弱よわいから気きをつけて。\n光属性ひかりぞくせいのモンスターには「{5, SkillData}<2ë耀>{3, name, +}」とか\n「{5, SkillData}<2ï耀>{3, name, +}」とか、闇やみの特技とくぎが効きくと思おもうよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに出でるモンスターは光ひかりの攻撃こうげきをしてくるから\n対たい【光属性ひかりぞくせい】のそうびにしておくと良いいよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「突然死とつぜんし」や「一撃いちげき必殺ひっさつ」なんかくらっちゃうと\n残のこりのHPに関係かんけいなく倒たおされちゃうんだ。\n「突然死とつぜんし耐性たいせい」を上あげられるそうびがあれば\n防ふせげるのになぁ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いつでも脱出だっしゅつできるように\nワープポイントを作つくっておいたよ！\n危あぶなくなったら、ここから脱出だっしゅつしてね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきには目めくらましの攻撃こうげきをしてくる\nモンスターがいるから、気きを付つけてね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えーん！茶色ちゃいろい宝箱たからばこを2つ保管ほかんしてたのに\nどこに行いったか、わかんなくなっちゃったよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やあ、ボクは{8, MessageNpcName, +}<29耀>{4, message}！\nキミがあのモンスターを退治たいじしたのかい？\n……なんて頼たのもしいんだ！！\n良よかったらボクもキミの仲間なかまにしてくれない？\nボクの力ちからで光属性ひかりぞくせいの攻撃こうげきから\nキミを守まもってあげられるよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そう来こなくっちゃ！\nこれからよろしくね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やった！！\n……って、あれ……ボクが住すむ場所ばしょがないよ！？\n電波人間でんぱにんげんボックスに空あきができたら\nまた誘さそってよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そんなぁ……。\nボク、役やくに立たてると思おもうよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクは先さきに島しまで待まってるよ。\nキミと冒険ぼうけんするのが待まち遠どおしいな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんボックスに空あきができたら\nまた誘さそってよ！約束やくそくだからね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やっぱり、仲間なかまにしてくれるの？\n光属性ひかりぞくせいの攻撃こうげきからキミを守まもってあげるよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ほう……珍めずらしい客人きゃくじんが来きたようです……。\n私わたしの名なは{9, MonsterParameter, +}<2ņ耀>{3, name, +}。\n「光ひかりの精霊せいれいの鎧よろい」と呼よばれています。\n君きみたちのことは色々いろいろと耳みみにしていますよ。\n「最強さいきょう」を目め指ざしているそうじゃないですか？\nフフフ。それでは「最強さいきょう」の硬かたさを持もつ私わたしの体からだに\n傷きずをつけられるかどうか、試ためしてみますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良いいでしょう。\nでも、後悔こうかいしても知しりませんよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "……でしょうね。\n止やめておいたほうが、君きみたちの身みのためです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、やはり試ためしてみるというのですか？\n私わたしはかまいませんよ。フフフ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さすが……\n「最強さいきょう」を目め指ざしているだけはありますね……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まぶしかった！\nまだ目めがチカチカしてるよ。\n暗くらい所ところもイヤだけど\n明あかるすぎるのも大変たいへんだね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳏볞✾꾶냀콼쀧⿞⟒⟦DFB6⟧섯✾솶똾㺼⟦D9C3⟧⻖瀤条⑥롼닗쐯⟦DBBA⟧팧눯⟔⟦DEC0⟧쒹糞뚱뷙⟦DFB7⟧⟦D927⟧평쀯춲생죞⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まぶしくて、まだ目めがチカチカしてますよ。\n目めを閉とじてるので、このまま\n島しままで連つれて行いってくれませんか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳏볞✾쎸콼쀧⿞⟒⟦DFB6⟧섯✾솶똾㺼쿃횽␮慰敧簤⟒⾵⟄⟦DEBC⟧⟦D9C3⟧쏉糞즺쿏뱼쿏쌧⿞⟦DAC2⟧⿃꾲⿃⟦DAB8⟧뻏⟦DD27⟧㾶.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うぅ……目めがくらみます……。\nさすが光属性ひかりぞくせいのモンスターはまぶしかったですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⾳粳⟒⟦DFB6⟧렯탗⟏㺽뭼뚽⿟㻋⟦D8B6⟧⟦DEBF⟧렧븾즰팯⟦DD27⟧㺽냀糜켲⟦DECC⟧㺼똧삯⟦DEC3⟧좽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "くそっ、まだ目めがチカチカしやがるぜ！\nあんなにまぶしいのは、もうコリゴリだ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺸➿粯⟏⟦DEC0⟧툯똧⿟㻁솶똾밧뛔⟦D9DE⟧⟦DEBE⟧논엝⿆쳏볞눧⟦DCC9⟧퍼⾰⟦D8BA⟧먯⟦D8DE⟧쀧⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわー……目めがチカチカするよー……。\n僕ぼくは目めをつぶってるから\n君きみがひっぱって帰かえってよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜粰뛒㯟㻁똧㻁⾶⟦D9BD⟧⟖粰瀤条⑥칼⟞⟦DCB8⟧툯딧숯⟦DECC⟧쎯⟙ힶ라뛐⿟꿋⟦DFCA⟧꼧⿃뒶꼧훃⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "明あかるくて良いい場所ばしょだったけど\nちょっとまぶしかったわねー。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뚱룙쌾㍼➲⾰⟦DECA⟧꺼⟦DEC0⟧꼧맀⟦DEC4⟧셼➮쒯켯⟦DECC⟧㺼똧삯죜⺰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ目めがチカチカしているよ。\nまったく……ここのモンスターは\n明あかるさの加減かげんをしらないのかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧툯똧⿟㻁똧㻁벶쌾⟦D9B2⟧⻖瀤条⑥콼삯粸몺⿉⟓뷝쀾⟦DCB0⟧논⟦D9B6⟧즻똯⟦DFB9⟧뗝밯엗➲뛉㿈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ目めがチカチカしてますよ。\nここはちょっと明あかるすぎますねぇ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧툯똧⿟㻁똧㻁벶쌾뷏⻖몺⿜껁꼧⿄뚱뷙⟦DFB7⟧⟏좽⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345680,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704
+	]
+}

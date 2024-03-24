@@ -467,14 +467,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} is sizing up the situation.",
+			"text_contents": "<1ĉ\u0001>{3, name, +} is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} is sizing up the situation.",
+			"text_contents": "<1ċ\u0001>{3, name, +} is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,14 +1041,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} has no passivity?",
+			"text_contents": "<1ĉ\u0001>{3, name, +} is not\naffected",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} has no passivity?",
+			"text_contents": "<1ċ\u0001>{3, name, +} is not\naffected",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1573,14 +1573,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} obtained\ndivine power",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\ngained Holy Power",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} obtained\ndivine power",
+			"text_contents": "<1ċ\u0001>{3, name, +}\ngained Holy Power",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2301,14 +2301,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} turned\npassive???",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nPhysical Deflection",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +} turned\npassive???",
+			"text_contents": "<1ċ\u0001>{3, name, +} used\nPhysical Deflection",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2889,14 +2889,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は  reflected effect",
+			"text_contents": "<1ĉ\u0001>{3, name, +} reflected effect",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ċ\u0001>{3, name, +}は  reflected effect",
+			"text_contents": "<1ċ\u0001>{3, name, +} reflected effect",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -11457,7 +11457,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -11485,7 +11485,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -11499,7 +11499,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -11527,7 +11527,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -11541,7 +11541,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -12059,7 +12059,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ポイズンブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Poison Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -12115,7 +12115,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -12171,7 +12171,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　スリープブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Sleep Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15713,7 +15713,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15727,7 +15727,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15741,7 +15741,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ポイズンブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Poison Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15755,7 +15755,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　スリープブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Sleep Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15769,63 +15769,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} bit you!",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ポイズンブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15853,7 +15797,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15867,7 +15811,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　スリープブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15881,7 +15825,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Poison Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -15895,7 +15839,63 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　ポイズンブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} bit you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nextended its roots.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Sleep Breath!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Poison Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16063,7 +16063,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16231,7 +16231,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16259,7 +16259,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16301,7 +16301,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16427,7 +16427,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -16483,7 +16483,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　パラライズブレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Shock Breath!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -18471,7 +18471,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24337,7 +24337,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -25051,7 +25051,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -25891,7 +25891,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -26115,7 +26115,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -26269,7 +26269,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27459,7 +27459,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27487,7 +27487,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27529,7 +27529,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27571,7 +27571,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27627,7 +27627,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27683,7 +27683,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}の　連続かみつき！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nused Combo Bite!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -27935,7 +27935,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -29601,7 +29601,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -31813,7 +31813,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -32625,7 +32625,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -34263,7 +34263,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -34501,7 +34501,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -35537,7 +35537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -36587,7 +36587,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -36685,7 +36685,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -37175,7 +37175,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -37273,7 +37273,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -39821,7 +39821,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -41515,7 +41515,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -41809,7 +41809,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　様子を見ている",
+			"text_contents": "<1ĉ\u0001>{3, name, +}is sizing up\nthe situation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -48655,7 +48655,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "みなさ～ん♪出番ですよ～　ウヒヒッ！",
+			"text_contents": "Gentlemen♪ You're on! Tee-hee!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -48669,7 +48669,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "じゃんじゃん出てきてくださ～い♪　ウヒヒッ！",
+			"text_contents": "Come on and join me♪　Tee-hee！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -48697,7 +48697,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あーー！みなさーん！危ないですよー！Ｗ",
+			"text_contents": "Ahhh! Everyone! It's dangerous!Ｗ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

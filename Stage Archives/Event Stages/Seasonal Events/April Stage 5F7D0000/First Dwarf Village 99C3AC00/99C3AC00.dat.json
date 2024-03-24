@@ -1,0 +1,829 @@
+{
+	"header": {
+		"text_amount": 48,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 17949,
+		"offset_strings": 18016,
+		"strings_section_size1": 576,
+		"offset3": 18592,
+		"section_size2": 192,
+		"offset4": 18784,
+		"section_size3": 16,
+		"offset5": 18800,
+		"section_size4": 98,
+		"unk3": 0,
+		"offset6": 17940,
+		"offset7": 17948,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "You come here to ask for\nhints, to solve<1\"\u0000>\nriddle of pyramid?\nWe heard all hints<1\"\u0000>\nand tried lots of times but\ncan't figure it out at all...<1\"\u0000>\nIs it pointless for\nus, try something that<1\"\u0000>\nrequires lots of brain work?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to solve the pyramid's\npuzzle? Well, you see, all<1\"\u0000>\nfour statues need to face\ndifferent directions.<1\"\u0000>\nMake sure to not make\nany mistakes.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You are asking for a hint to\nsolve the pyramid's puzzle?<1\"\u0000>\nThe red and green statues\nhave to be facing in opposite<1\"\u0000>\ndirections.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to find out more about\nthe secrets of the pyramid?<1\"\u0000>\nThen listen carefully. The red\nstatue should be facing east...<1\"\u0000>\nAlso, only 1 statue\nshould be facing north. ",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's rare seeing Denpa Men\nhere. Have you come to<1\"\u0000>\nask about the pyramid? All I\nknow is that the orange statue<1\"\u0000>\nshould face west. And don't\nbelieve what the child says.<1\"\u0000>\nThey seem to incorrectly remember\nsome things.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's rare seeing Denpa Men\nhere. Have you come to<1\"\u0000>\nask about the pyramid? The red\nstatue should face to the<1\"\u0000>\nentrance. The orange one should\nface west.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You need a hint for the pyramid\npuzzle? All I know is that<1\"\u0000>\nthe red statue faces north.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You are looking for a clue to\nsolve the pyramid's puzzle,<1\"\u0000>\nright? The red statue faces\neast while the orange and blue<1\"\u0000>\nones face the opposite\ndirection.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's rare seeing Denpa Men\nhere. Well, the red statue<1\"\u0000>\nshould face east while the blue\none needs to be facing<1\"\u0000>\ntowards the treasure room.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to find out more\nabout the pyramid's secrets?<1\"\u0000>\n...Well, the red statue should\nface east. That's all I know.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to find out more\nabout the pyramid's secrets?<1\"\u0000>\nWell then, let me tell you.\nThe blue and green statue<1\"\u0000>\nhave to face in the same\ndirection. Don't make a mistake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to find out more\nabout the pyramid's secrets?<1\"\u0000>\nLet me tell you two things.\nFirst, the orange statue has<1\"\u0000>\nto face north. Second, two of the\nfour statues face south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, hello there. Asking\nabout the pyramid, right?<1\"\u0000>\nYeah, the red statue faces\neast while the orange statue<1\"\u0000>\nfaces north.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, hello there. Asking\nabout the pyramid, right?<1\"\u0000>\nThe red statue faces north\nand the orange one east.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You want to find out more\nabout the pyramid's secrets?<1\"\u0000>\nI think...the red statue\nshould face south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, hello there. Asking\nabout the pyramid, right?<1\"\u0000>\nLet's see, I think the orange\nstatue should be oriented<1\"\u0000>\nto the east. The red statue\nfaces west.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, hello there. Asking\nabout the pyramid, right?<1\"\u0000>\nThe green and orange statues\nface the same direction.<1\"\u0000>\nAnd the red statue should\nface north. Good luck!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard, some adults talking\nabout the pyramid.<1\"\u0000>\nThey said, the green statue\nfaces towards the entrance!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey, I know some secrets about\nthe pyramid, too! Let me think,<1\"\u0000>\nthe green statue has to\nface east.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let me tell you what I know!\nThe blue statue faces towards<1\"\u0000>\nthe south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I know that! The correct\ndirection of the blue statue<1\"\u0000>\nis towards the east! Also don't\nbelieve what the old guy<1\"\u0000>\nwith the beard says, he's a bit\nforgetful these days and makes<1\"\u0000>\nlots of mistakes.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I know a hint! I know that all\nfour statues have to be<1\"\u0000>\noriented in different\ndirections.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I know a secret of the pyramid,\ntoo! The orange statue faces<1\"\u0000>\nthe west while the blue one\nfaces the south side.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I worked really hard to memorize\nthis! The blue statue faces<1\"\u0000>\nnorth and the green one\nfaces the west side!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let me tell you what I know!\nThe green statue faces north.<1\"\u0000>\nAlso, don't believe the leader\nholding the staff. He's lying!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Are you trying to solve the\npyramids riddle? Well, let me<1\"\u0000>\ngive you a hint. The blue statue\nfaces north and the orange<1\"\u0000>\nstatue faces south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hoho, good to see you. You want\nto know more about the secrets<1\"\u0000>\nof the pyramid, right? What\nI know is that the red statue<1\"\u0000>\nfaces north and the blue one\nfaces east.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, you want me to teach you\nabout the stone statues?<1\"\u0000>\nWell, listen carefully. Turn\nthe green statue towards<1\"\u0000>\nthe entrance.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hoho, good to see you. You want\nto know more about the secrets<1\"\u0000>\nof the pyramid, don't you?\nAll I know is that the<1\"\u0000>\nred statue should face north.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, well, well. You want\nto know the secret of the<1\"\u0000>\npyramid, don't you?\n<1\"\u0000>\nAll I know is that the\ngreen statue is facing west.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, well, well. You want\nto know the secret of the<1\"\u0000>\npyramid, don't you?\n<1\"\u0000>\nAll I know is that the\ngreen statue faces east.<1\"\u0000>\nAlso, I know that the lady in\nthe souteast corner is lying.<1\"\u0000>\nPlease think carefully about\nthe direction of the statues.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, what do you want? Are you\ntalking about the pyramid?<1\"\u0000>\nThe blue and orange statue\nshould both face south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Are you trying to solve the\nriddle of the pyramid?<1\"\u0000>\nWell, let me give you a hint.\nFirst of all, I'm not sure which<1\"\u0000>\nof them but out of the 4,\nat least two must face in<1\"\u0000>\nthe same direction. Also, the blue\none faces towards the south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome. Let me give you a hint\nfor the pyramid puzzle.<1\"\u0000>\nThe green and orange statue\nface opposite directions.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Denpa Men...what unusual\nguests. You want to hear<1\"\u0000>\na clue about the pyramid\ntreasure, right? You know what?<1\"\u0000>\nThe orange statue faces south.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome, my friend. Let me give\nyou a hint for the treasure.<1\"\u0000>\nOut of the 4 statues, only\none should face west.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Denpa Men...what unusual\nguests. Do you need a hint<1\"\u0000>\nfor the pyramid treasure?\nWell then, listen up!<1\"\u0000>\nFirst, turn the green statue\ntowards the south. Then, the<1\"\u0000>\nred statue faces east. Don't\nmake a mistake, or else<1\"\u0000>\nyou'll be in huge trouble.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Denpa Men...what unusual\nguests. You guys want a hint<1\"\u0000>\nfor the treasure, right?\nWell then, listen!<1\"\u0000>\nThe correct orientation for the\nblue statue is north.<1\"\u0000>\nAlso, the lady in the southeast\nshould be saying the truth.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome. I have a hint for\nyou as well.<1\"\u0000>\nListen carefully! The orange\nstatue faces south towards<1\"\u0000>\nthe entrance. And all 4 statues\nneed to face<1\"\u0000>\nin different directions.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "A hint to the treasure? The\ngreen statue should face north.<1\"\u0000>\nOne more thing, none of\nthe 4 statues face the<1\"\u0000>\nsame direction. Be careful to\nnot make a mistake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome. Let me give you a hint\non how to get to the<1\"\u0000>\ntreasure room. First, turn the\norange statue to the west.<1\"\u0000>\nThe green and blue statue need\nto face opposite directions.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Welcome, all of you who attend\nthis riddle! This is the village<1\"\u0000>\nof the tribe that guards\nand protects the pyramids.<1\"\u0000>\nAsk the people in the village\nfor hints on how to solve<1\"\u0000>\nthe tricky pyramid puzzle.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "However, \"one\" of the people\nthere is lying.<1\"\u0000>\nA liar will only tell wrong\nthings. You must take this<1\"\u0000>\ninto account when trying\nto find the solution.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "However, \"two people\" there\nare lying.<1\"\u0000>\nA liar will only tell wrong\nthings. You must take this<1\"\u0000>\ninto account when trying\nto find the solution.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "However, \"three people\" there\nare lying.<1\"\u0000>\nA liar will only tell wrong\nthings. You must take this<1\"\u0000>\ninto account when trying\nto find the solution.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, can you solve the riddle?\nOf all the people in the back,<1\"\u0000>\nonly \"one\" of them is lying.\nThink carefully so you don't<1\"\u0000>\nmake a mistake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, can you solve the riddle?\nOf all the people in the back,<1\"\u0000>\n\"two\" of them are lying.\nThink carefully so you don't<1\"\u0000>\nmake a mistake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Well, can you solve the riddle?\nOf all the people in the back,<1\"\u0000>\n\"three\" of them are lying.\nThink carefully so you don't<1\"\u0000>\nmake a mistake.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345685,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483696,
+		2147483697,
+		2147483698
+	]
+}

@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "English Patch V.0.1",
+			"text_contents": "English Patch V.0.2",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Due to invalid jewel data\nthe save file is corrupted.\nDo you want to erase\nthe save data?",
+			"text_contents": "Due to invalid Jewel data\nthe save file is corrupted.\nDo you want to erase\nthe save data?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -376,7 +376,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Jewel data may be corrupted.\nSo, the save file\ncan'tbe used.",
+			"text_contents": "Jewel data may be corrupted.\nSo, the save file\ncan't be used.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "English Patch V.0.1",
+			"text_contents": "English Patch V.0.2",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -460,14 +460,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Code not accepted due to\nalready owning maximum gold.",
+			"text_contents": "Code not accepted due to\nalready owning max Gold.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Code not accepted due to\nalready owning maximum jewels.",
+			"text_contents": "Code not accepted due to\nalready owning max Jewels.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Reseted obtained interior\nitems in Ver.1.8 which were obtained\nby bugs.\nUsed gold refunded.",
+			"text_contents": "Reseted obtained interior\nitems in Ver.1.8 which were obtained\nby bugs.\nUsed Gold refunded.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -649,7 +649,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Additional purchased \"<1Đ\u0001>{3, name, +}\"\nwill be removed and used jewels\nwill be refunded.\n<1\u0003\u0001>{2, num} returned.",
+			"text_contents": "Additional purchased \"<1Đ\u0001>{3, name, +}\"\nwill be removed and used Jewels\nwill be refunded.\n<1\u0003\u0001>{2, num} returned.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

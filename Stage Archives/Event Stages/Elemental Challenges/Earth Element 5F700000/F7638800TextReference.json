@@ -1,0 +1,413 @@
+{
+	"header": {
+		"text_amount": 22,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4323,
+		"offset_strings": 4400,
+		"strings_section_size1": 264,
+		"offset3": 4672,
+		"section_size2": 88,
+		"offset4": 4768,
+		"section_size3": 16,
+		"offset5": 4784,
+		"section_size4": 46,
+		"unk3": 0,
+		"offset6": 4314,
+		"offset7": 4322,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "この先さき、どろだらけ注意ちゅうい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このどうくつには土属性つちぞくせいのモンスターが\nたくさん住すんでいるぞ。\nやつらには「{5, SkillData}<2¹耀>{3, name, +}」とか「{5, SkillData}<2½耀>{3, name, +}」とかの\n風属性かぜぞくせいの特技とくぎが有効ゆうこうだからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "橙色だいだいいろの電波人間でんぱにんげんは土つちに強つよいですが\n黄色きいろの電波人間でんぱにんげんは土つちに弱よわいんですよ。\nもし不安ふあんなら、そこの商人しょうにんから土属性つちぞくせいに\n対策たいさくできるそうびを買かって行いくと良いいですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さき、土属性つちぞくせいのこうげきや\nどろだらけに注意ちゅういをして下ください。\n「おすすめそうび」の対たい【土属性つちぞくせい】で\nバッチリ対策たいさくできますよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あのモグラみたいなモンスター\nつかまえてペットにしたいの！\nでも「ボス」とかいう強つよいモンスターは\n弱よわらせないと中々なかなかつかまえられないらしいわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そこの白しろいワープポイントから外そとに出でられるぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "イヤーン！せっかくの勝負服しょうぶふくがどろだらけだわ！\nどろだらけ耐性たいせいのふく買かわなくっちゃ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うひひひひ！やっとここまで掘ほり進すすんだんだ。\nよーし、お宝たからを掘ほり当あてるぞー！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あわわわ、穴あなを掘ほってたら何なにかにぶち当あたって\n向むこう側がわから鋭するどい目めでにらまれたんだ！ひー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お？お？\nおいら、はじめて電波人間でんぱにんげん見みただよ。\nおいらと、あそぼう。\nバトル！バトル！\nおいらに勝かったら奥おくにある宝物たからものをやるだよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おし！\n負まけねーからな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだ？\nあそばねーのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お？お？\nやっぱ、バトルか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらの負まけだ……。\nまた、あそぼうな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふぅ……体中からだじゅうがどろだらけだよ。\n帰かえったらきれいにしなくちゃね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰뙼샗볞귞뚰⿟⟦DEC4⟧샛⟞맗⟦DEC0⟧⻖➶꾴ퟀ뜯⟦DA27⟧우밯⟅㺸섯좬.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体中からだじゅうどろだらけになってしまいましたね。\n島しまに戻もどったら洗濯せんたくしておきますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ힶ⟦DEC0⟧⟦DEBC⟧낭㉼⟦DEC4⟧샛⟞맗⿆⟅꼳볃닏볏쀾糈쾼옧팯⟦DEC4⟧꼧ퟀ븯⟦DD27⟧룀밾쌾략⟏횽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体中からだじゅうどろまみれですよ。\nせっかくの一張羅いっちょうらだったんですが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ힶ⟦DEC0⟧⟦DEBC⟧낭쐯⟦DBDE⟧⟏⟦DAD0⟧⟦DEC3⟧횽빼뚯렧⿉꾲껁뀧샗꿞⟦DDC0⟧⟦DEC3⟧뚽⻟",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まったく……どろだらけになっちまったぜ。\nこりゃあ、帰かえったらすぐに洗濯せんたくだな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꿏룀쑼⟦DBDE⟧⟦DEC0⟧휧욹씯꼧쿁삯⟦DEBE⟧멼곘넧뙼됧삯⿗➽⟦DFB8⟧⿆⟦DDBE⟧룀⟦DEC0⟧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どろんこだけど楽たのしかったよ！\nまた遊あそびに来こようね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧⟛뫝쀧맞⟦DEC4⟧쀻줧➼꾶훀콼⿀뾱⟦DECB⟧⿆횺뀧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もう……体中からだじゅうどろだらけだわ！\n帰かえったらすぐに着き替がえなくちゃ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟓낰뙼샗볞귞⾰⟦DEC4⟧샛⟞맗⟦DEC0⟧糜➶꾴ퟀ봯렧웟뜯⟦DFB6⟧➴룅곁.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こんなにどろだらけにされるとは\n聞きいていなかったよ。\n土属性つちぞくせいのモンスターには\nまったく困こまったものだよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DDBA⟧웅쐯⟦DBDE⟧⟦DEC0⟧휧욹묯⟦D9DA⟧쐧糜늷닃⟅꾶훀␮慰敧簤㻂뿁⟞㺸낾⿉⟓뷝쀾우糜꿏룀⼾쾺꼧⿀짓⟦DEC0⟧혧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もう口くちの中なかまでどろが入はいってますよ。\n私わたしは本来ほんらい、きれい好ずきなんですけどねぇ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "냓㍼㺸직씯똧쏏⿞⟦DEC4⟧⟛⟦DFB6⟧쨯눧쎯뷏糖샜⟦DCBC⟧츯⟦DD27⟧닗라냚⟦DEBD⟧얷⟦DD27⟧⟦DEC3⟧㺽쒹죞⺰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483737,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719,
+		2147483720,
+		2147483721,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483730,
+		2147483731,
+		2147483732,
+		2147483733,
+		2147483734,
+		2147483735
+	]
+}

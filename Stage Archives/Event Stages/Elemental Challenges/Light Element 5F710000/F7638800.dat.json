@@ -1,0 +1,493 @@
+{
+	"header": {
+		"text_amount": 27,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6719,
+		"offset_strings": 6784,
+		"strings_section_size1": 324,
+		"offset3": 7120,
+		"section_size2": 108,
+		"offset4": 7232,
+		"section_size3": 16,
+		"offset5": 7248,
+		"section_size4": 56,
+		"unk3": 0,
+		"offset6": 6710,
+		"offset7": 6718,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "This place is called\n\"<17\u0003>{8, MessageMapName, +}<2b耀>{4, message}\" and served<1\"\u0000>\nas a site to worship the\nspirits. Recently, monsters<1\"\u0000>\ninvaded this place and\nnow keep it occupied.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "White Denpa Men resist light\nattacks quite well. But be<1\"\u0000>\ncareful if you bring purple\nDenpa Men with you as they are<1\"\u0000>\nweak to light attacks.\n\"<17\u0003>{5, SkillData}<2ë耀>{3, name, +}\" and \"<17\u0003>{5, SkillData}<2ï耀>{3, name, +}\"<1\"\u0000>\nas well as other darkness skills\nare very effective against<1\"\u0000>\nlight attribute monsters.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "The monsters that appear ahead\nwill use light attacks, so it's<1\"\u0000>\na good idea to use \"Light res\"\nequipment!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If you are affected with\n\"Sudden Death\", you will be<1\"\u0000>\ndowned after some turns\nregardless of your remaining HP.<1\"\u0000>\nIf only there was a way to\nincrease resistance to <1\"\u0000>\n\"Sudden Death\", then you'd at\nleast be able to prevent it...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "We created a warp here so that\nyou can escape any time!<1\"\u0000>\nIf you are in danger, use\nit to escape from here.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There are monsters ahead that\nwill use blindess attacks.<1\"\u0000>\nBe careful!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hmmm! I stored some items in two\nbrown treasure chests but I lost<1\"\u0000>\ntrack of them...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hi, I'm <17\u0003>{8, MessageNpcName, +}<29耀>{4, message}!\nDid you defeat that monster?<1\"\u0000>\nI'm so glad you're here!\nI'd like to be your companion<1\"\u0000>\nif you don't mind. With my\npower, I can increase your<1\"\u0000>\nresistance against light\nattacks!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "That's what I like to hear!\nI'm happy that I can support<1\"\u0000>\nyou from now on!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yay!!\n...Wait, it seems like you have<1\"\u0000>\nno space for me to live\non your island...<1\"\u0000>\nIf you have an empty space in\nyour Denpa Box, please come<1\"\u0000>\nback and talk to me again!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh no...\nDon't you think I can be useful?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'll be waiting for you on your\nisland. I can't wait to<1\"\u0000>\nadventure with you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When you have an empty space\nin your Denpa Box, come back<1\"\u0000>\nto me again! Promise me!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Can I now be your companion\nafter all? I will give you more<1\"\u0000>\nprotection against light\nattacks!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ho..rare and usual guests seem\nto have arrived...<1\"\u0000>\nMy name is <17\u0003>{9, MonsterParameter, +}<2ņ耀>{3, name, +} and\nI'm known for being called the<1\"\u0000>\n\"Guardian of the spirits of\nlight\". I've heard a lot of things<1\"\u0000>\nabout you that you're aiming\nto become the \"strongest in the<1\"\u0000>\nworld\", right? Hmpf. Then, would\nyou like to try if you can<1\"\u0000>\nwound the \"strongest and\ntoughest\" body ever known?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Good to hear. But I can't\nguarantee that you won't<1\"\u0000>\nregret it!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+		"text_contents": "...Too bad, I guess. I think it's\nbetter for yourself if<1\"\u0000>\nyou don't try it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, you still want to give it\na shot, right? I don't mind,<1\"\u0000>\nI'm fine with whatever you want.\nHmpf.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I see... You really are aiming\nfor becoming the \"strongest<1\"\u0000>\nin the world\"...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "That was dazzling! My eyes are\nstill twinkling. I don't like<1\"\u0000>\ndark places but I'm also not\na fan of too much light as well.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳏볞✾꾶냀콼쀧⿞⟒⟦DFB6⟧섯✾솶똾㺼⟦D9C3⟧⻖瀤条⑥롼닗쐯⟦DBBA⟧팧눯⟔⟦DEC0⟧쒹糞뚱뷙⟦DFB7⟧⟦D927⟧평쀯춲생죞⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's so bright, my eyes are\nstill flickering. Since my eyes<1\"\u0000>\nare closed, can you please\nguide my back to the island?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "쳏볞✾쎸콼쀧⿞⟒⟦DFB6⟧섯✾솶똾㺼쿃횽␮慰敧簤⟒⾵⟄⟦DEBC⟧⟦D9C3⟧쏉糞즺쿏뱼쿏쌧⿞⟦DAC2⟧⿃꾲⿃⟦DAB8⟧뻏⟦DD27⟧㾶.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ugh...dazzling... The monsters\nhere area indeed dazzling.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⾳粳⟒⟦DFB6⟧렯탗⟏㺽뭼뚽⿟㻋⟦D8B6⟧⟦DEBF⟧렧븾즰팯⟦DD27⟧㺽냀糜켲⟦DECC⟧㺼똧삯⟦DEC3⟧좽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Damn, my eyes are still\nflashing! I'm so sick of<1\"\u0000>\nthat glare...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺸➿粯⟏⟦DEC0⟧툯똧⿟㻁솶똾밧뛔⟦D9DE⟧⟦DEBE⟧논엝⿆쳏볞눧⟦DCC9⟧퍼⾰⟦D8BA⟧먯⟦D8DE⟧쀧⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Wow...my eyes are still glazing\nover... I'm closing my eyes<1\"\u0000>\nso please pull me out of here\nand take me home.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜粰뛒㯟㻁똧㻁⾶⟦D9BD⟧⟖粰瀤条⑥칼⟞⟦DCB8⟧툯딧숯⟦DECC⟧쎯⟙ힶ라뛐⿟꿋⟦DFCA⟧꼧⿃뒶꼧훃⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "It's a nice place with bright\nlights but it's a bit dazzling.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뚱룙쌾㍼➲⾰⟦DECA⟧꺼⟦DEC0⟧꼧맀⟦DEC4⟧셼➮쒯켯⟦DECC⟧㺼똧삯죜⺰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My eyes are still flickering.\nDo the monsters...here<1\"\u0000>\nadjust their eyes to the\nbrightness?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧툯똧⿟㻁똧㻁벶쌾⟦D9B2⟧⻖瀤条⑥콼삯粸몺⿉⟓뷝쀾⟦DCB0⟧논⟦D9B6⟧즻똯⟦DFB9⟧뗝밯엗➲뛉㿈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "My eyes are still twinkling.\nIt's a little to bright here...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟏⟦DEC0⟧툯똧⿟㻁똧㻁벶쌾뷏⻖몺⿜껁꼧⿄뚱뷙⟦DFB7⟧⟏좽⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345680,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483688,
+		2147483689,
+		2147483690,
+		2147483691,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483692,
+		2147483693,
+		2147483694,
+		2147483695,
+		2147483696,
+		2147483697,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704
+	]
+}

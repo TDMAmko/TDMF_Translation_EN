@@ -1,0 +1,525 @@
+{
+	"header": {
+		"text_amount": 29,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6643,
+		"offset_strings": 6720,
+		"strings_section_size1": 348,
+		"offset3": 7072,
+		"section_size2": 116,
+		"offset4": 7200,
+		"section_size3": 16,
+		"offset5": 7216,
+		"section_size4": 60,
+		"unk3": 0,
+		"offset6": 6634,
+		"offset7": 6642,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "この先さき、みずびたしに注意ちゅうい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この光ひかりがなんだか知しっていますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんかジメジメして気き持もちが悪わるいなぁ……。\nいかにも水属性みずぞくせいモンスターが出でそうだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "青色あおいろの電波人間でんぱにんげんは水みずに強つよいですが\n赤色あかいろの電波人間でんぱにんげんは水みずに弱よわいので、お気きをつけて。\n水属性みずぞくせいモンスターには「{5, SkillData}<2Í耀>{3, name, +}」や\n「{5, SkillData}<2Ñ耀>{3, name, +}」の特技とくぎが有効ゆうこうですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに出でるモンスターは\n水属性みずぞくせいの攻撃こうげきをしてきます。\n「おすすめそうび」で\n対たい【水属性みずぞくせい】にするのが良いいですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この光ひかりなんだか知しってるか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだ、知しってるのか……。\nせっかく教おしえてやろうと思おもったんだが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そこに入はいると外そとに出でられるんだよ。\n手てに入いれたお宝たからも、そのまま持もって帰かえれるんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このどうくつ内ないには\nたからばこが全部ぜんぶで13個こあるはずなんだ。\nでも、どうしてもあと2つが見みつからない……。\nどこかに隠かくし通路つうろでもあるのか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふわあ～～～ん……。\nねむい……。\nせっかく誰だれも来こない場所ばしょで寝ねてたのに……。\n君きみが来きて目めが覚さめちゃったよ。\n私わたしは{8, MessageNpcName, +}<28耀>{4, message}。\n君きみは何なにをしているの？\n……そうか……\n強つよくなるために冒険ぼうけんをしてるんだ？\nう～ん……もうじゅうぶん寝ねたし\n私わたしもついて行いっちゃおうかな？\nどう？私わたしがいれば水属性みずぞくせいの攻撃こうげきから\n守まもってあげることができるよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よし！\nじゃあ、これからよろしくね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、電波人間でんぱにんげんボックスに空あきがないよ？\nそれじゃ一緒いっしょには行いけないね……ZZZ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうか……。\nじゃあやっぱり、もう一眠ひとねむりするよ。オヤスミ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしは先さきに電波人間でんぱにんげんボックスに行いって寝ねてるから\n戻もどったら起おこしてよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ZZZ……電波人間でんぱにんげんボックスに空あきができたら\nまたおいで……ZZZ……",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ZZZ……ん？\nやっぱり、一緒いっしょに行いって良いいの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちょい待まてぇーーーーーーい！\n小僧こぞうっ！！\nワシはここにすむ水みずの生いき物ものたちの長おさ。\nド！ド！{9, MonsterParameter, +}<2ª耀>{3, name, +}様さまだ！\nた、他人たにんの住処すみかにズッカズッカと\n入いりやがってぇーーーーーい！\nここは水みずの精霊様せいれいさまが作つくられた……\n……らしい……聖せいなる場所ばしょよ！！\n他ほかの属性ぞくせいのニオイをプンプンさせてるようなヤツは\nオレ様さまのド！ドリルで、穴あなだらけにしてやるわ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "行いくぜぇーーーーーーい！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "このオレ様さまに怖おじ気け付づいたか！\nさあ、帰かえれぇーーーーーーい！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "小僧こぞうっ！！\nまた来きたのか！？\nさあ！オレ様さまのド！ドリルで\n今度こんどこそ穴あなだらけにしてくれるわ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ま、負まけた……。\nオ、オレ様さまのド！ドリルが……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ふぅ……もうビショビショだよ……。\n風か邪ぜをひかないように、早はやく帰かえろう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟌낰퍼뀧⾰⟦DECB⟧꺼⟦DECB⟧꺼쀯⟞糖뺶뗞쬯똾닅⟖우㍼⟊룔⼾뒶⟛⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もう全身ぜんしんビショビショですよ……。\n風か邪ぜをひかないうちに帰かえりましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟓낰븯⟦DDDE⟧➼⿝⟦DECB⟧꺼⟦DECB⟧꺼쌯⟞횽뙼⟦DEBE⟧⾵㻋얶뎲웁똯⟦D8B4⟧볏➮⺵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全身ぜんしんがすっかりビショビショですよ。\nさあ、早はやく帰かえって乾かわかしましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧볝뛝⿟꾽➶⿘⟦DECB⟧꺼⟦DECB⟧꺼쌯⟞횽뭼뀧粰⟊룔⼾➶꾴糃똱뛜쾼꺼딧⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うへぇ、湿しめっぽい場所ばしょだったぜ……。\nこういうジメジメした所ところは、あまり来きたくないな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㺳듍簻튼캯닟쨯볞⾮⟦DEC0⟧꼧뻀㻞멼햰⾰⟦DEBC⟧툧⟦DEBC⟧볒쀾뫄⟦DCDB⟧논⟦D8CF⟧뜯쀾렧씯눧⻅.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわー、もうビショビショだよ。\n帰かえったら暖あたたかくして寝ねなくちゃね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳냜粰⟓낰쬯볞쮮볞삮⟞糖➶꾴ퟀ넯샀➶㺸㺼죃씯렧⼾곁⻈.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いやーん、もう全身ぜんしんビショビショ……。\n帰かえってすぐに着き替がえたいわ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풲낰⟦DD2F⟧簧⟓⾰⟦DEBE⟧볝⿝⟦DECB⟧꺼⟦DECB⟧꺼㝼➶꾴⿃➽⟦DFB8⟧⿆뚷⟟살눧⟦DC2F⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "すっかり、ぬれてしまったね……。\n帰かえってゆっくり休やすもうではないか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾽➶⿘⟦DAC7⟧볃꿏죀뙼됧쎯픯뢯⟦D827⟧퐯펽딧⟦DEC3⟧⿜⟅뚲⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "体中からだじゅうビショビショで気き持もち悪わるいですよ。\n次つぎはもっとカラッとした場所ばしょに行いきたいものです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ힶ⟦DEC0⟧⟦DEBC⟧낭쬯볞쮮볞쎮⿞펷⿁⟦D9DC⟧눧⟦DEC3⟧횽숮⟦DFB7⟧⟦DC27⟧㉼⟓쒯똯⟗쒯㺼⿀⟦DECA⟧꺼⿆랲쀾눧짓⟦DEC3⟧㺽⸮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345681,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483749,
+		2147483750,
+		2147483707,
+		2147483708,
+		2147483709,
+		2147483710,
+		2147483751,
+		2147483752,
+		2147483711,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483736,
+		2147483737,
+		2147483738,
+		2147483739,
+		2147483740,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483719
+	]
+}
