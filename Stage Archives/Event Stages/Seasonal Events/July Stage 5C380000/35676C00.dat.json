@@ -1,0 +1,589 @@
+{
+	"header": {
+		"text_amount": 33,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 7425,
+		"offset_strings": 7504,
+		"strings_section_size1": 396,
+		"offset3": 7904,
+		"section_size2": 132,
+		"offset4": 8048,
+		"section_size3": 16,
+		"offset5": 8064,
+		"section_size4": 68,
+		"unk3": 0,
+		"offset6": 7408,
+		"offset7": 7424,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "The treasure box is shut tight.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard that you can play\nmemory here!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I saw that you can play a game\nof memory in this place!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⟦DEC3⟧횽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here we can play memory!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷뿙쎰뷞⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard we can play memory\nin this place!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here we can try our hands on\na game called memory!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷⟦DDD9⟧⟦DEC0⟧쎯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard we can try our hands at\na game of memory here!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧훜㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I heard we can play memory\nhere!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Here, we can try our luck and\nmemorizing at a game of memory.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷뿙쎰뷞⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let's team up to clear the\ngame!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼糆렱⟦D827⟧떱툯⟦DEBB⟧밧쌾똯⟦DDDE⟧⟦DECA⟧⟛⾵⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm kind of excited. Let's work\ntogether.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞⟦DC2F⟧렧룜밾섾늬뷏ꤾ눮벯욮똯⟦DDDE⟧⟦DECA⟧쿘꺼딧㿈3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Luck and memorizing are key to\nvictory. Let's aim to<1\"\u0000>\nclear the game!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳쓝뜯뢵⟦D827⟧뢮⟦DFB6⟧밯➮첰짞똯⟦DEB7⟧쌧뷞젯똮뻝⟦DDDE⟧➸뇘⾵믒볞볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let's try to complete the whole\nmemory! I'm counting on<1\"\u0000>\nyou, partner!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼⿆➸뇘⾵믒뿞딧⟦DEBE⟧쁼혧웘밯쌾⟙ힶ⿅늱⟦DECE⟧뀧⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Let's complete the memory\ntogether! I'll do my best!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼⿆➸뇘⾵믒뿞딧젯칼⟞편똯⟦DDDE⟧⟦DECA⟧⟦D927⟧냖⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Maybe we together can clear\nthis game of memory?<1\"\u0000>\nI'm counting on you.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧⿄꾲꺼⟅⿗➸뇘⟦DEC3⟧㺷곁뚳㿓⟀⟦D8D6⟧⿆㺼⟦D9C3⟧⟦DC27⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Have you any confidence in your\nmemorizing skills? Let's aim to<1\"\u0000>\nclear the memory!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "떷➸께울밯볞⟦DCDD⟧➱뛙㾲폄⿆➸뇘⾵믒뿞딧⟦DEC3⟧엜뚲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Anyway, let's aim for a perfect\nmemory match. If we're lucky,<1\"\u0000>\nwe might be able to achive it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧뺰씧⿗⟦DDB6⟧⟦DEBE⟧룝⟦D827⟧⾱퟈쾲꺼딧⻖➳뛝⿟⟖⟦DAB9⟧⟦DECA⟧ㅼ릲⟙펶밯쿚➾⟦DD33⟧㿖3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey hey hey! Was waiting for\nyou! Here, can play game of<1\"\u0000>\nmemory with treasure chests!\nOpen two treasure chest<1\"\u0000>\nahead of you, if contain same\nitem, will keep item!<1\"\u0000>\nBut careful. If get same monster,\nwill need battle monster<1\"\u0000>\ninstantly.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Also, if not get same thing,\ntreasure chests will close<1\"\u0000>\nagain. After this happens\n<1\u0002\u0001>{2, num} times, the game is over!<1\"\u0000>\nOnly keep items you already got!\nThe best Denpa Men who collect<1\"\u0000>\nall items, will get special\nprize! Not have to find<1\"\u0000>\nall monsters to get\nspecial prize!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Then, let's start!\nOpen the treasure chests!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey hey hey! You here back\nagain, Denpa Men? Back for<1\"\u0000>\nanother round of memory?\nMe won't bother you with<1\"\u0000>\nexplanation this time!\nStart right away!<1\"\u0000>\nOpen the treasure chests!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "What wrong? Need trust, your\nown instincts and open<1\"\u0000>\nchests correctly!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hey hey hey, you doing\ngreat, right? Keep it up<1\"\u0000>\nand aim for perfect score!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "You only did \"<1\u0002\u0001>{2, num} mistakes\".\nSo, why you hesitate!?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh oh, only have one try left!\nNot give up, can do this!!<1\"\u0000>\nNot give up in last minute!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Game set! Sorry for\ndisappoint, but game is<1\"\u0000>\nover after <1\u0002\u0001>{2, num} mistakes!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, my...you not even get one\npair right... No need to be<1\"\u0000>\nso gloomy! Me wait for you\nhere to come back and<1\"\u0000>\ntry again some other time!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Great job! Next time, aim for\nperfect score! Me wait for you\nhere, come back and<1\"\u0000>\ntry again some other time!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Game set! The game is over!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Very great, you Denpa Men! You\nseem have both, memory<1\"\u0000>\nand luck. Now, me will give you<1\"\u0000>\nspecial reward only perfect\nwinner can receive!<1\"\u0000>\nOpen the door!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "This was great game, me look\nforward to next time<1\"\u0000>\nyou come for another\nround of memory!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If want fight monsters, can\nopen the other treasure chests.<1\"\u0000>\nJust make sure, not hurt\nyourself unnecessarily if<1\"\u0000>\nfight against monsters, okay?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483651,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483683,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682
+	]
+}

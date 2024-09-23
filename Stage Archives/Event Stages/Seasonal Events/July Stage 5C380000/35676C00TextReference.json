@@ -1,0 +1,589 @@
+{
+	"header": {
+		"text_amount": 33,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 7425,
+		"offset_strings": 7504,
+		"strings_section_size1": 396,
+		"offset3": 7904,
+		"section_size2": 132,
+		"offset4": 8048,
+		"section_size3": 16,
+		"offset5": 8064,
+		"section_size4": 68,
+		"unk3": 0,
+		"offset6": 7408,
+		"offset7": 7424,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "なし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "宝箱たからばこのフタは固かたく閉とざされている。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるらしいよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるらしいですよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⟦DEC3⟧횽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるそうです！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷뿙쎰뷞⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるらしいぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるんだって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷⟦DDD9⟧⟦DEC0⟧쎯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるらしいわよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧훜㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるらしいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧⟦D9B7⟧볗눧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで神経衰弱しんけいすいじゃくのゲームに\n挑戦ちょうせんできるそうですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "몺⟦DEC3⟧밯망붰눧⟦DEBC⟧뢬⿉⟦DEB9⟧뀧웑섯낮⟦DDBE⟧⟦DEC3⟧➷뿙쎰뷞⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一緒いっしょに、クリアを目め指ざして頑張がんばろうね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼糆렱⟦D827⟧떱툯⟦DEBB⟧밧쌾똯⟦DDDE⟧⟦DECA⟧⟛⾵⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだかワクワクしちゃいます。\n一緒いっしょに頑張がんばりましょうね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞⟦DC2F⟧렧룜밾섾늬뷏ꤾ눮벯욮똯⟦DDDE⟧⟦DECA⟧쿘꺼딧㿈3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "運うんと記憶力きおくりょくが勝負しょうぶのカギですね。\n完全かんぜんクリアを目め指ざしましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳쓝뜯뢵⟦D827⟧뢮⟦DFB6⟧밯➮첰짞똯⟦DEB7⟧쌧뷞젯똮뻝⟦DDDE⟧➸뇘⾵믒볞볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一緒いっしょにクリアを目め指ざそうぜ！\n頼たよりにしてるからな、相棒あいぼう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼⿆➸뇘⾵믒뿞딧⟦DEBE⟧쁼혧웘밯쌾⟙ힶ⿅늱⟦DECE⟧뀧⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "一緒いっしょにクリアを目め指ざそうね！\n僕ぼくも頑張がんばるよー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾲꺼⿆➸뇘⾵믒뿞딧젯칼⟞편똯⟦DDDE⟧⟦DECA⟧⟦D927⟧냖⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あなたと一緒いっしょならクリアできちゃうかも？\n頼たよりにしてるわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "얱쀧⿄꾲꺼⟅⿗➸뇘⟦DEC3⟧㺷곁뚳㿓⟀⟦D8D6⟧⿆㺼⟦D9C3⟧⟦DC27⟧㿖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "記憶力きおくりょくに自信じしんはあるかい？\nともにクリアを目め指ざそうではないか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "떷➸께울밯볞⟦DCDD⟧➱뛙㾲폄⿆➸뇘⾵믒뿞딧⟦DEC3⟧엜뚲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうせなら完全かんぜんクリア狙ねらいましょうよ。\n運うんがよければ、いけるかもしれませんよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEC4⟧뺰씧⿗⟦DDB6⟧⟦DEBE⟧룝⟦D827⟧⾱퟈쾲꺼딧⻖➳뛝⿟⟖⟦DAB9⟧⟦DECA⟧ㅼ릲⟙펶밯쿚➾⟦DD33⟧㿖3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ヘイヘイッ！\n待まってたぜ電波でんぱメン！！\nここでは宝箱たからばこを使つかった\n神経衰弱しんけいすいじゃくゲームを開催中かいさいちゅうだZEぜっ！！\nこの先さきにある宝箱たからばこを2つ開あけて、同おなじアイテムが\n揃そろえば、そのアイテムをゲットだ！！\nただし、気きをつけろよ。\nモンスターを揃そろえたら、問答無用もんどうむようのバトルッ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ちなみに、間違まちがったものを\n揃そろえた場合ばあいはお手てつきだ。\nお手てつきを「{2, num}回かい」したら\nその時点じてんでゲームセット！\nそこまで揃そろえたアイテムだけを\n持もち帰かえってもらう事ことになるZEぜっ！\nそして、全すべてのアイテムを揃そろえた優秀ゆうしゅうな\n電波でんぱメンには、特別とくべつな賞品しょうひんをプレゼンッ！\nモンスターは揃そろえても揃そろえなくても\nかまわないからな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それじゃあ、そろそろ始はじめようか！\nオープン・ザ・ゲーム！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ヘイヘイッ！\nまた来きたな電波でんぱメン！！\n神経衰弱しんけいすいじゃくに再挑戦さいちょうせんだろ？\n面倒めんどうな事ことは言いいっこなしだ！\nすぐに始はじめようZEぜっ！\nオープン・ザ・ゲーム！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうした？\nまずは自分じぶんのインスピレーションを信しんじて\n適当てきとうに開あけてみな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ヘイヘイ、絶好調ぜっこうちょうじゃないか！？\nこの調子ちょうしでパーフェクトを目め指ざそうZEゼッ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだまだ、お手てつき「{2, num}回かい」だZEゼッ？\n怯ひるまずに攻せめて行いこうじゃないか！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "追おいつめられちまったみたいだな！\nでも、ドントギブアップ！！\n最後さいごまで諦あきらめるんじゃないZEゼッ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームセット！\n残念ざんねんだけど、お手てつき{2, num}回かいで終了しゅうりょうだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと、ひとつも揃そろえられなかったか……。\nでも、メソメソするんじゃねえよ！\nまた、挑戦ちょうせんに来きてくれるのを待まってるZEゼッ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なかなか頑張がんばったじゃないか！\n次つぎはパーフェクトを目め指ざして行いこうZEゼッ！！\nまた、遊あそびに来きてくれるのを\n待まってるからな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ゲームセット！\n見事みごとにパーフェクト達成たっせいだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "グレートだ、電波でんぱメン！\n記憶力きおくりょくと運うんの両方りょうほうを\n持もち合あわせているようだな。\nさあ、勝者しょうしゃだけが受うけ取とれる報酬ほうしゅうを\n持もち帰かえってくれ！\nオープン・ザ・ドアー！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "素す晴ばらしいゲームだったZEゼッ！\nまた、次つぎの挑戦ちょうせんも待まってるからな！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もし、モンスターとも戦たたかいたかったら\n箱はこを開あけて行いっても良いいZEゼッ！\nむやみに手てを出だして\n火傷やけどしないようにだけ気きをつけろよ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483651,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483683,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682
+	]
+}

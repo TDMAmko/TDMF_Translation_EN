@@ -1,0 +1,1117 @@
+{
+	"header": {
+		"text_amount": 66,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 13761,
+		"offset_strings": 13840,
+		"strings_section_size1": 792,
+		"offset3": 14640,
+		"section_size2": 264,
+		"offset4": 14912,
+		"section_size3": 16,
+		"offset5": 14928,
+		"section_size4": 134,
+		"unk3": 0,
+		"offset6": 13744,
+		"offset7": 13760,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やっぱり、助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, count}人り目めの地底人ちていじんを見みつけた！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "{3, count}人目にんめの地底人ちていじんを見みつけた！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "5人目にんめの地底人ちていじんを見みつけた！\n行方不明ゆくえふめいの地底人ちていじんは、これで全員ぜんいんだ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "捜索そうさくをやめて村むらに戻もどりますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "誰だれか～！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "無ぶ事じな者ものはおらんか～！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いたら返事へんじをしておくれ～！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、なんだか様子ようすがおかしいよ……。\nどうしてみんな眠ねむっちゃってるのかな？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟅생뛞혯붰⟦DFB6⟧딯벶눧⻖⟦DEC4⟧뀧㺼⿃⟦DDD0⟧⿅퇈솯꾬⟦D9C3⟧줧얶㌿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、なんだか様子ようすがおかしいです……。\nどうしてみなさん眠ねむってるんでしょう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟅생뛞혯붰⟦DFB6⟧딯벶눧⟦DEC3⟧㺽쐮⟞벰쌾퀯⟅⟦DDBB⟧젯꿑⟦D9C3⟧⟦DD27⟧⟦DEC3⟧꺼㾵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、なんだか様子ようすがおかしいですね。\nいたる所ところで眠ねむっているのはなぜでしょう？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟅생뛞혯붰⟦DFB6⟧딯벶눧⟦DEC3⟧좽눮⟀쓙⟦DBBA⟧⟦DEC3⟧젯꿑닃⟙⟦DCC9⟧씯븧쏞볞떮㈿",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、なんか変へんじゃねーか？\nどいつもこいつも何なんで寝ねちまってんだ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟅뛝촯⟦DD27⟧⟦DEBC⟧좬뚰쐿⟞슲⿓➺슲糓씱⟦DD27⟧⟦DEC3⟧젯쿁쎯⟦DD27⟧⟦DEC0⟧?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、どうしちゃったんだろう？\nみんなお昼寝ひるねの時間じかんなのかなあ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟦DEC4⟧뀧㺼곁삯생⟦DBDE⟧㾵⟦DDD0⟧⿅쮵죙볉뛞엝줧얶㾰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ねえ、この村むら、様子ようすが変へんよ。\nどうしてみんな眠ねむってるのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟈粰먱퇉糗혱붰⟦DFB6⟧⟍훝㈿⟦DEC4⟧뀧㺼⿃⟦DDD0⟧⿅퇈쎯⟙뛉ힼ?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この村むら、誰だれも彼かれも眠ねむってしまっているではないか。\n何なにやら不穏ふおんな気配けはいがするな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺ퟑㅼ⟦DEC0⟧⟦DA27⟧⿓➶폚젯꿑볃꿏닃⟙⟦DEC3⟧엜뚲씮옧ퟔ찯⟦DDB5⟧맅쨧뚲⿟⟦D9BD⟧⻅",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、この村むらはみなさん夜行性やこうせいなんですかね？\nにしても、ちゃんとしたところで寝ねればいいのに。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "풵ㅼ즺ퟑ⟦DC27⟧퀯⟅⟦DDBB⟧퐯낺낾⟅쏝뷞똾㿈⿆㺼⟃糓섲⟦DDAC⟧별쀾뫄⟛⟦DEC3⟧젯⟚⟦DECA⟧낲웉.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、旅たびのお方かた！\nどうか助たすけてくおくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "突然とつぜん、村むらに黒くろい霧きりが立たち込こめたと思おもったら\n村むらの若わかいもんが皆みな、眠ねむってしまったんじゃ……。\nさらに魂たましいが抜ぬけ出だすと、何なにかに呼よばれるように\n奥おくにある墓ぼ地ちの地ち下かへと消きえていったんじゃ。\nこのまま魂たましいが抜ぬけていては\n皆みなはもう目めを覚さまさないかもしれん……。\n呼よび戻もどしに行いきたいが、地ち下かには魔物まものもいて\n到底とうていワシでは無む理りなんじゃ……。\nアンタ、ワシの代かわりに\n皆みなの魂たましいを連つれ戻もどしてくれんかの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "引ひき受うけてくれるのか！\n本当ほんとうに助たすかるよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "皆みなの魂たましいはこの先さきの墓ぼ地ちから\n地ち下かに降おりていったようじゃ。\nワシも後あとから追おいかけるから\nアンタが先さきに行いっておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そんなことを言いわずに\nどうか、この村むらを助たすけてくれんかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "皆みなの魂たましいはこの先さきの墓ぼ地ちから\n地ち下かに降おりていったようじゃ。\nワシも後あとから追おいかけるから\nアンタが先さきに行いっておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ダーリン、いってらっしゃい……。\n今日きょうもお仕事しごとがんばってね……むにゃむにゃ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ハニー、仕事しごとに行いってくるよ……。\nなるべく早はやく、帰かえってくるからね……ねむねむ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フンッ、フンッ……グゴゴ！！\nなんだか今日きょうはトレーニングをしても\n全然疲ぜんぜんつかれないぞ！？……ゴゴ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うーん、暗くらいよぉ……ここどこぉ……？\n怖こわいよぉ……うーん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なるほど……これは……\n興味深きょうみぶかい……スヤスヤ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタのおかげで全員ぜんいんが目めを覚さましたよ！\n本当ほんとうにありがとうよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタのおかげで、{3, count}人りが目めを覚さましたよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタのおかげで、{3, count}人にんが目めを覚さましたよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタも頑張がんばってくれたが\n村むらの皆みなは目めを覚さまさなかったようじゃ……。\nでも、ワシはこれからも皆みなを助たすける方法ほうほうを\n探さがしていくつもりじゃ……。\nアンタを巻まき込こんで悪わるかったのう……。\nいつか皆みなが目め覚ざめたら、また遊あそびにおいで。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これはワシからのお礼れいじゃ。\n受うけ取とっておくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタが来きてくれて本当ほんとうに助たすかったよ。\nまた今度こんど、ゆっくり遊あそびにおいで。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ目めを覚さまさない者もののことは\n気きにせんでも大丈夫だいじょうぶじゃ。\n目めが覚さめた者ものと力ちからを合あわせて捜索そうさくをして\nなんとか全員ぜんいん助たすけるつもりだからの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あなたのおかげで助たすかったわ！\nダーリンほどじゃないけど、素敵すてきだったわよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "どうもいつもの仕事場しごとばと違ちがうとは思おもってたんだが\nまさか墓ぼ地ちの地ち下かだったとは……。\n呼よび戻もどしてくれて助たすかったぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やっぱり元もとの体からだが一番いちばんだな！\nさっきまではフワフワしてて\nどうも鍛きたえてる気きがしなかったんだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとう！電波人間でんぱにんげんさん！！\nあそこは真まっ暗くらで、本当ほんとうに怖こわかったよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まさか、自分じぶんがゴーストになるとは……。\n非常ひじょうに興味深きょうみぶかい体験たいけんでした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この地ち下かも黒くろい霧きりがかかっておるのう……。\n我々われわれも長居ながいをするのは危険きけんかもしれん。\nそうじゃの……。\n「5分ふん」たったら戻もどるようにしよう。\n短みじかい時間じかんじゃが、頼たのんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ皆みなの魂たましいは見みつからんか？\n行方不明ゆくえふめいになっているのは、{3, count}人にんじゃ。\nどうか頼たのみましたぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "行方不明ゆくえふめいになっているのは、あと{3, count}人りじゃ。\n引ひき続つづき、よろしく頼たのみますぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "行方不明ゆくえふめいになっているのは、あと{3, count}人にんじゃ。\n引ひき続つづき、よろしく頼たのみますぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それとも、もう危険きけんだから引ひき返かえすのかの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "まだ探さがしてくれるのじゃな。\nどうか皆みなを助たすけてくだされ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん見みつかったんじゃな！\nさあ、我々われわれも地上ちじょうに戻もどろうぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アンタ！\nもう十分じゅうぶんじゃ！！\nこれ以上いじょうは我々われわれも危険きけんじゃよ！\n急いそいで地上ちじょうに戻もどるぞ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら……ダーリンはどこ？\nワタシ、家いえにいたはずなのに……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、あなたはだれ？\n……えっ、ワタシを助たすけに来きてくれたの？\nあなたって見みかけによらず、勇敢ゆうかんなのね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仕事場しごとばに向むかってたはずなのに\nここは一体いったいどこだ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、ここは墓ぼ地ちの地ち下かだって？\nヤバいな……。\nすぐに戻もどらないと遅刻ちこくしちまうぜ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フンッ、フンッ……。\nさっきからトレーニングをしてるのに\n全然ぜんぜん、疲つかれてこないぞ！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ！？\nオレが魂たましいになってる？\nどおりで疲つかれないはずだぜ！\nすぐ元もとの体からだに戻もどってトレーニング再開さいかいだ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うぇぇ～ん！ここ、どこ～！？\n暗くらくて怖こわいよ～、誰だれかぁ～！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、ボクを助たすけにきてくれたの！？\n良よかった～。早はやくお家うちに帰かえろう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フムフム……非常ひじょうに興味深きょうみぶかい！\nやはり私わたしの体からだが透すけているようですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おや、あなたは誰だれですか？\nえっ、私わたしがゴーストになってるですって！？\nなるほど、そういうことでしたか……。\nいやー、これで透すけた理由りゆうに納得なっとくしましたよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん、見みつかったみたいだね！\nさあ、おじいさんの所ところに戻もどろう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧닝⿝싐똾삯⟐닀⟦DEC0⟧젯㍼➻Ʞㅼ벵⟞뮲짝뫄웛팯⟦DEC4⟧⟛⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん、見みつかりましたね！\nおじいさんの所ところに戻もどりましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧닝⿝싐똾쿘밧쀾젯㍼벵⟞뮲짝뫄웛팯⟦DEC4⟧쿘꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん、見みつかったようでなによりです！\nでは、おじいさんの所ところへ戻もどりましょう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧닝⿝싐똾삯⟖쎰⿞⟅훆쏘뷞簾쌳⟞糜딱⟦DEBC⟧눧⟦DDBB⟧쓉⟦DBBA⟧⾴쓓⟦D8DE⟧볏➮⺵",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うっし！全員ぜんいん、見みつかったみてーだな！\nんじゃ、じいさんの所ところへ戻もどるとすっか！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾳밧ㅼ⟦DEBE⟧닝⿝싐똾삯⟐냃⟦DEC0⟧씯⟦DD7C⟧⟦DEBC⟧粬백⟞뮲짝뫄듛팯⟦DEC4⟧⟦D927⟧뷄뚯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん、見みつかってよかったね！\nそれじゃ、おじいさんの所ところに戻もどろう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧닝糝퀱㻂꾶⿃⟖꾶⿀糈⟦DABF⟧⟦DEBC⟧粬딱⟦DEBC⟧눧⟦DDBB⟧쓉⟦DBBA⟧⿆쓓⟦DBDE⟧딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "全員ぜんいん、見みつかったみたいね！\nじゃあ、おじいさんの所ところへ戻もどりましょ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBE⟧닝糝퀱㻂꾶타쀧⾲糈⟦DEBC⟧➬粱딱⟦DEBC⟧눧⟦DDBB⟧쓉⟦DBBA⟧⾴쓓⟦D8DE⟧볏㾮",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うむ、全員ぜんいん、無ぶ事じに見みつかったようだな。\nでは、ご老体ろうたいの所ところへ戻もどるとしよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➳糑븲⟦DDDE⟧⟦DDB2⟧ㅼ⟦DECC⟧⟦DEBC⟧⿆싐똾삯⟖산엞쌮⟞糜먱⟦DBDE⟧산즲뫄⟛⾴쓓⟞쓙횼⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やれやれ、全員ぜんいん見みつかったようですね。\n私わたしたちも戻もどりましょうよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟔⟦DA33⟧⟦DAD4⟧㉼⟦DEBE⟧닝⿝싐똾삯⟖쎰뷞꫈⟦DC2E⟧변✾쇀⿓쓓⟦D8DE⟧볏➮횵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345684,
+		3503345685,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345682,
+		3503345684,
+		3503345685,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483652,
+		2147483653,
+		2147483655,
+		2147483737,
+		2147483739,
+		2147483730,
+		2147483664,
+		2147483741,
+		2147483742,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483740,
+		2147483665,
+		2147483666,
+		2147483718,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483671,
+		2147483673,
+		2147483675,
+		2147483677,
+		2147483714,
+		2147483681,
+		2147483738,
+		2147483717,
+		2147483720,
+		2147483682,
+		2147483721,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483736,
+		2147483715,
+		2147483731,
+		2147483679,
+		2147483713,
+		2147483735,
+		2147483680,
+		2147483733,
+		2147483696,
+		2147483697,
+		2147483699,
+		2147483700,
+		2147483702,
+		2147483703,
+		2147483705,
+		2147483706,
+		2147483708,
+		2147483709,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729
+	]
+}

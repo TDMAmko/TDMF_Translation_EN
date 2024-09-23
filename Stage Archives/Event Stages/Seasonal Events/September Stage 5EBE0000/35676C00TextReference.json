@@ -1,0 +1,1885 @@
+{
+	"header": {
+		"text_amount": 114,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 26273,
+		"offset_strings": 26352,
+		"strings_section_size1": 1368,
+		"offset3": 27728,
+		"section_size2": 456,
+		"offset4": 28192,
+		"section_size3": 16,
+		"offset5": 28208,
+		"section_size4": 230,
+		"unk3": 0,
+		"offset6": 26256,
+		"offset7": 26272,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "助たすけてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "話はなしを聞きいてあげますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1Ĉ\u0000>の幸福度こうふくどが{5, happiness}上あがった！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいのスイーツショップが\nあるらしいよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DEB6⟧넯ퟙ➼횲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいのスイーツショップが\nあるらしいですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯⟦D927⟧볗쎲뷞혯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいのスイーツショップが\nあるそうですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯⟦D927⟧낿⟦DEC3⟧횽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいのスイーツショップが\nあるらしいぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯⟦D927⟧볗⾲⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいのスイーツショップが\nあるんだって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯⟦D927⟧생꿞쌯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいの\nスイーツショップがあるそうよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯⟦D927⟧낿혯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "君きみ、この先さきに、今いま話題わだいの\n甘味処かんみどころがあるらしいぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "킷㍼즺랻糆눱켧⟦DC2F⟧⟦DEC0⟧즲똯택⟦DEC4⟧⟦DBBA⟧⟦DFB6⟧넯⟦D927⟧볗뾲⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この先さきに、今いま話題わだいの\nスイーツショップがあるらしいですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "즺랻糆눲켧⟦DC2F⟧⟦DEC0⟧즲봯낲㻂꺼꼧⟦DFCC⟧⟦DFB6⟧넯ퟙ➼쎲뷞⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "う～ん……良いい匂においがしてきた！\nさっそく、行いってみよう！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㥳낳糝㕳➲⾰뗆➲⟦DEB6⟧밯쌾㺷⟀뭼뾯⾸꾲탃⟖⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あ……おいしそうな匂においがしますよ！\n楽たのしみですね。行いってみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "粱늵㺼➿얰옯➵뚲볟뷏혯쁼볉퀧⟦DEC3⟧⾽糈눳쎯쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ああ、いい匂においがしてきました……。\nさっそく行いってみましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱粰눲뀧옯➵뚲⿟㺼럃⟏㺼⻀꾻뢿눯쎯쿐꺼딧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お！うまそーな匂においがしてきたぜ！\n向むこうだな、行いってみようぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾵㑼쾳➿얰옯➵뚲⿟㺼⟃㺷뻀糞뫑딧⟦DEC0⟧씯㍼꾲탃⟖뺳⻞",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "んー、とってもいい匂においがするよー！\n早はやく行いってみようよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꧑粰쐳쎯⿓➲우늵⟦DFB6⟧봯훙㾰쨳퐧⾸꾲탃⟖횰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんだかおいしそうな匂においがしてこない？\nさあ行いきましょうよ！ほら、はやく！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟅생뛞딯벲뼾뀧⿅뗆눧⟦DFB6⟧밯쌾➺닅묿넧눻쾷꺼딧糖츴휧ㅼ⟊룔⺰",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "む、これはまた……芳こうばしい香かおりが。\nこれはもう行いくしかないな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "糑먲⟦DCDA⟧켯糀낺⟦DECA⟧➼⾲떶뛘⻟⟦DABA⟧⿜⟓㮰뢲✾㺼⾶⟅얲.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あー、甘あまい匂においがしますね。\n何なんの罠わなですか。確たしかめに行いきますよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "낱㉼쾱욲➵뚲⿟쾼봧⻈⟅짝엜⟦DEC3⟧㺽粶쀲㺼➶웒눯쾷봧㿖3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お前まえもこの店みせの評判ひょうばんを\n聞ききつけてきたのか？\nオレなんか、子供こどもの頃ころから毎日通まいにちかよってるからな。\nこの店みせはオレが育そだてたようなもんだよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いらっしゃいませ。\nせっかく来きてくれたのに悪わるいんだけど\n今いまは注文ちゅうもんを受うけられないの……。\nちょっと仕し入いれに問題もんだいがあってね。\n詳くわしくは、そこにいる旦那だんなに聞きいてもらえる？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "アナタが代かわりに仕し入いれに\n行いってくれるんですって？\n本当ほんとうに助たすかるわ～。\n戻もどってきたらアナタにも、うちの自慢じまんの\nスイーツを食たべさせてあげるからね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "いらっしゃいませ。\nあら、また来きてくれたのね。\nでも、ごめんなさい。\nまた注文ちゅうもんを受うけられない状態じょうたいなの。\n良よかったらまた助たすけてくれるとうれしいわ。\n詳くわしくは、旦那だんなから聞きいてもらえる？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "また助たすけてくれるんですって？\n本当ほんとうに感謝かんしゃだわ～。\n戻もどってきたらまた、美お味いしいスイーツを\n食たべさせてあげるからね！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うぅ……腹はらが痛いたい……。\n仕し入いれの時間じかんなのに動うごけん……。\nえっ、アンタが代かわりに\n仕し入いれに行いってくれるのか！？\n助たすかるよ！\n「{5, ItemData, +}<2Ʉ耀>{3, name, +}」は「{9, MonsterParameter, +}<2ӝ耀>{3, name, +}」を倒たおせば\n手てに入はいるはずだ。\nどうか頼たのんだよ……。\n……うぅ……苦くるしい……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2Ʉ耀>{3, name, +}」は「{9, MonsterParameter, +}<2ӝ耀>{3, name, +}」を倒たおせば\n手てに入はいるはずだ。\nオレが言いう資格しかくなんか無ないんだが……\nできるだけ、お客きゃくを待またせるなよ。\n待またせすぎるとアイツら\n怒おこって帰かえっちまうからな……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うぅ……今度こんどは気き持もち悪わるい……。\n腹痛ふくつうの薬くすりを飲のみ過すぎたか……。\n何度なんどもすまないが、また頼たのむよ。\n「{5, ItemData, +}<2ȿ耀>{3, name, +}」は「{9, MonsterParameter, +}<2̜耀>{3, name, +}」が\n落おとすはずだからな。\nとりに行いくなら、時間じかんには気きをつけろよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2ȿ耀>{3, name, +}」は「{9, MonsterParameter, +}<2̜耀>{3, name, +}」が\n落おとすはずだからな。\nとりに行いくなら、時間じかんには気きをつけろよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うぅ……腰こしが痛いたい……。\n思おもいっきり伸のびをしたら痛いためたみたいだ……。\nアンタ……すまないが、また頼たのむよ。\nちなみに「{5, ItemData, +}<2Ɇ耀>{3, name, +}」は\n「{9, MonsterParameter, +}<2Ӟ耀>{3, name, +}」が落おとすはずだ。\nあと「{5, ItemData, +}<2Ʌ耀>{3, name, +}」は\n「{9, MonsterParameter, +}<2ӟ耀>{3, name, +}」から手てに入いれてくれ。\nどうか頼たのんだよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「{5, ItemData, +}<2Ɇ耀>{3, name, +}」は「{9, MonsterParameter, +}<2Ӟ耀>{3, name, +}」が落おとすはずだ。\n「{5, ItemData, +}<2Ʌ耀>{3, name, +}」は「{9, MonsterParameter, +}<2ӟ耀>{3, name, +}」から手てに入いれてくれ。\nお客きゃくを待またせないように\n戻もどり時間じかんも考かんがえて行動こうどうするんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "オエッ……気き持もち悪わるい……。\n全快祝ぜんかいいわいに飲のみ過すぎたみたいだ……。\nまたアンタが頼たよりだよ……。\nたくさん材料ざいりょうが必要ひつようになるが\n時間じかんには気きをつけるんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たくさん材料ざいりょうが必要ひつようになるが\n時間じかんには気きをつけるんだぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "二日酔ふつかよいがぜんぜん治なおらん……。\nもう、アンタに全部ぜんぶ任まかせるよ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うう……オエッ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ようこそお客様きゃくさま！\n森もりの採とれたて素材そざいが自慢じまんの\n洋菓子店ようがしてんへようこそ！！\n……と言いいたい所ところなのですが\n今いまちょっと困こまったことがありまして……。\n良よかったら話はなしを聞きいて頂いただけませんか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はあ……そうですよね。\nいきなり変へんなことを言いってすみませんでした。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、お客様きゃくさま！\nやっぱり話はなしを聞きいて頂いただけますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "良よかった、聞きいてくれるんですね！！\n実じつは、うちの仕し入いれ担当たんとうが腹痛ふくつうで寝ね込こんじゃって\nスイーツの材料ざいりょうが足たりないんです。\n仕し入いれ担当たんとうさん、今日きょうの分ぶんを採とりに行いく前まえに\n倒たおれてしまって……。\n私わたしも妻つまも運動うんどうはからっきしなので\n誰だれか代かわりの人ひとを探さがしていまして……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうですよね……見みず知しらずの人ひとに\nいきなりこんな事ことを聞きかせてすみません。\nあぁ……やっぱり今日きょうはもう\n店みせを閉しめるしかないのか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あれ、お客様きゃくさま！？\nもしかして手伝てつだって頂いただけるんですか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "代かわりに行いってくれるんですか！\n本当ほんとうに助たすかります！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "仕し入いれは、この裏口うらぐちから続つづく\n森もりで行おこなっています。\n森もりに出でる魔物まものを倒たおすと、スイーツの材料ざいりょうとなる\n食材しょくざいを落おとすので、それを集あつめて下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "さらに注文ちゅうもんをつけてしまって申もうし訳わけないのですが\n食材しょくざいを集あつめたら、「6分ぷん」以内いないにお戻もどり下ください。\nすでに随分ずいぶんお待またせしているので\nそれ以上いじょうかかると、皆様みなさま帰かえってしまわれます。\nそれでは、どうかよろしくお願ねがいします。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あ、お客様きゃくさま！\nまた来きてくれたんですね。\nあの……今日きょうも手伝てつだって頂いただけないでしょうか？\nまた、仕し入いれ担当たんとうが倒たおれてしまいまして……。\nしかも、先日せんじつよりもたくさんのお客様きゃくさまが\nいらっしゃって、食材しょくざいももっと必要ひつようなんですよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あ、お客様きゃくさま！\nまた来きてくれたんですね。\nどうか、今日きょうもお助たすけ下ください！\n仕し入いれ担当たんとうがまた倒たおれてしまって……。\nしかも、今日きょうはお店みせが満員まんいんでして。\n食材しょくざいも大量たいりょうに必要ひつようなんです！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そうですよね……。\n何度なんどもすいません……。\nああ、やっぱり今日きょうこそはもう\n店みせじまいするしかないか……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お客様きゃくさま、どうされました？\n……もしかして、やっぱり手伝てつだって頂いただけます？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "また手伝てつだって頂いただけるんですね！\n本当ほんとうにありがとうございます。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こ。\nそして、「<1Đ\u0001>{7, ingredients_3}」を{3, num_3}個こです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そして、「<1Đ\u0001>{7, ingredients_3}」を{3, num_3}個こに\n「<1Đ\u0001>{7, ingredients_4}」を{3, num_4}個こです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食材しょくざいは順調じゅんちょうに集あつまっていますか？\n必要ひつような食材しょくざいは\n「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こです。\nどうか、時間内じかんないに戻もどれるように\nよろしくお願ねがいしますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食材しょくざいは順調じゅんちょうに集あつまっていますか？\n必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こです。\nどうか、時間内じかんないに戻もどれるように\nよろしくお願ねがいしますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食材しょくざいは順調じゅんちょうに集あつまっていますか？\n必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こです。\nどうか、時間内じかんないに戻もどれるように\nよろしくお願ねがいしますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食材しょくざいは順調じゅんちょうに集あつまっていますか？\n必要ひつような食材しょくざいは「<1Đ\u0001>{7, ingredients_1}」を{3, num_1}個こと\n「<1Đ\u0001>{7, ingredients_2}」を{3, num_2}個こ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "それに、「<1Đ\u0001>{7, ingredients_3}」を{3, num_3}個こに\n「<1Đ\u0001>{7, ingredients_4}」を{3, num_4}個こです。\nどうか、時間内じかんないに戻もどれるように\nよろしくお願ねがいしますね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "食材しょくざいは集あつまりましたか！？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おおっ、ありがとうございます！\nでは、すぐに調理ちょうりに移うつりますね！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "本当ほんとうにありがとうございました。\nこちらはお客様きゃくさまの分ぶんです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわぁ、美お味いしそう。\nいただきまーす！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DCB3⟧넯簧늵㺼➿⺰삲⟦DEC0⟧쾷뀧봯⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "わぁ、美お味いしそうですね。\nいただきます！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⿜➱땼벲뼾뀧⟦DEC3⟧좽눮샀럞⟏㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これは、とても美お味いしそうです。\nでは、ご相伴しょうばんにあずかります。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧糜쏄⿓늵㺼➿쎰뷞⸾⟦DEC3⟧⟦DC27⟧멼볞낮⟦DECA⟧웝넯⟦DEBD⟧⟦D8B6⟧⟏㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おおー！うまそーだな！\nありがたくいただくぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "떵뀧㍼쾳➿산엞㍼⟦D8B1⟧⟦DFB6⟧⟀⾸삲⟦DEC0⟧➸⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとー！おいしそうだね！\nいただきまーす！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦D8B1⟧똧쓟粰딳벲뼾뀧⟦DEC0⟧젯㑼삲⟦DEC0⟧쾷➧붰⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、おいしそう！\nやっと食たべれるのね！いただくわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "➱糗딲벲뼾뀧푼쒯쀯⟦DECD⟧⟚짙젯㍼삲⟦DEC0⟧➸㿜3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "これはおいしそうだな。\nでは、いただくとしよう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DABA⟧⿜늵㺼➿산엞쌮⟞糜눲샀룞✾별냖.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あ、よかっ……私わたしの分ぶんもあったんですね。\nせっかくですし、いただきましょうか。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "粱혱똧粯샜즼⟦DECC⟧⟦DD27⟧⿓➱삯쏝뷞꫈븮뚯➸⟦DEC3⟧㺽粼눲샀럞볏➮뚵.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱくっ、もぐもぐ……。\nう～ん、美お味いしい！！\nこんなに美お味いしいスイーツが食たべられて\nとっても幸しあわせだよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯꼧퍼렧폞⟦DEB8⟧댮⟦DDB0⟧땼벲눧⑼慰敧먤엝⿆늵늼봯➲슰⟦DEB6⟧쀯⟦DECD⟧⟗쏚㉼꿄폃밯⟦DCB1⟧삾⟞⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱくっ、はぐはぐ……。\nうーん、美お味いしいです！！\nこんな美お味いしいスイーツ……\n初はじめて食たべました！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯꼧쩼렧쫞⟦DEB8⟧댮⟦DDB0⟧땼벲눧⟦DEC3⟧㺽⑼慰敧먤엝딯벲눧봯➲슰簾볊⟞쏒쀯⟦DECD⟧⟏㺼⻀",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱくっ……。\nこれはっ、美お味いしい！！\nこの食感しょっかんと舌触したざわりが……\nこれぞ職人しょくにんの業わざ、感動かんどうしました！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯꼧먮⿚꿜ㅼ늵➼낲粯瀤条⑥즺밯꾮⟦DDB6⟧⿄㺼므⟞⟦D8DC⟧⟦DFB6⟧멼뿚⿞꺼울짝믜糞똳쓝냞쾼밧쀾.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はぐっ、んぐっ！！\nバクバクバクバクバク……！\nうめえ！なんだこれ！\nスイーツってこんなうまいもんだったのか……！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟊⟦DFB8⟧粯⟦DD32⟧⟦DFB8⟧粯⟦DECA⟧쪸룞⟦DECA⟧쪸룞쨧룞⑼慰敧⼤튳됧꾰㍼⟅생⿞⟦DABA⟧꾰㍼늽뀧꿂⿃⟦DDBA⟧⿅쾳눧⟦DDD3⟧⟦DEC0⟧삯뛉.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱくっ、もぐもぐ……。\n美お味いし～い！！\nすっごくおいしいよ！\nこのスイーツ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯꼧㍼⟓⟦DFB8⟧룓⻟늵➼늰⑼慰敧봤몯⟞⾸늵늼혯멼뷉➲슰⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱくっ……。\nん～、おいし～い！\n甘くて幸せだわ～。\nいくつでも食べられちゃいそう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯꼧⟦DD2E⟧ꦩ粰딲벲뀧粲瀤条⑥쾱렧쌾밯⟦DCB1⟧삾⟞냜㌿➲㺸쏂폞쀯⟦DECD⟧⟗쇚늬낿⺫",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱく……もぐもぐ。\nふむ……むぐむぐ。\nいい味あじではないか。\nおかわりはあるかね？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧렯㑼⟓⟦DFB8⟧룓糟찳턧㑼⟑⟦DFB8⟧룑⻟瀤条⑥➲⾰벱쏞⟞엜뚲딮➶⟦D8DC⟧⿜➱뛙㿈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ぱく……もっきゅもっきゅ。\nがつがつがつがつ……！\nやめられない、とまらない。\nなんともクセになりそうな味わいですね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DFCA⟧粸팴꼧궷꿓궷똮⟞숳⟦DFB6⟧뛂싞⟦DFB6⟧㻂⑼慰敧퐤ퟒ엚눧쐯ퟏ닅㍼⟅쓝⿓㺸➾⿆⟦D8C5⟧➿얰넯⟦DEBC⟧닜⟦DEC3⟧봧⻈",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさま！！\nとっても美お味いしかったよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿쾻쑼쎯⿓늵㺼똧삯⻖",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさまでした！！\n本当ほんとうに美お味いしかったです！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿쾻⟦DEC3⟧밧쀾칼쓝우딯벲✾꾶쏀뷞⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "たいへん美び味みでした。\nごちそうさまです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "닀⟦DDCD⟧쬯⟞쏐볞쀾먮쇞뼾뮰쏏⟞㺽.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさん！\nすげえうまかったぜ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿⟦DDBB⟧㍼립⟟⾴➳뛏삯⟦DEBE⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさま！！\nとっても美お味いしかったよー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿쾻㍼꿄폃딯벲✾꾶⿀냖.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさま、おいしかったわ！\nおかげですっごく幸せな気持ちよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿쾻㍼늵㺼똧삯⟦DC2F⟧㑼뚵⟦DFB9⟧⟦DEC3⟧봻몯⟞⾸놼뻜럅쇓㿖3",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうになったね。\nとてもおいしかったよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿없꼧죀쐮폃딯벲✾꾶훀.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ごちそうさまでした。\n……びっくりするほどおいしかったです。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "⟦DEBA⟧㻁낿쾻⟦DEC3⟧밧쀾簮쬲꿞➸뷘컙⟦DEC4⟧딯벲✾꾶쏀뷞⸾",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こちらこそ本当ほんとうに助たすかりました。\nこれもお礼れいに受うけ取とって下ください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "また、食たべに来きて下くださいね！\n次つぎはもっと美お味いしいものを\n用意よういしておきますので！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "また、食たべに来きて下くださいね！\nこの店みせがこんなに繁盛はんじょうしたのは\nお客様きゃくさまのおかげですから！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "注文ちゅうもんしたスイーツがまだ来こないのよ。\nお店みせの人ひとは何なにをしているのかしら？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この間食あいだたべたスイーツが美お味いしかったから\nカレも連つれてきたの。\nでも相変あいかわらず、出でてくるのは遅おそいわね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ジワジワとお客きゃくさんが増ふえてきたわね。\nますます出でてくるのが遅おそくなりそう……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最近さいきんのデートは、いつもこの店みせなの。\n何度なんど来きても、ぜんぜん飽あきないわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "最近さいきん、カレのお腹なかがたるんできたの……。\nあんまりだらし無ないのは嫌いやだわ。\n少すこしお店みせに来くる頻度ひんどを\n減へらさなきゃダメかしら……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "彼女かのじょが美お味いしいっていうから\n今日きょうは一緒いっしょに来きたんだ。\nいや～、楽たのしみだな～！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "前回ぜんかい、美お味いしかったから\nまた来きちゃったんだ。\n出でてくるのがもっと早はやければ\nもっと良いい店みせなんだけどなぁ～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "彼女かのじょもボクも、もうこの店みせの虜とりこだよ。\n今いまではデートの度たびに通かよってるね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "スイーツを食たべ過すぎて\nだんだんお腹なかが出でてきたんだ。\nこのままじゃ彼女かのじょに嫌きらわれちゃうかも……。\nでも、スイーツは止やめられないしなぁ……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この店みせ、徐々じょじょに話題わだいになって来きてるんですってね。\n混こみだす前まえに来こられて良よかったわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "評判ひょうばん通どおり美お味いしかったから、また来きちゃったわ。\nやっぱり口くちコミが広ひろがって、もう満員まんいんね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "こんなに満員まんいんだと\nやっぱり出でてくるのが遅おそいわね～。\nでも、もうちょっとだけ我慢がまんすれば\n食たべられるんだから、待またないとね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここで人気にんきの「すいーつ」を食たべられるらしいのう。\n良よく分わからんが、甘あまいものは好すきじゃからの。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "「すいーつ」が美お味いしかったから\nまた来きてしもうたよ。\n最近さいきんの食たべ物ものは見みた目めも\nしゃれていて、本当ほんとうにすごいのう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もうっ！\nいい加減かげん待まてないわ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あっ、ちょっと待まって！\nボクも帰かえるよ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お腹なか空すいてるのよ！？\n帰かえるわっ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "もう待まちくたびれたわい……。\n帰かえって大福だいふくでも食くおうかのう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "美お味いしい！\n待まったかいがあったわ！！\n今度こんどはカレと一緒いっしょに来きましょう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "う～ん、やっぱり美お味いしい！\n何回なんかいでも通かよえるわね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うわっ、ウマイ！！\n正直しょうじき、甘あまいモノは苦手にがてだったけど\nここのスイーツならいくらでもいけるな！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "相変あいかわらず、ウマイ！！\nもう一品いっぴん、頼たのんじゃおうかな～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あら、美お味いしい！！\n待まってたかいがあったわ～。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "相変あいかわらず、美お味いしいわ～。\nちょっとぐらいの待まち時間じかんなら\n我慢がまんできちゃうわね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おおっ！\nこれは旨うまいのう！！\nこれはワシも「りぴーたー」に\nなってしまいそうじゃわい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "やっぱり美び味みじゃのう。\nまた明日あしたも来こようかの！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345664,
+		3503345664,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345684,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345665,
+		3503345666,
+		3503345667,
+		3503345668,
+		3503345669,
+		3503345670,
+		3503345671,
+		3503345672,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683,
+		3503345683
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483651,
+		2147483652,
+		2147483753,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483701,
+		2147483702,
+		2147483703,
+		2147483704,
+		2147483705,
+		2147483706,
+		2147483707,
+		2147483708,
+		2147483667,
+		2147483654,
+		2147483663,
+		2147483664,
+		2147483732,
+		2147483665,
+		2147483666,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483782,
+		2147483783,
+		2147483784,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682,
+		2147483683,
+		2147483684,
+		2147483685,
+		2147483686,
+		2147483687,
+		2147483698,
+		2147483699,
+		2147483700,
+		2147483709,
+		2147483710,
+		2147483711,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483722,
+		2147483723,
+		2147483724,
+		2147483725,
+		2147483726,
+		2147483727,
+		2147483728,
+		2147483729,
+		2147483763,
+		2147483764,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483772,
+		2147483773,
+		2147483774,
+		2147483775,
+		2147483776,
+		2147483777,
+		2147483778,
+		2147483779,
+		2147483780,
+		2147483781,
+		2147483688,
+		2147483712,
+		2147483713,
+		2147483714,
+		2147483715,
+		2147483689,
+		2147483716,
+		2147483717,
+		2147483718,
+		2147483690,
+		2147483719,
+		2147483720,
+		2147483691,
+		2147483721,
+		2147483785,
+		2147483786,
+		2147483787,
+		2147483788,
+		2147483789,
+		2147483790,
+		2147483791,
+		2147483792,
+		2147483793,
+		2147483794,
+		2147483795,
+		2147483796
+	]
+}

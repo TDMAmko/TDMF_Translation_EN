@@ -1,0 +1,9 @@
+NPC mentioning enemies to attack without "" and not at the end
+of the sentence (due to the forced space bar after the names of normal enemies)
+
+Replace {ingredients} name holders with {itemname} name holders, tdmfscripteditor (possible solution/approach: add ", +" to the brackets
+after ingredients => no more question mark text but text still gets interrupted i.e. no telling of the number, other solution:
+swap number in the number place holder =>comparison with fishing challenge data format)
+doesn't seem to be able to properls handle the former name holder => remove the number
+place holders with fixed numbers taken from the tdmf wiki
+
