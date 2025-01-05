@@ -26,7 +26,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Creation",
+			"text_contents": "Union",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40,7 +40,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Create",
+			"text_contents": "Union",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -54,77 +54,77 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "View Details",
+			"text_contents": "Explanations",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Creation",
+			"text_contents": "About Union",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Conditions I",
+			"text_contents": "Union Cond.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Create",
+			"text_contents": "Perform Union",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Rnc.",
+			"text_contents": "What is Rnc.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Conditions II",
+			"text_contents": "Rnc. Cond.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Perform Rnc.",
+			"text_contents": "How to Rnc.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "View Details",
+			"text_contents": "Explanations",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Joy",
+			"text_contents": "What is Bliss",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Gen.",
+			"text_contents": "What is Gen",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No space in Denpa Box to use\nthe Creation feature.",
+			"text_contents": "No space in Denpa Box to use\nthe Union feature.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Create this Denpa Man?",
+			"text_contents": "Perform the Union?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,35 +159,35 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "With the Creation feature, a new Denpa Man\ncan be created with 2 adult Denpa Men.\nSometimes the new Denpa Man is stronger\nthan its parents.\nCertain conditions have to be met\nto perform Create.",
+			"text_contents": "With the Union feature a new Denpa Men\ncan be created with 2 adult Denpa Men.\nSometimes the new Denpa Man is stronger\nthan the parents.\nCertain conditions have to be met\nto perform Union.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "2 Denpa Men can be used for Creation if they...\n・have the same generation.\n・have never created a Denpa Man.\n・reached their maximum level.",
+			"text_contents": "2 Denpa Man can be used for Union if they...\n・have the same generation.\n・were never used before for Union.\n・reached their maximum level.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "To perform the ritual, select 2 Denpa Men\nand put them in both columns\nas if you set up a party of two Denpa Men.\nThen, press the \"Create\" button.",
+			"text_contents": "To perform the Union, select 2 Denpa Men\nand put them in both columns\nas if you set up a party of two Denpa Men.\nThen, press the \"Union\" button.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Reincarnation increases the generation of\na Denpa Man. When the generation is\nincreased, the current level cap goes up.\nCertain conditions have to be met\nto reincarnate.",
+			"text_contents": "Reincarnation increases the generation of\na Denpa Man. When the generation is\nincreased the upper limit of the level goes up.\nCertain conditions have to be met\nto reincarnate.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Denpa Men can reincarnate if...\n・max generation hasn't been reached yet.\n・they have reached their current max level.\n・their joy has reached its cap for\nthe current generation.",
+			"text_contents": "Denpa Men can reincarnate if...\n・max generation hasn't been reached yet.\n・max level has been reached on current gen.\n・bliss level reached its maximum on\nthe current generation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,126 +201,126 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The applied paint will be\nremoved. Reincarnate anyway?",
+			"text_contents": "The current paint will be\nremoved. Reincarnate anyway?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Joy is needed to perform a reincarnation.\nJoy can be increased by interacting or\nadventuring with Denpa Men.\nThe maximum joy depends on\nthe current generation.",
+			"text_contents": "Bliss is needed to perform a reincarnation.\nBliss can be increased by interacting or\nadventuring with Denpa Men.\nThe maximum bliss depends on\nthe current generation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Every Denpa Man has a generation level\nwhich can be increased by creation\nor reincarnation. Similiar to normal levels,\nthere is a maximum generation level\nfor every Denpa Man.",
+			"text_contents": "Every Denpa Man has a generation level\nwhich can be increased by birth\nor reincarnation. Similiar to normal levels,\nthe generation level has a maximum\nfor every Denpa Man.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Select 2 Denpa Men to\ncreate a new Denpa Man.",
+			"text_contents": "Select 2 Denpa Men\nand perform the Union.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Trascend the current generation\nthrough reincarnation.",
+			"text_contents": "Increase current generation\nlevel by reincarnation.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Read about features\nof the Spirit Shrine.",
+			"text_contents": "Read explanations about\nfeatures of the Spirit Shrine.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Growth",
+			"text_contents": "Growth",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "For a certain period of time, a newly born\nDenpa Man has slightly weaker stats.\nThey can't be used for Union or\nreincarnation. After a certain number\nof battles, they will grow to normal size.",
+			"text_contents": "For a certain period of time, the new born\nDenpa Man have slightly weakend abilities.\nThey can't be used for Union or\nreincarnation. After a certain number\nof battles, they will grow to normal size.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Cannot be used to Create as\nthey haven't grown up yet.",
+			"text_contents": "Can't be used for Union as\nthey are not grown up yet.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Cannot be used to Create as they\nhave not reached the level cap.",
+			"text_contents": "Can't be used for Union as\nthey are not fully leveled.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Both Denpa Men are not from\nthe same generation.",
+			"text_contents": "Both Denpa Men don't have the\nsame generation level.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man already\nparticipated in creation.",
+			"text_contents": "Denpa Man already used\nfor birth.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man cannot reincarnate\nany further.",
+			"text_contents": "Denpa Man already reached\nabsolute highest gen level.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Newborn Denpa Men cannot\nreincarnate.",
+			"text_contents": "Reincarnation not possible as\nDenpa Man isn't grown up yet.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man's level is too\nlow for reincarnation.",
+			"text_contents": "Reincarnation not possible as\nDenpa Man isn't fully leveled yet.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man's joy is\ntoo low for reincarnation.",
+			"text_contents": "Reincarnation not possible as\nDenpa Man hasn't reached max bliss.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man has reached\ntheir generation level limit.",
+			"text_contents": "Reincarnation not possible as\nmax gen level already reached.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man has reached\nthe highest generation possible.",
+			"text_contents": "Absolute highest gen level\nreached. No higher gen possible.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Change the aura of\nyour Denpa Men.",
+			"text_contents": "Change the aura of\nthe Denpa Men.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Holy Aura adds +2 fear res and\ndoubles fear res from gear.\nAdditionally, deals x1.5 more\ndamage against evil creatures.",
+			"text_contents": "Holy Aura adds +2 fear res and\ndoubles fear res from equip.\nAdditionally, x1.5 more damage\nis dealt against evil creatures.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -404,7 +404,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Evil Aura adds 3% fear rate\nand multiplies fear rates from\ngear by 1.5. Additionally,\nattack power increases by x1.2.",
+			"text_contents": "Evil Aura adds 3% fear rate\nand multiplies fear rates from\nequip by 1.5. Additionally,\nattack power increases by x1.2.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -418,14 +418,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Conditions III",
+			"text_contents": "Holy Cond.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Holy",
+			"text_contents": "How to Holy",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,14 +439,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Conditions IV",
+			"text_contents": "Evil Cond.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "About Evil",
+			"text_contents": "How to Evil",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A Denpa Man can perform a holy\ntransmutation if...\n・Their current generation level is at least 7.",
+			"text_contents": "A Denpa Man can perform a holy\ntransmutaion if...\n・Their current generation level is at least 7.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -488,7 +488,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A Denpa Man can perform an evil\ntransmutation if...\n・Their current generation level is at least 7.",
+			"text_contents": "A Denpa Man can perform an evil\ntransmutaion if...\n・Their current generation level is at least 7.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -502,14 +502,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "To reset the aura of a Denpa Man, select\nthat one Denpa Man and put them in the one\ncolumn as if you set up a party of\none Denpa Man. Then, press the \"Neutral\" button.",
+			"text_contents": "To reset the aura of a Denp Man, select\nthat one Denpa Man and put them in the one\ncolumn as if you set up a party of\none Denpa Men. Then, press the \"Neutral\" button.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This Denpa Man must reach the 7th\ngeneration to apply an aura.",
+			"text_contents": "Minimum generation level 7\nrequired to apply an aura.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,14 +537,14 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Their level will be reset to 1.\nDo you want to apply aura?",
+			"text_contents": "Level will be reset to 1.\nAre you sure to perform it?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Their level will be reset to 1.\nDo you want to apply aura?",
+			"text_contents": "Level will be reset to 1.\nAre you sure to perform it?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
