@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Welcome to the recycling shop!\nHere, you can use 3 items<1\"\u0000>\nto recycle them into a new one.\nYou can also use recycling<1\"\u0000>\nstones sold in the Jewel Shop.\nFor more information, use the<1\"\u0000>\n\"View Details\" section!",
+			"text_contents": "Welcome to the recycling shop!\nHere, you can use 3 items<1\"\u0000>\nto recycle them into a new one.\nYou can also use recycling<1\"\u0000>\nstones sold in the Jewel Shop.\nFor more information, use the<1\"\u0000>\n\"Explanations\" section!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "There is a special sale right\nnow! Recycling fees halved<1\"\u0000>\nfor a limited time! Make sure to\nrecycle a lot while it lasts! ♪",
+			"text_contents": "There is a special sale right\nnow! Recycling fees halfed<1\"\u0000>\nfor a short time, make sure to\nrecylce a lot till it lasts♪",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "The recycle fee is <1\u0006\u0001>{3, gold, +}G.\nIs that OK?",
+			"text_contents": "The recycle fee is <1\u0006\u0001>{3, gold, +}G.\nOK?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Recycling... ♪\n　　Recycling... ♪",
+			"text_contents": "Recycling♪\n　　Recycling♪",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ah, recycling!\nI can't get enough of it!",
+			"text_contents": "Recycling!\nI can't get enough of it!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A little disappointing, I guess?\nYou got ☆<1\u0003\u0001>{3, rare, +} <1Đ\u0001>{3, name, +}.",
+			"text_contents": "A little disappointing I guess?\nYou got ☆<1\u0003\u0001>{3, rare, +} <1Đ\u0001>{3, name, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "W-Wow! Look at that!\nYou got ☆<1\u0003\u0001>{3, rare, +} <1Đ\u0001>{3, name, +}!",
+			"text_contents": "W-wow! Look at that!\nYou got ☆<1\u0003\u0001>{3, rare, +} <1Đ\u0001>{3, name, +}!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
