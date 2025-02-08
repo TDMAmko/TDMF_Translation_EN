@@ -22643,7 +22643,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} slashed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nslashed at you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23301,7 +23301,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　うずしお斬り！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Vortex Slash!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23315,7 +23315,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　暗黒たつまき斬り！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDarkness Slash!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23329,7 +23329,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　打ち消しのはどう！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nCanceling Wave! ",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23343,7 +23343,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　濁流！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Mud Stream!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23385,7 +23385,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　ぶつかった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} collided with you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23497,7 +23497,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　でんきゴケ！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} spread\nElectric Spores!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23539,7 +23539,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　激しくぶつかってきた！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} hit you hard!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23595,7 +23595,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　火の粉をとばした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nFire Cracker!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23637,7 +23637,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　ココアをとばした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nCocoa Spikes!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23665,7 +23665,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} slashed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nslashed at you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23707,7 +23707,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23721,7 +23721,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23735,7 +23735,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23777,7 +23777,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　封印のおどり！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Seal Dance!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23791,7 +23791,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23805,7 +23805,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23819,7 +23819,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23833,7 +23833,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} slashed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nslashed at you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23875,7 +23875,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　封印のおどり！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Seal Dance!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23889,7 +23889,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　逆襲のおどり！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nCounter Dance!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23903,7 +23903,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23917,7 +23917,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23931,7 +23931,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23945,7 +23945,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} slashed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nslashed at you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23959,7 +23959,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　ぶんなぐってきた！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} beat you up!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23973,7 +23973,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　絶命のおどり！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDesperate Dance!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -23987,7 +23987,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　封印のおどり！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Seal Dance!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24015,7 +24015,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24029,7 +24029,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24043,7 +24043,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24057,7 +24057,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} slashed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nslashed at you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24085,7 +24085,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24099,7 +24099,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24113,7 +24113,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24155,7 +24155,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱に隠れてしまった！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nhid inside its chest!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24169,7 +24169,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　箱からとびだした！",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\njumped out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24183,7 +24183,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　にげた！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} ran away!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24197,7 +24197,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　隠れている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +}\nis hiding...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24211,7 +24211,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24225,49 +24225,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　ナイアガラプレス！",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +} used\nHammer Punch!",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　急降下プレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nNiagara Press!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24295,7 +24253,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24309,7 +24267,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　急降下プレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDive Press!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24323,7 +24281,49 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　ドリル突き！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nHammer Punch!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDive Press!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Drill Thrust!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24351,7 +24351,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　何かを狙っている…",
+			"text_contents": "<1ĉ\u0001>{3, name, +} is preparing\nan attack...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24379,7 +24379,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24393,7 +24393,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　急降下プレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDive Press!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24407,7 +24407,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　ダークハンマー！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used Dark Hammer!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24421,7 +24421,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -24435,7 +24435,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}'s　急降下プレス！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} used\nDive Press!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -39611,7 +39611,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}は　にげた！",
+			"text_contents": "<1ĉ\u0001>{3, name, +} ran away!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -39933,7 +39933,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -39975,7 +39975,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40031,7 +40031,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40101,7 +40101,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40157,7 +40157,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40213,7 +40213,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40269,7 +40269,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40493,7 +40493,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -40577,7 +40577,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<1ĉ\u0001>{3, name, +}boxed you!",
+			"text_contents": "<1ĉ\u0001>{3, name, +} boxed you!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
