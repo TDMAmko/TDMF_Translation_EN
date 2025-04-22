@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "なし",
+			"text_contents": "none",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>けた<18\u0000>先<19\u0000>さき<1:\u0000>に\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるんだよね。",
+			"text_contents": "At the end of Mountain Road we\nshould find \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>けた<18\u0000>先<19\u0000>さき<1:\u0000>に\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるんですよね。",
+			"text_contents": "\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\" should be\nat the end of Mountain Road.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>けたその<18\u0000>先<19\u0000>さき<1:\u0000>に\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるんですよね。",
+			"text_contents": "\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\" is supposed to be\nat the end of Mountain Road.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>けたらさ、その<18\u0000>先<19\u0000>さき<1:\u0000>に\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるんだよな！",
+			"text_contents": "If we pass through Mountain\nRoad, we should find \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000><18\u0000>抜<19\u0000>ぬ<1:\u0000>けてその<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>行<19\u0000>い<1:\u0000>ったら\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」に<18\u0000>着<19\u0000>つ<1:\u0000>くんだよね。",
+			"text_contents": "When we manage to get past\nMountain Road, we should find<1\"\u0000>\nthe \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ねえ、この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>ければ\nその<18\u0000>先<19\u0000>さき<1:\u0000>に「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるのよね。",
+			"text_contents": "Hey, so if we go through\nMountain Road we should reach<1\"\u0000>\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000>を<18\u0000>抜<19\u0000>ぬ<1:\u0000>けると、その<18\u0000>先<19\u0000>さき<1:\u0000>にあるのかね。\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」が。",
+			"text_contents": "So we must pass through this\npath called Mountain Road<1\"\u0000>\nto get to our destination.\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\", right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "この<18\u0000>山道<19\u0000>やまみち<1:\u0000><18\u0000>抜<19\u0000>ぬ<1:\u0000>けるとその<18\u0000>先<19\u0000>さき<1:\u0000>に……\n「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」があるんですよね？",
+			"text_contents": "Alright, if we cross this\nso-called Mountain Road we should<1\"\u0000>\nreach...\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\", am I right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……あれっ？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんがいっぱい<18\u0000>居<19\u0000>い<1:\u0000>るよ。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのかなぁ？",
+			"text_contents": "...What? There are lots of\ndwarfs here. What's going on?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……あれ？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんがいっぱい<18\u0000>居<19\u0000>い<1:\u0000>ますね。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったんでしょうか？",
+			"text_contents": "...Huh? A lot of dwarfs seem\nto be in this area.<1\"\u0000>\nWhat's the reason for that?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……おや？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんがたくさん<18\u0000>居<19\u0000>い<1:\u0000>ますね。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのでしょうか……。",
+			"text_contents": "...Oh, what? So many people\nhere. What's the cause for that?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……おい、あそこ。\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>でいっぱいだ！<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのか？",
+			"text_contents": "...Hey, over there are quite\na lot of dwarfs.<1\"\u0000>\nWhat's happening here?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……あれ？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんがいっぱい<18\u0000>居<19\u0000>い<1:\u0000>るね。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのかなー？",
+			"text_contents": "...Woah! There are an unusual\nnumbr of dwarfs here.<1\"\u0000>\nWhy though?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……あら？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>さんがいっぱい<18\u0000>居<19\u0000>い<1:\u0000>るわね。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのかしら……。",
+			"text_contents": "...Oh? There are quite a lot\nof dwarfs here. I wonder<1\"\u0000>\nwhat happened to them...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……ん？なんだねあれは。\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>がいっぱい<18\u0000>居<19\u0000>い<1:\u0000>るではないか。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったのだろうか。",
+			"text_contents": "....Hm? What's that? There are\nlots of dwarfs in this area.<1\"\u0000>\nWhat's the cause for that?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "……ん？\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>がいっぱいいますね……。<1\"\u0000>\n<18\u0000>何<19\u0000>なに<1:\u0000>かあったんですかねえ。",
+			"text_contents": "...Hm? So many dwarfs in this\narea... I wonder what happened.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "いらっしゃいませ。<1\"\u0000>\n<18\u0000>逃<19\u0000>に<1:\u0000>げる<18\u0000>時<19\u0000>とき<1:\u0000>に、<18\u0000>少<19\u0000>すこ<1:\u0000>しだけ<18\u0000>商品<19\u0000>しょうひん<1:\u0000>を<18\u0000>持<19\u0000>も<1:\u0000>ちだせました。\nよろしければ<18\u0000>買<19\u0000>か<1:\u0000>って<18\u0000>行<19\u0000>い<1:\u0000>って<18\u0000>下<19\u0000>くだ<1:\u0000>さい。<1\"\u0000>\n「ドラゴン」に<18\u0000>有効<19\u0000>ゆうこう<1:\u0000>なそうびを\n<18\u0000>取<19\u0000>と<1:\u0000>り<18\u0000>揃<19\u0000>そろ<1:\u0000>えていますよ。",
+			"text_contents": "Welcome. Have some useful items,\nmanaged to bring with while<1\"\u0000>\nescaping. Consider buy\nsomething as souvenir if want.<1\"\u0000>\nHave lots of gear effective\nagainst \"Dragon\" type monsters.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>竜<19\u0000>りゅう<1:\u0000>たちが<18\u0000>突然<19\u0000>とつぜん<1:\u0000>、<18\u0000>凶暴化<19\u0000>きょうぼうか<1:\u0000>して\nオレたちに<18\u0000>襲<19\u0000>おそ<1:\u0000>いかかって<18\u0000>来<19\u0000>き<1:\u0000>たんだ！<1\"\u0000>\nずっと<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>に<18\u0000>暮<19\u0000>く<1:\u0000>らしてきたのに\nいったいどうしちまったんだよ……。",
+			"text_contents": "Suddenly, dragons went\nberserk, attacked us!<1\"\u0000>\nBoth dragons and dwarfs\nlived together peacefully for<1\"\u0000>\nlong time. What in world\nis going on?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "くそうっ……。\nこのままじゃ<18\u0000>里<19\u0000>さと<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>れん……。<1\"\u0000>\nヤツらが<18\u0000>凶暴<19\u0000>きょうぼう<1:\u0000>なモンスターになっちまったんなら\nオレが<18\u0000>退治<19\u0000>たいじ<1:\u0000>しにいってやる！",
+			"text_contents": "This, not me believe...\nWill not return to village<1\"\u0000>\nif can't solve problem.\nJust because dragons turned<1\"\u0000>\ninto violent monsters.\nMe will go and eliminate<1\"\u0000>\nthem, if not turn normal!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ワシらは「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」に<18\u0000>住<19\u0000>す<1:\u0000>んでいた\n<18\u0000>地底人<19\u0000>ちていじん<1:\u0000>ですじゃ。<1\"\u0000>\nところが<18\u0000>今<19\u0000>いま<1:\u0000>はこの<18\u0000>通<19\u0000>とお<1:\u0000>り\n<18\u0000>里<19\u0000>さと<1:\u0000>を<18\u0000>捨<19\u0000>す<1:\u0000>てて<18\u0000>逃<19\u0000>に<1:\u0000>げてきた<18\u0000>次第<19\u0000>しだい<1:\u0000>でのう。<1\"\u0000>\nワシらの<18\u0000>先祖<19\u0000>せんぞ<1:\u0000>の<18\u0000>代<19\u0000>だい<1:\u0000>から<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>に<18\u0000>暮<19\u0000>く<1:\u0000>らしていた\n<18\u0000>竜<19\u0000>りゅう<1:\u0000>たちが、<18\u0000>突然<19\u0000>とつぜん<1:\u0000>ワシらを<18\u0000>襲<19\u0000>おそ<1:\u0000>い<18\u0000>始<19\u0000>はじ<1:\u0000>めたんじゃ……。<1\"\u0000>\nいったい<18\u0000>何<19\u0000>なに<1:\u0000>が<18\u0000>起<19\u0000>お<1:\u0000>こっているのか\nさっぱり<18\u0000>見当<19\u0000>けんとう<1:\u0000>がつきませんわい……。",
+			"text_contents": "We, dwarfs used to live in\n\"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\".<1\"\u0000>\nNow, had to abandon village\nand escape!<1\"\u0000>\nUsed to live in peace with\ndragons since ancient times but<1\"\u0000>\nsuddenly, they started attacking\nus. No idea what is going on...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "うわーーーーん。<1\"\u0000>\n<18\u0000>友<19\u0000>とも<1:\u0000>だちだった<18\u0000>竜<19\u0000>りゅう<1:\u0000>と<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>に<18\u0000>遊<19\u0000>あそ<1:\u0000>んでたのに\nいきなり<18\u0000>噛<19\u0000>か<1:\u0000>み<18\u0000>付<19\u0000>つ<1:\u0000>こうとしてきたんだ……。",
+			"text_contents": "Waaaah! Me was playing with\nmy friend Terrace and he<1\"\u0000>\nsuddenly tried, bite me...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>急<19\u0000>きゅう<1:\u0000>にどうしたのかしら……。<1\"\u0000>\nあんなに<18\u0000>大人<19\u0000>おとな<1:\u0000>しかった<18\u0000>竜<19\u0000>りゅう<1:\u0000>たちが\n<18\u0000>凶暴<19\u0000>きょうぼう<1:\u0000>になってしまって……。<1\"\u0000>\nあれでは<18\u0000>他<19\u0000>ほか<1:\u0000>の<18\u0000>危険<19\u0000>きけん<1:\u0000>な<18\u0000>魔物<19\u0000>まもの<1:\u0000>たちと\n<18\u0000>同<19\u0000>おな<1:\u0000>じだわ……。",
+			"text_contents": "me wonder, what happened to\nthem out of sudden...<1\"\u0000>\nDragons here, were very\npeaceful and gentle, now they<1\"\u0000>\nno better than other dragons\nand dangerous monsters...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "う～ん、<18\u0000>全力<19\u0000>ぜんりょく<1:\u0000>で<18\u0000>逃<19\u0000>に<1:\u0000>げてきたから\nもう<18\u0000>動<19\u0000>うご<1:\u0000>けん……。",
+			"text_contents": "Heh, me escaped with all my\nmight, now need move on...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "アンタも<17\u0003>{8, MessageMapName, +}<2耀>{4, message}に\n「<18\u0000>竜<19\u0000>りゅう<1:\u0000>の<18\u0000>珠<19\u0000>たま<1:\u0000>」を<18\u0000>見<19\u0000>み<1:\u0000>に<18\u0000>来<19\u0000>き<1:\u0000>たのかい？<1\"\u0000>\nどうやら、それどころじゃ<18\u0000>無<19\u0000>な<1:\u0000>いみたいだぜ？\nオレも<18\u0000>出直<19\u0000>でなお<1:\u0000>して<18\u0000>来<19\u0000>く<1:\u0000>るかな……。",
+			"text_contents": "You come to<17\u0003>{8, MessageMapName, +}<2耀>{4, message} to\nsee \"Dragon Pearl\"?<1\"\u0000>\nWell, you missed quite lots\nof action just now.<1\"\u0000>\nMe think, have to fix this...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "「<17\u0003>{8, MessageMapName, +}<2耀>{4, message}」に<18\u0000>行<19\u0000>い<1:\u0000>きたいのか？<1\"\u0000>\nこの<18\u0000>先<19\u0000>さき<1:\u0000>は<18\u0000>竜<19\u0000>りゅう<1:\u0000>たちが<18\u0000>来<19\u0000>こ<1:\u0000>られないように\n<18\u0000>柵<19\u0000>さく<1:\u0000>を<18\u0000>閉<19\u0000>と<1:\u0000>じているんだ。<1\"\u0000>\nどうしても<18\u0000>行<19\u0000>い<1:\u0000>くなら、そこのスイッチを<18\u0000>押<19\u0000>お<1:\u0000>せば\n<18\u0000>柵<19\u0000>さく<1:\u0000>を<18\u0000>開<19\u0000>ひら<1:\u0000>くことができるぞ。<1\"\u0000>\n<18\u0000>行<19\u0000>い<1:\u0000>くのは<18\u0000>勝手<19\u0000>かって<1:\u0000>だが、お<18\u0000>前<19\u0000>まえ<1:\u0000>が<18\u0000>行<19\u0000>い<1:\u0000>った<18\u0000>後<19\u0000>あと<1:\u0000>\n<18\u0000>柵<19\u0000>さく<1:\u0000>はまた<18\u0000>閉<19\u0000>し<1:\u0000>めちまうからな！<1\"\u0000>\nあ、あと！ドラゴンたちの「ブレス」！\nあれ<18\u0000>強烈<19\u0000>きょうれつ<1:\u0000>だから、<18\u0000>気<19\u0000>き<1:\u0000>をつけろよ！",
+			"text_contents": "Want go to \"<17\u0003>{8, MessageMapName, +}<2耀>{4, message}\"?\nGate here, closed to prevent<1\"\u0000>\ndragons from coming in.\nIf really want proceed,<1\"\u0000>\npress the switch right\nhere to open gate, but<1\"\u0000>\ncareful, gate will close\nright after you go on!<1\"\u0000>\nOh, and one more thing!\n\"Breath\"of dragons here very<1\"\u0000>\npowerful, so be\nvery careful!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>上<19\u0000>うえ<1:\u0000>の<18\u0000>階<19\u0000>かい<1:\u0000>も、ここと<18\u0000>同<19\u0000>おな<1:\u0000>じように<18\u0000>階段<19\u0000>かいだん<1:\u0000>を<18\u0000>柵<19\u0000>さく<1:\u0000>で<18\u0000>閉<19\u0000>と<1:\u0000>じてある。\n<18\u0000>登<19\u0000>のぼ<1:\u0000>って<18\u0000>行<19\u0000>い<1:\u0000>きたいなら、<18\u0000>同<19\u0000>おな<1:\u0000>じ<18\u0000>階<19\u0000>かい<1:\u0000>でスイッチを<18\u0000>探<19\u0000>さが<1:\u0000>しな。",
+			"text_contents": "Stairs on higher floors, also\nlocked with gates like here.<1\"\u0000>\nIf want go further up,\nfind switch on same floor!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あっ、あれ<18\u0000>見<19\u0000>み<1:\u0000>て！！",
+			"text_contents": "Oh, look at that!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あっ、あれを<18\u0000>見<19\u0000>み<1:\u0000>てください！",
+			"text_contents": "Oh, hey. Look there!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あ……あれを<18\u0000>見<19\u0000>み<1:\u0000>てください！",
+			"text_contents": "Oh...chech this out!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,7 +439,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あっ！\nあれ<18\u0000>見<19\u0000>み<1:\u0000>ろよ！",
+			"text_contents": "Ah! Look at that!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あっ、あれを<18\u0000>見<19\u0000>み<1:\u0000>て！",
+			"text_contents": "Oh, look!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あっ！ねえ！！\nあれ<18\u0000>見<19\u0000>み<1:\u0000>て！",
+			"text_contents": "Ah! Hey!! Look at that!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "むっ！\nあれを<18\u0000>見<19\u0000>み<1:\u0000>たまえ。",
+			"text_contents": "Woah! Look at that!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あ……ちょっとあれ……。",
+			"text_contents": "Oh...hey there...",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンだよ！",
+			"text_contents": "It's a child dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンですよ！",
+			"text_contents": "It's a young child dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンです！",
+			"text_contents": "This is a child dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンだぜ！",
+			"text_contents": "It's a cute child dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンだー！",
+			"text_contents": "It's the child of\na dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンじゃない！",
+			"text_contents": "This seems to be a child\ndragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンだ！",
+			"text_contents": "It's a young dragon!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "<18\u0000>子供<19\u0000>こども<1:\u0000>のドラゴンですよ……！",
+			"text_contents": "It's a child dragon...!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "きっと、<18\u0000>大人<19\u0000>おとな<1:\u0000>たちがおかしくなっちゃって\n<18\u0000>困<19\u0000>こま<1:\u0000>ってるんだよ！！",
+			"text_contents": "I'm pretty sure the adults have\ngone crazy because they're<1\"\u0000>\nlooking for them!!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1909,7 +1909,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "あー……そういえば……<1\"\u0000>\n<18\u0000>眠<19\u0000>ねむ<1:\u0000>くなる<18\u0000>前<19\u0000>まえ<1:\u0000>に、<18\u0000>里<19\u0000>さと<1:\u0000>にある「<18\u0000>竜<19\u0000>りゅう<1:\u0000>の<18\u0000>珠<19\u0000>たま<1:\u0000>」が\n<18\u0000>急<19\u0000>きゅう<1:\u0000>に<18\u0000>光<19\u0000>ひか<1:\u0000>ってた<18\u0000>気<19\u0000>き<1:\u0000>がするなぁ……。<1\"\u0000>\nそれって、<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>関係<19\u0000>かんけい<1:\u0000>あるー？",
+			"text_contents": "あー……そういえば……<1\"\u0000>\n<18\u0000>眠<19\u0000>ねむ<1:\u0000>くなる<18\u0000>前<19\u0000>まえ<1:\u0000>に、<18\u0000>里<19\u0000>さと<1:\u0000>にある\"<18\u0000>竜<19\u0000>りゅう<1:\u0000>の<18\u0000>珠<19\u0000>たま<1:\u0000>\"が\n<18\u0000>急<19\u0000>きゅう<1:\u0000>に<18\u0000>光<19\u0000>ひか<1:\u0000>ってた<18\u0000>気<19\u0000>き<1:\u0000>がするなぁ……。<1\"\u0000>\nそれって、<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>関係<19\u0000>かんけい<1:\u0000>あるー？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
