@@ -1,0 +1,269 @@
+{
+	"header": {
+		"text_amount": 13,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4177,
+		"offset_strings": 4256,
+		"strings_section_size1": 156,
+		"offset3": 4416,
+		"section_size2": 52,
+		"offset4": 4480,
+		"section_size3": 16,
+		"offset5": 4496,
+		"section_size4": 28,
+		"unk3": 0,
+		"offset6": 4168,
+		"offset7": 4176,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "なし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしは{9, MonsterParameter, +}<2˓耀>{3, name, +}。\n暗闇くらやみとともに世界せかいを制圧せいあつするよう\n{9, MonsterParameter, +}<2»耀>{3, name, +}様さまに命めいじられているのよ。\n{5, ItemData, +}<2Ö耀>{3, name, +}を持もつ貴方あなたが\nここに来くることは、この大おおきな目めがお見通みとおし。\nそして、この地ちで朽くち果はてる貴方あなたの姿すがたも\n視みえるわ……未来みらいは変かえられないのよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そう、覚悟かくごはできているようね。\nいらっしゃい……。\n一瞬いっしゅんで絶望ぜつぼうに染そめてあげるわ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "フフ、いいのよ。恐おそろしいのでしょう？\n少すこしぐらい心こころの準備じゅんびをさせてあげるわ。\n多少たしょう、時間じかんがずれたところで\n行いきつく先さきの未来みらいは変かわらないのだから。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "覚悟かくごはできて？\n電波人間でんぱにんげん。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そんな、未来みらいが……変かわる、なんて\nありえない……そんなの、私わたし、認みとめ、な、い……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おいらは盗賊とうぞくの「{8, MessageNpcName, +}<2Q耀>{4, message}」！\nお宝たからを求もとめて潜もぐりこんだミャウ！\nでも……ここのヤツらめちゃ強つよいミャウ～……。\nおまえ、ここまで平気へいきだったミャウか？\n平気へいきだったミャウか！\nそれはとってもすごいミャウ！！\nきっと良いいそうびを持もってるミャウね？ね？\nおいらにも分わけて……じゃないミャウ。\nおまえからその強つよさを教おそわりたいミャウ！\nだから、一緒いっしょに連つれて行いってほしいミャウ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとうミャウ！\n……これで隙すきあらばレアなそうびを盗ぬすんで……。\nな、なんでもないミャウ！\nおまえ強つよいだけでなく、心こころも広ひろいミャウな～！\nじゃ、おいらはおまえの島しまへ先さきに行いってるミャウ！\n絶対ぜったい！戻もどってくるミャウ！！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ありがとうミャウ！\n……ん？お前まえの電波人間でんぱにんげんボックスに\n空あきがないから仲間なかまになれないミャウ～……。\nちゃんと空あきが出で来きたら\nまた声こえを掛かけて欲ほしいミャウ。\n絶対ぜったいミャウ～……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ミャウー！！だめミャウか！？\nうう……そうびゲットのチャンスが……。\nじゃなくて！\n一緒いっしょに冒険ぼうけんしたかったミャウ～…。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "先さきにおまえの島しまへ行いってるミャウ！\nおまえが島しまに戻もどってきたら\n一緒いっしょに冒険ぼうけんへ連つれて行いって欲ほしいミャウ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おまえの電波人間でんぱにんげんボックスに空あきが出で来きたら\nまた声こえを掛かけて欲ほしいミャウ～……。\n絶対ぜったいミャウ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ミャウ！？\n考かんがえ直なおしてくれたミャウ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660
+	]
+}

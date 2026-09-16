@@ -1,0 +1,173 @@
+{
+	"header": {
+		"text_amount": 7,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 2191,
+		"offset_strings": 2256,
+		"strings_section_size1": 84,
+		"offset3": 2352,
+		"section_size2": 28,
+		"offset4": 2384,
+		"section_size3": 16,
+		"offset5": 2400,
+		"section_size4": 16,
+		"unk3": 0,
+		"offset6": 2182,
+		"offset7": 2190,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "I am the Fire Fairy <17\u0003>{8, MessageNpcName, +}<2;耀>{4, message}.<1\"\u0000>\nI have been eagerly awaiting\nthe bearer of the \"<17\u0003>{5, ItemData, +}<2±耀>{3, name, +}.<1\"\u0000>\nOh bearer of the token,\nlet me lend you my strength<1\"\u0000>\nfor your adventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Please take good care of me.\nI will go to your island first.<1\"\u0000>\nI sincerely hope for your\nsafe return to your island!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I am truly grateful for your\nkind reply but unfortunately<1\"\u0000>\nthere is no room left for me\nin the Denpa Men Box.<1\"\u0000>\nPlease let me know if a free\nspot opens up in your<1\"\u0000>\nDenpa Men Box.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I see...\nI really wanted to be<1\"\u0000>\nof help to you.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I will go ahead to your island\nfirst. When you return to your<1\"\u0000>\nisland, I will lend you my\npower for your adventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If a spot opens up in the\nDenpa Men Box, please<1\"\u0000>\nlet me know.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is my help needed now?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"d01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654
+	]
+}

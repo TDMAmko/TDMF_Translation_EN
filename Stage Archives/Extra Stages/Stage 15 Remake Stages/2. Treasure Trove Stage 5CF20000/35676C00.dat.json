@@ -1,0 +1,269 @@
+{
+	"header": {
+		"text_amount": 13,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 3863,
+		"offset_strings": 3936,
+		"strings_section_size1": 156,
+		"offset3": 4096,
+		"section_size2": 52,
+		"offset4": 4160,
+		"section_size3": 16,
+		"offset5": 4176,
+		"section_size4": 28,
+		"unk3": 0,
+		"offset6": 3846,
+		"offset7": 3862,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I am the Electricity Fairy\n<1:\u0000><17\u0003>{8, MessageNpcName, +}<2?耀>{4, message}.<1\"\u0000>\nI have been waiting for the one\nbearing the \"<17\u0003>{5, ItemData, +}<2µ耀>{3, name, +}\".<1\"\u0000>\nOh, bearer of the token!\nThough my power is small,<1\"\u0000>\nI shall lend it to you\non your adventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "So it is then. I will already\ngo to the island ahead of you.<1\"\u0000>\nSurely, I will pray for your\nsafe return to the island.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "So it is then...huh?\nUnfortunately, it seems there<1\"\u0000>\nis no available space for\nme in the Denpa Men Box.<1\"\u0000>\nIf you wish to accept me\nin your party, please return when<1\"\u0000>\nyou have an available spot\nyou are willing to sacrifice<1\"\u0000>\nto me in the Denpa Men Box.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I see...\nIt is a shame but there is<1\"\u0000>\nnothing I could and should\ndo about it.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I will go ahead to your island.\nWhen you return safely<1\"\u0000>\nto your island, I can lend\nyou my power for future<1\"\u0000>\nadventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Please notify me when you\nhave an available spot<1\"\u0000>\nin the Denpa Men Box.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Is my help needed now?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I am <17\u0003>{9, MonsterParameter, +}<2Ÿ耀>{3, name, +}!\nI have been ordered to guard<1\"\u0000>\nthe fairy treasure behind\nme by the Fairy Queen.<1\"\u0000>\nI was just getting bored\nbecause no one comes around.<1\"\u0000>\nYou came in time for me\nto get me out of my boredom!<1\"\u0000>\nLet me test your strength!\nBut be warned, I have an<1\"\u0000>\nability called \"Illusion\"\nwhich renders critical hits<1\"\u0000>\nineffective against me. You see,\nI even gave you a hint!<1\"\u0000>\nBe sure to make it count\nand give your best against me!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "That's the spirit!\nI was just about to be<1\"\u0000>\nin trouble because I couldn't\ndischarge my energy.<1\"\u0000>\nNow, let's get\nthe battle started!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Ugh...I guess not then...\nMan, I wish there was<1\"\u0000>\nsomeone I could fight with\nto kill some time!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh? Oh?\nAre you up for it?<1\"\u0000>\nReady to fight?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "That was so much fun. No wonder\nthe Fairy Queen has high<1\"\u0000>\nhopes for you. Yeah!\nTake the treasure you thief!!<1\"\u0000>\nJust kidding. But..losing does\nkind of suck...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678,
+		2147483679,
+		2147483680,
+		2147483681,
+		2147483682
+	]
+}

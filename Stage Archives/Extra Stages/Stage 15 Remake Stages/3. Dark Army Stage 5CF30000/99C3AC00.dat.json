@@ -1,0 +1,269 @@
+{
+	"header": {
+		"text_amount": 13,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4177,
+		"offset_strings": 4256,
+		"strings_section_size1": 156,
+		"offset3": 4416,
+		"section_size2": 52,
+		"offset4": 4480,
+		"section_size3": 16,
+		"offset5": 4496,
+		"section_size4": 28,
+		"unk3": 0,
+		"offset6": 4168,
+		"offset7": 4176,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm <17\u0003>{9, MonsterParameter, +}<2˓耀>{3, name, +}.<1\"\u0000>\nI was commanded by\n<17\u0003>{9, MonsterParameter, +}<2»耀>{3, name, +} to cover<1\"\u0000>\nthe world full in darkness.\nThese great eyes can see<1\"\u0000>\nright through you. You who\npossess the <17\u0003>{5, ItemData, +}<2Ö耀>{3, name, +}<1\"\u0000>\nand came to this place, I can\nsee your future.<1\"\u0000>\nI can see you as you wither\nand perish on this land...<1\"\u0000>\nThe future cannot be changed.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Yes, I see you're ready for\nyour fate.<1\"\u0000>\nWelcome...I'll plunge you\ninto despair in an instant.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Hehe, it's all right. You are\nscared, arent't you?<1\"\u0000>\nDon't worry, I'll allow you\nsome time. Even if this changes<1\"\u0000>\nthe timing of your fate,\nit is sealed anyway.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Are you ready?\nDenpa men.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "There's no way...the future...\ncan change...it is impossible...<1\"\u0000>\nI won't accept...that...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm the thief \"<17\u0003>{8, MessageNpcName, +}<2Q耀>{4, message}\"!\nI snuck in here to look<1\"\u0000>\nfor some treasure, meow!\nBut the guys around here<1\"\u0000>\nare super strong, meow!\nBut you seem to be doing<1\"\u0000>\njust fine, meow! That's amazing,\nmeow. That means you must<1\"\u0000>\nhave some great gear, right?\nDon't worry, you won't<1\"\u0000>\nneed to share your gear\nwith me, meow...I just<1\"\u0000>\nwant to learn from you, meow!\nPlease take me with you, meow!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks, meow! Now I have the\nchance to steal rare gear<1\"\u0000>\nwhenever I want... Oh, I said\nnothing, meow! You're not<1\"\u0000>\njust strong but you also have\na big heart too, meow!<1\"\u0000>\nNow, let me head to your\nisland first, meow!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Thanks, meow!<1\"\u0000>\n...Huh? There's no free space\nin your Denpa Men Box, meow!<1\"\u0000>\nThis means I can't join you\nuntil you don't have a free<1\"\u0000>\nspot for me, meow! Please\ncome back when you have a free<1\"\u0000>\nspot. I definitely want to\nbe part of your team, meow...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Meouuuw!! Was that a no, meow!?\nOh...I guess no rare gear<1\"\u0000>\nfor me to nab anytime soon...\nI mean I actually just want<1\"\u0000>\nto join you on your\nadventures, meow.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm heading straight to your\nisland, meow! When you return,<1\"\u0000>\nI want you to add me\nto your party so that<1\"\u0000>\nI can go on adventures\nwith you, meow!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "If there's ever a free spot\nin your Denpa Men Box, I would<1\"\u0000>\nlove to occupy it. Just\ncome back to me when<1\"\u0000>\nyou have a free spot, meow!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Meow!? Did you change your\nmind, meow?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"s01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660
+	]
+}
