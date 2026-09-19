@@ -19,7 +19,7 @@
 	},
 	"text_info": [
 		{
-			"text_contents": "なし",
+			"text_contents": "none",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>さんが<18\u0000>住<19\u0000>す<1:\u0000>んでるっていう\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}だよね。",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2耀>{4, message},\nthe place where the<1\"\u0000>\nIncarnation of Water\nlives, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>さんが<18\u0000>住<19\u0000>す<1:\u0000>んでるっていう\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}ですね。",
+			"text_contents": "This is <17\u0003>{8, MessageMapName, +}<2耀>{4, message},\nthe place which is said<1\"\u0000>\nto be the home of the\nIncarnation of Water, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>さんが<18\u0000>住<19\u0000>す<1:\u0000>んでるという\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}ですね。",
+			"text_contents": "This is the place where the\nIncarnation of Water lives.<1\"\u0000>\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}, right?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>が<18\u0000>住<19\u0000>す<1:\u0000>んでるっていう\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}だな。",
+			"text_contents": "So, this is the place where\nthe Incarnation of Water lives.<1\"\u0000>\nThe <17\u0003>{8, MessageMapName, +}<2耀>{4, message}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>さんが<18\u0000>住<19\u0000>す<1:\u0000>んでるっていう\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}だよね。",
+			"text_contents": "This is the place where the\nIncarnation of Water<1\"\u0000>\nis living. The\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}!",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ここが、<18\u0000>水<19\u0000>みず<1:\u0000>の<18\u0000>化身<19\u0000>けしん<1:\u0000>さんが<18\u0000>住<19\u0000>す<1:\u0000>んでるっていう\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}なのね。",
+			"text_contents": "So, that's the place where\nthe Incarnation of Water<1\"\u0000>\nresides. The\n<17\u0003>{8, MessageMapName, +}<2耀>{4, message}, huh?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
