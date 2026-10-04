@@ -1,0 +1,285 @@
+{
+	"header": {
+		"text_amount": 14,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4541,
+		"offset_strings": 4608,
+		"strings_section_size1": 168,
+		"offset3": 4784,
+		"section_size2": 56,
+		"offset4": 4848,
+		"section_size3": 16,
+		"offset5": 4864,
+		"section_size4": 30,
+		"unk3": 0,
+		"offset6": 4524,
+		"offset7": 4540,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "なし",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あまり奥おくまで進すすまないほうがいいよ。\n突然とつぜん、巨大きょだいな黒くろい魚人ぎょじんが現あらわれて\nこの間あいだも、探検隊たんけんたいが襲おそわれて全滅ぜんめつしたんだって。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われは雷かみなりの化身けしん「{9, MonsterParameter, +}<2Ě耀>{3, name, +}」。\n電波でんぱ人間にんげんよ。オーブを託たくされたようだが……。\n私わたしのサーチアイにはお前まえの中なかにそれ程ほどの力ちからが\n備そなわっているようには映うつっておらん。\n映うつらぬ以上いじょう、正直しょうじき理解りかいしがたい。\n電波でんぱ人間にんげんよ。お前まえの力ちからを我われに示しめせ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よかろう。ならば遠慮えんりょはいらぬな。\n心こころして掛かかるがよい。\n我われはそう御ぎょしやすくはないぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "退ひくのもまた一ひとつの強つよさ。\n備そなえが必要ひつようであれば\nしっかり整ととのえてくる事ことだ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われに挑いどむか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お前まえの力ちから、しかと見みせてもらった。\n雷かみなりの化身けしんである我われに勝利しょうりした事ことを誇ほこるがいい。\n我われもまた、有意義ゆういぎな戦たたかいが出で来きた事こと\n心こころから感謝かんしゃする……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしは氷こおりの上級妖精じょうきゅうようせいの「{8, MessageNpcName, +}<2<耀>{4, message}」。\n「{5, ItemData, +}<2²耀>{3, name, +}」を持もつ者ものの到来とうらいを\n待まっておりましたの。\n証あかしを持もつ者もの。あなたの冒険ぼうけんに\n微力びりょくながら私わたしの力ちからをお貸かししますよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "では、よろしくお願ねがいしますね。\n早速さっそく、私わたしはあなたの島しまへ参まいります。\n島しまに戻もどられましたらいつでも\n私わたしに声こえを掛かけてくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "あらあら、まあまあ……。\n残念ざんねんながらあなたの電波でんぱ人間にんげんボックスに\n空あきがないようですね。\n電波でんぱ人間にんげんボックスの枠わくが空あきましたら\nまた、私わたしに声こえを掛かけてくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "そう……必要ひつようありませんか、私わたしは。\nんんっ。助たすけが欲ほしいときは\nまた声こえをお掛かけになってくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "早速さっそくあなたの島しまへ参まいり\nあなたの帰かえりをお待まちしておりますね。\n今後こんごの冒険ぼうけんに私わたしの力ちからを役立やくだてましょう。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波でんぱ人間にんげんボックスが空あきましたら\nまた、私わたしに声こえを掛かけてください。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "私わたしの力ちからが、必要ひつようになりまして？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483663,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662
+	]
+}

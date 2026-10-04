@@ -1,0 +1,301 @@
+{
+	"header": {
+		"text_amount": 15,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 4395,
+		"offset_strings": 4464,
+		"strings_section_size1": 180,
+		"offset3": 4656,
+		"section_size2": 60,
+		"offset4": 4720,
+		"section_size3": 16,
+		"offset5": 4736,
+		"section_size4": 32,
+		"unk3": 0,
+		"offset6": 4378,
+		"offset7": 4394,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "ガーディアンズと戦たたかいますか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われはガーディアンが一人ひとり。\n「{9, MonsterParameter, +}<2͵耀>{3, name, +}」。\n我々われわれと戦たたかいたくば「{9, MonsterParameter, +}<2o耀>{3, name, +}」へ\n申もうし入いれる事ことじゃな。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われはガーディアンが一人ひとり。\n「{9, MonsterParameter, +}<2n耀>{3, name, +}」。\n我々われわれと戦たたかいたくば「{9, MonsterParameter, +}<2o耀>{3, name, +}」へ\n申もうし入いれなさい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われはガーディアンが一人ひとり。\n「{9, MonsterParameter, +}<2o耀>{3, name, +}」。\n我々われわれは世界せかいを守護しゅごするものとして\n「{9, MonsterParameter, +}<2»耀>{3, name, +}」の行動こうどうを監視かんしして来きた。\nそして我々われわれは、お前まえが世界せかいを護まもる者ものとして\nふさわしいかどうか見定みさだめる必要ひつようがある。\nさあ、お前まえの力ちからを我々われわれに示しめせ！電波でんぱ人間にんげん！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "よかろう。全力ぜんりょくで挑いどむがよい。\nこちらも三体同時攻撃さんたいどうじこうげき！\n全力ぜんりょくでお前まえを見定みさだめさせてもらう！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "退ひく事ことはいっこうに構かまわん。\nいつでも挑いどんでくるがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "我われらに挑いどむか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "見事みごとだ、電波人間でんぱにんげん。お前まえを認みとめるぞ。\nその正ただしき力ちからは、世界せかいのために。\n本当ほんとうに、良よい戦たたかいであった……。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うおー！？ワシが驚おどろかされたー！\nおお、失礼しつれいした。「{8, MessageNpcName, +}<2R耀>{4, message}」と申もうす。\n日ひ々び新あらたな驚おどろきを求もとめ、旅たびしておる。\n時ときにお主ぬし、旅たびの供ともにワシを連つれて行いかぬか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "おお！そうか！\nでは早速さっそくお主ぬしの島しまへ向むかうとするか。\nあはは！突然とつぜんで驚おどろいたか！\n善ぜんは急いそげと申もうすだろ！では島しまで待まっておるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "なんと！？これは驚おどろいた！\n電波人間でんぱにんげんボックスに空あきがない！\n空あきが出で来きたらまた声こえを掛かけるがよい。\nもちろん、次つぎは驚おどろかされんぞ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "駄だ目めか！？断ことわられるとは思おもわなんだ！\nまあ気きが向むいたら声こえを掛かけてくれ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "早速さっそくお主ぬしの島しまへ向むかうぞ！\n帰かえりを待まっておるぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "電波人間でんぱにんげんボックスに空あきが出で来きたら\nまたワシに声こえを掛かけるがよい。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "うおー！？驚おどろいた！！\nで、連つれて行いく気きになったかの？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669,
+		2147483670,
+		2147483671,
+		2147483672,
+		2147483673,
+		2147483674,
+		2147483675,
+		2147483676,
+		2147483677,
+		2147483678
+	]
+}

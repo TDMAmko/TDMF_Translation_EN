@@ -1,0 +1,397 @@
+{
+	"header": {
+		"text_amount": 21,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 6059,
+		"offset_strings": 6128,
+		"strings_section_size1": 252,
+		"offset3": 6384,
+		"section_size2": 84,
+		"offset4": 6480,
+		"section_size3": 16,
+		"offset5": 6496,
+		"section_size4": 44,
+		"unk3": 0,
+		"offset6": 6042,
+		"offset7": 6058,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "none",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Reports suggest, incredibly\npowerful monster with \"Fear\"<1\"\u0000>\nattribute, roaming inside\nvolcano. Also says, this<1\"\u0000>\ncreature on fire...",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oho! You're a Denpa Men, aren't\nya! I'm the Incarnation<1\"\u0000>\nof Earth, \"<17\u0003>{9, MonsterParameter, +}<2ï耀>{3, name, +}\n.\nI've just woke up so my<1\"\u0000>\nis still a little stiff.\nWhat ya say? Wanna join me<1\"\u0000>\nfor a little exercise?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Nyahahaha! That kind of\nboldness is truly admireable!<1\"\u0000>\nNo need to holb back!\nCome at me with everything<1\"\u0000>\nyou've got!!",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Oh, too bad... That's a shame...\nIf you ever feel like it,<1\"\u0000>\ntell me, will ya?\nI'll be waiting.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...Are you now interested?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Nyahahaha! Didn't think I would\nsay this again but yeah!<1\"\u0000>\nI haven't met someone so\nstrong in a long time!<1\"\u0000>\nThat was fun! Come challenge\nme anytime! Good luck on<1\"\u0000>\nyour adventure, Denpa Men.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm the Elder Water Fairy\nknown as \"<17\u0003>{8, MessageNpcName, +}<2@耀>{4, message}\".<1\"\u0000>\nI have been waiting for the\narrival of the one who<1\"\u0000>\npossesses the \"<17\u0003>{5, ItemData, +}<2¶耀>{3, name, +}\".\nOh, bearer of the token,<1\"\u0000>\nI shall lend you my strength -\nhowever modest it may be - for<1\"\u0000>\nyour adventure.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I look forward to working\nwith you from now on.<1\"\u0000>\nWell then, I'll head\nover to your island first.<1\"\u0000>\nI pray with all my heart\nthat you will return to the<1\"\u0000>\nisland safely.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I look forward to working with\nyou... Oh?<1\"\u0000>\nUnfortunately, it seems there's\nno space left in your<1\"\u0000>\nDenpa Men Box. If a spot is\navailable, please notify me.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I see...\nThat's too bad, but there's<1\"\u0000>\nnothing we can do about it\nas it seems.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I will go ahead to your island.\nWhen you return to the<1\"\u0000>\nisland, I will put my strength\nto good use in your<1\"\u0000>\nfuture adventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When the Denpa Men Box has an\navailable spot, please<1\"\u0000>\nnotify me again.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Do you need my help now?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I'm the Elder Earth Fairy\nknown as \"<17\u0003>{8, MessageNpcName, +}<2>耀>{4, message}\".<1\"\u0000>\nI have been waiting for the\none possessing the <17\u0003>{5, ItemData, +}<2´耀>{3, name, +}.<1\"\u0000>\nYou, the one who holds the\nproof of my element shall be<1\"\u0000>\nprovided my strength -\nhowever modest it may<1\"\u0000>\nbe - for your adventure.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I look forward to working with\nyou from now on. Well then,<1\"\u0000>\nI'll proceed to your island\nfirst. Please be careful and<1\"\u0000>\nand make sure you return\nto the island safely.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "...There's a problem. It seems\nto me that there's no space<1\"\u0000>\nleft in your Denpa Men Box.<1\"\u0000>\nIf a spot is made available,\nplease let me know.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "That's too bad. If you ever need\nmy assistance, please be<1\"\u0000>\nfree to let me know.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "I will go ahead to your island.\nWhen you safely return to<1\"\u0000>\nthe island, I will put my\nstrength to good use in<1\"\u0000>\nyour following adventures.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "When a spot is made available\nin the Denpa Men Box, please<1\"\u0000>\nbe free to let me know.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "Do you need my help?",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345664,
+		3503345682,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345686,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680,
+		3503345680
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"MessageContents"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483648,
+		2147483670,
+		2147483651,
+		2147483652,
+		2147483653,
+		2147483654,
+		2147483655,
+		2147483656,
+		2147483657,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661,
+		2147483662,
+		2147483663,
+		2147483664,
+		2147483665,
+		2147483666,
+		2147483667,
+		2147483668,
+		2147483669
+	]
+}
