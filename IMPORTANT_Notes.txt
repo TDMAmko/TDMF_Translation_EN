@@ -14,6 +14,15 @@ TDMFSCRIPTEDITOR commands
 
 -extract-v6/repack-v6: 50BEB000.dat (Shop description)
 
+NEW COMMANDS EXCLUSIVE TO RECENT VERSION OF TDMFSCRIPTEDITOR
+You need to edit the corresponding "config.dpmf" file to add/remove
+text files for each corresponding version
+
+-Version 7: 34574800.dat (Companion names, commands & descriptions)
+
+-Version 8: any .bin checkinData file 
+(config.dpmf is initially missing some file names, add them!)
+
 KEEP IN MIND:
 Archives from old/original cia may contain exclusive date.
 ->IN THIS CASE EXCLUSIVE FILES FROM ORIG CIA ARE PASTED INTO
@@ -26,6 +35,12 @@ Use find/replace feature and paste: <[\x00-\x7F\p{L}u]*?>
 in find, keep "replace with" empty!
 Then click "Replace All"
 CREATE A COPY BEFORE DOING THIS!!!
+
+TOOL TO DETECT INVALID STRING SEQUENCES:
+While repacking, the error "Invalid string escape sequence." can occur,
+here is a potential quick way how to fix it:
+Use find/replace feature and paste: (?<!\\)\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})
+Fix invalid string sequence (usually faulty line break e.g. \l instead of \n)
 
 Add a new speech bubble: <1\"\u0000>\n 
 (for stage text etc.)

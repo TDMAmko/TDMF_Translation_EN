@@ -5648,7 +5648,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, it's been a while...\n......<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message}...right?<1\"\u0000>\So, what's with that outfit?",
+			"text_contents": "Oh, it's been a while...\n......<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message}...right?<1\"\u0000>\nSo, what's with that outfit?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -6418,7 +6418,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "By way, have been to\nSpirit Shrine already?<1\"\u0000>\nIf have Denpa Men from\n8th generation, me sure, your<1\"\u0000>\nadventures be much easier!\nHee hee."
+			"text_contents": "By way, have been to\nSpirit Shrine already?<1\"\u0000>\nIf have Denpa Men from\n8th generation, me sure, your<1\"\u0000>\nadventures be much easier!\nHee hee.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -7132,7 +7132,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That'ss right! Now, seems that\n new people, have appeared,<1\"\u0000>\nplan to resurrect<17\u0003>{9, MonsterParameter, +}<2ä耀>{3, name, +}.",
+			"text_contents": "That'ss right! Now, seems that\nnew people, have appeared,<1\"\u0000>\nplan to resurrect<17\u0003>{9, MonsterParameter, +}<2ä耀>{3, name, +}.",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -7510,7 +7510,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ah, that's it!!\<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message} wants to follow us!?",
+			"text_contents": "Ah, that's it!!\n<17\u0003>{8, MessageNpcName, +}<2\u0001耀>{4, message} wants to follow us!?",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,

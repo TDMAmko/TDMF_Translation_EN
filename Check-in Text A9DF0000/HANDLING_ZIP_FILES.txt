@@ -1,0 +1,8 @@
+HANDLING ZIP FILES IN TDMF TRANSLATION PROJECT:
+
+Some text archives are compressed in zip files, and when trying to repack them,
+DO NOT compress the edited (or even unedited) file to a zip file, just copy and
+paste it into the already existing zip file in the extracted archive
+
+Doing otherwise will cause game crashes when repacking the archives
+with tdmextractor!!!
