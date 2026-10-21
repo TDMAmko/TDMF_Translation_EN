@@ -1,0 +1,141 @@
+{
+	"header": {
+		"text_amount": 5,
+		"unk1": 12,
+		"header_size": 64,
+		"script_section_size": 2201,
+		"offset_strings": 2272,
+		"strings_section_size1": 60,
+		"offset3": 2336,
+		"section_size2": 20,
+		"offset4": 2368,
+		"section_size3": 16,
+		"offset5": 2384,
+		"section_size4": 12,
+		"unk3": 0,
+		"offset6": 2192,
+		"offset7": 2200,
+		"unk4": 0
+	},
+	"text_info": [
+		{
+			"text_contents": "この<18\u0000>階段<19\u0000>かいだん<1:\u0000>を<18\u0000>降<19\u0000>お<1:\u0000>りてどうくつに<18\u0000>入<19\u0000>はい<1:\u0000>ると\nここには<18\u0000>帰<19\u0000>かえ<1:\u0000>って<18\u0000>来<19\u0000>こ<1:\u0000>られなくなりますよ。<1\"\u0000>\n<18\u0000>必要<19\u0000>ひつよう<1:\u0000>なものがあったら\n<18\u0000>今<19\u0000>いま<1:\u0000><18\u0000>買<19\u0000>か<1:\u0000>って<18\u0000>行<19\u0000>い<1:\u0000>ってくださいね。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>のどうくつは<18\u0000>景色<19\u0000>けしき<1:\u0000>や<18\u0000>現<19\u0000>あらわ<1:\u0000>れるモンスターが\nときどき<18\u0000>変化<19\u0000>へんか<1:\u0000>する<18\u0000>不<19\u0000>ふ<1:\u0000><18\u0000>思<19\u0000>し<1:\u0000><18\u0000>議<19\u0000>ぎ<1:\u0000>な<18\u0000>場所<19\u0000>ばしょ<1:\u0000>なんだ。<1\"\u0000>\n<18\u0000>最近中<19\u0000>さいきんなか<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>ったヤツの<18\u0000>話<19\u0000>はなし<1:\u0000>によると\nどうもまた<18\u0000>変<19\u0000>か<1:\u0000>わったようだぞ。<1\"\u0000>\n<18\u0000>火属性<19\u0000>ひぞくせい<1:\u0000>のモンスターのすむ<18\u0000>火山地帯<19\u0000>かざんちたい<1:\u0000>に<18\u0000>加<19\u0000>くわ<1:\u0000>えて\n<18\u0000>水辺<19\u0000>みずべ<1:\u0000>と<18\u0000>氷<19\u0000>こおり<1:\u0000>の<18\u0000>場所<19\u0000>ばしょ<1:\u0000>も<18\u0000>現<19\u0000>あらわ<1:\u0000>れるようだ。<1\"\u0000>\nキミもこの<18\u0000>先<19\u0000>さき<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>くなら<18\u0000>準備<19\u0000>じゅんび<1:\u0000>をしっかりとね。\n……まったく、このどうくつは<18\u0000>興味<19\u0000>きょうみ<1:\u0000>が<18\u0000>尽<19\u0000>つ<1:\u0000>きないよ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>何度<19\u0000>なんど<1:\u0000>かどうくつに<18\u0000>入<19\u0000>はい<1:\u0000>っているけど\nどうも<18\u0000>毎回<19\u0000>まいかい<1:\u0000>、<18\u0000>違<19\u0000>ちが<1:\u0000>うところに<18\u0000>出<19\u0000>で<1:\u0000>ている<18\u0000>気<19\u0000>き<1:\u0000>がする。<1\"\u0000>\n<18\u0000>階段<19\u0000>かいだん<1:\u0000>を<18\u0000>降<19\u0000>お<1:\u0000>りたら、<18\u0000>来<19\u0000>き<1:\u0000>た<18\u0000>階段<19\u0000>かいだん<1:\u0000>は<18\u0000>無<19\u0000>な<1:\u0000>くなってるし\nこのどうくつ……<18\u0000>気<19\u0000>き<1:\u0000><18\u0000>味<19\u0000>み<1:\u0000>が<18\u0000>悪<19\u0000>わる<1:\u0000>いぜ。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ここは、つい<18\u0000>最近<19\u0000>さいきん<1:\u0000>みつかった<18\u0000>場所<19\u0000>ばしょ<1:\u0000>なんだが\nどこにつながっているんだろうか？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>途中<19\u0000>とちゅう<1:\u0000>まで<18\u0000>進<19\u0000>すす<1:\u0000>んだんだが\n<18\u0000>強<19\u0000>つよ<1:\u0000>いヤツがいたから<18\u0000>逃<19\u0000>に<1:\u0000>げ<18\u0000>帰<19\u0000>かえ<1:\u0000>ってきたんだ！<1\"\u0000>\n「<17\u0003>{5, ItemData, +}<2\u001E耀>{3, name, +}」があって、<18\u0000>助<19\u0000>たす<1:\u0000>かったぜ。\nお<18\u0000>前<19\u0000>まえ<1:\u0000>も<18\u0000>持<19\u0000>も<1:\u0000>っておいた<18\u0000>方<19\u0000>ほう<1:\u0000>がいいぞ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": false,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": true
+		}
+	],
+	"old_string_data": [],
+	"v2_string_data": [],
+	"v4_string_data": [],
+	"v5_string_data": [],
+	"v6_string_data": {
+		"Unk1Sig": 0,
+		"Unk2Sig": 0,
+		"Unk3Sig": 0,
+		"Unk4Sig": 0,
+		"offset_data": []
+	},
+	"v3_string_data": [
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682,
+		3503345682
+	],
+	"attributes": {
+		"attributeStrings": [
+			"message",
+			"voice",
+			"f01_msg"
+		],
+		"attributePairs": [
+			{
+				"attribute": "message",
+				"value": 0
+			},
+			{
+				"attribute": "voice",
+				"value": 4
+			}
+		]
+	},
+	"flags": [
+		2147483653,
+		2147483658,
+		2147483659,
+		2147483660,
+		2147483661
+	]
+}
