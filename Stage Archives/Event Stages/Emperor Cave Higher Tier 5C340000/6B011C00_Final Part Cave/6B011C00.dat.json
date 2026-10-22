@@ -1,25 +1,25 @@
 {
 	"header": {
-		"text_amount": 225,
+		"text_amount": 210,
 		"unk1": 12,
 		"header_size": 64,
-		"script_section_size": 33383,
-		"offset_strings": 33456,
-		"strings_section_size1": 2700,
-		"offset3": 36160,
-		"section_size2": 900,
-		"offset4": 37072,
+		"script_section_size": 33649,
+		"offset_strings": 33728,
+		"strings_section_size1": 2520,
+		"offset3": 36256,
+		"section_size2": 840,
+		"offset4": 37104,
 		"section_size3": 16,
-		"offset5": 37088,
-		"section_size4": 452,
+		"offset5": 37120,
+		"section_size4": 422,
 		"unk3": 0,
-		"offset6": 33374,
-		"offset7": 33382,
+		"offset6": 33640,
+		"offset7": 33648,
 		"unk4": 0
 	},
 	"text_info": [
 		{
-			"text_contents": "Go through the door?",
+			"text_contents": "<18\u0000>扉<19\u0000>とびら<1:\u0000>の<18\u0000>先<19\u0000>さき<1:\u0000>へ<18\u0000>進<19\u0000>すす<1:\u0000>みますか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -33,7 +33,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Guuhh...\nSo you've come to defeat<1\"\u0000>\nme, too... All these\nself-proclaimed heroes...\nOne after another...<1\"\u0000>\nDo you really believe you\ncan defeat me...?",
+			"text_contents": "グォォ……\nキサマも<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>しに<18\u0000>来<19\u0000>き<1:\u0000>たのか…<1\"\u0000>\n<18\u0000>勇者<19\u0000>ゆうしゃ<1:\u0000><18\u0000>気<19\u0000>き<1:\u0000><18\u0000>取<19\u0000>ど<1:\u0000>りのヤツらが、よくもまあ<18\u0000>次<19\u0000>つぎ<1:\u0000>から<18\u0000>次<19\u0000>つぎ<1:\u0000>へと……\nこの<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>せるとでも…？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -47,7 +47,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh!? I didn't intend this\nthough... Could it be\nthat someone actauly<1\"\u0000>\ncane all the way out here\nfor this reason?",
+			"text_contents": "えっ！？\n<18\u0000>別<19\u0000>べつ<1:\u0000>にそんなつもりはないんだけど……<1\"\u0000>\nもしかして、<18\u0000>誰<19\u0000>だれ<1:\u0000>かがここまでやって<18\u0000>来<19\u0000>き<1:\u0000>たの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -61,7 +61,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh!? I didn't mean to...\nCould it be that we were<1\"\u0000>\nnot the only one having\ncome this far too?",
+			"text_contents": "えっ！？\nそんなつもりは<18\u0000>無<19\u0000>な<1:\u0000>かったんですが……<1\"\u0000>\nもしかして、<18\u0000>他<19\u0000>ほか<1:\u0000>にも<18\u0000>誰<19\u0000>だれ<1:\u0000>かが\nここまで<18\u0000>来<19\u0000>き<1:\u0000>たんですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -75,7 +75,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh? Didn't really mean to do\nthat though..<1\"\u0000>\nWas there someone\nahead of us?",
+			"text_contents": "え？\n<18\u0000>別<19\u0000>べつ<1:\u0000>にそんなつもりは<18\u0000>無<19\u0000>な<1:\u0000>かったんですが……<1\"\u0000>\n<18\u0000>私<19\u0000>わたし<1:\u0000>の<18\u0000>前<19\u0000>まえ<1:\u0000>に<18\u0000>先客<19\u0000>せんきゃく<1:\u0000>がいるのですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -89,7 +89,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh? What even is this all\nabout? Is there anyone else<1\"\u0000>\nbesides us?",
+			"text_contents": "お？いったい<18\u0000>何<19\u0000>なん<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>だ？\n<18\u0000>俺<19\u0000>おれ<1:\u0000>の<18\u0000>他<19\u0000>ほか<1:\u0000>にも<18\u0000>誰<19\u0000>だれ<1:\u0000>か<18\u0000>来<19\u0000>き<1:\u0000>てんのか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -103,7 +103,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh, huh!? What are you yapping\nabout? Is there someone<1\"\u0000>\nelse besides us?",
+			"text_contents": "えっ、えっ！？いったい<18\u0000>何<19\u0000>なん<1:\u0000>のお<18\u0000>話<19\u0000>はなし<1:\u0000>？\n<18\u0000>僕<19\u0000>ぼく<1:\u0000>の<18\u0000>他<19\u0000>ほか<1:\u0000>にもだれかいるの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -117,7 +117,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh, what are you talking\nabout? Anyone else<1\"\u0000>\nbesides us here?",
+			"text_contents": "え、アタシは<18\u0000>別<19\u0000>べつ<1:\u0000>にそんなつもりは\nなかったんだけど……<1\"\u0000>\n<18\u0000>他<19\u0000>ほか<1:\u0000>にも<18\u0000>来<19\u0000>き<1:\u0000>てる<18\u0000>人<19\u0000>ひと<1:\u0000>がいるのかしら？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -131,7 +131,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Um? What are you bubbling\nabout all of a sudden?<1\"\u0000>\nIs there anyone else\nwho's made it this far?",
+			"text_contents": "うん？\n<18\u0000>唐突<19\u0000>とうとつ<1:\u0000>に<18\u0000>何<19\u0000>なん<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>かね？<1\"\u0000>\n<18\u0000>誰<19\u0000>だれ<1:\u0000>か<18\u0000>他<19\u0000>ほか<1:\u0000>にもここまで<18\u0000>来<19\u0000>き<1:\u0000>ているのかね？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -145,7 +145,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Huh? You're telling me this out\nof the blue... I have no<1\"\u0000>\nidea what you're talking\nabout... Is there someone<1\"\u0000>\nelse besides us?",
+			"text_contents": "はい？\n<18\u0000>急<19\u0000>きゅう<1:\u0000>に<18\u0000>言<19\u0000>い<1:\u0000>われても<18\u0000>何<19\u0000>なん<1:\u0000>のことやら……<1\"\u0000>\n<18\u0000>私<19\u0000>わたし<1:\u0000>の<18\u0000>他<19\u0000>ほか<1:\u0000>にも<18\u0000>誰<19\u0000>だれ<1:\u0000>か<18\u0000>来<19\u0000>き<1:\u0000>ているんですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -159,7 +159,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Guhh... Just as I was about to\nbe defeated, I cast a curse<1\"\u0000>\non them... Hehehe..\nMay you too live forever<1\"\u0000>\nas a mere illusion...1",
+			"text_contents": "グォォ……<18\u0000>私<19\u0000>わたし<1:\u0000>は<18\u0000>倒<19\u0000>たお<1:\u0000>される<18\u0000>間際<19\u0000>まぎわ<1:\u0000>\nヤツに<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけたのだ……<1\"\u0000>\nククク……\n<18\u0000>永遠<19\u0000>えいえん<1:\u0000>にまぼろしの<18\u0000>中<19\u0000>なか<1:\u0000>で<18\u0000>生<19\u0000>い<1:\u0000>きるがいい……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -173,7 +173,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmm! It seems you didn't really\nlisten to what I've<1\"\u0000>\nbeen saying...",
+			"text_contents": "むっ！どうやら<18\u0000>人<19\u0000>ひと<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>を\n<18\u0000>聞<19\u0000>き<1:\u0000>いてないみたいだね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -187,7 +187,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmmm...you seem to be the type\nof person not listening<1\"\u0000>\nto what others have\nto say...",
+			"text_contents": "うーん……<18\u0000>人<19\u0000>ひと<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>を\n<18\u0000>聞<19\u0000>き<1:\u0000>かない<18\u0000>方<19\u0000>かた<1:\u0000>みたいですね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -201,7 +201,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You're not willing to listen...\nare you...?",
+			"text_contents": "<18\u0000>聞<19\u0000>き<1:\u0000>く<18\u0000>耳<19\u0000>みみ<1:\u0000><18\u0000>持<19\u0000>も<1:\u0000>たず……ですか……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -215,7 +215,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "So, I told you already I'm not\nafter you, don't you get<1\"\u0000>\nit already!!",
+			"text_contents": "だから、<18\u0000>何<19\u0000>なん<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>だって\n<18\u0000>聞<19\u0000>き<1:\u0000>いてるんだよ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -229,7 +229,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What? What do you mean\nby curse?",
+			"text_contents": "ええっ！？\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いってなんのこと？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -243,7 +243,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Let's not talk about anything\nas ridiculous as<1\"\u0000>\na curse...",
+			"text_contents": "<18\u0000>呪<19\u0000>のろ<1:\u0000>いだなんて、ぶっそうな<18\u0000>話<19\u0000>はなし<1:\u0000>ね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -257,7 +257,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A curse isn't really peaceful,\nis it...",
+			"text_contents": "<18\u0000>呪<19\u0000>のろ<1:\u0000>いとは<18\u0000>穏<19\u0000>おだ<1:\u0000>やかではないねぇ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -271,7 +271,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "A curse you say...\nI'd rather not get<1\"\u0000>\ninvolved with that...",
+			"text_contents": "<18\u0000>呪<19\u0000>のろ<1:\u0000>いですか……\nあまり<18\u0000>関<19\u0000>かか<1:\u0000>わりたくないですねぇ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -285,7 +285,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I don't want to fight, but if\nyou're not capable of<1\"\u0000>\nlistening to me, I guess\nI have no other choice!",
+			"text_contents": "<18\u0000>戦<19\u0000>たたか<1:\u0000>いたくはないけど\n<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>いてくれないなら、<18\u0000>仕方<19\u0000>しかた<1:\u0000>ないね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -299,7 +299,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "In that case, I guess we have\nno other choice but to<1\"\u0000>\nfight or way forward!",
+			"text_contents": "それならば、<18\u0000>戦<19\u0000>たたか<1:\u0000>って<18\u0000>進<19\u0000>すす<1:\u0000>むしかないですね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -313,7 +313,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Well, if you don't feel like\nproperly talking, let's<1\"\u0000>\njust take you down so\nthat you get out of the way!",
+			"text_contents": "まあ、<18\u0000>話<19\u0000>はなし<1:\u0000>をする<18\u0000>気<19\u0000>き<1:\u0000>がないなら\nさっさと<18\u0000>倒<19\u0000>たお<1:\u0000>してどいてもらいましょう！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -327,7 +327,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "If you are not willing to listen\nto what I have to say,<1\"\u0000>\nI won't go easy on\nyou either!!",
+			"text_contents": "<18\u0000>人<19\u0000>ひと<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>かないなら\nこっちだって<18\u0000>容赦<19\u0000>ようしゃ<1:\u0000>しないぜ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -341,7 +341,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ugh... Curses are scary, but...\nI'll do my best to get<1\"\u0000>\nrid of before any of\nthe nonsense you<1\"\u0000>\ntold would even occur!!",
+			"text_contents": "うぅ……<18\u0000>呪<19\u0000>のろ<1:\u0000>いは<18\u0000>怖<19\u0000>こわ<1:\u0000>いけど……\n<18\u0000>先<19\u0000>さき<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>むために、がんばって<18\u0000>戦<19\u0000>たたか<1:\u0000>うよ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -355,7 +355,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Alright! I'll take care of you\nbefore we get cursed!",
+			"text_contents": "いいわ！\n<18\u0000>呪<19\u0000>のろ<1:\u0000>われる<18\u0000>前<19\u0000>まえ<1:\u0000>に<18\u0000>退治<19\u0000>たいじ<1:\u0000>してあげる！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -369,7 +369,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I don't want to be cursed.\nI'll just fight and<1\"\u0000>\ndefeat you instead!",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>も<18\u0000>呪<19\u0000>のろ<1:\u0000>われたくはないからね。\n<18\u0000>戦<19\u0000>たたか<1:\u0000>って<18\u0000>倒<19\u0000>たお<1:\u0000>させてもらうよ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -383,7 +383,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "But I guess there's no choice\nif we want to move<1\"\u0000>\nforward. I suppose we\nshould defeat it before<1\"\u0000>\nthe curse takes effect?",
+			"text_contents": "でも、<18\u0000>先<19\u0000>さき<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>むために<18\u0000>仕方<19\u0000>しかた<1:\u0000>ないですね。\n<18\u0000>呪<19\u0000>のろ<1:\u0000>われる<18\u0000>前<19\u0000>まえ<1:\u0000>に<18\u0000>倒<19\u0000>たお<1:\u0000>しましょうか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -397,7 +397,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Guuuhhhaaaahuuuu!\nI am defeated agaaaaaaaain!?",
+			"text_contents": "グォォォォオオォォ！\nまた<18\u0000>倒<19\u0000>たお<1:\u0000>されるのかァァァァ！？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -411,7 +411,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That was a tough one. Let's call\nit a day for now.",
+			"text_contents": "すごい<18\u0000>強敵<19\u0000>きょうてき<1:\u0000>だったね。\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>はここまでにしておこう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -425,7 +425,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That was a tough opponent, right?\nLet's call it a day for now.",
+			"text_contents": "かなりの<18\u0000>強敵<19\u0000>きょうてき<1:\u0000>でしたね。\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>はここまでにしておきましょうか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -439,7 +439,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "We've been worn down by this\nbattle just now, so maybe<1\"\u0000>\nwe should retreat\nhere?",
+			"text_contents": "<18\u0000>今<19\u0000>いま<1:\u0000>の<18\u0000>戦<19\u0000>たたか<1:\u0000>いで<18\u0000>消耗<19\u0000>しょうもう<1:\u0000>しましたし\nここは<18\u0000>撤退<19\u0000>てったい<1:\u0000>しましょうかね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -453,7 +453,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm totally exhausted from the\nbattle before...<1\"\u0000>\nLet's just head home\nfor today...",
+			"text_contents": "<18\u0000>今<19\u0000>いま<1:\u0000>の<18\u0000>戦<19\u0000>たたか<1:\u0000>いで<18\u0000>疲<19\u0000>つか<1:\u0000>れちまったぜ……\n<18\u0000>今日<19\u0000>きょう<1:\u0000>はもう<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうぜ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -467,7 +467,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmm, I'm soo tired...\nI just want to go home<1\"\u0000>\nand sleep right away.",
+			"text_contents": "うーん、ボクもう<18\u0000>疲<19\u0000>つか<1:\u0000>れたよ……\n<18\u0000>帰<19\u0000>かえ<1:\u0000>ってすぐに<18\u0000>寝<19\u0000>ね<1:\u0000>たいなー。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -481,7 +481,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm so exhausted...\nLet's go home and then<1\"\u0000>\ntake a bath.",
+			"text_contents": "もうくたくただわ……\n<18\u0000>帰<19\u0000>かえ<1:\u0000>ってお<18\u0000>風<19\u0000>ふ<1:\u0000><18\u0000>呂<19\u0000>ろ<1:\u0000>に<18\u0000>入<19\u0000>はい<1:\u0000>りましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -495,7 +495,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I really feel tired now.\nI think we should be<1\"\u0000>\nheading home today, right?",
+			"text_contents": "さすがの<18\u0000>私<19\u0000>わたし<1:\u0000>も、<18\u0000>疲<19\u0000>つか<1:\u0000>れてしまったよ。\n<18\u0000>今日<19\u0000>きょう<1:\u0000>は<18\u0000>帰<19\u0000>かえ<1:\u0000>らせてもらおうかね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -509,7 +509,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm super exhausted from\ntoday's battle...<1\"\u0000>\nLet's just go home today.",
+			"text_contents": "<18\u0000>今<19\u0000>いま<1:\u0000>の<18\u0000>戦<19\u0000>たたか<1:\u0000>いでもうへとへとですよ……\n<18\u0000>今日<19\u0000>きょう<1:\u0000>はもう<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -523,7 +523,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I can sort of sense a sinister\npresence from deep within...<1\"\u0000>\nWe might not be able to\nturn back...are you really<1\"\u0000>\nsure we should proceed?",
+			"text_contents": "この<18\u0000>奥<19\u0000>おく<1:\u0000>から<18\u0000>禍々<19\u0000>まがまが<1:\u0000>しい<18\u0000>気配<19\u0000>けはい<1:\u0000>を<18\u0000>感<19\u0000>かん<1:\u0000>じるよ……\n<18\u0000>戻<19\u0000>もど<1:\u0000>れないかもしれないけど、<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>むの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -537,7 +537,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I sense a sinister presence\nbeyond that door from<1\"\u0000>\ndeep within. Are you really\nsure we should go any<1\"\u0000>\nfurther?",
+			"text_contents": "この<18\u0000>奥<19\u0000>おく<1:\u0000>から<18\u0000>禍々<19\u0000>まがまが<1:\u0000>しい<18\u0000>気配<19\u0000>けはい<1:\u0000>を<18\u0000>感<19\u0000>かん<1:\u0000>じます。\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>んでしまって<18\u0000>良<19\u0000>い<1:\u0000>いですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -551,7 +551,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I feel a terrifying presence\nup ahead. Are you certain<1\"\u0000>\nwe should keep going?",
+			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>、<18\u0000>恐<19\u0000>おそ<1:\u0000>ろしい<18\u0000>気配<19\u0000>けはい<1:\u0000>を<18\u0000>感<19\u0000>かん<1:\u0000>じますよ。\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>んでしまっても<18\u0000>良<19\u0000>い<1:\u0000>いですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -565,7 +565,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I can feel something really\ncreepy from the other side<1\"\u0000>\nof the door! Are you sure it's\na good idea to keep going?",
+			"text_contents": "この<18\u0000>奥<19\u0000>おく<1:\u0000>からヤバい<18\u0000>気配<19\u0000>けはい<1:\u0000>を<18\u0000>感<19\u0000>かん<1:\u0000>じるぞ！\n<18\u0000>本当<19\u0000>ほんとう<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>んじまって<18\u0000>良<19\u0000>い<1:\u0000>いのか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -579,7 +579,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm getting really creepy\nfeelings about the place<1\"\u0000>\nahead of us... Are you\nsure we should go further?",
+			"text_contents": "なんだか<18\u0000>怖<19\u0000>こわ<1:\u0000>い<18\u0000>感<19\u0000>かん<1:\u0000>じがするよ……\nこの<18\u0000>前<19\u0000>さき<1:\u0000>に<18\u0000>行<19\u0000>い<1:\u0000>かないとダメかな？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -593,7 +593,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I get a bad feeling regarding\nwhat could lie ahead of us...<1\"\u0000>\nIf we don't take this\nseriously, we might get<1\"\u0000>\nhurt badly, so should we\nreally proceed?",
+			"text_contents": "この<18\u0000>先<19\u0000>さき<1:\u0000>、<18\u0000>嫌<19\u0000>いや<1:\u0000>な<18\u0000>気配<19\u0000>けはい<1:\u0000>がするわ……\n<18\u0000>生半可<19\u0000>なまはんか<1:\u0000>では<18\u0000>痛<19\u0000>いた<1:\u0000>い<18\u0000>目<19\u0000>め<1:\u0000>に<18\u0000>合<19\u0000>あ<1:\u0000>いそうよ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -607,7 +607,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This ominous feeling...\nIf we really want to<1\"\u0000>\ngo any further, we really\nshould be well prepared, okay?",
+			"text_contents": "この<18\u0000>気配<19\u0000>けはい<1:\u0000>……この<18\u0000>先<19\u0000>さき<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>むなら\n<18\u0000>相当<19\u0000>そうとう<1:\u0000>な<18\u0000>覚悟<19\u0000>かくご<1:\u0000>が<18\u0000>必要<19\u0000>ひつよう<1:\u0000>そうだよ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -621,7 +621,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What an ominous and eerie\npresence this door omits...<1\"\u0000>\nMaybe it's better\nto turn back for now?",
+			"text_contents": "なんと<18\u0000>禍々<19\u0000>まがまが<1:\u0000>しい<18\u0000>気配<19\u0000>けはい<1:\u0000>……\n<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>返<19\u0000>かえ<1:\u0000>した<18\u0000>方<19\u0000>ほう<1:\u0000>が<18\u0000>良<19\u0000>よ<1:\u0000>さそうですよ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -635,7 +635,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Got it! Let's move\nforward carefully.",
+			"text_contents": "わかった！\n<18\u0000>気<19\u0000>き<1:\u0000>をつけて<18\u0000>進<19\u0000>すす<1:\u0000>もう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -649,7 +649,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I understand. Let's just be\ncareful up ahead.",
+			"text_contents": "わかりました！\n<18\u0000>気<19\u0000>き<1:\u0000>をつけて<18\u0000>行<19\u0000>い<1:\u0000>きましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -663,7 +663,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I understand. Let's proceed\ncautiously.",
+			"text_contents": "わかりました。\n<18\u0000>慎重<19\u0000>しんちょう<1:\u0000>に<18\u0000>進<19\u0000>すす<1:\u0000>みましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -677,7 +677,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Gotcha! They can bring up\nwhatever they've got, arrows<1\"\u0000>\nand guns and whatever,\nwe'll take'em down anyway!",
+			"text_contents": "わかったぜ！\n<18\u0000>矢<19\u0000>や<1:\u0000>でも<18\u0000>鉄砲<19\u0000>てっぽう<1:\u0000>でも<18\u0000>持<19\u0000>も<1:\u0000>ってこいだ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -691,7 +691,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Okay, I got it! As long as you're\nwith me, everything will<1\"\u0000>\nbe fine, right?",
+			"text_contents": "わかったよー。\n<18\u0000>君<19\u0000>きみ<1:\u0000>が<18\u0000>一緒<19\u0000>いっしょ<1:\u0000>なら<18\u0000>大丈夫<19\u0000>だいじょうぶ<1:\u0000>だよね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -705,7 +705,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Let's just keep going. Just\nbe careful as we go.",
+			"text_contents": "<18\u0000>進<19\u0000>すす<1:\u0000>むのね。\n<18\u0000>気<19\u0000>き<1:\u0000>をつけて<18\u0000>行<19\u0000>い<1:\u0000>きましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -719,7 +719,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmm. Well then, let's proceed\nwith caution, shall we?",
+			"text_contents": "うむ。\nでは<18\u0000>気<19\u0000>き<1:\u0000>をつけて<18\u0000>進<19\u0000>すす<1:\u0000>もうじゃないか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -733,7 +733,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm not really in the mood for\nthat but... I guess we<1\"\u0000>\nshould go...",
+			"text_contents": "あまり<18\u0000>気<19\u0000>き<1:\u0000>が<18\u0000>進<19\u0000>すす<1:\u0000>まないですが……\n<18\u0000>行<19\u0000>い<1:\u0000>くしかないですねぇ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -747,7 +747,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That's right. Maybe we should\njust go home like reasonable<1\"\u0000>\nadults.",
+			"text_contents": "そうだね。\nここで<18\u0000>大人<19\u0000>おとな<1:\u0000>しく<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -761,7 +761,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That's right. Let's turn back\nthis time.",
+			"text_contents": "そうですね。\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>返<19\u0000>かえ<1:\u0000>しましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -775,7 +775,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That was a tough decision,\nright? Well then, shall we<1\"\u0000>\nhead home now?",
+			"text_contents": "<18\u0000>懸命<19\u0000>けんめい<1:\u0000>な<18\u0000>判断<19\u0000>はんだん<1:\u0000>ですね。\nさあ、<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょうか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -789,7 +789,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Right? Let's turn back this\ntime.",
+			"text_contents": "だよな？\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>返<19\u0000>かえ<1:\u0000>そうぜ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -803,7 +803,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That's a relief. Then, let's\nhead home now.",
+			"text_contents": "よかったー。\nじゃあ、もう<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -817,7 +817,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Yeah, you're right.\nLet's just head home<1\"\u0000>\nwithout pushing ourselves\nway too hard.",
+			"text_contents": "そうね。\n<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>はせずに<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -831,7 +831,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Then, out of sheer respect for\nyour opinion, let's turn<1\"\u0000>\nback this time.",
+			"text_contents": "では、<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>意見<19\u0000>いけん<1:\u0000>を<18\u0000>尊重<19\u0000>そんちょう<1:\u0000>して\n<18\u0000>今回<19\u0000>こんかい<1:\u0000>は<18\u0000>引<19\u0000>ひ<1:\u0000>き<18\u0000>返<19\u0000>かえ<1:\u0000>そうではないか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -845,7 +845,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That's a good idea.\nCome on, let's head home.",
+			"text_contents": "それが<18\u0000>良<19\u0000>い<1:\u0000>いですよ。\nさあ、<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -859,7 +859,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Have they appeared again?\nThe monster who's been<1\"\u0000>\nterrorizing innocent people\nmade a comeback!<1\"\u0000>\nI, the great <17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +},\nwill take care of it!",
+			"text_contents": "また<18\u0000>現<19\u0000>あらわ<1:\u0000>れたか、<18\u0000>人々<19\u0000>ひとびと<1:\u0000>の<18\u0000>営<19\u0000>いとな<1:\u0000>みをおびやかす<18\u0000>怪物<19\u0000>かいぶつ<1:\u0000>め！<1\"\u0000>\nこの<17\u0003>{9, MonsterParameter, +}<2耀>{3, name, +}が<18\u0000>討<19\u0000>う<1:\u0000>ち<18\u0000>取<19\u0000>と<1:\u0000>ってくれるわ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -873,7 +873,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What are you talking about?\nI didn't do a thing!!",
+			"text_contents": "なんのこと？\nボクは<18\u0000>何<19\u0000>なに<1:\u0000>もしてないよ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -887,7 +887,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What's your problem!?\nI didn't do anything!",
+			"text_contents": "なにを<18\u0000>言<19\u0000>い<1:\u0000>うんですか！？\n<18\u0000>私<19\u0000>わたし<1:\u0000>はなにもしてないですよ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -901,7 +901,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I think there's a\nmisunderstanding! I didn't<1\"\u0000>\ndo a thing!",
+			"text_contents": "<18\u0000>誤解<19\u0000>ごかい<1:\u0000>じゃないですか？\n<18\u0000>私<19\u0000>わたし<1:\u0000>は<18\u0000>何<19\u0000>なに<1:\u0000>もしていませんよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -915,7 +915,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What did you just say?\nI didn't do anything wrong!",
+			"text_contents": "なに<18\u0000>言<19\u0000>い<1:\u0000>ってんだ？\nオレは<18\u0000>悪<19\u0000>わる<1:\u0000>いことはしてないぜ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -929,7 +929,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What's this about?\nAre we now just playing<1\"\u0000>\nheroes or something?",
+			"text_contents": "なんのこと？\nヒーローごっこか<18\u0000>何<19\u0000>なに<1:\u0000>か？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -943,7 +943,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "That's pretty harsh, isn't it?\nHow could you claim<1\"\u0000>\nsomething as gross as\nthat about me?",
+			"text_contents": "いきなりヒドイじゃない？\nそんなこと<18\u0000>言<19\u0000>い<1:\u0000>うなんて……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -957,7 +957,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What on earth are you saying?\nI only do things that<1\"\u0000>\nare helpful to others.",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>を<18\u0000>言<19\u0000>い<1:\u0000>っているのかね？\n<18\u0000>私<19\u0000>わたし<1:\u0000>は<18\u0000>人<19\u0000>ひと<1:\u0000>のためになることしかしないよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -971,7 +971,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You're already acting quite\nrude right off the bat,<1\"\u0000>\naren't you... What even are\nyou talking about?",
+			"text_contents": "いきなり<18\u0000>失礼<19\u0000>しつれい<1:\u0000>な<18\u0000>方<19\u0000>かた<1:\u0000>ですね……\nこれまた、<18\u0000>何<19\u0000>なん<1:\u0000>の<18\u0000>話<19\u0000>はなし<1:\u0000>ですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -985,7 +985,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't play dumb! You're the one\nwho showed up in town<1\"\u0000>\nand caused a lot of trouble,\naren't you! I'll decimate<1\"\u0000>\nyou to pieces with my spear!!",
+			"text_contents": "とぼけるな！<1\"\u0000>\nお<18\u0000>前<19\u0000>まえ<1:\u0000>が<18\u0000>町<19\u0000>まち<1:\u0000>に<18\u0000>現<19\u0000>あらわ<1:\u0000>れ、<18\u0000>暴<19\u0000>あば<1:\u0000>れていたのだろう！\n<18\u0000>私<19\u0000>わたし<1:\u0000>のヤリで<18\u0000>細切<19\u0000>こまぎ<1:\u0000>れにしてやるわ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -999,7 +999,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Brace yourselves!!",
+			"text_contents": "<18\u0000>覚悟<19\u0000>かくご<1:\u0000>！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1013,7 +1013,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmm, so you're not even\nlistening to me again...",
+			"text_contents": "う～ん、また<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>いてくれないのか……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1027,7 +1027,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm telling you, I haven't\ndone a thing...",
+			"text_contents": "<18\u0000>何<19\u0000>なに<1:\u0000>もしてないって<18\u0000>言<19\u0000>い<1:\u0000>ってるんですけど……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1041,7 +1041,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It seems like you don't really\nwant to listen to me...",
+			"text_contents": "これは<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>いてくれる<18\u0000>状態<19\u0000>じょうたい<1:\u0000>では\nないみたいですね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1055,7 +1055,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm telling you I didn't do\nanything wrong...<1\"\u0000>\nBut you still insist...",
+			"text_contents": "<18\u0000>悪<19\u0000>わる<1:\u0000>いことはしてないって\n<18\u0000>言<19\u0000>い<1:\u0000>ってんのになぁ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1069,7 +1069,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "So now I'm playing the\nvillain, huh...",
+			"text_contents": "<18\u0000>僕<19\u0000>ぼく<1:\u0000>が<18\u0000>悪者<19\u0000>わるもの<1:\u0000>の<18\u0000>役<19\u0000>やく<1:\u0000>なんだね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1083,7 +1083,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What a dense guy...\nI really makes me<1\"\u0000>\ndislike him...",
+			"text_contents": "<18\u0000>乱暴<19\u0000>らんぼう<1:\u0000>な<18\u0000>人<19\u0000>ひと<1:\u0000>ねぇ……\n<18\u0000>嫌<19\u0000>いや<1:\u0000>になっちゃうわ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1097,7 +1097,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, come on... It's not like\nI'm playing dumb or anything...",
+			"text_contents": "やれやれ……\nとぼけてなど、いないのだがねぇ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1111,7 +1111,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Well, well.. It seems no one in\nthis stupid place won't<1\"\u0000>\neven listen to what\nI have to say...",
+			"text_contents": "これはまた……\n<18\u0000>話<19\u0000>はなし<1:\u0000>を<18\u0000>聞<19\u0000>き<1:\u0000>かない<18\u0000>方<19\u0000>かた<1:\u0000>ばかりですね……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1125,7 +1125,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm not really in the mood for\nthis, but I guess I have<1\"\u0000>\nno other choice...\nLet's settle this!!",
+			"text_contents": "あまり<18\u0000>気<19\u0000>き<1:\u0000>が<18\u0000>進<19\u0000>すす<1:\u0000>まないけど、<18\u0000>仕方<19\u0000>しかた<1:\u0000>ない……\n<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>だ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1139,7 +1139,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "There's no other way.\nShowdown!",
+			"text_contents": "<18\u0000>仕方<19\u0000>しかた<1:\u0000>ありません。\n<18\u0000>勝負<19\u0000>しょうぶ<1:\u0000>です！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1153,7 +1153,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "There's nothiing we can do\nabout it. Let's just help him<1\"\u0000>\ncalm down!",
+			"text_contents": "<18\u0000>仕方<19\u0000>しかた<1:\u0000>ありません。\n<18\u0000>落<19\u0000>お<1:\u0000>ち<18\u0000>着<19\u0000>つ<1:\u0000>かせてあげましょう！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1167,7 +1167,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh well, can't change it!\nThe best way to deal with<1\"\u0000>\nguys like these is with\nyour fists!",
+			"text_contents": "<18\u0000>仕方<19\u0000>しかた<1:\u0000>ねぇ！\nこういうヤツとは<18\u0000>拳<19\u0000>こぶし<1:\u0000>で<18\u0000>語<19\u0000>かた<1:\u0000>るのが<18\u0000>一番<19\u0000>いちばん<1:\u0000>だな！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1181,7 +1181,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Alright, I'm not gonna let\nyou beat me!",
+			"text_contents": "よーし、それでも<18\u0000>負<19\u0000>ま<1:\u0000>けないからね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1195,7 +1195,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm going to teach you what\nmanners are all about!!",
+			"text_contents": "<18\u0000>礼儀<19\u0000>れいぎ<1:\u0000>ってものを<18\u0000>教<19\u0000>おし<1:\u0000>えてあげるわ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1209,7 +1209,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I guess there's no helping\nit... First, let's try to<1\"\u0000>\ncalm down a bit!",
+			"text_contents": "<18\u0000>仕方<19\u0000>しかた<1:\u0000>がないね……\nまずは、<18\u0000>落<19\u0000>お<1:\u0000>ち<18\u0000>着<19\u0000>つ<1:\u0000>いてもらおうじゃないか！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1223,7 +1223,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm going to beat you!!",
+			"text_contents": "<18\u0000>今回<19\u0000>こんかい<1:\u0000>もまた、<18\u0000>倒<19\u0000>たお<1:\u0000>してあげますよ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1237,7 +1237,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Ugh, what on earth am I...",
+			"text_contents": "ううっ、<18\u0000>私<19\u0000>わたし<1:\u0000>はいったい……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1251,7 +1251,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...Hmm?\nWho are you?",
+			"text_contents": "……んん？\nお<18\u0000>前<19\u0000>まえ<1:\u0000>は……<18\u0000>何者<19\u0000>なにもの<1:\u0000>だ？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1265,7 +1265,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Man.\nCould it be that you<1\"\u0000>\nwere under the influence\nof a curse by that dragon?",
+			"text_contents": "ボクは、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。<1\"\u0000>\nもしかして、キミはあのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1279,7 +1279,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Man.\nWere you under the influence<1\"\u0000>\nof a curse by that dragon?",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。<1\"\u0000>\nあなたはあのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたのですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1293,7 +1293,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Have you calmed down yet?\nI'm a traveling Denpa Man.<1\"\u0000>\nYou were probably under\na curse cast by that<1\"\u0000>\ndragon, weren't you?",
+			"text_contents": "<18\u0000>落<19\u0000>お<1:\u0000>ち<18\u0000>着<19\u0000>つ<1:\u0000>きましたか？\n<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。<1\"\u0000>\nあなた、おそらくあのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていましたね？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1307,7 +1307,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Man!\nHey, aren't you the one<1\"\u0000>\nwho was cursed by\nthat awful dragon?",
+			"text_contents": "<18\u0000>俺<19\u0000>おれ<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だ！<1\"\u0000>\nあんたもしかして、あのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられたんじゃねえか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1321,7 +1321,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Men!\nCould it be that you were<1\"\u0000>\nunder a curse cast\nby that strange dragon?",
+			"text_contents": "<18\u0000>僕<19\u0000>ぼく<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だよ。<1\"\u0000>\nもしかして、あのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1335,7 +1335,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Me, well I'm a traveling\nDenpa Man. Hey, could it be<1\"\u0000>\nby any chance that you\nwere under the influence<1\"\u0000>\nof some dragon?",
+			"text_contents": "アタシは、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>よ。<1\"\u0000>\nあなた、もしかしてあのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたのかしら？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1349,7 +1349,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Men!\nIs there any chance that<1\"\u0000>\nyou were cursed by some\ndragon?",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だよ。<1\"\u0000>\nもしや<18\u0000>君<19\u0000>きみ<1:\u0000>は、あのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたのではないかね？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1363,7 +1363,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm just a traveling Denpa Men.\nI suppose you were put<1\"\u0000>\nunder a curse cast by\nthat dragon, weren't you?",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。<1\"\u0000>\nあなたはきっと、あのドラゴンに\n<18\u0000>呪<19\u0000>のろ<1:\u0000>いをかけられていたんですねえ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1377,7 +1377,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...That's right... I'm absolutely\ncertain I slayed that<1\"\u0000>\ndetestable, loathsome dragon...\nBut it seems...I may have<1\"\u0000>\nbeen under an illusive\nspell",
+			"text_contents": "……そうだ……<18\u0000>確<19\u0000>たし<1:\u0000>かにあの<18\u0000>忌々<19\u0000>いまいま<1:\u0000>しいドラゴンを\n<18\u0000>仕<19\u0000>し<1:\u0000><18\u0000>留<19\u0000>と<1:\u0000>めたはずだったが……<1\"\u0000>\nどうやら……\n<18\u0000>幻影<19\u0000>げんえい<1:\u0000>にとらわれていたのかもしれぬ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1391,7 +1391,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It's good that you're back to\nyour senses!",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>って<18\u0000>良<19\u0000>よ<1:\u0000>かったね！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1405,7 +1405,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It's good that you've\ncome back to your senses.",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ってよかったですね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1419,7 +1419,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It's good that you've\ncome back to your senses.",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ってよかったですね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1433,7 +1433,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm really glad you're back\nto your senses!!",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>れて<18\u0000>良<19\u0000>よ<1:\u0000>かったな！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1447,7 +1447,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm so glad the curse was\nlifted!",
+			"text_contents": "<18\u0000>呪<19\u0000>のろ<1:\u0000>いが<18\u0000>解<19\u0000>と<1:\u0000>けて<18\u0000>良<19\u0000>よ<1:\u0000>かったね！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1461,7 +1461,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm glad that you seem to have\ncome to your senses.",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>れたみたいで<18\u0000>良<19\u0000>よ<1:\u0000>かったわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1475,7 +1475,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm glad that you seem to have\ncome to your senses.",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>れたみたいで<18\u0000>良<19\u0000>よ<1:\u0000>かったよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1489,7 +1489,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm just glad you've come to\nyour senses.",
+			"text_contents": "<18\u0000>正気<19\u0000>しょうき<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>れて<18\u0000>良<19\u0000>よ<1:\u0000>かったですねえ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1503,7 +1503,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...It seems you're the one who\nawakened me from this illusion.<1\"\u0000>\nThank you.",
+			"text_contents": "………どうやらキミが<18\u0000>目<19\u0000>め<1:\u0000><18\u0000>覚<19\u0000>ざ<1:\u0000>めさせてくれたようだな。\n<18\u0000>礼<19\u0000>れい<1:\u0000>を<18\u0000>言<19\u0000>い<1:\u0000>う。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1517,7 +1517,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It makes me a bit shy if you\nthank me. Don't worry about it.",
+			"text_contents": "<18\u0000>改<19\u0000>あらた<1:\u0000>めてお<18\u0000>礼<19\u0000>れい<1:\u0000>を<18\u0000>言<19\u0000>い<1:\u0000>われるとテレるな。\n<18\u0000>気<19\u0000>き<1:\u0000>にしないでよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1531,7 +1531,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "No, no, don't worry about it.\nIt's only natural to<1\"\u0000>\nhelp someone in trouble.",
+			"text_contents": "いえいえ、<18\u0000>気<19\u0000>き<1:\u0000>にしないでください。\n<18\u0000>困<19\u0000>こま<1:\u0000>ってる<18\u0000>人<19\u0000>ひと<1:\u0000>を<18\u0000>助<19\u0000>たす<1:\u0000>けるのは<18\u0000>当然<19\u0000>とうぜん<1:\u0000>ですよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1545,7 +1545,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't worry about it. Of course\nI'm helping someone who's<1\"\u0000>\nin trouble.",
+			"text_contents": "お<18\u0000>気<19\u0000>き<1:\u0000>になさらず。\n<18\u0000>困<19\u0000>こま<1:\u0000>ってる<18\u0000>人<19\u0000>ひと<1:\u0000>を<18\u0000>助<19\u0000>たす<1:\u0000>けるのは<18\u0000>当然<19\u0000>とうぜん<1:\u0000>ですから。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1559,7 +1559,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't worry about it! When we're\nin a pinch, we've got each<1\"\u0000>\nother's backs!!",
+			"text_contents": "<18\u0000>気<19\u0000>き<1:\u0000>にすんなよ！\n<18\u0000>困<19\u0000>こま<1:\u0000>った<18\u0000>時<19\u0000>とき<1:\u0000>はお<18\u0000>互<19\u0000>たが<1:\u0000>い<18\u0000>様<19\u0000>さま<1:\u0000>だからな！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1573,7 +1573,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hehe, I'm blushing.\nDon't worry about it.",
+			"text_contents": "えへへ、テレるなー。\n<18\u0000>気<19\u0000>き<1:\u0000>にしないでよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1587,7 +1587,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't worry about it. It's\nonly natural to help when<1\"\u0000>\nsomeone's in trouble.",
+			"text_contents": "<18\u0000>気<19\u0000>き<1:\u0000>にしないで。\n<18\u0000>困<19\u0000>こま<1:\u0000>ってる<18\u0000>人<19\u0000>ひと<1:\u0000>を<18\u0000>助<19\u0000>たす<1:\u0000>けるのは<18\u0000>当然<19\u0000>とうぜん<1:\u0000>だわ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1601,7 +1601,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't worry about it. I was\njust diong what anyone<1\"\u0000>\nelse should be doing\nin such a situation!",
+			"text_contents": "<18\u0000>気<19\u0000>き<1:\u0000>にしないでくれたまえ。\n<18\u0000>当然<19\u0000>とうぜん<1:\u0000>のことをしたまでだよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1615,7 +1615,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'I just wanted to help you...",
+			"text_contents": "べっ、<18\u0000>別<19\u0000>べつ<1:\u0000>にあなたを<18\u0000>助<19\u0000>たす<1:\u0000>けるために\nやったんじゃないですから……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1629,7 +1629,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Hmmm... I think I'll continue\nmy journey of training.<1\"\u0000>\nWell then, farewell!",
+			"text_contents": "うむ………わたしは<18\u0000>修行<19\u0000>しゅぎょう<1:\u0000>の<18\u0000>旅<19\u0000>たび<1:\u0000>を<18\u0000>続<19\u0000>つづ<1:\u0000>けることにしよう。\nでは、さらばだ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1643,7 +1643,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Now that the dragon's curse\nwas lifted, and everything<1\"\u0000>\nseems to be back to normal,\nI think it's about time<1\"\u0000>\nwe head back!",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けて、ここも<18\u0000>元<19\u0000>もと<1:\u0000>に<18\u0000>戻<19\u0000>もど<1:\u0000>ったようだし\nそろそろ<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうか！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1657,7 +1657,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "It looks like the dragon's\ncurse was lifted, so maybe<1\"\u0000>\nit's time we head back.",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けたようですし\nそろそろ<18\u0000>帰<19\u0000>かえ<1:\u0000>りましょうか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1671,7 +1671,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Well then, since the dragon's\nseems to have been lifted,<1\"\u0000>\nlet's head back.",
+			"text_contents": "それでは、ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けたようですし\n<18\u0000>私<19\u0000>わたし<1:\u0000>たちも<18\u0000>帰<19\u0000>かえ<1:\u0000>るとしましょう。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1685,7 +1685,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Alright! Let's head back soon.\nNow that the dragon's<1\"\u0000>\ncurse has finally\nbeen lifted!",
+			"text_contents": "よしっ！そろそろ<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうぜ。\nドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けたことだしな！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1699,7 +1699,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm really glaad the dragon's\ncurse was lifted! Well then,<1\"\u0000>\nI guess we should head\nout of here, too!",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いが<18\u0000>解<19\u0000>と<1:\u0000>けて<18\u0000>良<19\u0000>よ<1:\u0000>かったね！\nそれじゃあ、<18\u0000>僕<19\u0000>ぼく<1:\u0000>たちも<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうかー。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1713,7 +1713,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Now that the dragon's curse is\nlifted, everything's settled.<1\"\u0000>\nLet's head back and\nget some rest!",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けて、<18\u0000>一件落着<19\u0000>いっけんらくちゃく<1:\u0000>ね。\nさあ、<18\u0000>帰<19\u0000>かえ<1:\u0000>って<18\u0000>休<19\u0000>やす<1:\u0000>みましょう！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1727,7 +1727,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Now that the dragon's curse\nhas been lifted, everything<1\"\u0000>\nis settled. Come on,\nlet's head home.",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けて、<18\u0000>一件落着<19\u0000>いっけんらくちゃく<1:\u0000>だね。\nさあ、<18\u0000>帰<19\u0000>かえ<1:\u0000>ろうではないか。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1741,7 +1741,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Now that the dragon's curse is\nfinally lifted, I just want<1\"\u0000>\nto go home and get some\nrest as soon as possible...",
+			"text_contents": "ドラゴンの<18\u0000>呪<19\u0000>のろ<1:\u0000>いも<18\u0000>解<19\u0000>と<1:\u0000>けたことですし\n<18\u0000>私<19\u0000>わたし<1:\u0000>も<18\u0000>早<19\u0000>はや<1:\u0000>く<18\u0000>帰<19\u0000>かえ<1:\u0000>って<18\u0000>休<19\u0000>やす<1:\u0000>みたいですよ……",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1755,7 +1755,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Looks like some weirdo snuck\nin here...",
+			"text_contents": "<18\u0000>待<19\u0000>ま<1:\u0000>て！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1769,7 +1769,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where on earth is this?\nDid you get lost too?",
+			"text_contents": "ここはいったいどこなの？\nキミも<18\u0000>迷<19\u0000>まよ<1:\u0000>っちゃったの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1783,7 +1783,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where on earth is this?\nDid you get lost as well?",
+			"text_contents": "ここはいったいどこですか？\nあなたも<18\u0000>迷<19\u0000>まよ<1:\u0000>ったのですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1797,7 +1797,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where am I?\nAre you lost as well?",
+			"text_contents": "ここはどこですか？\nもしかして、あなたも<18\u0000>迷<19\u0000>まよ<1:\u0000>っているのですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1811,7 +1811,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where on earth is this?\nAre yo lost too?",
+			"text_contents": "ここはいったいどこだ？\nあんたも<18\u0000>迷子<19\u0000>まいご<1:\u0000>かい？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1825,7 +1825,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where am I? Are you\nalso lost?",
+			"text_contents": "ここはどこなの？\n<18\u0000>君<19\u0000>きみ<1:\u0000>も<18\u0000>迷子<19\u0000>まいご<1:\u0000>になっちゃったの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1839,7 +1839,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I wonder where this is?\nAre you lost, too?",
+			"text_contents": "ここはどこなのかしら？\nもしかして、あなたも<18\u0000>迷<19\u0000>まよ<1:\u0000>ってるの？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1853,7 +1853,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I wonder where I even am...\nCould it be that you've<1\"\u0000>\nalso lost the way?",
+			"text_contents": "ここはいったいどこだろう……。\nもしや、<18\u0000>君<19\u0000>きみ<1:\u0000>も<18\u0000>道<19\u0000>みち<1:\u0000>に<18\u0000>迷<19\u0000>まよ<1:\u0000>ったのかね？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1867,7 +1867,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Where in the world is this\nplace? Are you just as<1\"\u0000>\nlost as I am?",
+			"text_contents": "ここはいったいどこなんでしょうか？\nあなたも<18\u0000>私<19\u0000>わたし<1:\u0000>とおなじ<18\u0000>迷子<19\u0000>まいご<1:\u0000>ですか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1881,7 +1881,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Don't you dare lumping me in\nwith you! We're doing all<1\"\u0000>\nsorts of things here to\nmake sure we can detach<1\"\u0000>\nthis place from the\nrest of the world!<1\"\u0000>\nBeing here is an important\npart of our job and purpose!",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>はここで、<18\u0000>破壊<19\u0000>はかい<1:\u0000>をつかさどるドラゴンを\n<18\u0000>封<19\u0000>ふう<1:\u0000>じているのだ。<1\"\u0000>\n……いや、<18\u0000>厳密<19\u0000>げんみつ<1:\u0000>には<18\u0000>何者<19\u0000>なにもの<1:\u0000>かが<18\u0000>彼<19\u0000>かれ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>を\n<18\u0000>利用<19\u0000>りよう<1:\u0000>しないように<18\u0000>監視<19\u0000>かんし<1:\u0000>しているのだ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1895,7 +1895,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, really?\nYou seem busy...",
+			"text_contents": "そうなんだ。\n<18\u0000>忙<19\u0000>いそが<1:\u0000>しそうだね……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1909,7 +1909,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Is that so?\nYou seem really busy...",
+			"text_contents": "そうですか。\n<18\u0000>忙<19\u0000>いそが<1:\u0000>しそうですね……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1923,7 +1923,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Is that so?\nYou really seem to be busy...",
+			"text_contents": "そうですか。\nご<18\u0000>多忙<19\u0000>たぼう<1:\u0000>そうですね……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1937,7 +1937,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Is that so? Well, you look\nreally busy, and I think<1\"\u0000>\nthat's a good thing actually.",
+			"text_contents": "そうなのか。\n<18\u0000>忙<19\u0000>いそが<1:\u0000>しいのは<18\u0000>結構<19\u0000>けっこう<1:\u0000>なことだな。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1951,7 +1951,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, really? That sounds\nreally tough.",
+			"text_contents": "そうなんだー。\n<18\u0000>大変<19\u0000>たいへん<1:\u0000>そうだね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1965,7 +1965,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Oh, really? That sounds rough.",
+			"text_contents": "そうなの？\n<18\u0000>大変<19\u0000>たいへん<1:\u0000>そうねえ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1979,7 +1979,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I see.\nThat sounds tough, right?",
+			"text_contents": "なるほど。\n<18\u0000>中々<19\u0000>なかなか<1:\u0000>、<18\u0000>大変<19\u0000>たいへん<1:\u0000>そうだね。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -1993,7 +1993,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I see... That sounds like a\nreally tough job though.",
+			"text_contents": "そうですか……。\nなんだか<18\u0000>大変<19\u0000>たいへん<1:\u0000>そうですねえ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2007,343 +2007,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Never mind that. Do you\nknow where the exit is?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "➿엝쒺혧糘⟦DEC3⟧렧쇟⾵ힼ닅㼾",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "More importantly, do you know\nwhere the exit is?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DDBF⟧뫅⟄⟦D8D6⟧썼⟞⟦DFB8⟧뗁밯쿘➾뛝?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Anyway, do you know where I\ncan find the exit?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DDBF⟧뫅⟄⟦D8D6⟧썼⟞⟦DFB8⟧뗁먯뿞⟞볝쏞뷞똾?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "More importantly though, where\nis the exit?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DABF⟧⟖폘썼⟞⟦DFB8⟧뗁딯뒼룃죚뀧㾶",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "By the way, do you know where\nthe exit is?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DABF⟧⟖糘⟦DEC3⟧렧쇟⾵ힼ닅?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Hey, by the way, do you actually\nknow where the exit is?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "냈뽼훚⟦D827⟧썼⟞⟦DFB8⟧㻁밯엗㾲",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Well, do you know by chance\nwhere the exit is located?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DDBF⟧뫅⟄⟦D8D6⟧糓킷⿜⟦DEC3⟧렧쇟⾵꾼닃뛙젧?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Never mind that anyway.\nYou know where the exit is?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DABF⟧⿜⟦DECD⟧웂눯뀧별쌾썼⟞⟦DFB8⟧뗁밯쿘➾㿝",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Which way did you come from?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "킷⿜⟦DEC4⟧꼧㻁ힶ뜯✾지?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "From where did you get here?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "얱쀧⿜⟦DEC4⟧먧ힶ뜯✾⟦DDC0⟧⟦DEC3⟧㺽㾶",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "How did you get here?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "얱쀧⿜⟦DEC4⟧섧뛗⿗ힲ밧쀾쏝뷞㼾",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "From where did you enter\nthis place?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "➱생⿜⟦DEC4⟧꼧㻁ힶ뜯쀾⟦DD27⟧⟦DEC0⟧㾲",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where are you coming from?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "킷⿜⟦DEC4⟧먧ힶ뜯✾지?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "I wonder from where you\nentered this place?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "얱쀧⿜⟦DEC4⟧먧ힶ뜯✾지벶㿗",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "I really wonder from which\ndirection you came?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧줧츯몰뚰⿗㺷쀧뛉㿈",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Which direction did you come\nfrom?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "얱쀧⟦DFB6⟧뜯✾⿀냎낺⿜⟦DEC4⟧섧쏗뷞㼾",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆➽쏝⟦D9DE⟧㿉",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you actually live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆➽쏝닞짙⟦DEC3⟧㺽㾶",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆붵닏⟦DEC3⟧㺽㾶",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "So, where do you live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆➽쏝⟦DDDE⟧⟦DEC0⟧?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Whre do you actually\nlive?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆➽쏝⟦D9DE⟧㿉",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you now live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "➽쏝⟦D9DE⟧쨯볞⟦DCAE⟧쐯⟞㾺",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "➽쏝닞⿙⟦DECA⟧꺼⿜⟦DEC4⟧먧⟦DEC0⟧㿈",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Where do you live?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": false,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "⟦DEC4⟧먧⿆붵닏씯⟦DD27⟧⟦DEC3⟧㺽?",
-			"hasEntryInOffsetOffsets": true,
-			"noTerminator": true,
-			"manualOffset": 0,
-			"hasManualOffset": false
-		},
-		{
-			"text_contents": "Aaah, just shut up!\nYou're such a pain in<1\"\u0000>\nthe neck!! I can't have someone\nlike you go any further!<1\"\u0000>\nYou're literally just asking\nme to wipe you out right now!",
+			"text_contents": "<18\u0000>我々<19\u0000>われわれ<1:\u0000>はずっと<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>行動<19\u0000>こうどう<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>てきた。<1\"\u0000>\nオーブを<18\u0000>託<19\u0000>たく<1:\u0000>された<18\u0000>君<19\u0000>きみ<1:\u0000>が<18\u0000>現<19\u0000>あらわ<1:\u0000>れたのは\n<18\u0000>何<19\u0000>なに<1:\u0000>か<18\u0000>運命<19\u0000>うんめい<1:\u0000>を<18\u0000>感<19\u0000>かん<1:\u0000>じる……。<1\"\u0000>\n<18\u0000>再<19\u0000>ふたた<1:\u0000>び、はかいりゅうが<18\u0000>甦<19\u0000>よみがえ<1:\u0000>れば\n<18\u0000>世界<19\u0000>せかい<1:\u0000>がどうなるかわからない……。<1\"\u0000>\n<18\u0000>君<19\u0000>きみ<1:\u0000>の<18\u0000>手<19\u0000>て<1:\u0000>で<18\u0000>彼<19\u0000>かれ<1:\u0000>の<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>封印<19\u0000>ふういん<1:\u0000>してくれないか？",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2357,7 +2021,119 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "You've got some nerve!\nI'll put you out right now!!",
+			"text_contents": "えっ、いきなり<18\u0000>何<19\u0000>なに<1:\u0000><18\u0000>言<19\u0000>い<1:\u0000>ってるの？\nそんなこと、ボクには<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴㉼랲⟦D8C5⟧씯옧꾲⟦D9C3⟧㿉⟦DDBF⟧뫅쐧ㅼ⟦DECE⟧렧⟦DCC6⟧턯⟦D827⟧⟦DEC0⟧냖⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、えっ？そんな<18\u0000>急<19\u0000>きゅう<1:\u0000>に<18\u0000>言<19\u0000>い<1:\u0000>われても……\n<18\u0000>私<19\u0000>わたし<1:\u0000>そんな……<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>ですよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴ㅼ㾴⟦DDBF⟧⿅궷우⟦DCB2⟧쏚팧㍼샜㺼뼯엝㉼⟑쏘뷞냖⺯",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はっ！？いきなり<18\u0000>何<19\u0000>なに<1:\u0000>をおっしゃるんですか？\nそんな<18\u0000>期待<19\u0000>きたい<1:\u0000>をかけられても<18\u0000>困<19\u0000>こま<1:\u0000>りますよ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㿊랲⟦D8C5⟧씯옧떵벯⟦D9AC⟧쏝뷞똾뼿엝㺷닀⾵릶⟗쏚⿓쾺쿘봧냖꾫.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "お、おい、いきなり<18\u0000>何言<19\u0000>なにい<1:\u0000>ってんだよ。\nそんなの、さすがに<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だって！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "㮵➵粲눲얷⿘⟅닆쎯생훞㍼⟦DDBF⟧⟅糉묱뚽웟턯⟦D827⟧⟦DEC0⟧쎯꾰.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えええ！？いきなりそんなこと<18\u0000>言<19\u0000>い<1:\u0000>われても\n<18\u0000>僕<19\u0000>ぼく<1:\u0000>にはそんなの<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だよー！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "뒴꾴눿얷⿘⟦DDBF⟧뫅쐧⟦DCB2⟧쏚糓츲⟞울⿜⟦DDBF⟧⟅⿉⟑샘훞ꮰ.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "えっ、いきなり<18\u0000>何言<19\u0000>なにい<1:\u0000>ってるの？\n<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>よ！アタシそんなことできないわ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "꾴ㅼ랲⟦D8C5⟧씯옧꾲⟦D9C3⟧㿉⟑훘粯넱변⼾⟦DDBF⟧뫅쐧쌯럞씧⾲⻜",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "むう、いきなり<18\u0000>何<19\u0000>なに<1:\u0000>を<18\u0000>言<19\u0000>い<1:\u0000>ってるんだね。\nいくらなんでも、<18\u0000>我々<19\u0000>われわれ<1:\u0000>には<18\u0000>無<19\u0000>む<1:\u0000><18\u0000>理<19\u0000>り<1:\u0000>だ！",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "돑ㅼ랲⟦D8C5⟧씯옧늵쎯⟦DDD9⟧⟦DEC0⟧⻈➲ힸ⟦DDC5⟧⟦DEC3⟧糓⟦DC32⟧⟦DCDA⟧웚⟦DC27⟧턯⟦D827⟧⟦DEC0⟧.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "はあっ？いきなり<18\u0000>何言<19\u0000>なにい<1:\u0000>っちゃってるんですか。\n<18\u0000>無茶<19\u0000>むちゃ<1:\u0000>ぶりもいいとこですよ、ちょっと。",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "냊꾱눿얷⿘⟅닆솯꾬⟦D9C3⟧쏝뷞똾턮곁⟦DECC⟧폘➲쒲쎺뷞혯섻➮쒯.",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": true,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "<18\u0000>君<19\u0000>きみ<1:\u0000>にはその<18\u0000>力<19\u0000>ちから<1:\u0000>があるはずだ。\nさあ、<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>試<19\u0000>ため<1:\u0000>させてくれ！<1\"\u0000>\n<18\u0000>見事<19\u0000>みごと<1:\u0000>、<18\u0000>私<19\u0000>わたし<1:\u0000>を<18\u0000>倒<19\u0000>たお<1:\u0000>し\nはかいりゅうに<18\u0000>挑<19\u0000>いど<1:\u0000>むのだ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2371,7 +2147,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Well then, move it!\nDon't you dare come back!!",
+			"text_contents": "<18\u0000>良<19\u0000>よ<1:\u0000>くぞ<18\u0000>言<19\u0000>い<1:\u0000>った！\nでは、<18\u0000>参<19\u0000>まい<1:\u0000>る！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2385,7 +2161,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "What are you back here for?\nDo you really want<1\"\u0000>\nto be taken care of now?",
+			"text_contents": "<18\u0000>考<19\u0000>かんが<1:\u0000>えなおすのだ。\n<18\u0000>君<19\u0000>きみ<1:\u0000>ならばきっとやり<18\u0000>遂<19\u0000>と<1:\u0000>げられる！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2399,7 +2175,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "This is ridiculous...\nI just...can't go any further...",
+			"text_contents": "はかいりゅうを<18\u0000>封印<19\u0000>ふういん<1:\u0000>してくれるのか？\nさあ、まずはその<18\u0000>力<19\u0000>ちから<1:\u0000>を<18\u0000>見<19\u0000>み<1:\u0000>せてくれ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2413,7 +2189,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "...Who is it?",
+			"text_contents": "さすがオーブを<18\u0000>託<19\u0000>たく<1:\u0000>されし<18\u0000>者<19\u0000>もの<1:\u0000>……。\n<18\u0000>後<19\u0000>あと<1:\u0000>は<18\u0000>頼<19\u0000>たの<1:\u0000>んだぞ……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2427,7 +2203,21 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Man.",
+			"text_contents": "………………<18\u0000>誰<19\u0000>だれ<1:\u0000>だ？",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "",
+			"hasEntryInOffsetOffsets": true,
+			"noTerminator": false,
+			"manualOffset": 0,
+			"hasManualOffset": false
+		},
+		{
+			"text_contents": "ボクは、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2441,7 +2231,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm just a traveling Denpa Man.",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2455,7 +2245,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm just a traveling Denpa Man.",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2469,7 +2259,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Men!",
+			"text_contents": "<18\u0000>俺<19\u0000>おれ<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だ！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2483,7 +2273,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a simple travling\nDenpa Man.",
+			"text_contents": "<18\u0000>僕<19\u0000>ぼく<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2497,7 +2287,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Men!",
+			"text_contents": "アタシは、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>よ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2511,7 +2301,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm a traveling Denpa Men!",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>だよ。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2525,7 +2315,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm just a traveling Denpa Man.",
+			"text_contents": "<18\u0000>私<19\u0000>わたし<1:\u0000>は、<18\u0000>旅<19\u0000>たび<1:\u0000>の<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>です。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2539,7 +2329,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "Those pesky Denpa Men...\nComing all the way here to<1\"\u0000>\ndisturb our recovery!!",
+			"text_contents": "いまいましい<18\u0000>電波人間<19\u0000>でんぱにんげん<1:\u0000>か……<1\"\u0000>\nこんなところまでやってきて\n<18\u0000>我<19\u0000>われ<1:\u0000>のいやしの<18\u0000>時間<19\u0000>じかん<1:\u0000>を<18\u0000>妨<19\u0000>さまた<1:\u0000>げよって！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2553,7 +2343,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "I'm sorry! I'll immediately\nleave you alone!!",
+			"text_contents": "ごめんなさい！\n<18\u0000>今<19\u0000>いま<1:\u0000>すぐ<18\u0000>帰<19\u0000>かえ<1:\u0000>るから！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2679,7 +2469,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ、そんな……",
+			"text_contents": "えっ、そんな……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2693,7 +2483,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ、そんな……",
+			"text_contents": "えっ、そんな……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2707,7 +2497,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "えっ、そんな……",
+			"text_contents": "えっ、そんな……。",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -2791,7 +2581,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ちょうど<18\u0000>良<19\u0000>よ<1:\u0000>い。\n<18\u0000>復活前<19\u0000>ふっかつまえ<1:\u0000>の<18\u0000>余興<19\u0000>よきょう<1:\u0000>に<18\u0000>相手<19\u0000>あいて<1:\u0000>をしてやろう。<1\"\u0000>\nかかってまいれ！",
+			"text_contents": "<18\u0000>我<19\u0000>われ<1:\u0000>は<18\u0000>嘘<19\u0000>うそ<1:\u0000>はつかぬ……。<1\"\u0000>\nついに<18\u0000>復活<19\u0000>ふっかつ<1:\u0000>を<18\u0000>遂<19\u0000>と<1:\u0000>げた<18\u0000>我<19\u0000>わ<1:\u0000>が<18\u0000>力<19\u0000>ちから<1:\u0000>！\n<18\u0000>試<19\u0000>ため<1:\u0000>すのにちょうど<18\u0000>良<19\u0000>よ<1:\u0000>いわ！グハハハ！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3029,7 +2819,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "グルルルル……<18\u0000>不完全<19\u0000>ふかんぜん<1:\u0000>な<18\u0000>体<19\u0000>からだ<1:\u0000>とはいえ\n<18\u0000>我<19\u0000>われ<1:\u0000>に<18\u0000>勝<19\u0000>か<1:\u0000>てるものなど<18\u0000>存在<19\u0000>そんざい<1:\u0000>せぬわ！<1\"\u0000>\n<18\u0000>準備運動<19\u0000>じゅんびうんどう<1:\u0000>くらいにはなると<18\u0000>良<19\u0000>よ<1:\u0000>いがな。",
+			"text_contents": "グルルルル……<18\u0000>完全<19\u0000>かんぜん<1:\u0000>な<18\u0000>体<19\u0000>からだ<1:\u0000>を<18\u0000>取<19\u0000>と<1:\u0000>り<18\u0000>戻<19\u0000>もど<1:\u0000>した<18\u0000>今<19\u0000>いま<1:\u0000>\n<18\u0000>我<19\u0000>われ<1:\u0000>に<18\u0000>勝<19\u0000>か<1:\u0000>てるものなど<18\u0000>存在<19\u0000>そんざい<1:\u0000>せぬわ！<1\"\u0000>\nグオオオオオオ！！！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3043,7 +2833,7 @@
 			"hasManualOffset": false
 		},
 		{
-			"text_contents": "ふむう……まだ<18\u0000>力<19\u0000>ちから<1:\u0000>が<18\u0000>出<19\u0000>で<1:\u0000>ぬわ……\nこのからだ……<18\u0000>完全<19\u0000>かんぜん<1:\u0000>にしなければならぬ……。<1\"\u0000>\n……また<18\u0000>会<19\u0000>あ<1:\u0000>おう。\n<18\u0000>小<19\u0000>ちい<1:\u0000>さく<18\u0000>弱<19\u0000>よわ<1:\u0000>き<18\u0000>者<19\u0000>もの<1:\u0000>よ。",
+			"text_contents": "グオッ…その<18\u0000>小<19\u0000>ちい<1:\u0000>さい<18\u0000>体<19\u0000>からだ<1:\u0000>のどこにそんな<18\u0000>力<19\u0000>ちから<1:\u0000>が…\n<18\u0000>我<19\u0000>が<1:\u0000>を<18\u0000>勝<19\u0000>まさ<1:\u0000>る<18\u0000>存在<19\u0000>そんざい<1:\u0000>なぞ…<18\u0000>認<19\u0000>みと<1:\u0000>めぬ…！<1\"\u0000>\n…グオオオオオオ！！！！",
 			"hasEntryInOffsetOffsets": true,
 			"noTerminator": false,
 			"manualOffset": 0,
@@ -3330,22 +3120,7 @@
 		3503345670,
 		3503345671,
 		3503345672,
-		3503345665,
-		3503345666,
-		3503345667,
-		3503345668,
-		3503345669,
-		3503345670,
-		3503345671,
-		3503345672,
-		3503345665,
-		3503345666,
-		3503345667,
-		3503345668,
-		3503345669,
-		3503345670,
-		3503345671,
-		3503345672,
+		3503345686,
 		3503345665,
 		3503345666,
 		3503345667,
@@ -3432,8 +3207,11 @@
 		]
 	},
 	"flags": [
-		2147483749,
 		2147483648,
+		2147483649,
+		2147483650,
+		2147483651,
+		2147483652,
 		2147483653,
 		2147483654,
 		2147483655,
@@ -3442,7 +3220,7 @@
 		2147483658,
 		2147483659,
 		2147483660,
-		2147483649,
+		2147483661,
 		2147483662,
 		2147483663,
 		2147483664,
@@ -3451,6 +3229,8 @@
 		2147483667,
 		2147483668,
 		2147483669,
+		2147483670,
+		2147483671,
 		2147483672,
 		2147483673,
 		2147483674,
@@ -3459,7 +3239,6 @@
 		2147483677,
 		2147483678,
 		2147483679,
-		2147483650,
 		2147483680,
 		2147483681,
 		2147483682,
@@ -3468,31 +3247,6 @@
 		2147483685,
 		2147483686,
 		2147483687,
-		2147483750,
-		2147483751,
-		2147483752,
-		2147483753,
-		2147483754,
-		2147483755,
-		2147483756,
-		2147483757,
-		2147483758,
-		2147483759,
-		2147483760,
-		2147483761,
-		2147483762,
-		2147483763,
-		2147483764,
-		2147483765,
-		2147483766,
-		2147483767,
-		2147483768,
-		2147483769,
-		2147483770,
-		2147483771,
-		2147483772,
-		2147483773,
-		2147483661,
 		2147483688,
 		2147483689,
 		2147483690,
@@ -3501,8 +3255,6 @@
 		2147483693,
 		2147483694,
 		2147483695,
-		2147483670,
-		2147483671,
 		2147483696,
 		2147483697,
 		2147483698,
@@ -3556,6 +3308,31 @@
 		2147483746,
 		2147483747,
 		2147483748,
+		2147483749,
+		2147483750,
+		2147483751,
+		2147483752,
+		2147483753,
+		2147483754,
+		2147483755,
+		2147483756,
+		2147483757,
+		2147483758,
+		2147483759,
+		2147483760,
+		2147483761,
+		2147483762,
+		2147483763,
+		2147483764,
+		2147483765,
+		2147483766,
+		2147483767,
+		2147483768,
+		2147483769,
+		2147483770,
+		2147483771,
+		2147483772,
+		2147483773,
 		2147483774,
 		2147483775,
 		2147483776,
@@ -3572,38 +3349,22 @@
 		2147483787,
 		2147483788,
 		2147483789,
+		2147483814,
 		2147483790,
 		2147483791,
-		2147483797,
-		2147483798,
-		2147483799,
-		2147483800,
-		2147483801,
-		2147483802,
-		2147483803,
-		2147483804,
-		2147483805,
-		2147483806,
-		2147483807,
-		2147483808,
-		2147483809,
-		2147483810,
-		2147483811,
-		2147483812,
-		2147483813,
-		2147483814,
-		2147483815,
-		2147483816,
-		2147483817,
-		2147483818,
-		2147483819,
-		2147483820,
 		2147483792,
 		2147483793,
 		2147483794,
 		2147483795,
 		2147483796,
-		2147483829,
+		2147483797,
+		2147483815,
+		2147483816,
+		2147483817,
+		2147483818,
+		2147483873,
+		2147483819,
+		2147483820,
 		2147483821,
 		2147483822,
 		2147483823,
@@ -3612,6 +3373,7 @@
 		2147483826,
 		2147483827,
 		2147483828,
+		2147483829,
 		2147483830,
 		2147483831,
 		2147483832,
@@ -3654,8 +3416,6 @@
 		2147483869,
 		2147483870,
 		2147483871,
-		2147483872,
-		2147483873,
-		2147483874
+		2147483872
 	]
 }
